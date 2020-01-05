@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <title>FINAL YEAR PROJECT</title>
+  <meta name="description" content="ICD-10 CODE MAPPING AND GRAPHICAL REPORT GENERATION">
+  <meta name="author" content="SEBIN POULOSE">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" media="screen" href="../static/Home_page/style.css">
+  </head>
+<body>
+
+<!-- panel -->
+<div class="panel" >
+	<h1><font color="white">USER OPTIONS</font></h1>
+	<ul>
+		<li>
+      <a href="{% url 'icdmapperlogin' %}">
+        <span class="label">ICD-10 MAPPER</span>
+      </a>
+    </li>
+		<li >
+      <a href="{% url 'greportlogin' %}">
+        <span class="label">GRAPHICAL REPORTS</span>
+      </a>
+    </li>
+	</ul>
+</div>
+
+<!-- particles.js container -->
+<div id="particles-js" style="background-image: url('../static/Home_page/background.jpg')"><canvas class="particles-js-canvas-el" width="1366" height="646" style="width: 100%; height: 100%;"></canvas></div>
+
+<!-- scripts -->
+<script src="../static/Home_page/particles.js.download"></script>
+<script src="../static/Home_page/app.js.download"></script>
+</body></html>

@@ -19,7 +19,6 @@ def login_user(request):
             if user.is_active:
                 login(request, user)
                 return HttpResponseRedirect('/greports/home')
-    #return render_to_response('greportlogin.html', context=RequestContext(request))
     return render(request, 'greportlogin.html', {'valid': False})
 
 

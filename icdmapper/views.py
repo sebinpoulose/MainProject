@@ -19,7 +19,6 @@ def login_user(request):
             if user.is_active:
                 login(request, user)
                 return HttpResponseRedirect('/icdmapper/home')
-    #return render_to_response('greportlogin.html', context=RequestContext(request))
     return render(request, 'icdmapperlogin.html', {'valid': False})
 
 

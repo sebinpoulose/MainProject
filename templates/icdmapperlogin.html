@@ -1,5 +1,9 @@
 {% extends "baselogin.html" %}
 
+{% block action %}
+    action="{% url 'icdmapperauth' %}"
+{% endblock action %}
+
 {% block title %}
-         ICD Code Mapper
-     {% endblock title %}
+    ICD Code Mapper
+{% endblock title %}

@@ -1,5 +1,9 @@
 {% extends "baselogin.html" %}
 
+{% block action %}
+    action="{% url 'greportauth' %}"
+{% endblock action %}
+
 {% block title %}
-         Graphical Reports
-     {% endblock title %}
+    Graphical Reports
+{% endblock title %}

@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.http import *
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
@@ -25,3 +25,9 @@ def login_user(request):
 @login_required(login_url='/icdmapper/login/')
 def homepage(request):
     return render(request, "icdhome.html", {})
+
+
+def logout_request(request):
+    logout(request)
+    # return render(request, "Home_page.html", {})
+    return redirect("home")

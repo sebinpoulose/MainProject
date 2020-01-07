@@ -2,6 +2,7 @@ from django.shortcuts import render, redirect
 from django.http import *
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
+import pandas as pd
 # Create your views here.
 
 
@@ -31,3 +32,10 @@ def logout_request(request):
     logout(request)
     # return render(request, "Home_page.html", {})
     return redirect("home")
+
+
+def testset(request):
+    data = pd.read_csv("./static/greportdata/TestSet.csv")
+    data_html = data.to_html()
+    context = {'loaded_data': data_html}
+    return render(request, "greporthome.html", context)

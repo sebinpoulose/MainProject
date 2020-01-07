@@ -18,8 +18,10 @@
 
 <div id='cssmenu'>
 <ul>
-   <li><a href='#'>Home</a></li>
-   <li class='active'><a href='#'>Products</a>
+{% block greporthomeblock %}
+   <li><a href="{% url 'greporthomepage' %}">Home</a></li>
+   {% endblock greporthomeblock %}
+    <li class='active'><a href='#'>Products</a>
       <ul>
          <li><a href='#'>Product 1</a>
             <ul>
@@ -35,7 +37,10 @@
          </li>
       </ul>
    </li>
-   <li><a href='#'>About</a></li>
+    {% block testsetblock %}
+   <li><a href="{% url 'testset' %}">Available Tests</a></li>
+   {% endblock testsetblock %}
+    <li><a href='#'>About</a></li>
    <li><a href="{% url 'logout' %}">logout</a></li>
 </ul>
 </div>

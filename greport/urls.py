@@ -6,4 +6,5 @@ urlpatterns = [
     path('greportauth/', views.login_user, name='greportauth'),
     path('home/', views.homepage, name='greporthomepage'),
     path("logout/", views.logout_request, name="logout"),
+    path("testset/", views.testset, name="testset"),
 ]

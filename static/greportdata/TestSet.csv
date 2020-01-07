@@ -1,0 +1,2425 @@
+TestName,ParameterName,ResultTypeName
+"1,25 Dihydroxy Cholecaciferol, Vitamin D",A:G Ratio,Numeric
+14-3-3 Protein(Creutzfeldt -Jakob disease),Result,Numeric
+17 - Hydroxy - Progesterone,17OHProgestrone,Numeric
+24 hour  Urine catecholamine,A:G Ratio,Numeric
+24 hour Urine  Albumin,24 hour Urine  Albumin,SubHeading
+24 hour Urine  Albumin,Albumin.,Numeric
+24 hour Urine  Albumin,Total Volume,Numeric
+24 hour Urine  Copper,Copper,Numeric
+24 hour Urine  Copper,Total Volume,Numeric
+24 hour Urine 17 Ketosteroids,A:G Ratio,Numeric
+24 hour Urine Aldosterone,A:G Ratio,Numeric
+24 hour Urine Calcium,Calcium,Numeric
+24 hour Urine Calcium,Total Volume,Numeric
+24 hour Urine Citrate,A:G Ratio,Numeric
+24 hour Urine Cortisol,A:G Ratio,Numeric
+24 hour Urine Creatinine,24 Hr Urine  Creatinine,Numeric
+24 hour Urine Creatinine,24 Hr Urine creatinine,SubHeading
+24 hour Urine Creatinine,Total Volume,Numeric
+24 hour Urine Free Cortisol,A:G Ratio,Numeric
+24 hour Urine Lead,A:G Ratio,Numeric
+24 hour Urine Mercury,A:G Ratio,Numeric
+24 hour Urine Metanephrine,Metanephrine in urine 24 hrs,Numeric
+24 hour Urine Metanephrine,"Metanephrine, urine per day",Numeric
+24 hour Urine Metanephrine,Urine volume in 24 hours,Numeric
+24 hour Urine Oxalate,Oxalate,Numeric
+24 hour Urine Oxalate,Total Volume,Numeric
+24 hour Urine Phosphorus,Phosphorus,Numeric
+24 hour Urine Phosphorus,Total Volume,Numeric
+24 hour Urine Protein,24 hour Urine Protein,SubHeading
+24 hour Urine Protein,Protein,Numeric
+24 hour Urine Protein,Total Volume,Numeric
+24 hour Urine Uric Acid,Total Volume,Numeric
+24 hour Urine Uric Acid,Uric Acid,Numeric
+24 hour Urine VMA,Total Volume,Numeric
+24 hour Urine VMA,"VMA- Vanyl Mandelic Acid , urine",Numeric
+24 hour Urine VMA,"VMA- Vanyl Mandelic Acid, urine in 24 hours",Numeric
+24 hour Urine Zinc,A:G Ratio,Numeric
+24 hr Nor - Metanephrine,Nor - Metanephrine in urine,Numeric
+24 hr Nor - Metanephrine,"Nor - Metanephrine, urine 24 hrs",Numeric
+24 hr Nor - Metanephrine,Urine volume in 24 hours,Numeric
+24 hr Urine Amylase,Amylase,Numeric
+24 hr Urine Amylase,Total Volume,Numeric
+24 hr Urine BUN,BUN,Numeric
+24 hr Urine BUN,Total Volume,Numeric
+24 hr Urine Creatinine,Creatinine,Numeric
+24 hr Urine Creatinine,Total Volume,Numeric
+24 hr Urine Creatinine Clearance,24 hr Urine Creatinine Clearance,SubHeading
+24 hr Urine Creatinine Clearance,Creatinine Clearance,Numeric
+24 hr Urine Creatinine Clearance,GFR,SingleLine Text
+24 hr Urine Creatinine Clearance,Total Volume,Numeric
+24 Hr Urine Microalbumin,Microalbumin,Numeric
+24 Hr Urine Microalbumin,Total Volume,Numeric
+24 Hr Urine Microalbumin,Urine Microalbumin,SubHeading
+24 hr Urine Microalbumin  / Creatinine Ratio,RATIO :,Numeric
+24 hr Urine Microalbumin  / Creatinine Ratio,Total Volume,Numeric
+24 hr Urine Microalbumin  / Creatinine Ratio,Urine Creatinine,Numeric
+24 hr Urine Microalbumin  / Creatinine Ratio,Urine Micro Albumin,Numeric
+24 hr Urine Microalbumin  / Creatinine Ratio,Urine Microalbumin,SubHeading
+24 hr Urine Potassium,Potassium,Numeric
+24 hr Urine Potassium,Total Volume,Numeric
+24 hr Urine Sodium,Sodium,Numeric
+24 hr Urine Sodium,Total Volume,Numeric
+24 hr Urine Urea Clearance Test,A:G Ratio,Numeric
+5 - HIAA,A:G Ratio,Numeric
+A:G Ratio,A:G Ratio,Numeric
+A:G Ratio,Albumin,Numeric
+A:G Ratio,Globulin,Numeric
+ABG,ABG,SubHeading
+ABG,BE(B),Numeric
+ABG,BEecf,Numeric
+ABG,CA++,Numeric
+ABG,Derived Parameters,SubHeading
+ABG,Glucose 30 minutes,Numeric
+ABG,HCo3-,Numeric
+ABG,Hco3std,Numeric
+ABG,Hct,Numeric
+ABG,Lactate,Numeric
+ABG,pCO2,Numeric
+ABG,pH,Numeric
+ABG,pO2,Numeric
+ABG,So2c,Numeric
+ABG,Tco2,Numeric
+ABG,THbc,Numeric
+ABG With Electrolytes,BE(B),Numeric
+ABG With Electrolytes,BEecf,Numeric
+ABG With Electrolytes,CA++,Numeric
+ABG With Electrolytes,Ca++ (7.4),Numeric
+ABG With Electrolytes,Derived Parameters,SubHeading
+ABG With Electrolytes,Glucose 30 minutes,Numeric
+ABG With Electrolytes,HCo3-,Numeric
+ABG With Electrolytes,Hco3std,Numeric
+ABG With Electrolytes,Hct,Numeric
+ABG With Electrolytes,K+,Numeric
+ABG With Electrolytes,Lactate,Numeric
+ABG With Electrolytes,NA+,Numeric
+ABG With Electrolytes,pCO2,Numeric
+ABG With Electrolytes,pH,Numeric
+ABG With Electrolytes,pO2,Numeric
+ABG With Electrolytes,So2c,Numeric
+ABG With Electrolytes,Tco2,Numeric
+ABG With Electrolytes,THbc,Numeric
+Absolute Eosinophil Count ( AEC ),Absolute Eosinophil Count,Numeric
+Absolute Lymphocyte Count,Absolute Lymphocyte Count,Numeric
+Absolute Neutrophil Count,Absolute Neutrophil Count,Numeric
+Acetone Serum,A:G Ratio,Numeric
+Acetyl Choline Receptor (ACHR) Binding Antibodies,Result,List Of Choices
+Acid Phosphatase ( Total & Prostatic ),A:G Ratio,Numeric
+Acid Phosphatase Total,A:G Ratio,Numeric
+ACTH,A:G Ratio,Numeric
+Actinomycetes Culture,Result,List Of Choices
+ADH,A:G Ratio,Numeric
+AFB - Culture Conventional,Result,List Of Choices
+AFB - Detection of rRNA TMA,Result,Numeric
+AFB - Versatreak Culture,Result,List Of Choices
+AFB - XDR Screen Hain`s Line probe assay,Result,SingleLine Text
+AFB -ISOLATION BY RAPID CULTURE MGIT,Result,Numeric
+AFB Stain body fluid,AFB Stain body fluid,SubHeading
+AFB Stain body fluid,Observation,List Of Choices
+AFB Stain body fluid,Result,SingleLine Text
+AFB Stain body fluid,Site/Sample type,SingleLine Text
+AFB-MTb antibiogram panel 2nd line (4Drugs) KEPO,Result,Numeric
+AFB-MTb antibiogram panel Ist Line (4 Drugs) SIREP,Result,SingleLine Text
+Albumin ( Serum ),Albumin,Numeric
+Aldolase,A:G Ratio,Numeric
+Aldosterone,A:G Ratio,Numeric
+ALK by FISH ( Onquest ),Result,List Of Choices
+Alkali Denaturation ( APT ) Test.,Physical appearance,MultiLine Text
+Alkali Denaturation ( APT ) Test.,Result,List Of Choices
+Alkali Denaturation ( APT ) Test.,Sample type,SingleLine Text
+Alkali Denaturation ( APT ) Test.,Volume,Numeric
+Alkaline Phosphatase ( ALP ),Alkaline Phosphatase,Numeric
+Allergen Individual - Cow milk,Result,Numeric
+Allergic Inhalant Profile,A:G Ratio,Numeric
+Allergy individual markers-milk (Lalpath),Result,List Of Choices
+Alpha 1 Antitrypsin,A:G Ratio,Numeric
+Alpha Feto Protein ( AFP ),Alpha Feto Protein,Numeric
+Ambulatory BP Monitoring,Impression,TextEditor
+Amino Acids ( Aminogram ),A:G Ratio,Numeric
+Amino Acids ( Qualitative Detection ),A:G Ratio,Numeric
+Ammonia ( Plasma ),Ammonia,Numeric
+Amphetamine,A:G Ratio,Numeric
+Amylase ( serum ),Amylase,Numeric
+ANA by ELISA,ANA,Numeric
+ANA by ELISA,ANA by ELISA,SubHeading
+ANA by IFA,Result,Numeric
+ANA by Immunoblot,ANA by IMMUNOBLOT,SubHeading
+ANA IFT,A:G Ratio,Numeric
+ANA Profile,ANA,Numeric
+Anaerobic Blood Culture ( Lalpath),Anaerbic Culture,SubHeading
+Anaerobic Culture,Anaerbic Culture,SubHeading
+Anaerobic Culture,Gram Stain,SingleLine Text
+Anaerobic Culture,Result,List Of Choices
+Angiostensin Converting Enzyme,ACE - Angiotensin Convertin Enzyme,Numeric
+Anti A1 Antibody Titre,Anti A1 Antibody Titre,List Of Choices
+Anti Beta Glyco Protein Antibody IgM,A:G Ratio,Numeric
+Anti Ds DNA (IF),A:G Ratio,Numeric
+ANti Ds DNA - (IF-TITRE),Result,SingleLine Text
+Anti Ds DNA - ELISA,A:G Ratio,Numeric
+Anti Gliadin IgG,A:G Ratio,Numeric
+Anti HAV IgM,Result,SingleLine Text
+Anti HAV IgM (ELFA),Anti HAV IgM,Numeric
+Anti HAV IgM (ELFA),Anti HAV IgM (ELFA),SubHeading
+Anti HAV IgM (ELFA),Interpretation,List Of Choices
+Anti HAV Total (Vidas),Result,Numeric
+Anti HBc IgM (ELFA),Anti HBc IgM,Numeric
+Anti HBc IgM (ELFA),Anti HBc IgM (ELFA),SubHeading
+Anti HBc IgM (ELFA),Interpretation,List Of Choices
+Anti HBc Total (ELISA),Anti HBc Total,Numeric
+Anti HBc Total (ELISA),Anti HBc Total (ELISA),SubHeading
+Anti HBc Total (ELISA),Interpretation,List Of Choices
+Anti HBe,A:G Ratio,Numeric
+Anti HBe (ELFA),Anti HBe,Numeric
+Anti HBe (ELFA),Anti HBe (ELFA),SubHeading
+Anti HBe (ELFA),Anti-HBe Antibody,Numeric
+Anti HBe (ELFA),Interpretation,List Of Choices
+Anti HBe (ELFA),Interpretation,List Of Choices
+Anti HBe (ELFA),Interpretation,List Of Choices
+Anti HBs Total (ELFA),Anti HBs Total,Numeric
+Anti HBs Total (ELFA),Anti HBs Total (ELFA),SubHeading
+Anti HBs Total (ELFA),Interpretation,List Of Choices
+Anti HCV (CLIA),Anti HCV,Numeric
+Anti HCV (CLIA),Anti HCV (CLIA),SubHeading
+Anti HCV (CLIA),Interpretation,List Of Choices
+Anti HCV (ELFA),Anti HCV,Numeric
+Anti HCV (ELFA),Anti HCV (ELFA),SubHeading
+Anti HCV (ELFA),Interpretation,List Of Choices
+Anti HCV-ELISA,Anti HCV,Numeric
+Anti HCV-ELISA,Anti HCV (ELISA),SubHeading
+Anti HCV-ELISA,Interpretation,List Of Choices
+Anti HDV Total,A:G Ratio,Numeric
+Anti HEV IgG,A:G Ratio,Numeric
+Anti HPV DNA PCR,A:G Ratio,Numeric
+Anti intrinsic factor antibodies,Result,Numeric
+Anti ISLET Cell Antibodies,A:G Ratio,Numeric
+Anti Mullerian Hormone,AMH,Numeric
+Anti MUSC- Antibody Test,Anti MUSC- Antibody,SingleLine Text
+Anti Nuclear Antibody by IIFA,Anti Nuclear Antibody by IIFA,SubHeading
+Anti Nuclear Antibody by IIFA,Estimated Titre,List Of Choices
+Anti Nuclear Antibody by IIFA,Grade,List Of Choices
+Anti Nuclear Antibody by IIFA,Interpretation,List Of Choices
+Anti Nuclear Antibody by IIFA,Pattern,List Of Choices
+Anti Nuclear Antibody-ELISA (ANA),ANA,Numeric
+Anti Nuclear Antibody-IFA Titre,A:G Ratio,Numeric
+Anti Phospholipid IgG,A:G Ratio,Numeric
+Anti Phospholipid IgM,A:G Ratio,Numeric
+Anti Smooth Muscle Antibody,A:G Ratio,Numeric
+Anti Smooth muscle Antibody (ASMA) - IFA,ASMA,List Of Choices
+Anti Smooth muscle Antibody (ASMA) - IFA,ASMA TITRE,List Of Choices
+Anti Sperm Antibody,A:G Ratio,Numeric
+Anti Thrombin III,A:G Ratio,Numeric
+Anti-HBs Total (ELFA),Anti HBs Total,Numeric
+Antibody Screening Test,Antibody Screening,List Of Choices
+Antibody Screening Test,Panel Cell 1,List Of Choices
+Antibody Screening Test,Panel Cell 2,List Of Choices
+Antibody Screening Test,Panel Cell 3,List Of Choices
+Antibody Screening test(11 Cell panel),Result,List Of Choices
+Antigliadin Antibody by IgA (Lalpath),Result,List Of Choices
+Antigliadin Antibody by IgG  (Lalpath),Result,List Of Choices
+Antiparietal cell antibodies,Result,Numeric
+APA- IgG (Phospholipid Ab),Result,Numeric
+APA- IgM (Phospholipid Ab),Result,Numeric
+apo Lipoprotein A1,A:G Ratio,Numeric
+apo Lipoprotein B,A:G Ratio,Numeric
+APTT,Comment:,Template
+APTT,Control,Numeric
+APTT,Test,Numeric
+Ascitic Fluid Albumin,Albumin,Numeric
+Ascitic Fluid Albumin,Ascitic Fluid,SubHeading
+Ascitic Fluid Count ( TC & DC ),Appearance,List Of Choices
+Ascitic Fluid Count ( TC & DC ),Ascitic Fluid,SubHeading
+Ascitic Fluid Count ( TC & DC ),Celll Count,SubHeading
+Ascitic Fluid Count ( TC & DC ),Colour,List Of Choices
+Ascitic Fluid Count ( TC & DC ),Differential Count,SubHeading
+Ascitic Fluid Count ( TC & DC ),Eosinophils,Numeric
+Ascitic Fluid Count ( TC & DC ),Lymphocytes,Numeric
+Ascitic Fluid Count ( TC & DC ),Neutrophils,Numeric
+Ascitic Fluid Count ( TC & DC ),Others,MultiLine Text
+Ascitic Fluid Count ( TC & DC ),Psysical Examination,SubHeading
+Ascitic Fluid Count ( TC & DC ),RBC,Numeric
+Ascitic Fluid Count ( TC & DC ),TC ( WBC ),SingleLine Text
+Ascitic Fluid Count ( TC & DC ),Volume,Numeric
+Ascitic Fluid Glucose,Ascitic Fluid,SubHeading
+Ascitic Fluid Glucose,Sugar,Numeric
+Ascitic Fluid Protein,Ascitic Fluid,SubHeading
+Ascitic Fluid Protein,Protein,Numeric
+Ascitic Fluid Routine,Albumin,Numeric
+Ascitic Fluid Routine,Ascitic Fluid,SubHeading
+Ascitic Fluid Routine,Chemical Examination,SubHeading
+Ascitic Fluid Routine,Differential Count,SubHeading
+Ascitic Fluid Routine,Eosinophils,Numeric
+Ascitic Fluid Routine,Fluid RBC Count,Numeric
+Ascitic Fluid Routine,Lymphocytes,Numeric
+Ascitic Fluid Routine,Neutrophils,Numeric
+Ascitic Fluid Routine,Others,MultiLine Text
+Ascitic Fluid Routine,Protein,Numeric
+Ascitic Fluid Routine,Sugar,Numeric
+Ascitic Fluid Routine,TC ( WBC ),SingleLine Text
+ASMA,Result,Numeric
+ASO (Qualitative),A:G Ratio,Numeric
+ASO (Qualitative/Semi-quantitative),ASO (Qualitative),List Of Choices
+ASO (Qualitative/Semi-quantitative),ASO (Qualitative/Semi-quantitative),SubHeading
+ASO (Qualitative/Semi-quantitative),ASO (Semi-quantitative),Numeric
+ASO (Quantitative),ASO Titre,Numeric
+Asperigllosis IgM,Result,SingleLine Text
+AV Fistula Doppler,Impression,TextEditor
+AV Fistula Doppler - for Batency,Impression,TextEditor
+AV Fistula Doppler and Mapping,Impression,TextEditor
+BAER,Impression,TextEditor
+Barbiturates,A:G Ratio,Numeric
+Barium Enema,Impression,TextEditor
+Barium Meal,Impression,TextEditor
+Barium Meal  Follow Through,Impression,TextEditor
+Barium Swallow,Impression,TextEditor
+BENCE  JONES  PROTEINS,Bence Jones Protein,List Of Choices
+Benzodiazapine Quantitative,A:G Ratio,Numeric
+Beta HCG,Beta HCG,Numeric
+BICARBONATE,Bicarbonate,Numeric
+Bile Acids serum ( O ),Bile Acid,Numeric
+Bile Pigments ( Urine ),Bile Pigments,List Of Choices
+Bile Salt ( Urine ),Bile Salt,List Of Choices
+Bilirubin ( Total & Direct ),Direct Bilirubin,Numeric
+Bilirubin ( Total & Direct ),Indirect Bilirubin,Numeric
+Bilirubin ( Total & Direct ),Total Bilirubin,Numeric
+Bilirubin Direct,Direct Bilirubin,Numeric
+Bilirubin Indirect,Indirect Bilirubin,Numeric
+Bilirubin Total,Total Bilirubin,Numeric
+Biological Indicator Test For ETO Gas Sterilizatio,Validation For ETO Gas Sterilization,Template
+Biological Indicator Test For Plasma Sterilization,Validation Of Plasma Sterilization,Template
+Biological Indicator Test For Steam Sterilization,Validation of Steam Sterilization,Template
+Biopsy (Large),Observation,Template
+Biopsy (Medium),Observation,Template
+Biopsy (Small),Observation,Template
+Biopsy Endo/Colonoscopy 2-3 Sample,Observation,Template
+Biopsy Endo/Colonoscopy 4-6 Sample,Observation,Template
+Biopsy Endo/Colonoscopy More than 6 Sample,Observation,Template
+Biopsy Endoscopy 1 Sample,Comment:,Template
+Biopsy Endoscopy 2sample,Observation,Template
+Biopsy Trucut,Comment:,Template
+"BK Virus, PCR, Qualitative",Result,List Of Choices
+Bleeding  Time,Bleeding Time,SingleLine Text
+Blink Reflex,Impression,TextEditor
+Blood Culture & Sensitivity (Bactec),Result,List Of Choices
+Blood culture for surveillance (Outside treated patient),Culture,Culture
+Blood culture for surveillance (Outside treated patient),Culture & Sensitivity - (Automated) Blood,SubHeading
+Blood culture for surveillance (Outside treated patient),Gram Stain,List Of Choices
+Blood culture for surveillance (Outside treated patient),Gram Stain,SingleLine Text
+Blood culture for surveillance (Outside treated patient),Observation,List Of Choices
+Blood Culture Identification Panel,Result,List Of Choices
+Blood Culture& Sensitivity,A:G Ratio,Numeric
+Blood Group & Rh Type,BLOOD GROUP,List Of Choices
+Blood Group & Rh Type,Rh TYPE,List Of Choices
+Blood Routine Examination ( CBC With ESR ),Atypical Lymphocytes,List Of Choices
+Blood Routine Examination ( CBC With ESR ),Band Forms,Numeric
+Blood Routine Examination ( CBC With ESR ),Basophils,Numeric
+Blood Routine Examination ( CBC With ESR ),Basophils Count,Numeric
+Blood Routine Examination ( CBC With ESR ),Blast,Numeric
+Blood Routine Examination ( CBC With ESR ),Blood Routine Examination ( CBC With ESR ),SubHeading
+Blood Routine Examination ( CBC With ESR ),Differential Count,SubHeading
+Blood Routine Examination ( CBC With ESR ),Eosinophils,Numeric
+Blood Routine Examination ( CBC With ESR ),Eosinophils Count,Numeric
+Blood Routine Examination ( CBC With ESR ),ESR,Numeric
+Blood Routine Examination ( CBC With ESR ),Granulocyte Count,Numeric
+Blood Routine Examination ( CBC With ESR ),Granulocytes,Numeric
+Blood Routine Examination ( CBC With ESR ),Haemoglobin,Numeric
+Blood Routine Examination ( CBC With ESR ),Hct,Numeric
+Blood Routine Examination ( CBC With ESR ),LUC,Numeric
+Blood Routine Examination ( CBC With ESR ),Lymphocytes,Numeric
+Blood Routine Examination ( CBC With ESR ),Lymphocytes Count,Numeric
+Blood Routine Examination ( CBC With ESR ),MCH,Numeric
+Blood Routine Examination ( CBC With ESR ),MCHC,Numeric
+Blood Routine Examination ( CBC With ESR ),MCV,Numeric
+Blood Routine Examination ( CBC With ESR ),Metamylocyte,Numeric
+Blood Routine Examination ( CBC With ESR ),Monocytes,Numeric
+Blood Routine Examination ( CBC With ESR ),Monocytes Count,Numeric
+Blood Routine Examination ( CBC With ESR ),MPV,Numeric
+Blood Routine Examination ( CBC With ESR ),Myelocyte,Numeric
+Blood Routine Examination ( CBC With ESR ),Neutrophils,Numeric
+Blood Routine Examination ( CBC With ESR ),Neutrophils Count,Numeric
+Blood Routine Examination ( CBC With ESR ),NRBC / 100 WBC,SingleLine Text
+Blood Routine Examination ( CBC With ESR ),Others,MultiLine Text
+Blood Routine Examination ( CBC With ESR ),Platelet,Numeric
+Blood Routine Examination ( CBC With ESR ),Promyelocyte,Numeric
+Blood Routine Examination ( CBC With ESR ),RBC Count,Numeric
+Blood Routine Examination ( CBC With ESR ),RDW,Numeric
+Blood Routine Examination ( CBC With ESR ),Reactive Lymphocytes,List Of Choices
+Blood Routine Examination ( CBC With ESR ),TC,Numeric
+Blood Routine Examination ( CBC With ESR ),Toxic Granulation,List Of Choices
+Blood Sugar,"Glucose,Fasting",Numeric
+Blood Sugar,Note,Template
+Blood Sugar FBS,FBS,Numeric
+Blood Sugar PPBS,PPBS,Numeric
+Blood Sugar RBS,RBS,Numeric
+BMD,Impression,TextEditor
+BNP ( NT- pro BNP ),BNP ( NT -  pro BNP ),Numeric
+Body Fluid,Body Fluid,SubHeading
+Body Fluid,Fluid,SingleLine Text
+Body Fluid,Sugar,Numeric
+Body Fluid   Amylase,Body Fluid,SubHeading
+Body Fluid   Amylase,Fluid Amylase,Numeric
+Body Fluid Albumin,Albumin,Numeric
+Body Fluid Albumin,Body Fluid,SubHeading
+Body Fluid Albumin,Fluid,SingleLine Text
+Body Fluid calcium,A:G Ratio,Numeric
+Body Fluid creatinine,Creatinine,Numeric
+Body Fluid DC,Differential Count,SubHeading
+Body Fluid DC,Fluid,SingleLine Text
+Body fluid LDH,Body Fluid,SubHeading
+Body fluid LDH,LDH - Fluid,Numeric
+Body Fluid Pottasium,Fluid,SingleLine Text
+Body Fluid Pottasium,Potassium,Numeric
+body Fluid Protein,Fluid,SingleLine Text
+body Fluid Protein,Protein,Numeric
+Body Fluid Routine,Albumin,Numeric
+Body Fluid Routine,Differential Count,SubHeading
+Body Fluid Routine,Eosinophils,Numeric
+Body Fluid Routine,Fluid,SingleLine Text
+Body Fluid Routine,Lymphocytes,Numeric
+Body Fluid Routine,Neutrophils,Numeric
+Body Fluid Routine,Others,MultiLine Text
+Body Fluid Routine,Protein,Numeric
+Body Fluid Routine,RBC,Numeric
+Body Fluid Routine,Sugar,Numeric
+Body Fluid Routine,TC ( WBC ),SingleLine Text
+Body Fluid Sodium,Fluid,SingleLine Text
+Body Fluid Sodium,Sodium,Numeric
+Body Fluid Sugar,Fluid,SingleLine Text
+Body Fluid Sugar,Sugar,Numeric
+Body fluid TC  &  DC,Appearance,List Of Choices
+Body fluid TC  &  DC,Atypical Cells,List Of Choices
+Body fluid TC  &  DC,Body Fluid,SubHeading
+Body fluid TC  &  DC,Celll Count,SubHeading
+Body fluid TC  &  DC,Colour,List Of Choices
+Body fluid TC  &  DC,Differential Count,SubHeading
+Body fluid TC  &  DC,Eosinophils,Numeric
+Body fluid TC  &  DC,Lymphocytes,Numeric
+Body fluid TC  &  DC,Mesothelial Cells,List Of Choices
+Body fluid TC  &  DC,Neutrophils,Numeric
+Body fluid TC  &  DC,Others,MultiLine Text
+Body fluid TC  &  DC,Psysical Examination,SubHeading
+Body fluid TC  &  DC,RBC,Numeric
+Body fluid TC  &  DC,TC ( WBC ),SingleLine Text
+Body fluid TC  &  DC,Volume,Numeric
+Body Fluid Triglycerides,Triglycerides,Numeric
+Body Fluid Uric Acid,Uric Acid,Numeric
+Bone Marrow Aspiration,Pathology Report,Template
+Broncho Alveolar Lavage AFB  – RNTCP,Result,SingleLine Text
+Bronchoalveolar Lavage AFB Smear,Bronchoalveolar Lavage AFB Smear,SubHeading
+Bronchoalveolar Lavage AFB Smear,Observation,List Of Choices
+Bronchoalveolar Lavage AFB Smear,Result,SingleLine Text
+Brucella Agglutination,Result,List Of Choices
+Brucella Agglutination-extra,A:G Ratio,Numeric
+Brucella Antibodies IgG,Result,Numeric
+Brucella Antibodies IgM,Result,SingleLine Text
+Brucella IgG,A:G Ratio,Numeric
+Buccal Smear,A:G Ratio,Numeric
+BUN ( Blood Urea Nitrogen ),BUN,Numeric
+C - Peptide  ( PP ),ABG,SubHeading
+C ANCA,C ANCA,Numeric
+C Peptide - Fasting,C Peptide Fasting,Numeric
+C Peptide- PP,C Peptide PP,Numeric
+C1 Esterase Inhibitor,C1 Esterase Inhibitor,Numeric
+CA - 125,CA 125 - II,Numeric
+CA 19-9,CA 19 -9,Numeric
+Cadaver Transplant Crossmatch,A:G Ratio,Numeric
+CALCITONINE,Calcitonine,Numeric
+Calcium ( serum ),Calcium,Numeric
+Calcium - Serum  ( Ionised ),Ionized Calcium,Numeric
+Cannabis,A:G Ratio,Numeric
+Carbamazepine ( O ),Carbamazepine,Numeric
+Cardiolipin Antibody IgA,Result,SingleLine Text
+Cardiolipin Antibody IgM,Result,SingleLine Text
+CBC With IT Ratio  ( Neonatal ),Atypical Lymphocytes,List Of Choices
+CBC With IT Ratio  ( Neonatal ),Band,Numeric
+CBC With IT Ratio  ( Neonatal ),Basophils,Numeric
+CBC With IT Ratio  ( Neonatal ),Basophils Count,Numeric
+CBC With IT Ratio  ( Neonatal ),Blast,Numeric
+CBC With IT Ratio  ( Neonatal ),Differential Count,SubHeading
+CBC With IT Ratio  ( Neonatal ),Eosinophils,Numeric
+CBC With IT Ratio  ( Neonatal ),Eosinophils Count,Numeric
+CBC With IT Ratio  ( Neonatal ),Haemoglobin,Numeric
+CBC With IT Ratio  ( Neonatal ),Hct,Numeric
+CBC With IT Ratio  ( Neonatal ),IT Ratio,Numeric
+CBC With IT Ratio  ( Neonatal ),LUC,Numeric
+CBC With IT Ratio  ( Neonatal ),Lymphocytes,Numeric
+CBC With IT Ratio  ( Neonatal ),Lymphocytes Count,Numeric
+CBC With IT Ratio  ( Neonatal ),MCH,Numeric
+CBC With IT Ratio  ( Neonatal ),MCHC,Numeric
+CBC With IT Ratio  ( Neonatal ),MCV,Numeric
+CBC With IT Ratio  ( Neonatal ),Metamyelocytes,Numeric
+CBC With IT Ratio  ( Neonatal ),Monocytes,Numeric
+CBC With IT Ratio  ( Neonatal ),Monocytes Count,Numeric
+CBC With IT Ratio  ( Neonatal ),MPV,Numeric
+CBC With IT Ratio  ( Neonatal ),Myelocyte,Numeric
+CBC With IT Ratio  ( Neonatal ),Neutrophils,Numeric
+CBC With IT Ratio  ( Neonatal ),Neutrophils Count,Numeric
+CBC With IT Ratio  ( Neonatal ),NRBC / 100 WBC,SingleLine Text
+CBC With IT Ratio  ( Neonatal ),Others,MultiLine Text
+CBC With IT Ratio  ( Neonatal ),Platelet,Numeric
+CBC With IT Ratio  ( Neonatal ),Promyelocyte,Numeric
+CBC With IT Ratio  ( Neonatal ),RBC Count,Numeric
+CBC With IT Ratio  ( Neonatal ),RDW,Numeric
+CBC With IT Ratio  ( Neonatal ),Reactive Lymphocytes,List Of Choices
+CBC With IT Ratio  ( Neonatal ),TC,Numeric
+CBC With IT Ratio  ( Neonatal ),Toxic Granulation,List Of Choices
+CD3/CD4/CD8/CD25 Enumeration,Result,List Of Choices
+CD8,Result,SingleLine Text
+CEA (Carcinoembryonic Antigen),CEA,Numeric
+CEA (Carcinoembryonic Antigen),Comment :-,Template
+CERULOPLASMIN,Ceruloplasmin,Numeric
+Cervical Smear,A:G Ratio,Numeric
+"CH-50 (Complement,total)",Result,List Of Choices
+Chikun Gunya IgG,A:G Ratio,Numeric
+Chikun Gunya IgM-ELISA,A:G Ratio,Numeric
+Chikungunya IgM,Result,Numeric
+Chikungunya IgM Card,IgM,List Of Choices
+Chikungunya PCR,A:G Ratio,Numeric
+Chlamydia Antibody IgA,A:G Ratio,Numeric
+Chlamydia igG Antibody panel(lalpath),Result,SingleLine Text
+Chlamydia Pneumoniae IgG,Result,Numeric
+Chlamydia Pneumoniae IgM,Result,Numeric
+Chlamydia trachomatis PCR(LALPATH),Result,SingleLine Text
+Chlamydial Trachomatis Antibody IgA,A:G Ratio,Numeric
+Chlamydial Trachomatis Antibody IgG,A:G Ratio,Numeric
+Chlamydial Trachomatis Antibody IgM,A:G Ratio,Numeric
+Chloride,Chloride,Numeric
+Chloride,Electrolyte,SubHeading
+Cholesterol Total,Comment :-,Template
+Cholesterol Total,Total Cholesterol,Numeric
+Cholineseterase,A:G Ratio,Numeric
+Chromogranin A,Chromogranin A,Numeric
+Chromosome Analysis ( Cytogenetics/Karyotyping ),A:G Ratio,Numeric
+"Chromosome Analysis,Haematologic malignancy",Result,List Of Choices
+Chylomicron Qualitative,A:G Ratio,Numeric
+CKMB,CKMB,Numeric
+CKMB,CKMB,Numeric
+CKMB,Comment:,Template
+Clostridium difficile GDH+Toxin A+Toxin B Card Test,Clostridium difficile GDH+Toxin A+Toxin B Card Test,SubHeading
+Clostridium difficile GDH+Toxin A+Toxin B Card Test,GDH,List Of Choices
+Clostridium difficile GDH+Toxin A+Toxin B Card Test,Toxin A,List Of Choices
+Clostridium difficile GDH+Toxin A+Toxin B Card Test,Toxin B,List Of Choices
+Clostridium difficile Toxin A & B by ELFA,Result,SingleLine Text
+Clostridium difficile Toxin A & B by ELFA,Result,SingleLine Text
+Clot Culture,Colony Count,List Of Choices
+Clot Culture,Colony Count,List Of Choices
+Clot Culture,Culture,Culture
+Clot Culture,Gram Stain,List Of Choices
+Clot Culture,Gram Stain,List Of Choices
+Clot Culture,Observation,List Of Choices
+Clotting Time,Clotting Time,SingleLine Text
+CMV Detection quantitative taqman real time PCR,Result,Numeric
+CMV IgG,Result,Numeric
+CMV IgM,Result,Numeric
+CMV Quantiation  PCR in urine(Genepath),Result,List Of Choices
+Cocaine,Result,List Of Choices
+Cold Agglutination,A:G Ratio,Numeric
+COLD AGGLUTININ TEST,Cold Antibody Screening,List Of Choices
+COMPLEMENT  C4,C4,Numeric
+Complete Haemogram ( CBC ),Atypical Lymphocytes,List Of Choices
+Complete Haemogram ( CBC ),Band Forms,Numeric
+Complete Haemogram ( CBC ),Basophils,Numeric
+Complete Haemogram ( CBC ),Basophils Count,Numeric
+Complete Haemogram ( CBC ),Blast,Numeric
+Complete Haemogram ( CBC ),Differential Count,SubHeading
+Complete Haemogram ( CBC ),Eosinophils,Numeric
+Complete Haemogram ( CBC ),Eosinophils Count,Numeric
+Complete Haemogram ( CBC ),Granulocyte Count,Numeric
+Complete Haemogram ( CBC ),Granulocytes,Numeric
+Complete Haemogram ( CBC ),Haemoglobin,Numeric
+Complete Haemogram ( CBC ),Hct,Numeric
+Complete Haemogram ( CBC ),LUC,Numeric
+Complete Haemogram ( CBC ),Lymphocytes,Numeric
+Complete Haemogram ( CBC ),Lymphocytes Count,Numeric
+Complete Haemogram ( CBC ),MCH,Numeric
+Complete Haemogram ( CBC ),MCHC,Numeric
+Complete Haemogram ( CBC ),MCV,Numeric
+Complete Haemogram ( CBC ),Metamylocyte,Numeric
+Complete Haemogram ( CBC ),Monocytes,Numeric
+Complete Haemogram ( CBC ),Monocytes Count,Numeric
+Complete Haemogram ( CBC ),MPV,Numeric
+Complete Haemogram ( CBC ),Myelocyte,Numeric
+Complete Haemogram ( CBC ),Neutrophils,Numeric
+Complete Haemogram ( CBC ),Neutrophils Count,Numeric
+Complete Haemogram ( CBC ),NRBC / 100 WBC,SingleLine Text
+Complete Haemogram ( CBC ),Others,MultiLine Text
+Complete Haemogram ( CBC ),Platelet,Numeric
+Complete Haemogram ( CBC ),Promyelocyte,Numeric
+Complete Haemogram ( CBC ),RBC Count,Numeric
+Complete Haemogram ( CBC ),RDW,Numeric
+Complete Haemogram ( CBC ),Reactive Lymphocytes,List Of Choices
+Complete Haemogram ( CBC ),TC,Numeric
+Complete Haemogram ( CBC ),Toxic Granulation,List Of Choices
+Comprehensive Acute Leukemia Immunophenotyping Panel (aims),Result,List Of Choices
+Cortisol,Cortisol,Numeric
+CORTISOL  A M,Cortisol,Numeric
+Cortisol (HDDS),Cortisol HDDS,Numeric
+Cortisol (LDDS),Cortisol  (LDDS),Numeric
+Cortisol Midnight,Cortisol 11pm,Numeric
+Cortisol PM,Cortisol PM,Numeric
+Cortosol ( LDDS ),Cortisol,Numeric
+CPK,CPK,Numeric
+Creatinine (Serum ),Creatinine,Numeric
+Creatinine Clearance,Creatinine,Numeric
+Creatinine Clearance,Creatinine Clearance,Numeric
+Creatinine Clearance,GFR,SingleLine Text
+Creatinine Clearance,Urine Creatinine,Numeric
+Cross match Transplant CDC,A:G Ratio,Numeric
+Crossmatch Transplant Final,A:G Ratio,Numeric
+CRP  C Reactive Protein (Quantitative),CRP,Numeric
+CRP (Qualitative ),CRP,Numeric
+Cryoglobulins,Cryoglobulins,List Of Choices
+Cryptococcus Antigen detection,Result,Numeric
+"CSF - Protein , Sugar , Chloride",CSF Chloride,Numeric
+"CSF - Protein , Sugar , Chloride",CSF Protein,Numeric
+"CSF - Protein , Sugar , Chloride",CSF Sugar,Numeric
+CSF AFB Smear,Observation,List Of Choices
+CSF AFB Smear,Result,SingleLine Text
+"CSF Analysis ( TLC , DLC , Sugar , Protein )",CSF,SubHeading
+"CSF Analysis ( TLC , DLC , Sugar , Protein )",CSF Chloride,Numeric
+"CSF Analysis ( TLC , DLC , Sugar , Protein )",CSF Protein,Numeric
+"CSF Analysis ( TLC , DLC , Sugar , Protein )",CSF Sugar,Numeric
+"CSF Analysis ( TLC , DLC , Sugar , Protein )",CSF Total Count,Numeric
+"CSF Analysis ( TLC , DLC , Sugar , Protein )",Eosinophils,Numeric
+"CSF Analysis ( TLC , DLC , Sugar , Protein )",Lymphocytes,Numeric
+"CSF Analysis ( TLC , DLC , Sugar , Protein )",Neutrophils,Numeric
+"CSF Analysis ( TLC , DLC , Sugar , Protein )",Others,MultiLine Text
+"CSF Analysis ( TLC , DLC , Sugar , Protein )",RBC,Numeric
+CSF Chloride,CSF Chloride,Numeric
+CSF Cytology,Observation,Template
+CSF DC,Lymphocytes,Numeric
+CSF DC,Neutrophils,Numeric
+CSF DC,Others,MultiLine Text
+CSF Paraneoplastic Panel (O),Result,Numeric
+CSF Protein,CSF Protein,Numeric
+CSF RBC Count,RBC Count,Numeric
+CSF Sugar,CSF Sugar,Numeric
+CSF TC,CSF Total Count,Numeric
+CSF TC,Others,MultiLine Text
+CSF TC,RBC,Numeric
+CSF TC & DC,Appearance,List Of Choices
+CSF TC & DC,Atypical Cells,List Of Choices
+CSF TC & DC,Celll Count,SubHeading
+CSF TC & DC,Colour,List Of Choices
+CSF TC & DC,CSF,SubHeading
+CSF TC & DC,Differential Count,SubHeading
+CSF TC & DC,Eosinophils,Numeric
+CSF TC & DC,Lymphocytes,Numeric
+CSF TC & DC,Neutrophils,Numeric
+CSF TC & DC,Others,MultiLine Text
+CSF TC & DC,Psysical Examination,SubHeading
+CSF TC & DC,RBC Count,Numeric
+CSF TC & DC,TC ( WBC ),SingleLine Text
+CSF TC & DC,Volume,Numeric
+Culture & Sensitivity - (Automated Anaerobic),Anaerbic Culture,SubHeading
+Culture & Sensitivity - (Automated Anaerobic),Result,List Of Choices
+Culture & Sensitivity - (Automated) Blood (AEROBIC),Comments,MultiLine Text
+Culture & Sensitivity - (Automated) Blood (AEROBIC),Culture,Culture
+Culture & Sensitivity - (Automated) Blood (AEROBIC),Culture & Sensitivity - (Automated) Blood,SubHeading
+Culture & Sensitivity - (Automated) Blood (AEROBIC),Gram Stain,List Of Choices
+Culture & Sensitivity - (Automated) Blood (AEROBIC),Gram Stain,List Of Choices
+Culture & Sensitivity - (Automated) Blood (AEROBIC),Observation,List Of Choices
+Culture & Sensitivity - (Automated) Blood (AEROBIC),Sample,SingleLine Text
+Culture & Sensitivity - (Automated) Blood (AEROBIC),Sample,SingleLine Text
+Culture & Sensitivity - (Automated) Blood (AEROBIC),Site,SingleLine Text
+Culture & Sensitivity - (Automated) Blood (AEROBIC),Site,SingleLine Text
+Culture & sensitivity - (Automated) Body Fluids,Culture,Culture
+Culture & sensitivity - (Automated) Body Fluids,Culture & sensitivity - (Automated) Body Fluids,SubHeading
+Culture & sensitivity - (Automated) Body Fluids,Gram Stain,List Of Choices
+Culture & sensitivity - (Automated) Body Fluids,Gram Stain,List Of Choices
+Culture & sensitivity - (Automated) Body Fluids,Sample,SingleLine Text
+Culture & sensitivity - (Automated) Body Fluids,Sample,SingleLine Text
+Culture & sensitivity - (Automated) Body Fluids,Site,SingleLine Text
+Culture & sensitivity - (Automated) Body Fluids,Site,SingleLine Text
+Culture & Sensitivity - Body Fluid (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Body Fluid (Automated VITEK 2),Culture & Sensitivity - Body Fluid (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Body Fluid (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Body Fluid (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Body Fluid (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & Sensitivity - Body Fluid (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Body Fluid (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Body Fluid (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Body Fluid (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Body Fluid (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Bone Marrow Fluid  (Automated VITEK 2),Colony Count,List Of Choices
+Culture & Sensitivity - Bone Marrow Fluid  (Automated VITEK 2),Colony Count,List Of Choices
+Culture & Sensitivity - Bone Marrow Fluid  (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Bone Marrow Fluid  (Automated VITEK 2),Culture & Sensitivity - Bone Marrow Fluid  (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Bone Marrow Fluid  (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Bone Marrow Fluid  (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Bone Marrow Fluid  (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Bone Marrow Fluid  (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Bone Marrow Fluid  (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Bone Marrow Fluid  (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Bone Marrow Fluid  (Automated VITEK 2),Site,SingleLine Text
+"Culture & Sensitivity - Bronchoalveolar Lavage (BAL), (Automated VITEK 2)",Culture,Culture
+"Culture & Sensitivity - Bronchoalveolar Lavage (BAL), (Automated VITEK 2)","Culture & Sensitivity - Bronchoalveolar Lavage (BAL), (Automated VITEK 2)",SubHeading
+"Culture & Sensitivity - Bronchoalveolar Lavage (BAL), (Automated VITEK 2)",Gram stain,MultiLine Text
+"Culture & Sensitivity - Bronchoalveolar Lavage (BAL), (Automated VITEK 2)",Gram stain,MultiLine Text
+"Culture & Sensitivity - Bronchoalveolar Lavage (BAL), (Automated VITEK 2)",Observation,List Of Choices
+"Culture & Sensitivity - Bronchoalveolar Lavage (BAL), (Automated VITEK 2)",Sample,SingleLine Text
+"Culture & Sensitivity - Bronchoalveolar Lavage (BAL), (Automated VITEK 2)",Sample,SingleLine Text
+"Culture & Sensitivity - Bronchoalveolar Lavage (BAL), (Automated VITEK 2)",Site,SingleLine Text
+"Culture & Sensitivity - Bronchoalveolar Lavage (BAL), (Automated VITEK 2)",Site,SingleLine Text
+Culture & Sensitivity - Catheter Tip (Automated VITEK 2),Colony Count,List Of Choices
+Culture & Sensitivity - Catheter Tip (Automated VITEK 2),Colony Count,List Of Choices
+Culture & Sensitivity - Catheter Tip (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Catheter Tip (Automated VITEK 2),Culture & Sensitivity - Catheter Tip (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Catheter Tip (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Catheter Tip (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Catheter Tip (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Catheter Tip (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Catheter Tip (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Catheter Tip (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Catheter Tip (Automated VITEK 2),Site,SingleLine Text
+Culture & sensitivity - Central line (Automated VITEK 2),Comments,MultiLine Text
+Culture & sensitivity - Central line (Automated VITEK 2),Culture,Culture
+Culture & sensitivity - Central line (Automated VITEK 2),Culture & sensitivity - Central line (Automated VITEK 2),SubHeading
+Culture & sensitivity - Central line (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & sensitivity - Central line (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & sensitivity - Central line (Automated VITEK 2),Observation,List Of Choices
+Culture & sensitivity - Central line (Automated VITEK 2),Sample,SingleLine Text
+Culture & sensitivity - Central line (Automated VITEK 2),Sample,SingleLine Text
+Culture & sensitivity - Central line (Automated VITEK 2),Site,SingleLine Text
+Culture & sensitivity - Central line (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - CSF (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - CSF (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - CSF (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - CSF (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - CSF (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - CSF (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - CSF (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - CSF (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Ear Swab (Automated VITEK 2),Colony Count,Numeric
+Culture & Sensitivity - Ear Swab (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Ear Swab (Automated VITEK 2),Culture & Sensitivity - Ear Swab (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Ear Swab (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity - Ear Swab (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & Sensitivity - Ear Swab (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Ear Swab (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Ear Swab (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Ear Swab (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Ear Swab (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Endotracheal Secretions (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Endotracheal Secretions (Automated VITEK 2),Culture & Sensitivity - Endotracheal Secretions (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Endotracheal Secretions (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & Sensitivity - Endotracheal Secretions (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & Sensitivity - Endotracheal Secretions (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Endotracheal Secretions (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Endotracheal Secretions (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Inguinal (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Inguinal (Automated VITEK 2),Culture & Sensitivity - Inguinal (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Inguinal (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity - Inguinal (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & Sensitivity - Inguinal (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Inguinal (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Inguinal (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Neck Line (Automated VITEK 2),Colony Count,Numeric
+Culture & Sensitivity - Neck Line (Automated VITEK 2),Culture & Sensitivity - Neck Line (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Neck Line (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity - Neck Line (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Pericardial Fluid (Automated VITEK 2),Culture & Sensitivity - Pericardial Fluid (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Pericardial Fluid (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & Sensitivity - Pericardial Fluid (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Pericardial Fluid (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Peritoneal Fluid (Automated VITEK 2),Colony Count,Numeric
+Culture & Sensitivity - Peritoneal Fluid (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity - Peritoneal Fluid (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Placental swab (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Placental swab (Automated VITEK 2),Culture & Sensitivity - Placental swab (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Placental swab (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity - Placental swab (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & Sensitivity - Placental swab (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Placental swab (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Placental swab (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Pus (Automated VITEK 2),Colony Count,Numeric
+Culture & Sensitivity - Pus (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Pus (Automated VITEK 2),Culture & Sensitivity - Pus (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Pus (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity - Pus (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & Sensitivity - Pus (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Pus (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Pus (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Pus (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Pus (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Semen (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Semen (Automated VITEK 2),Culture & Sensitivity - Semen (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Semen (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity - Semen (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Semen (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Suction Tip (Automated VITEK 2),Colony Count,Numeric
+Culture & Sensitivity - Suction Tip (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity - Suction Tip (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Swabs (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Swabs (Automated VITEK 2),Culture & Sensitivity - Swabs (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Swabs (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity - Swabs (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Swabs (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & Sensitivity - Swabs (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Swabs (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Swabs (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Swabs (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Swabs (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Throat Swab (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Throat Swab (Automated VITEK 2),Culture & Sensitivity - Throat Swab (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Throat Swab (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Throat Swab (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Throat Swab (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Tissue (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Tissue (Automated VITEK 2),Culture & Sensitivity - Tissue (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Tissue (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Tissue (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Tissue (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Tissue (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Tissue (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Tissue (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Tissue (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Umbilicus (Automated VITEK 2),Colony Count,Numeric
+Culture & Sensitivity - Umbilicus (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Umbilicus (Automated VITEK 2),Culture & Sensitivity - Umbilicus (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Umbilicus (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Umbilicus (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Umbilicus (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Urine (Automated VITEK 2),Colony Count,List Of Choices
+Culture & Sensitivity - Urine (Automated VITEK 2),Colony Count,List Of Choices
+Culture & Sensitivity - Urine (Automated VITEK 2),Comments,MultiLine Text
+Culture & Sensitivity - Urine (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Urine (Automated VITEK 2),Culture & Sensitivity - Urine (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Urine (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Urine (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Urine (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Urine (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Urine (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Urine (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Urine (Automated VITEK 2),Wet mount,MultiLine Text
+Culture & Sensitivity - Urine (Automated VITEK 2),Wet mount,MultiLine Text
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Colony Count,Numeric
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Comments,MultiLine Text
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),SubHeading
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - Vaginal Swab (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - wound Swab (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity - wound Swab (Automated VITEK 2),Culture & Sensitivity - wound Swab (Automated VITEK 2),SubHeading
+Culture & Sensitivity - wound Swab (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity - wound Swab (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & Sensitivity - wound Swab (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity - wound Swab (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - wound Swab (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity - wound Swab (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity - wound Swab (Automated VITEK 2),Site,SingleLine Text
+Culture & sensitivity -Urethra pus (Automated VITEK 2),Culture,Culture
+Culture & sensitivity -Urethra pus (Automated VITEK 2),Culture & sensitivity -Urethra pus (Automated VITEK 2),SubHeading
+Culture & sensitivity -Urethra pus (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & sensitivity -Urethra pus (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & sensitivity -Urethra pus (Automated VITEK 2),Observation,List Of Choices
+Culture & sensitivity -Urethra pus (Automated VITEK 2),Site,SingleLine Text
+Culture & sensitivity -Urethra pus (Automated VITEK 2),Site,SingleLine Text
+"Culture & Sensitivity, Conventional (Body fluids)",Result,SingleLine Text
+"Culture & Sensitivity, Conventional Pus",Result,SingleLine Text
+Culture & Sensitivity- Eye Swab (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity- Eye Swab (Automated VITEK 2),Culture & Sensitivity- Eye Swab (Automated VITEK 2),SubHeading
+Culture & Sensitivity- Eye Swab (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity- Eye Swab (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & Sensitivity- Eye Swab (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity- Eye Swab (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity- Eye Swab (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity- Eye Swab (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity- Eye Swab (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity- Nasal Swab,Culture,Culture
+Culture & Sensitivity- Nasal Swab,Gram Stain,SingleLine Text
+Culture & Sensitivity- Nasal Swab,Gram Stain,SingleLine Text
+Culture & Sensitivity- Nasal Swab,Observation,List Of Choices
+Culture & Sensitivity- Nasal Swab,Observation,SingleLine Text
+Culture & Sensitivity- Sputum (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity- Sputum (Automated VITEK 2),Culture & Sensitivity- Sputum (Automated VITEK 2),SubHeading
+Culture & Sensitivity- Sputum (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity- Sputum (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity- Sputum (Automated VITEK 2),Gram stain,MultiLine Text
+Culture & Sensitivity- Sputum (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity- Sputum (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity- Sputum (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity- Sputum (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity- Sputum (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity- Stool (Automated VITEK 2),Comment :-,Template
+Culture & Sensitivity- Stool (Automated VITEK 2),Culture,Culture
+Culture & Sensitivity- Stool (Automated VITEK 2),Culture & Sensitivity- Stool (Automated VITEK 2),SubHeading
+Culture & Sensitivity- Stool (Automated VITEK 2),Gram Stain,List Of Choices
+Culture & Sensitivity- Stool (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivity- Stool (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity- Stool (Automated VITEK 2),Sample,SingleLine Text
+Culture & Sensitivity- Stool (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity- Stool (Automated VITEK 2),Site,SingleLine Text
+Culture & Sensitivity- Synovial Fluid (Automated VITEK 2),Colony Count,Numeric
+Culture & Sensitivity- Synovial Fluid (Automated VITEK 2),Gram Stain,SingleLine Text
+Culture & Sensitivity- Synovial Fluid (Automated VITEK 2),Observation,List Of Choices
+Culture & Sensitivy -Automated Blood (Anaerobic),Comments,MultiLine Text
+Culture & Sensitivy -Automated Blood (Anaerobic),Culture,Culture
+Culture & Sensitivy -Automated Blood (Anaerobic),Gram Stain,SingleLine Text
+Culture & Sensitivy -Automated Blood (Anaerobic),Gram Stain,List Of Choices
+Culture & Sensitivy -Automated Blood (Anaerobic),Observation,List Of Choices
+Culture & Sensitivy -Automated Blood (Anaerobic),Sample,SingleLine Text
+Culture & Sensitivy -Automated Blood (Anaerobic),Sample,SingleLine Text
+Culture & Sensitivy -Automated Blood (Anaerobic),Site,SingleLine Text
+Culture & Sensitivy -Automated Blood (Anaerobic),Site,SingleLine Text
+"Culture AFB (Mycobacterium),Rapid (Automated Fluorescent,ICT)",Result,SingleLine Text
+Culture for Fungi,A:G Ratio,Numeric
+Culture for Fungi ( Serum ),A:G Ratio,Numeric
+Culture Mold Antifungal Drug Sensitivity,Result,SingleLine Text
+Cultured aerobic bacteria identification,Result,SingleLine Text
+Cultured aerobic bacteria sensitivity,Result,SingleLine Text
+"Cultured AFB (Mycobacterium)-Antitubercular Drug Sensitivity,Rapid (5 Drug Panel)",Result,SingleLine Text
+Cultured AFB Mycobacterium other than tuberculosis(MOTT) drug sensitivity for rapid growers.,Result,SingleLine Text
+Cyclosporin A,Result,Numeric
+Cyst Aspiration,Impression,TextEditor
+Cystic Fluid,Albumin,Numeric
+Cystic Fluid,Chemical Examination,SubHeading
+Cystic Fluid,Clarity,List Of Choices
+Cystic Fluid,Clot,List Of Choices
+Cystic Fluid,Colour,List Of Choices
+Cystic Fluid,Differential Count,SubHeading
+Cystic Fluid,Glucose 30 minutes,Numeric
+Cystic Fluid,Lymphocytes,Numeric
+Cystic Fluid,Microscopic Examination,SubHeading
+Cystic Fluid,Neutrophils,Numeric
+Cystic Fluid,Others,MultiLine Text
+Cystic Fluid,Physical Examination,SubHeading
+Cystic Fluid,Protein,Numeric
+Cystic Fluid,RBC Count,Numeric
+Cystic Fluid,Total Count,Numeric
+Cystogram,Impression,TextEditor
+Cytology,Observation,Template
+"Cytomegalovirus (CMV) Antibodies Panel, IgG & IgM",Result,List Of Choices
+Cytomegalovirus (CMV) detection qualitative (GENEPATH),Result,List Of Choices
+Cytomegalovirus (CMV) quantitation (GENEPATH),Result,List Of Choices
+"Cytomegalovirus (CMV), Qualitative PCR",Result,List Of Choices
+Cytopath - Bronchial brush,Comment:,Template
+Cytopath - Bronchial wash,Comment:,Template
+Cytopath - CSF cytology,Comment:,Template
+Cytopath - CSF Cytology (Cytospin),Comment:,Template
+Cytopath - Fluid with Cell block,Comment:,Template
+Cytopath - FNAC,Comment:,Template
+Cytopath - FNAC Procedure with Reporting,Comment:,Template
+Cytopath - Gynaec Cyto (PAP smear),Comment:,Template
+Cytopath - Sputum Cytology,Comment:,Template
+Cytopath - Sputum for hemosiderin laden macrophages,Comment:,Template
+Cytopath - Synovial fluid  (For crystals),Comment:,Template
+Cytopath - Tzanck smear,Comment:,Template
+Cytopath - Urine cytology,Comment:,Template
+Cytopath - Urine Hemosiderin,Comment:,Template
+D - Dimer,D - Dimer,Numeric
+D- DIMER,D - Dimer,Numeric
+D-Dimer (Vidas),Result,Numeric
+Dengue IgG (ELISA),Dengue IgG,Numeric
+Dengue IgG (ELISA),Dengue IgG (ELISA),SubHeading
+Dengue IgG (ELISA),Interpretation,List Of Choices
+"Dengue IgG, IgM",A:G Ratio,Numeric
+Dengue IgM (ELISA),Dengue IgM,Numeric
+Dengue IgM (ELISA),Dengue IgM (ELISA),SubHeading
+Dengue IgM (ELISA),Interpretation,List Of Choices
+Dengue IgM/IgG & NS1 Card,Dengue IgG Antibody,List Of Choices
+Dengue IgM/IgG & NS1 Card,Dengue IgM Antibody,List Of Choices
+Dengue IgM/IgG & NS1 Card,Dengue IgM/IgG & NS1 Card,SubHeading
+Dengue IgM/IgG & NS1 Card,Dengue NS1 Antigen,List Of Choices
+Dengue IgM/IgG & NS1 Card,IgG,List Of Choices
+Dengue IgM/IgG & NS1 Card,IgM,List Of Choices
+Dengue NS1 Antigen,Dengue NS1 Antigen (ELISA),SubHeading
+Dengue NS1 Antigen,RESULT,SingleLine Text
+Dengue NS1 Antigen - Panel,A:G Ratio,Numeric
+DHEAS,DHEAS,Numeric
+Dialysate Fluid Electrolyte,F1,SubHeading
+Dialysate Fluid Electrolyte,F2,SubHeading
+Dialysate Fluid Electrolyte,f3,SubHeading
+Dialysate Fluid Electrolyte,F4,SubHeading
+Dialysate Fluid Electrolyte,Potassium,Numeric
+Dialysate Fluid Electrolyte,Potassium,Numeric
+Dialysate Fluid Electrolyte,Potassium,Numeric
+Dialysate Fluid Electrolyte,Potassium,Numeric
+Dialysate Fluid Electrolyte,Sodium,Numeric
+Dialysate Fluid Electrolyte,Sodium,Numeric
+Dialysate Fluid Electrolyte,Sodium,Numeric
+Dialysate Fluid Electrolyte,Sodium,Numeric
+Dialysate Fluid Sugar,Glucose 1 Hr,Numeric
+Digoxin,A:G Ratio,Numeric
+Diptheria IgG Antibodies,A:G Ratio,Numeric
+Direct Coombs Test,DCT,List Of Choices
+DLC,Atypical Lymphocytes,List Of Choices
+DLC,Band Forms,Numeric
+DLC,Basophils,Numeric
+DLC,Basophils Count,Numeric
+DLC,Blast,Numeric
+DLC,Differential Count,SubHeading
+DLC,Eosinophils,Numeric
+DLC,Eosinophils Count,Numeric
+DLC,LUC,Numeric
+DLC,Lymphocytes,Numeric
+DLC,Lymphocytes Count,Numeric
+DLC,Metamylocyte,Numeric
+DLC,Monocytes,Numeric
+DLC,Monocytes Count,Numeric
+DLC,Myelocyte,Numeric
+DLC,Neutrophils,Numeric
+DLC,Neutrophils Count,Numeric
+DLC,NRBC / 100 WBC,SingleLine Text
+DLC,Others,MultiLine Text
+DLC,Reactive Lymphocytes,List Of Choices
+DLC,Toxic Granulation,List Of Choices
+DONATH LANDSTEINER ANTIBODY TEST,DONATH LANDSTEINER ANTIBODY,List Of Choices
+Drain Fluid Bilirubin,Direct Bilirubin,Numeric
+Drain Fluid Bilirubin,Total Bilirubin,Numeric
+Drain Fluid Creatinine,Creatinine,Numeric
+"Dual Marker 9 - 13 Weeks ( Free BhCG , PAPP A  )",A:G Ratio,Numeric
+EBV IgM - Nuclear Antigen,Result,Numeric
+EBV IgM- Viral Capsid Antigen,Result,Numeric
+EBV VCA IgM (ELFA),EBV VCA IgM,Numeric
+EBV VCA IgM (ELFA),EBV VCA IgM (ELFA),SubHeading
+EBV VCA IgM (ELFA),Interpretation,List Of Choices
+EBV Viral Capsid IgM & IgG,Result,List Of Choices
+ECG (Bedside),Impression,TextEditor
+ECG (Nos),Impression,TextEditor
+ECG (Nos.),Impression,TextEditor
+Echo (Bedside),Impression,TextEditor
+Echo (Nos.),Impression,TextEditor
+Echo 3D Doppler (with Color),Impression,TextEditor
+Echo Cardiogram,Impression,TextEditor
+Echo Screening -OP.,Impression,TextEditor
+Echo virus antibody panel (Ig G & Ig M ) -Lalpath,Result,List Of Choices
+EEG Portable,Impression,TextEditor
+EEG Routine,Impression,TextEditor
+Electrolytes,Electrolytes,SubHeading
+Electrolytes,Potassium,Numeric
+Electrolytes,Sodium,Numeric
+EMB IgM - Nuclear Antigen,Result,Numeric
+EMG,Impression,TextEditor
+EMG Needle charges,Impression,TextEditor
+EMV IgM - Nuclear Antigen,Result,Numeric
+Endotracheal /Tracheostomy secreation for surveillance (Outside treated patient),Colony Count,Numeric
+Endotracheal /Tracheostomy secreation for surveillance (Outside treated patient),Culture,Culture
+Endotracheal /Tracheostomy secreation for surveillance (Outside treated patient),Culture & Sensitivity - Endotracheal Tube (Automated VITEK 2),SubHeading
+Endotracheal /Tracheostomy secreation for surveillance (Outside treated patient),Gram Stain,List Of Choices
+Endotracheal /Tracheostomy secreation for surveillance (Outside treated patient),Gram Stain,SingleLine Text
+Endotracheal /Tracheostomy secreation for surveillance (Outside treated patient),Observation,List Of Choices
+Enteroclysis,Impression,TextEditor
+Environmental Culture Plate,Settle Plate,Template
+Environmental Culture Swab,Swab,Template
+EOSINOPHILIA PANEL(MOLECULAR),FIP1L1-PDGFRa RTPCR,SingleLine Text
+EOSINOPHILIA PANEL(MOLECULAR),FISH-BCR/Abl,SingleLine Text
+EOSINOPHILIA PANEL(MOLECULAR),JAK2Mutation Analysis(Exon 14),SingleLine Text
+Epstein Barr Virus DNA PCR,A:G Ratio,Numeric
+Erythropoietin CLIA,Erythropoietin,Numeric
+ESR ( Erythrocyte Sedimentation Rate ),ESR,Numeric
+Estradiol ( E2 ),Estradiol,Numeric
+Estrdiol ( E5 ),A:G Ratio,Numeric
+Extra 1,Colony Count,Numeric
+Extra 1,Gram Stain,SingleLine Text
+Extra 1,Observation,List Of Choices
+extra 3,Colony Count,Numeric
+extra 3,Gram Stain,SingleLine Text
+extra 3,Observation,List Of Choices
+Extra Film (10X8),Impression,TextEditor
+Extra Film Charges  (14X17),Impression,TextEditor
+Extra test,Colony Count,Numeric
+Extra test,Gram Stain,SingleLine Text
+Extra test,Observation,List Of Choices
+FACTOR  VIII  FUNCTIONAL,Factor VIII,Numeric
+Factor V Leiden ( Genepath ),"Factor V Leiden , Mutant Detection",MultiLine Text
+Factor Viii Level-Blood bank QC,Factor VIII,Numeric
+FACTOR X1,Result,List Of Choices
+FACTOR X11,Result,List Of Choices
+FDP ( Fibrin Degardation Products ),A:G Ratio,Numeric
+Ferritin,Comment :-,Template
+Ferritin,Ferritin,Numeric
+Fibrinogen Level ( Factor - I,Fibrinogen,Numeric
+FISH Multiple Myeloma Pannel ( Oncquest ),FISH,SubHeading
+FISH Multiple Myeloma Pannel ( Oncquest ),Multiple Myeloma,SubHeading
+Fistulogram/Sinogram,Impression,TextEditor
+Flowcytometry - CLL Diagnostic Panel (ONQUEST),Result,List Of Choices
+Fluid  - ADA   ( O ),Fluid ADA,Numeric
+Fluid Cytology,Observation,Template
+Fluid LDH,Fluid LDH,Numeric
+Fluid PH,pH,Numeric
+FLUOROSCOPY,Impression,TextEditor
+Fluoroscopy Procedure (Medium),Impression,TextEditor
+Fluoroscopy Procedure (Small),Impression,TextEditor
+FNAC,Observation,Template
+Folic Acid,Folic acid,Numeric
+Follow up EEG,Impression,TextEditor
+Follow up NCS,Impression,TextEditor
+Fractional Excretion of Mg,Result,List Of Choices
+Free Beta HCG,Free Beta HCG,Numeric
+Free Ionized Calcium,Ionized Calcium,Numeric
+Free PSA  ( O ),Free PSA,Numeric
+Free T3,Free T3,Numeric
+Free T4,Free T4,Numeric
+Free Testosterone,Free Testosterone,Numeric
+Free Thyroxine Index (FTI),ABG,SubHeading
+FSH,Follicle Stimulating Hormone,Numeric
+Fungal Culture,Fungal Culture,SubHeading
+Fungal KOH / Stain,FUNGAL KOH,SubHeading
+Fungal KOH / Stain,Result,List Of Choices
+Fungal KOH / Stain,Results,List Of Choices
+Fungal KOH / Stain,Site/Sample type,SingleLine Text
+Fungal Stain,A:G Ratio,Numeric
+G6PD,G6PD,Numeric
+Gamma GT ( GGT ),Gamma GT,Numeric
+"Ganglioside Receptor Antiboby (GM1,2,3,GD1b,GQ1b,GD1a,GT1b) AMRITA",Result,SingleLine Text
+Gastrin,A:G Ratio,Numeric
+GBM -  Antibody,Result,Numeric
+GCT ( Glucose Challenge Test ),GCT 1 hr,Numeric
+Genetic Thrombophelia common mutation panel(Gene Path),Comments,MultiLine Text
+Genetic Thrombophelia common mutation panel(Gene Path),Factor II ( Prothrombin ) Gene sequencing,SingleLine Text
+Genetic Thrombophelia common mutation panel(Gene Path),Factor V Leiden,SingleLine Text
+Genetic Thrombophelia common mutation panel(Gene Path),MTHFR Gene Mutation Analysis,SingleLine Text
+"Genexpert MTB with Rifampicin Resistance, Qualitative PCR","Genexpert MTB with Rifampicin Resistance, Qualitative PC",SubHeading
+"Genexpert MTB with Rifampicin Resistance, Qualitative PCR",Result,List Of Choices
+Genexpert.Com ( GeneXpert PCR + AFB Culture),Result,List Of Choices
+Globulin,Globulin,Numeric
+Glomerular Filtration Rate (GFR),Creatinine,Numeric
+Glomerular Filtration Rate (GFR),GFR,SingleLine Text
+Glucose Tolerance Test (75gm),GTT 2 hr;,Numeric
+Glucose Tolerance Test (75gm),GTT Fasting,Numeric
+Glucose Tolerence Test (100 gm),GTT 1 hr:,Numeric
+Glucose Tolerence Test (100 gm),GTT 2 hr;,Numeric
+Glucose Tolerence Test (100 gm),GTT 3hr,Numeric
+Glucose Tolerence Test (100 gm),GTT Fasting,Numeric
+"Glucose, 1hr Post Prandial","Glucose,1hr Post Prandial",Numeric
+"Glucose,Post Prandial","Glucose,Post Prandial",Numeric
+"Glucose,Random","Glucose,Random",Numeric
+Glycine,A:G Ratio,Numeric
+GnRH Stimulation Test  ( LH & FSH ),120 minutes,SubHeading
+GnRH Stimulation Test  ( LH & FSH ),15 minutes,SubHeading
+GnRH Stimulation Test  ( LH & FSH ),30 minutes,SubHeading
+GnRH Stimulation Test  ( LH & FSH ),45 minutes,SubHeading
+GnRH Stimulation Test  ( LH & FSH ),60 minutes,SubHeading
+GnRH Stimulation Test  ( LH & FSH ),90 minutes,SubHeading
+GnRH Stimulation Test  ( LH & FSH ),Baseline,SubHeading
+GnRH Stimulation Test  ( LH & FSH ),FSH ( 120 minutes ),Numeric
+GnRH Stimulation Test  ( LH & FSH ),FSH ( 15 minutes ),Numeric
+GnRH Stimulation Test  ( LH & FSH ),FSH ( 30 minutes ),Numeric
+GnRH Stimulation Test  ( LH & FSH ),FSH ( 45 minutes ),Numeric
+GnRH Stimulation Test  ( LH & FSH ),FSH ( 60 minutes ),Numeric
+GnRH Stimulation Test  ( LH & FSH ),FSH ( 90 minutes ),Numeric
+GnRH Stimulation Test  ( LH & FSH ),FSH ( Baseline ),Numeric
+GnRH Stimulation Test  ( LH & FSH ),Lutenizing  Hormone (LH) 120 minutes,Numeric
+GnRH Stimulation Test  ( LH & FSH ),Lutenizing  Hormone (LH) 15 minutes,Numeric
+GnRH Stimulation Test  ( LH & FSH ),Lutenizing  Hormone (LH) 30 minutes,Numeric
+GnRH Stimulation Test  ( LH & FSH ),Lutenizing  Hormone (LH) 45 minutes,Numeric
+GnRH Stimulation Test  ( LH & FSH ),Lutenizing  Hormone (LH) 60 minutes,Numeric
+GnRH Stimulation Test  ( LH & FSH ),Lutenizing  Hormone (LH) 90 minutes,Numeric
+GnRH Stimulation Test  ( LH & FSH ),Lutenizing  Hormone (LH) Baseline,Numeric
+Gold Serum,A:G Ratio,Numeric
+Gram Staining,Gram Stain,SingleLine Text
+Gram Staining - Body Fluid,Gram Stain,List Of Choices
+Gram Staining - Body Fluid,Gram stain,SubHeading
+Gram Staining - Body Fluid,Site/Sample type,SingleLine Text
+Gram Staining - Ear Swab,Gram Stain,SingleLine Text
+Gram Staining - Pericardial Fluid,Gram Stain,SingleLine Text
+Gram Staining - Peritoneal Fluid,Gram Stain,SingleLine Text
+Gram Staining - Pleural Fluid,Gram Stain,SingleLine Text
+Gram staining - Tear,Gram Stain,List Of Choices
+Gram staining - Tear,Sample type,SingleLine Text
+Gram Staining - Vaginal swab,Gram Stain,SingleLine Text
+Gram Staining- CSF,Gram Stain,List Of Choices
+Gram Staining- CSF,Gram stain,MultiLine Text
+Gram Staining- CSF,Gram Staining- CSF,SubHeading
+Gram Staining- Pus,Gram Stain,List Of Choices
+Gram Staining- Pus,Gram stain,SubHeading
+Gram Staining- Pus,Sample,SingleLine Text
+Gram Staining- Pus,Site,SingleLine Text
+Gram Staining- Sputum,Gram Stain,List Of Choices
+Gram Staining- Sputum,Gram stain,MultiLine Text
+Gram Staining- Sputum,Gram stain sputum,SubHeading
+Gram Staining- Sputum,Site/Sample type,SingleLine Text
+Gram Staining- Synovial Fiuid,Result,List Of Choices
+Gram Staining- Urine,Gram Stain,List Of Choices
+Gram Staining-Ascitic Fluid,Result,List Of Choices
+Gram Staining-Endotracheal Aspirated Fluid,Result,List Of Choices
+Growth Hormone,Growth Hormone,Numeric
+Growth Hormone Dynamic Test(IGF-1 & Growth Hormone),Growth Hormone,Numeric
+Growth Hormone Dynamic Test(IGF-1 & Growth Hormone),Growth Hormone (30 min),Numeric
+Growth Hormone Dynamic Test(IGF-1 & Growth Hormone),Growth Hormone (60 min),Numeric
+Growth Hormone Dynamic Test(IGF-1 & Growth Hormone),Growth Hormone (90 min),Numeric
+Growth Hormone Dynamic Test(IGF-1 & Growth Hormone),IGF-1,Numeric
+Growth Hormone Suppression By Glucose ( Lalpath ),120 minutes,SubHeading
+Growth Hormone Suppression By Glucose ( Lalpath ),30 minutes,SubHeading
+Growth Hormone Suppression By Glucose ( Lalpath ),60 minutes,SubHeading
+Growth Hormone Suppression By Glucose ( Lalpath ),Fasting,SubHeading
+Growth Hormone Suppression By Glucose ( Lalpath ),Glucose 1 Hr,Numeric
+Growth Hormone Suppression By Glucose ( Lalpath ),Glucose 2 Hr,Numeric
+Growth Hormone Suppression By Glucose ( Lalpath ),Glucose 30 minutes,Numeric
+Growth Hormone Suppression By Glucose ( Lalpath ),"Glucose,Fasting",Numeric
+Growth Hormone Suppression By Glucose ( Lalpath ),Growth Hormone,Numeric
+Growth Hormone Suppression By Glucose ( Lalpath ),Growth Hormone  2Hr,Numeric
+Growth Hormone Suppression By Glucose ( Lalpath ),Growth Hormone (30 min),Numeric
+Growth Hormone Suppression By Glucose ( Lalpath ),Growth Hormone (60 min),Numeric
+"GTT 75 gm, Detailed",GTT 1 hr:,Numeric
+"GTT 75 gm, Detailed",GTT 2 hr;,Numeric
+"GTT 75 gm, Detailed",GTT 3 hr,Numeric
+"GTT 75 gm, Detailed",GTT 4 hr,Numeric
+"GTT 75 gm, Detailed",GTT Fasting,Numeric
+"GTT 75 gm, Detailed",Urine sugar 1 hr,List Of Choices
+"GTT 75 gm, Detailed",Urine sugar 2 hr,List Of Choices
+"GTT 75 gm, Detailed",Urine sugar fasting,List Of Choices
+H Pylori IgG,A:G Ratio,Numeric
+H Pylori IgM,ABG,SubHeading
+H. Pylori IgM,A:G Ratio,Numeric
+H.Pylori IgA,A:G Ratio,Numeric
+H1N1 MCVR,Result,SingleLine Text
+H1N1 PCR (Swine Flue) Qualitative Real Time PCR,Result,List Of Choices
+Haemoglobin (Hb ),Haemoglobin,Numeric
+Hanta Virus,Result,List Of Choices
+Haptoglobin (Serum),Haptoglobin,SubHeading
+HAV IgM (ELFA),Comment:,Template
+HAV IgM (ELFA),HAV IgM,Numeric
+HAV IgM (ELFA),Interpretation,List Of Choices
+HAV RNA PCR ( Qualitative),A:G Ratio,Numeric
+HbA1c,HbA1c,Numeric
+HbA1c,MBG,Numeric
+HBc Ag IgM,Anti HBc IgM,Numeric
+HBe - Anti HBe (ELFA),Anti-HBe Antibody,Numeric
+HBe - Anti HBe (ELFA),HBe Ag,Numeric
+HBe - Anti HBe (ELFA),Interpretation,List Of Choices
+HBe - Anti HBe (ELFA),Interpretation,List Of Choices
+HBe Ag (ELFA),HBe Ag,Numeric
+HBe Ag (ELFA),HBe Ag,Numeric
+HBe Ag (ELFA),HBe Ag (ELFA),SubHeading
+HBe Ag (ELFA),Interpretation,List Of Choices
+HBe Ag (ELFA),Interpretation,List Of Choices
+HBe Ag (ELFA),Interpretation,List Of Choices
+HBe Antigen (HBe Ag),A:G Ratio,Numeric
+HBs Ag (ECLIA),A:G Ratio,Numeric
+HBs Ag (ELFA),HBs Ag,Numeric
+HBs Ag (ELFA),HBs Ag (ELFA),SubHeading
+HBs Ag (ELFA),Interpretation,List Of Choices
+HBs Ag (ELFA),Interpretation,List Of Choices
+HBs Ag (ELISA),HBs Ag (ELISA),SubHeading
+HBs Ag (ELISA),HBsAg,Numeric
+HBs Ag (ELISA),Interpretation,List Of Choices
+HBs Ag Quantitative,Result,Numeric
+HBs Antibody Titre,Result,Numeric
+HBsAg (CLIA),HBsAg,Numeric
+HBsAg (CLIA),HBsAg (CLIA),SubHeading
+HBsAg (CLIA),Interpretation,List Of Choices
+HBsAg Card (Emergency Purpose Only),HBsAg,List Of Choices
+HBsAg Card (Emergency Purpose Only),HBsAg Card,SubHeading
+HBV DNA PCR,A:G Ratio,Numeric
+HCG Beta Subunit,Beta HCG,Numeric
+HCV  RNA  Qualitative,A:G Ratio,Numeric
+HCV by CMIA,Result,Numeric
+HCV Card (Emergency Purpose Only),HCV,List Of Choices
+HCV Card (Emergency Purpose Only),HCV Card,SubHeading
+HCV CARD (Health check up),HCV,List Of Choices
+HCV CARD (Health check up),HCV Card,SubHeading
+HCV ELISA - PANEL,A:G Ratio,Numeric
+HCV RNA PCR,Result,Numeric
+HDL Cholesterol,HDL Cholesterol,Numeric
+Helicobacter Pylori Antigen Stool,Result,List Of Choices
+Helicobacter Pylori Culture Tissue,Result,Numeric
+Helicobacter Pylori IgA,Result,Numeric
+Helicobacter Pylori IgG,Result,Numeric
+Helicobacter Pylori IgM,Result,Numeric
+Hemoglobin Electrophoresis,A:G Ratio,Numeric
+Hepatitis B Virus Genotyping,Result,Numeric
+Hepatitis B Virus HBV DNA PCR,Result,Numeric
+Hepatitis B Virus HBV Genotype & Drug Resistance,Result,Numeric
+Hepatitis B Virus HBV YMDD Mutation,Result,List Of Choices
+Hepatitis C Virus HCV Genotyping,Result,Numeric
+Hepatitis C Virus HCV RNA ( Qualitative ),Result,List Of Choices
+Hepatitis C Virus HCV RNA Viral Load,Result,Numeric
+Hepatitis Delta Virus HDV IgM,Result,Numeric
+Hepatitis Delta Virus HDV RNA PCR,Result,List Of Choices
+Hepatitis E Virus HEV IgG,Result,List Of Choices
+Hepatitis G Virus HGV RNA PCR,Result,List Of Choices
+Herpes Simplex Virus Type-1 & Type-2 DNA PCR,Result,List Of Choices
+HEV (Anti),A:G Ratio,Numeric
+HEV IgM,Result,Numeric
+HEV IgM Card,HEV IgM Card,SubHeading
+HEV IgM Card,IgM,List Of Choices
+HFE Gene Sequencing (hemochromatosis),HFE,MultiLine Text
+Histopath - Adeniodectomy,Biopsy No,SingleLine Text
+Histopath - Adeniodectomy,Comment:,Template
+Histopath - Adrenalectomy,Biopsy No,SingleLine Text
+Histopath - Adrenalectomy,Comment:,Template
+Histopath - Ambutation (Large),Comment:,Template
+Histopath - Ambutation (Medium),Comment:,Template
+Histopath - Ambutation (small),Comment:,Template
+Histopath - Appendicectomy,Biopsy No,SingleLine Text
+Histopath - Appendicectomy,Comment:,Template
+Histopath - Bilateral neck dissection,Comment:,Template
+Histopath - Biopsy Abdominal fat,Comment:,Template
+Histopath - Biopsy Tumour IHC - ( Vellore),Comment:,Template
+Histopath - BiopsyMedium,Biopsy No,SingleLine Text
+Histopath - BiopsyMedium,Comment:,Template
+Histopath - biopsySmall,Comment:,Template
+Histopath - Bladder biopsy (Cystoprostatectomy),Biopsy No,SingleLine Text
+Histopath - Bladder biopsy (Cystoprostatectomy),Comment:,Template
+Histopath - Bladder biopsy/TURBT,Biopsy No,SingleLine Text
+Histopath - Bladder biopsy/TURBT,Comment:,Template
+Histopath - Bone biopsy,Biopsy No,SingleLine Text
+Histopath - Bone biopsy,Comment:,Template
+Histopath - Bone marrow Biopsy,Biopsy No,SingleLine Text
+Histopath - Bone marrow Biopsy,Comment:,Template
+Histopath - Bone marrow biopsy ( A & B),Comment:,Template
+Histopath - Bone tumour,Comment:,Template
+Histopath - BRAF mutation (Anand Lab),Comment:,Template
+Histopath - BRAF V600 E mutation (Onquest),Comment:,Template
+Histopath - Brain Cyst Excision,Comment:,Template
+Histopath - Brain tissue,Biopsy No,SingleLine Text
+Histopath - Brain tissue,Comment:,Template
+Histopath - Brain Tumour,Biopsy No,SingleLine Text
+Histopath - Brain Tumour,Comment:,Template
+Histopath - Brain Tumour /Meningioma/Pituitary Tumour,Comment:,Template
+Histopath - Breast lump Excision,Biopsy No,SingleLine Text
+Histopath - Breast lump Excision,Comment:,Template
+Histopath - Breast trucut biopsy,Biopsy No,SingleLine Text
+Histopath - Breast trucut biopsy,Comment:,Template
+Histopath - Bronchial Brush Cytology,Observation,Template
+Histopath - Bronchial Wash Cytology,Observation,Template
+Histopath - Bronchoscopic biopsy,Biopsy No,SingleLine Text
+Histopath - Bronchoscopic biopsy,Comment:,Template
+Histopath - Buccal mucosa,Biopsy No,SingleLine Text
+Histopath - Buccal mucosa,Comment:,Template
+Histopath - C Kit mutation Reflex to PDGFRA (Quest),Comment:,Template
+Histopath - Cardiac Valve,Biopsy No,SingleLine Text
+Histopath - Cardiac Valve,Comment:,Template
+Histopath - Cell block,Comment:,Template
+Histopath - Cervical polyp,Biopsy No,SingleLine Text
+Histopath - Cervical polyp,Comment:,Template
+Histopath - Cervical polypectomy,Biopsy No,SingleLine Text
+Histopath - Cervical polypectomy,Comment:,Template
+Histopath - Cervix biopsy,Biopsy No,SingleLine Text
+Histopath - Cervix biopsy,Comment:,Template
+Histopath - Colon Polypectomy,Biopsy No,SingleLine Text
+Histopath - Colon Polypectomy,Comment:,Template
+Histopath - Comprehensive 170 gene panel by NGS (Medgenome),Comment:,Template
+Histopath - Conjunctival Biopsy,Comment:,Template
+Histopath - Discectomy,Biopsy No,SingleLine Text
+Histopath - Discectomy,Comment:,Template
+Histopath - EGFR Mutation Analysis (Medgenome),Comment:,Template
+Histopath - Electron Microscopy (Skin biopsy for CADASIL) Jaslok,Comment:,Template
+Histopath - Endometrial /Pipelle biopsy,Biopsy No,SingleLine Text
+Histopath - Endometrial /Pipelle biopsy,Comment:,Template
+Histopath - Endometrial polyp,Biopsy No,SingleLine Text
+Histopath - Endometrial polyp,Comment:,Template
+Histopath - Endometrium / Endocervical biopsy,Biopsy No,SingleLine Text
+Histopath - Endometrium / Endocervical biopsy,Comment:,Template
+Histopath - Endoscopic biopsy - >5 samples,Biopsy No,SingleLine Text
+Histopath - Endoscopic biopsy - >5 samples,Comment:,Template
+Histopath - Endoscopic biopsy - 1-3 samples,Biopsy No,SingleLine Text
+Histopath - Endoscopic biopsy - 1-3 samples,Comment:,Template
+Histopath - Endoscopic biopsy - 3-5 sample,Biopsy No,SingleLine Text
+Histopath - Endoscopic biopsy - 3-5 sample,Comment:,Template
+Histopath - Endoscopic biopsy 1- 2 samples,Biopsy No,SingleLine Text
+Histopath - Endoscopic biopsy 1- 2 samples,Comment:,Template
+Histopath - Endoscopic biopsy 2 sample,Comment:,Template
+Histopath - Endoscopy <5 samples,Biopsy No,SingleLine Text
+Histopath - Enucleation of Eye Ball Biopsy,Comment:,Template
+Histopath - Esophagectomy,Biopsy No,SingleLine Text
+Histopath - Esophagectomy,Comment:,Template
+Histopath - Excision biopsy (Large),Biopsy No,SingleLine Text
+Histopath - Excision biopsy (Large),Comment:,Template
+Histopath - Excision biopsy (Medium),Biopsy No,SingleLine Text
+Histopath - Excision biopsy (Medium),Comment:,Template
+Histopath - Excision biopsy (Small),Biopsy No,SingleLine Text
+Histopath - Excision biopsy (Small),Comment:,Template
+Histopath - Extended RAS testing by ARMS PCR (K & NRAS) Oncquest,Comment:,Template
+Histopath - Fallopian tubes,Biopsy No,SingleLine Text
+Histopath - Fallopian tubes,Comment:,Template
+"Histopath - FISH t (11, 12) for EWINGS SARCOMA (Oncquest)",Comment:,Template
+Histopath - Fistulectomy,Biopsy No,SingleLine Text
+Histopath - Fistulectomy,Comment:,Template
+Histopath - Frozen section,Comment:,Template
+Histopath - Frozen section morethan 3 samples,Biopsy No,SingleLine Text
+Histopath - Frozen section morethan 3 samples,Comment:,Template
+Histopath - Frozen section one sample,Biopsy No,SingleLine Text
+Histopath - Frozen section one sample,Comment:,Template
+Histopath - Gall bladder,Biopsy No,SingleLine Text
+Histopath - Gall bladder,Comment:,Template
+Histopath - Gastrectomy,Biopsy No,SingleLine Text
+Histopath - Gastrectomy,Comment:,Template
+Histopath - Granulation Tissue from Middle Ear,Comment:,Template
+Histopath - Hemicolectomy/AP Resection,Biopsy No,SingleLine Text
+Histopath - Hemicolectomy/AP Resection,Comment:,Template
+Histopath - Hemithyroidectomy,Biopsy No,SingleLine Text
+Histopath - Hemithyroidectomy,Comment:,Template
+Histopath - Hemorrhoidectomy,Biopsy No,SingleLine Text
+Histopath - Hemorrhoidectomy,Comment:,Template
+Histopath - Hysterectomy,Biopsy No,SingleLine Text
+Histopath - Hysterectomy,Comment:,Template
+Histopath - IBM Watson Genomic  Quest Core,Comment:,Template
+Histopath - IHC - CMV (AIMS),Comment:,Template
+Histopath - IHC Diagnosis panel (Quest),Comment:,Template
+Histopath - IHC PDL 1 melanoma (Quest),Comment:,Template
+Histopath - Immunohistochemistry (MSI panel),Comment:,Template
+Histopath - Immunohistochemistry - 1 antibody,Biopsy No,SingleLine Text
+Histopath - Immunohistochemistry - 1 antibody,Comment:,Template
+Histopath - Immunohistochemistry - 2 antibody,Biopsy No,SingleLine Text
+Histopath - Immunohistochemistry - 2 antibody,Comment:,Template
+Histopath - Immunohistochemistry - 3 antibody,Biopsy No,SingleLine Text
+Histopath - Immunohistochemistry - 3 antibody,Comment:,Template
+Histopath - Immunohistochemistry - 4 antibody,Biopsy No,SingleLine Text
+Histopath - Immunohistochemistry - 4 antibody,Comment:,Template
+Histopath - Immunohistochemistry - 5 antibody,Biopsy No,SingleLine Text
+Histopath - Immunohistochemistry - 5 antibody,Comment:,Template
+Histopath - Immunohistochemistry >10 antibodies,Comment:,Template
+Histopath - Immunohistochemistry 1 marker (ONCQUEST),Comment:,Template
+Histopath - Immunohistochemistry 6 antibodies,Comment:,Template
+Histopath - Immunohistochemistry 7 - 10 antibodies,Comment:,Template
+Histopath - Immunohistochemistry Breast pannel,Biopsy No,SingleLine Text
+Histopath - Immunohistochemistry Breast pannel,Comment:,Template
+Histopath - Immunohistochemistry final Diagnosis Pa,Comment:,Template
+Histopath - Immunohistochemistry for PLA2 Receptor anibody,Comment:,Template
+Histopath - Immunohistochemistry one marker(IHC) - insource,Comment:,Template
+Histopath - immunohistochemistry without interpretation 1 marker  (ONQUEST),Comment:,Template
+Histopath - Immunohistochemistry(NIMHANS-Additional Antibody),Comment:,Template
+Histopath - Immunohistochemistry(outsource) - one marker -  (IHC),Comment:,Template
+Histopath - Immunohistochemistry-morethan 7 markers,Biopsy No,SingleLine Text
+Histopath - Immunohistochemistry-morethan 7 markers,Comment:,Template
+Histopath - Incisional biopsy,Comment:,Template
+Histopath - Kidney Biopsy Light Microscopy,Comments,MultiLine Text
+Histopath - Kidney Biopsy Light Microscopy,Observation,Template
+Histopath - Kidney Biopsy LM & IF,Observation,Template
+Histopath - Kidney Biopsy LM - Rush,Observation,Template
+Histopath - Kidney Biopsy with IF (Rush),Observation,Template
+Histopath - KRAS Mutation (Quest),Comment:,Template
+Histopath - Large biopsy,Comment:,Template
+Histopath - Laryngectomy,Biopsy No,SingleLine Text
+Histopath - Laryngectomy,Comment:,Template
+Histopath - Laryngectomy with Radical neck dissection,Comment:,Template
+Histopath - Laryngopharyngectomy with Neck dissection,Comment:,Template
+Histopath - Lipoma,Comment:,Template
+Histopath - Liver biopsy,Biopsy No,SingleLine Text
+Histopath - Liver biopsy,Comment:,Template
+Histopath - Lung - Lobectomy/Pneumonectomy,Biopsy No,SingleLine Text
+Histopath - Lung - Lobectomy/Pneumonectomy,Comment:,Template
+Histopath - Lung biopsy,Biopsy No,SingleLine Text
+Histopath - Lung biopsy,Comment:,Template
+Histopath - Lung mutation panel I (Genepath),Comment:,Template
+"Histopath - Lung Panel 1 (Medgenome) EGFR,ALK,ROS1,PDL1",Comment:,Template
+Histopath - Lymph node >5 samples,Biopsy No,SingleLine Text
+Histopath - Lymph node >5 samples,Comment:,Template
+Histopath - Lymph node 3-5,Biopsy No,SingleLine Text
+Histopath - Lymph node 3-5,Comment:,Template
+Histopath - Lymph node axillary resection,Comment:,Template
+Histopath - Lymph node dissection - Radical,Comment:,Template
+Histopath - Lymph node Inguinal dissection,Comment:,Template
+Histopath - Lymph node upto 2,Biopsy No,SingleLine Text
+Histopath - Lymph node upto 2,Comment:,Template
+Histopath - Lymphoma Panel by FISH (Oncquest),Comment:,Template
+Histopath - Lymphoma second opinion with IHC(CMC Vellore),Comment :-,Template
+Histopath - Mandibulectomy,Comment:,Template
+Histopath - Mandibulectomy,Comment:,Template
+Histopath - Maxillary Sinus,Biopsy No,SingleLine Text
+Histopath - Maxillary Sinus,Comment:,Template
+Histopath - Maxillectomy,Comment:,Template
+Histopath - Mediastinal biopsy,Biopsy No,SingleLine Text
+Histopath - Mediastinal biopsy,Comment:,Template
+Histopath - Meningioma,Comment:,Template
+Histopath - MGMT Gene Mutation Analysis(Medgenome),Comment:,Template
+Histopath - MSI by IHC (ONCQUEST),Comment:,Template
+Histopath - Muscle & Nerve Biopsy ( NIMHANS),Comment:,Template
+Histopath - Muscle/Nerve,Comment:,Template
+Histopath - Myomectomy,Biopsy No,SingleLine Text
+Histopath - Myomectomy,Comment:,Template
+Histopath - N - myc Gene amplification by FISH (Oncquest),Comment:,Template
+Histopath - Nasal polyp,Biopsy No,SingleLine Text
+Histopath - Nasal polyp,Comment:,Template
+Histopath - Neck node dissection,Comment:,Template
+Histopath - Nephrectomy,Biopsy No,SingleLine Text
+Histopath - Nephrectomy,Comment:,Template
+Histopath - NGS Lung plus panel (Oncquest),Comment:,Template
+Histopath - NRAS Mutation (Quest),Comment:,Template
+Histopath - NSCLC Panel 2 (ONCQUEST),ALK Analysis (FISH),SubHeading
+Histopath - NSCLC Panel 2 (ONCQUEST),EGFR Mutation analysis,SubHeading
+Histopath - NSCLC Panel 5 (ONCQUEST),Comment:,Template
+Histopath - Omental biopsy,Biopsy No,SingleLine Text
+Histopath - Omental biopsy,Comment:,Template
+Histopath - Orchidectomy,Biopsy No,SingleLine Text
+Histopath - Orchidectomy,Comment:,Template
+Histopath - Ovarian Cyst (small),Biopsy No,SingleLine Text
+Histopath - Ovarian Cyst (small),Comment:,Template
+Histopath - Ovarian tumour/Large cyst,Biopsy No,SingleLine Text
+Histopath - Ovarian tumour/Large cyst,Comment:,Template
+Histopath - P,Comment:,Template
+Histopath - Pancreatic resection,Comment:,Template
+"Histopath - Panel 1 (medgenome) EGFR, Alk, ROS1, PDL1",Comment:,Template
+Histopath - Parapharyngeal mass excision,Comment:,Template
+Histopath - Parotidectomy/Salivary gland,Biopsy No,SingleLine Text
+Histopath - Parotidectomy/Salivary gland,Comment:,Template
+Histopath - Partial Nephrectomy,Biopsy No,SingleLine Text
+Histopath - Partial Nephrectomy,Comment:,Template
+Histopath - PDL 1 ( Clone SP 263 ) by IHC (Oncquest),Comment:,Template
+Histopath - PDL 1 Nivolumeb (Quest),Comment:,Template
+Histopath - PDL 1 Pembrolizumab (Quest),Comment:,Template
+Histopath - PDL1 Analysis by IHC  ( Medgenome),Comment:,Template
+Histopath - Peritoneal biopsy,Biopsy No,SingleLine Text
+Histopath - Peritoneal biopsy,Comment:,Template
+Histopath - Pilonidal sinus,Biopsy No,SingleLine Text
+Histopath - Pilonidal sinus,Comment:,Template
+Histopath - Pituitary Tumour,Comment:,Template
+Histopath - Pituitary tumour,Comment:,Template
+Histopath - Placenta,Biopsy No,SingleLine Text
+Histopath - Placenta,Comment:,Template
+Histopath - Pleural biopsy,Biopsy No,SingleLine Text
+Histopath - Pleural biopsy,Comment:,Template
+Histopath - Polypectomy,Biopsy No,SingleLine Text
+Histopath - Polypectomy,Comment:,Template
+Histopath - Products of conception,Biopsy No,SingleLine Text
+Histopath - Products of conception,Comment:,Template
+Histopath - Punch biopsy,Biopsy No,SingleLine Text
+Histopath - Punch biopsy,Comment:,Template
+Histopath - QUEST EXPERT DIAGNOSIS,Comment:,Template
+Histopath - Radial Mastectomy,Biopsy No,SingleLine Text
+Histopath - Radial Mastectomy,Comment:,Template
+Histopath - Radical Cystectomy (Urinary bladder),Comment:,Template
+Histopath - Radical Hysterectomy,Comment:,Template
+Histopath - Radical Prostatectomy,Biopsy No,SingleLine Text
+Histopath - Radical Prostatectomy,Comment:,Template
+Histopath - Renal - IHC - CMV (Outsource),Comment:,Template
+Histopath - Renal - IHC - SV40 (Outsource),Comment:,Template
+"Histopath - Renal biopsy - Electron microscopy (Jaslok, Bombaby)",1:1 Undilution,List Of Choices
+"Histopath - Renal biopsy - Electron Microscopy(Jaslok,Bombaby)",Comment:,Template
+Histopath - Ros Inarrangement by FISH (Oncquest),Comment:,Template
+Histopath - ROS-1 Rearrangement FISH (Oncquest),Comment:,Template
+histopath - Rrenal biopsy - Electron microscopy,Observation,List Of Choices
+Histopath - Salivary gland excision,Comment:,Template
+Histopath - Salpingo Oopherectomy,Comment:,Template
+Histopath - Second opinion (>3 slides and blocks),Biopsy No,SingleLine Text
+Histopath - Second opinion (>3 slides and blocks),Comment:,Template
+Histopath - Second opinion (Slide & Block),Biopsy No,SingleLine Text
+Histopath - Second opinion (Slide & Block),Comment:,Template
+Histopath - Second Opinion Slide & Block (CMC Vellore),Comment:,Template
+Histopath - Second opinion Slide and Block,Biopsy No,SingleLine Text
+Histopath - Second opinion Slide and Block,Comment:,Template
+Histopath - Second opinion slide and block (CMC Vellore),Comment:,Template
+Histopath - Second opinion slide and block (NIMHANS),Comment:,Template
+Histopath - Second opinion slide only,Biopsy No,SingleLine Text
+Histopath - Second opinion slide only,Comment :-,Template
+Histopath - Second opinion slide only (NIMHANS),Comment:,Template
+"Histopath - Second opinion Slide, Block & Specimen",Comment:,Template
+Histopath - Second opinion Specimen,Comment:,Template
+Histopath - Simple Mastectomy,Comment:,Template
+Histopath - Sinus biopsy,Comment:,Template
+Histopath - Sinus Biopsy / Fess,Comment:,Template
+Histopath - Skin biopsy,Biopsy No,SingleLine Text
+Histopath - Skin biopsy,Comment:,Template
+Histopath - Skin biopsy IF,Comment:,Template
+Histopath - Skin biopsy IF (Amrita),Comment:,Template
+Histopath - Skin biopsy LM,Comment:,Template
+Histopath - Skin biopsy LM & IF,Comment:,Template
+Histopath - Skin biopsy LM & IF,Comments,MultiLine Text
+Histopath - slide review (Quest),Comment:,Template
+Histopath - Small bowel resection,Comment:,Template
+Histopath - Snare Polypectomy,Comment:,Template
+Histopath - Splenectomy,Biopsy No,SingleLine Text
+Histopath - Splenectomy,Comment:,Template
+Histopath - Sputum for hemosiderin laden macrophages,Comment:,Template
+Histopath - Stereotactic  biopsy,Biopsy No,SingleLine Text
+Histopath - Stereotactic  biopsy,Comment:,Template
+Histopath - Synovial biopsy,Biopsy No,SingleLine Text
+Histopath - Synovial biopsy,Comment:,Template
+Histopath - Testicular biopsy,Biopsy No,SingleLine Text
+Histopath - Testicular biopsy,Comment:,Template
+Histopath - Thrombectomy,Comment:,Template
+Histopath - Thrombectomy,Comment:,Template
+Histopath - Thyroglossal cyst - excision,Comment:,Template
+Histopath - Thyroid with Parathyroidectomy,Comment:,Template
+Histopath - Tongue biopsy,Biopsy No,SingleLine Text
+Histopath - Tongue biopsy,Comment:,Template
+Histopath - Tonsillectomy,Biopsy No,SingleLine Text
+Histopath - Tonsillectomy,Comment:,Template
+Histopath - Tonsillectomy,Comment:,Template
+Histopath - Tonsillectomy / Adenoidectomy,Comment:,Template
+Histopath - Total Thyroidectomy,Biopsy No,SingleLine Text
+Histopath - Total Thyroidectomy,Comment:,Template
+Histopath - Total thyroidectomy with neck dissection,Comment:,Template
+Histopath - Trucut biopsy,Comment:,Template
+Histopath - Trucut biopsy ( Any Site),Biopsy No,SingleLine Text
+Histopath - Trucut biopsy ( Any Site),Comment:,Template
+Histopath - TURBT,Comment:,Template
+Histopath - TURP  Chips,Biopsy No,SingleLine Text
+Histopath - TURP  Chips,Comment:,Template
+Histopath - Vaccum assisted biopsy - breast,Comment :-,Template
+Histopath - Vocal cord,Biopsy No,SingleLine Text
+Histopath - Vocal cord,Comment:,Template
+Histopath - Watson Genomic Quest Diagnostics core,Comment:,Template
+Histopath - Whipples (Pancreaticoduodenectomy),Biopsy No,SingleLine Text
+Histopath - Whipples (Pancreaticoduodenectomy),Comment:,Template
+Histopath - Wide Local Excision,Comment:,Template
+Histopath - Wide local excision - Buccal mucosa / Lip / Tongue,Comment:,Template
+Histopath - Wide local excision - Lip,Comment:,Template
+Histopath - Wide local excision of eyelid,Comment:,Template
+Histopath - Wide local excision with with mandible and maxilla,Comment:,Template
+Histopath- Sextant biopsy prostate,Comment:,Template
+HIV - Tridot + p24 Antigen,HIV-1,List Of Choices
+HIV - Tridot + p24 Antigen,HIV-1 & HIV-2 Antibody,List Of Choices
+HIV - Tridot + p24 Antigen,HIV-2,List Of Choices
+HIV - Tridot + p24 Antigen,p24 Antigen,List Of Choices
+HIV - Tridot + p24 Antigen,p24 Antigen & Antibody (HIV-1 & HIV-2),List Of Choices
+HIV - Tridot + p24 Antigen,p24 Antigen & HIV-1 Antibody,List Of Choices
+HIV - Tridot + p24 Antigen,p24 Antigen & HIV-2 Antibody,List Of Choices
+HIV 1 & 2 CARD (Emergency Purpose Only),HIV 1 & 2,List Of Choices
+HIV 1 & 2 CARD (Emergency Purpose Only),HIV 1 & 2 CARD,SubHeading
+HIV 1 & 2 CARD (Emergency Purpose Only),HIV-1,List Of Choices
+HIV 1 & 2 CARD (Emergency Purpose Only),HIV-2,List Of Choices
+HIV 1 RNA,Result,Numeric
+"HIV 1 RNA Quantitative , RT PCR  (lp)",Result,SingleLine Text
+HIV 1+2 ELISA -Panel,A:G Ratio,Numeric
+HIV 2 RNA PCR,Result,List Of Choices
+HIV 2 Viral Load,Result,List Of Choices
+HIV 2 Western Blot,Result,List Of Choices
+HIV Antigen & Antibody (ELFA),HIV Antigen & Antibody (ELFA),SubHeading
+HIV Antigen & Antibody (ELFA),HIV-1 & HIV-2 Antibody,Numeric
+HIV Antigen & Antibody (ELFA),HIV-1 p24 Antigen,Numeric
+HIV Antigen & HIV Antibody (ELISA),HIV Ag & HIV Ab,Numeric
+HIV Antigen & HIV Antibody (ELISA),HIV Antigen & HIV Antibody (ELISA),SubHeading
+HIV Antigen & HIV Antibody (ELISA),Interpretation,List Of Choices
+HIV DNA PCR,A:G Ratio,Numeric
+HIV I & II (COMBI-ECLIA),A:G Ratio,Numeric
+HIV RNA PCR Quantitative+CD3+CD4+CD8,Result,SingleLine Text
+HIV RNA PCR(Quantiative viral load),A:G Ratio,Numeric
+HIV-1/HIV-2 Antibody & p24 Antigen (CLIA),HIV-1/HIV-2 Antibody & p24 Antigen,Numeric
+HIV-1/HIV-2 Antibody & p24 Antigen (CLIA),HIV-1/HIV-2 Antibody & p24 Antigen (CLIA),SubHeading
+HIV-1/HIV-2 Antibody & p24 Antigen (CLIA),Interpretation,List Of Choices
+HIV1 VIRAL LOAD,Result,List Of Choices
+HIV1&2 Western Blot,Result,List Of Choices
+"HLA - A, B , DR",A:G Ratio,Numeric
+HLA - B5 (B *51/52) - Lalpath,Result,List Of Choices
+"HLA B27,Qualitative PCR",Result,List Of Choices
+HLA-B27,Result,Numeric
+Holter,Impression,TextEditor
+Homocysteine,Homocystine,Numeric
+Homocystine Serum,A:G Ratio,Numeric
+HsCRP,Result,List Of Choices
+Hsg,Impression,TextEditor
+HSV - 1 IgM Serum,Result,List Of Choices
+HSV - 1& 2 IgG CSF,Result,Numeric
+HSV 1 & 2 IgG Western Blot,Result,List Of Choices
+HSV 1 & 2 IgM Western Blot,Result,List Of Choices
+HSV 1&2 IgG,Result,List Of Choices
+HSV 2 IgG,Result,List Of Choices
+HSV I & II IgM CSF,Result,SingleLine Text
+HTLV 1 & 2 Virus,Result,List Of Choices
+Human Papilloma Virus- Detection & Genotyping (PCR),Result,List Of Choices
+IA2( Insulin Autoantibodies) - Metropolis,Result,Numeric
+Ig A CSF,Result,Numeric
+IgA (CSF),Result,List Of Choices
+IgA Endomysial antibody BY IFA (LALPATH),Result,List Of Choices
+IgA Endomysial antibody BY IFA - Dilution(LALPATH),Result,List Of Choices
+IgA Serum,Result,Numeric
+IgE,IgE,SubHeading
+IgE,Result,Numeric
+IGF -1,Result,Numeric
+IGF BP3,IGF BP-3,Numeric
+IgG,Immunoglobulin G,Numeric
+IgG CSF,Result,Numeric
+IgG Serum,Result,Numeric
+IgG4 Sub class,Result,List Of Choices
+IgM,Immunoglobulin M,Numeric
+IgM CSF,Result,Numeric
+Immunoblot for food allergens,Result,SingleLine Text
+"Immunodeficiency Panel 2: CD4/CD8 Counts (CD3,CD4,CD8)",A:G Ratio,Numeric
+Immunodeficiency Panel 4: CD4 Counts (CD3 & CD4),A:G Ratio,Numeric
+Immunofixation - Qualitative Serum,A:G Ratio,Numeric
+Immunofixation - Quantitative CSF,A:G Ratio,Numeric
+Immunofixation - Quantitative Urine,A:G Ratio,Numeric
+Immunofixation Qualitative Urine,A:G Ratio,Numeric
+Immunofixation- Quantitative Serum,A:G Ratio,Numeric
+Immunoglobulin profile,Result,SingleLine Text
+Indian ink Preparation CSF,Indian ink preparation CSF,SubHeading
+Indian ink Preparation CSF,Result,List Of Choices
+Indirect Coobs Test with Antibody Titre,Antibody Titre,SingleLine Text
+INDIRECT COOMB'S TEST (Titer ),ICT ( Titer ),List Of Choices
+Indirect Coombs Test,ICT,List Of Choices
+Insulin,A:G Ratio,Numeric
+Insulin Antibodies,Result,List Of Choices
+Insulin Fasting,Insulin Fasting,Numeric
+Insulin Free ( Bioactive ),A:G Ratio,Numeric
+Insulin Resistance Test,A:G Ratio,Numeric
+IRON - Serum,Iron,Numeric
+Iron Profile,Ferritin,Numeric
+Iron Profile,Iron,Numeric
+Iron Profile,TIBC,Numeric
+Iron Profile,Transferin  Saturation,Numeric
+Ivp,Impression,TextEditor
+JAK - 2 Mutation (CMPD) Exon 12,Result,SingleLine Text
+JAK -2 Mutation (CMPD) V617F,Result,List Of Choices
+Kappa,A:G Ratio,Numeric
+Karyoquest (on quest),Result,SingleLine Text
+Karyotyping by G- Banding,Result,List Of Choices
+Ketone bodies,Acetone,List Of Choices
+KOH Smear,Result,List Of Choices
+L E Cells,A:G Ratio,Numeric
+LACTATE,Lactate,Numeric
+Lactate ( CSF ),A:G Ratio,Numeric
+Lamda,A:G Ratio,Numeric
+Large Film (1 View),Impression,TextEditor
+Large Film (2 View),Impression,TextEditor
+Laser Ablation of Vericose Veins,Impression,TextEditor
+LDH ( Lactate Dehydrogenase ),LDH,Numeric
+LDL Cholesterol,LDL Cholesterol,Numeric
+Lead ( O ),Lead,Numeric
+Legionella Pneumophila Antigen Urine,Result,List Of Choices
+Leptin,A:G Ratio,Numeric
+Leptospira IgM (ELISA),Interpretation,List Of Choices
+Leptospira IgM (ELISA),Leptospira IgM,Numeric
+Leptospira IgM (ELISA),Leptospira IgM (ELISA),SubHeading
+Leptospiral Antibody IgM/IgG Card,IgG,List Of Choices
+Leptospiral Antibody IgM/IgG Card,IgM,List Of Choices
+Leptospiral Antibody IgM/IgG Card,Leptospira IgG Antibody,List Of Choices
+Leptospiral Antibody IgM/IgG Card,Leptospira IgM Antibody,List Of Choices
+Leptospiral Antibody IgM/IgG Card,Leptospiral Antibody IgM/IgG Card,SubHeading
+Leptospiral IgG,A:G Ratio,Numeric
+LIPASE,Lipase,Numeric
+Lipase (Urine),Lipase,Numeric
+Lipid Profile,HDL Cholesterol,Numeric
+Lipid Profile,LDL Cholesterol,Numeric
+Lipid Profile,Lipid Profile,SubHeading
+Lipid Profile,Total Cholesterol,Numeric
+Lipid Profile,Triglycerides,Numeric
+Lipid Profile,VLDL Cholesterol,Numeric
+Lipid Profile - EHC,HDL Cholesterol,Numeric
+Lipid Profile - EHC,LDL / HDl Ratio,SingleLine Text
+Lipid Profile - EHC,LDL Cholesterol,Numeric
+Lipid Profile - EHC,Lipid Profile - EHC,SubHeading
+Lipid Profile - EHC,Total Cholesterol,Numeric
+Lipid Profile - EHC,Triglycerides,Numeric
+Lipid Profile - EHC,VLDL Cholesterol,Numeric
+Lipoprotein Electrophoresis (O),Result,SingleLine Text
+Lithium (Serum),Lithium,Numeric
+Liver Function Test ( LFT ),A:G Ratio,Numeric
+Liver Function Test ( LFT ),Albumin,Numeric
+Liver Function Test ( LFT ),Alkaline Phosphatase,Numeric
+Liver Function Test ( LFT ),Direct Bilirubin,Numeric
+Liver Function Test ( LFT ),Globulin,Numeric
+Liver Function Test ( LFT ),Indirect Bilirubin,Numeric
+Liver Function Test ( LFT ),Liver Function Test ( LFT ),SubHeading
+Liver Function Test ( LFT ),SGOT,Numeric
+Liver Function Test ( LFT ),SGPT,Numeric
+Liver Function Test ( LFT ),Total Bilirubin,Numeric
+Liver Function Test ( LFT ),Total Protein,Numeric
+Liver- Bilirubin,Direct Bilirubin,Numeric
+Liver- Bilirubin,Indirect Bilirubin,Numeric
+Liver- Bilirubin,Total Bilirubin,Numeric
+LKM Ab,Result,Numeric
+Lp(a),Result,Numeric
+Lupus Anticoagulant (lalpath),Lupus Anticoagulant,Numeric
+LUTENIZING  HORMONE ( LH ),Luteinizing Hormone,Numeric
+Lyme Disease Antibobies IgM & IgG,Result,List Of Choices
+Lyme IgM,Result,List Of Choices
+Lymphoma Diagnostic panel- Flowcytometry (QUEST),Result,List Of Choices
+M P Card Test,M P Card,List Of Choices
+Magnesium,Magnesium,Numeric
+Malarial Parasite by PS,Observation,Template
+Malarial Parasite kit test (Antigen),A:G Ratio,Numeric
+MAMMOGRAPHY,Impression,TextEditor
+MCV,MCV,Numeric
+Meningoencephalitis - Multiplex Real-Time PCR,Result,SingleLine Text
+Metanephrine-Free Plasma,Metanephrine-Free Plasma,Numeric
+Methadone,Result,Numeric
+Methamphetamine,Result,Numeric
+Microfilaria by PBF,A:G Ratio,Numeric
+Microfilaria by PS,Observation,Template
+Microglobulin,A:G Ratio,Numeric
+Microplasma pneumoniae IgM,Result,Numeric
+Mitochondrial Antibody (AMA) by IFA,Result,Numeric
+MNC Count,MNC count,SingleLine Text
+MNC Count,MNC COUNT,SubHeading
+MNC Count,TC,Numeric
+Molecular MPN Pannel ( QUEST ),CALRETICULIN Mutation,SubHeading
+Molecular MPN Pannel ( QUEST ),FISH t ( 9: 22 ),SubHeading
+Molecular MPN Pannel ( QUEST ),Jak 2v617F Mutation,SubHeading
+MP  Card,MP Card,List Of Choices
+MPO-ANCA (p-ANCA) ELISA,Interpretation,List Of Choices
+MPO-ANCA (p-ANCA) ELISA,MPO-ANCA (p-ANCA),Numeric
+MRI - MRCP,Impression,TextEditor
+MRI Contrast Charges - 10ml,Impression,TextEditor
+MRI Contrast Charges - 20 ml,Impression,TextEditor
+"MRSA SCREEN (OUTSIDE TREATED CASES ),ONE SWAB",Culture,Culture
+"MRSA SCREEN (OUTSIDE TREATED CASES ),ONE SWAB",Gram Stain,List Of Choices
+"MRSA SCREEN (OUTSIDE TREATED CASES ),ONE SWAB",Gram Stain,SingleLine Text
+"MRSA SCREEN (OUTSIDE TREATED CASES ),ONE SWAB",MRSA Screen swab culture,SubHeading
+"MRSA SCREEN (OUTSIDE TREATED CASES ),ONE SWAB",Observation,List Of Choices
+MRSA Screen Swab Culture,Culture,Culture
+MRSA Screen Swab Culture,Gram Stain,List Of Choices
+MRSA Screen Swab Culture,Gram Stain,List Of Choices
+MRSA Screen Swab Culture,MRSA Screen swab culture,SubHeading
+MRSA Screen Swab Culture,Observation,List Of Choices
+MUSK Antibody,Result,Numeric
+Mycoplasma pneumoniae by RT PCR,Result,List Of Choices
+Myoglobin,A:G Ratio,Numeric
+Myoglobin (Urine),A:G Ratio,Numeric
+N - myc Gene amplification by FISH (Oncquest),Comment:,Template
+NAAT CheX TB + Neurocysticercosis,Result,List Of Choices
+Nail Clipping For Fungus,A:G Ratio,Numeric
+NCS Single limb,Impression,TextEditor
+NCS-All 4 limbs,Impression,TextEditor
+NCS-Brachial plexus,Impression,TextEditor
+NCS-CTS Protocol,Impression,TextEditor
+NCS-Lumbar Radiculopathy Protocol,Impression,TextEditor
+NCS-Single limb,Impression,TextEditor
+NCS-Two limbs,Impression,TextEditor
+Neonatal Screen  II (Urine ) - 111 Conditions,Phenyl Alanine,MultiLine Text
+Neonatal Screen - III ( Blood & Urine ) - 119 Conditions,17OHProgestrone,Numeric
+Neonatal Screen - III ( Blood & Urine ) - 119 Conditions,Biotinidase,MultiLine Text
+Neonatal Screen - III ( Blood & Urine ) - 119 Conditions,Cystic Fibrosis,MultiLine Text
+Neonatal Screen - III ( Blood & Urine ) - 119 Conditions,G6PD,Numeric
+Neonatal Screen - III ( Blood & Urine ) - 119 Conditions,Galactosemia,MultiLine Text
+Neonatal Screen - III ( Blood & Urine ) - 119 Conditions,Phenyl Alanine,MultiLine Text
+Neonatal Screen - III ( Blood & Urine ) - 119 Conditions,TSH,Numeric
+Neonatal Screen 1 ( Blood ) 7 Conditions,CAH,SingleLine Text
+Neonatal Screen 1 ( Blood ) 7 Conditions,CF,SingleLine Text
+Neonatal Screen 1 ( Blood ) 7 Conditions,CH,SingleLine Text
+Neonatal Screen 1 ( Blood ) 7 Conditions,G6PD,Numeric
+Neonatal Screen 1 ( Blood ) 7 Conditions,Galactosemia  and biotinidase deficiency,SingleLine Text
+Neonatal Screen 1 ( Blood ) 7 Conditions,Phenyl Alanine,MultiLine Text
+Neonatal screen-  IV,A:G Ratio,Numeric
+NF  genetic test  ( Genepath),Result,List Of Choices
+Nicotine Level,A:G Ratio,Numeric
+NMDA Receptor Antibody (NR1) (AMRITHA),Result,List Of Choices
+NMO(Aquaporin 4) (Neuromyelitis Optica Antibodies) (AMRITHA),Result,List Of Choices
+Non invasive Prenatal Screening Test (NIPT),Monosomy X,SingleLine Text
+Non invasive Prenatal Screening Test (NIPT),Triploidy,SingleLine Text
+Non invasive Prenatal Screening Test (NIPT),Trisomy 13,SingleLine Text
+Non invasive Prenatal Screening Test (NIPT),Trisomy 18,SingleLine Text
+Non invasive Prenatal Screening Test (NIPT),Trisomy 21,SingleLine Text
+Opiates,Result,Numeric
+Osmolality Serum ( O ),Serum Osmolality,Numeric
+Osmolality Urine ( O ),"Osmolality, Urine,Freezing Point Depression",Numeric
+Osmotic Fragility Test,Control,SubHeading
+Osmotic Fragility Test,Haemolysis completed by,SingleLine Text
+Osmotic Fragility Test,Haemolysis completed by:,SingleLine Text
+Osmotic Fragility Test,Haemolysis started at,SingleLine Text
+Osmotic Fragility Test,Haemolysis started at;,SingleLine Text
+Osmotic Fragility Test,Test,SubHeading
+Oxalate,A:G Ratio,Numeric
+P ANCA,P ANCA,Numeric
+Pacemaker Analysis,Impression,TextEditor
+Paired blood culture automated(Aerobic and Anaerobic),Comments,MultiLine Text
+Paired blood culture automated(Aerobic and Anaerobic),Culture,Culture
+Paired blood culture automated(Aerobic and Anaerobic),Gram stain,MultiLine Text
+Paired blood culture automated(Aerobic and Anaerobic),Observation,List Of Choices
+Paired blood culture automated(Aerobic and Anaerobic),OBSERVATION,List Of Choices
+Paired blood culture automated(Aerobic and Anaerobic),PAIRED BLOOD CULTURE AUTOMATED,SubHeading
+Paired blood culture automated(Aerobic and Anaerobic),Sample,SingleLine Text
+Paired blood culture automated(Aerobic and Anaerobic),SAMPLE A : AEROBIC BLOOD CULTURE,SubHeading
+Paired blood culture automated(Aerobic and Anaerobic),SAMPLE B: ANAEROBIC BLOOD CULTURE,SubHeading
+Paired blood culture automated(Aerobic and Anaerobic),Site,SingleLine Text
+Pan bacterial 16S rRNA Detection and Identificatio,Result,List Of Choices
+PAN Bacterial Detection and Identification (GENE PATH),Result,List Of Choices
+Pan-Malaria Card,Malarial Antigen,List Of Choices
+PAP Smear,Comment:,Template
+PAPPa,A:G Ratio,Numeric
+PARA  THYROID  HORMONE,ParaThyroid Hormone,Numeric
+Paracetamol Level (Quantitative) - Serum,Paracetamol Level,SubHeading
+Parvo virus B19 IgM,Result,Numeric
+Parvo virus B19 Qualitative (GENEPATH),Result,SingleLine Text
+Parvo virus B19-quantitative-(Genepath),Result,List Of Choices
+Parvovirus B19 antibodies panel Ig G & Ig M,Result,Numeric
+Paul Bunel (IM) Test,A:G Ratio,Numeric
+Paul Bunnel Test(Infectious Mononucleosis),Result,Numeric
+PCP  ( Phencyclidine Phosphate ),A:G Ratio,Numeric
+PCV / HCT ( Packed Cell Volume ),PCV,Numeric
+Pericardial Fluid,Albumin,Numeric
+Pericardial Fluid,Chemical Examination,SubHeading
+Pericardial Fluid,Clarity,List Of Choices
+Pericardial Fluid,Clot,List Of Choices
+Pericardial Fluid,Colour,List Of Choices
+Pericardial Fluid,Differential Count,SubHeading
+Pericardial Fluid,Glucose 30 minutes,Numeric
+Pericardial Fluid,Lymphocytes,Numeric
+Pericardial Fluid,Microscopic Examination,SubHeading
+Pericardial Fluid,Neutrophils,Numeric
+Pericardial Fluid,Others,MultiLine Text
+Pericardial Fluid,Physical Examination,SubHeading
+Pericardial Fluid,Protein,Numeric
+Pericardial Fluid,RBC Count,Numeric
+Pericardial Fluid,Total Count,Numeric
+Peripheral Blood Smear ( PBF ),Observation,Template
+Peripheral Blood Smear ( PBF ),Peripheral Blood Smear ( PBF ),SubHeading
+Peritonieal Fluid Cytology,Comment:,Template
+PET CT,Impression,TextEditor
+PH,pH,Numeric
+Phenobarbitone (Gardinal),Result,Numeric
+"Phenytoin ( Eptoin, Dilantin )",Phenyntoin,Numeric
+Phospholipid IgM,Phospholipid IgM,Numeric
+Phosphorus,Phosphorus,Numeric
+Phosphorus -  Inorganic Serum,Result,Numeric
+Phosphorus - Inorganic 24hr Urine,Result,Numeric
+Phosphorus - Inorganic Urine Spot,Result,Numeric
+PLA2 Receptor Antibody,Result,List Of Choices
+Plasma Aldostirone Concentration,Plasma Aldostirone Concentration,Numeric
+Plasma Renin Activity,Renin Activity,Numeric
+Platelet Count,Platelet,Numeric
+"Pleural Fluid  ( TC , DC )",Appearance,List Of Choices
+"Pleural Fluid  ( TC , DC )",Atypical Cells,List Of Choices
+"Pleural Fluid  ( TC , DC )",Celll Count,SubHeading
+"Pleural Fluid  ( TC , DC )",Colour,List Of Choices
+"Pleural Fluid  ( TC , DC )",Differential Count,SubHeading
+"Pleural Fluid  ( TC , DC )",Eosinophils,Numeric
+"Pleural Fluid  ( TC , DC )",Lymphocytes,Numeric
+"Pleural Fluid  ( TC , DC )",Mesothelial Cells,List Of Choices
+"Pleural Fluid  ( TC , DC )",Neutrophils,Numeric
+"Pleural Fluid  ( TC , DC )",Others,MultiLine Text
+"Pleural Fluid  ( TC , DC )",Physical Examination,SubHeading
+"Pleural Fluid  ( TC , DC )",RBC,Numeric
+"Pleural Fluid  ( TC , DC )",TC ( WBC ),SingleLine Text
+"Pleural Fluid  ( TC , DC )",Volume,Numeric
+Pneumocystis carinii detection (IFA),Result,SingleLine Text
+Porphobilnogen,Result,Numeric
+Porphyrins Screening ( Metropolis ),Result,Numeric
+Portable USG - Abdomen,Impression,TextEditor
+Portable Usg With Report (Additional Charge),Impression,TextEditor
+Potassium ( serum ),Potassium,Numeric
+PR3-ANCA (c-ANCA) ELISA,Interpretation,List Of Choices
+PR3-ANCA (c-ANCA) ELISA,PR3-ANCA (c-ANCA),Numeric
+Prader Willi PCR,Result,List Of Choices
+Pregnancy Test ( Card ),Pregnancy Test,List Of Choices
+pro - BNP,A:G Ratio,Numeric
+pro BNP,A:G Ratio,Numeric
+PROCALCITONIN,Procalcitonin,Numeric
+Progesterone,Progesterone,Numeric
+PROLACTIN,Prolactin,Numeric
+Prolactin (Dilution study),Prolactin,Numeric
+Protein C,Protein C,Numeric
+Protein Creatinine Ratio,Creatinine,Numeric
+Protein Creatinine Ratio,Protein,Numeric
+Protein Creatinine Ratio,Protein Creatinine Ratio,Numeric
+Protein Electrophoresis  ( O ),Electrophoresis,SubHeading
+Protein Electrophoresis  ( O ),Note:,Template
+Protein S,Protein S,Numeric
+Prothrombin Time with INR,Control,Numeric
+Prothrombin Time with INR,INR,Numeric
+Prothrombin Time with INR,Test,Numeric
+PSA ( Total ),Prostate specific Antigen,Numeric
+Pseudo Cholinesterase,Pseudo Cholinesterase,Numeric
+Pseudocholinesterase,Pseudo Cholinesterase,Numeric
+"PTH, intact & Calcium (Quest)",Calcium,Numeric
+"PTH, intact & Calcium (Quest)",ParaThyroid Hormone,Numeric
+QBC MP,QBC MP,Template
+Quadruple test (Maternal Screen),A:G Ratio,Numeric
+RA Factor ( Semi-quantitative ),RA Factor,Numeric
+RA Factor ( Semi-quantitative ),RA Factor ( Semi-quantitative ),SubHeading
+Rabies Antibody,A:G Ratio,Numeric
+Rapid Plasma Reagin (RPR) Card Test,Rapid Plasma Reagin (RPR) Card Test,SubHeading
+Rapid Plasma Reagin (RPR) Card Test,RPR,List Of Choices
+Rapid Plasma Reagin (RPR) Card Test,Titre,List Of Choices
+RBC Folate,A:G Ratio,Numeric
+Renin Activity Plasma,A:G Ratio,Numeric
+Report Second  Opinion,Impression,TextEditor
+Respiratory Infection-Bacterial (Bordetella spp) by RT PCR,Result,List Of Choices
+Respiratory Infections-Flu by RT PCR,Result,List Of Choices
+Respiratory panel,Result,List Of Choices
+Reticulocyte Count,Reticulocyte Count,Numeric
+RF IgA,A:G Ratio,Numeric
+RF IgG,A:G Ratio,Numeric
+RF IgM,A:G Ratio,Numeric
+RF Nephalometry (Outsource),Result,List Of Choices
+RFT,Creatinine,Numeric
+RFT,Renal Function Test,SubHeading
+RFT,Urea,Numeric
+Rheumatoid Factor (RA) (Qualitative/Semi-quantitative),RA Factor,Numeric
+Rheumatoid Factor (RA) (Qualitative/Semi-quantitative),RHeumatoid Factor (RA) (Qualitative/Semi-quantitative),SubHeading
+RNP - Sm Antibody,Result,Numeric
+RNS,Impression,TextEditor
+Rota virus - Antigen detection,Result,List Of Choices
+Rubella IgG,A:G Ratio,Numeric
+Rubella IgM,A:G Ratio,Numeric
+Rubella(German Measles) Virus IgG & IgM Serum,Result,Numeric
+S. Folate,S. Folate,Numeric
+SAAG,Ascitic Fluid Albumin,Numeric
+SAAG,SAAG,Numeric
+SAAG,Serum Albumin,Numeric
+Saline/Wet Mount (For Microscopic Examination),Observation,SingleLine Text
+Saline/Wet Mount (For Microscopic Examination),Saline/Wet Mount (For Microscopic Examination),SubHeading
+Saline/Wet Mount (For Microscopic Examination),Site/Sample type,SingleLine Text
+Scl - 70 Antibody,Result,Numeric
+Sclerotherapy USG-Guided,Impression,TextEditor
+Scrub typhus IgM,Result,List Of Choices
+selenium Serum,A:G Ratio,Numeric
+Semen Analysis Detailed,Abnormal Mid-Piece/Tail,Numeric
+Semen Analysis Detailed,Actively Motile (A),Numeric
+Semen Analysis Detailed,Colour,List Of Choices
+Semen Analysis Detailed,Double Head,Numeric
+Semen Analysis Detailed,Gaint Head,Numeric
+Semen Analysis Detailed,Liquefaction Time,SingleLine Text
+Semen Analysis Detailed,Microscopic Examination,SubHeading
+Semen Analysis Detailed,Morphology,SubHeading
+Semen Analysis Detailed,Motility,SubHeading
+Semen Analysis Detailed,Non Motile (C),Numeric
+Semen Analysis Detailed,Normal Morphology,Numeric
+Semen Analysis Detailed,Note:,Template
+Semen Analysis Detailed,Others,MultiLine Text
+Semen Analysis Detailed,pH,SingleLine Text
+Semen Analysis Detailed,Physical Examination,SubHeading
+Semen Analysis Detailed,Pin Head,Numeric
+Semen Analysis Detailed,Puscells,SingleLine Text
+Semen Analysis Detailed,Sluggish Motile (B),Numeric
+Semen Analysis Detailed,Sperm Total Count,Numeric
+Semen Analysis Detailed,Stunted Head,Numeric
+Semen Analysis Detailed,Viscosity,List Of Choices
+Semen Analysis Detailed,Volume,Numeric
+Semen Fructose,A:G Ratio,Numeric
+Serotonin,A:G Ratio,Numeric
+Serum Alcohol,A:G Ratio,Numeric
+SES Acute Encephalitic Syndrome (AES),Result,List Of Choices
+SES Antibiotic resistance panel (xcyton),Result,List Of Choices
+SES Community Acquired Pneumonia,Result,List Of Choices
+SES Infectious endophathalmitis,Result,SingleLine Text
+SES MDR TB,Result,List Of Choices
+SES Meningitis,Result,List Of Choices
+SES Meningitis + SES Antibiotic Resistance Markers,Result,List Of Choices
+SES Meningo Encephalitis + Parechovirus,Result,List Of Choices
+SES Meningoencephalitis PCR,Result,SingleLine Text
+SES Mycobacteria,Result,List Of Choices
+SES Pan CNS,Result,List Of Choices
+SES Pan CNS + SES Antibiotic Resistance Markers,Result,List Of Choices
+SES Post Transplant/Febrile Neutropenia/Pneumonia,Result,List Of Choices
+SES Post Transplant/Febrile Neutropenia/Pneumonia+ SES Antibiotic Resistance Markers,Result,List Of Choices
+SES Respiratory Viral Panel,Result,List Of Choices
+SES RNA Virus,Result,List Of Choices
+SES Sepsis,Result,List Of Choices
+SES Sepsis + SES Antibiotic Resistance Markers,Result,List Of Choices
+SES Transplant Viral Panel,Result,List Of Choices
+SGOT/ AST,SGOT,Numeric
+SGOT/ AST,SGOT/ AST (Serum),SubHeading
+SGPT/ ALT,SGPT,Numeric
+SGPT/ ALT,SGPT/ ALT (Serum),SubHeading
+SHBG (Sex hormone binding globulin),Result,SingleLine Text
+Sialography,Impression,TextEditor
+Sickiling Test,Sickiling Test,List Of Choices
+Sickling Test,Sickiling Test,List Of Choices
+Skin biopsy LM & IF,Comment:,Template
+Sm Antibody ( Smith Antibody),Result,Numeric
+Smear For Gonococci,Gram Stain,SingleLine Text
+Smear For Gonococci,Result,List Of Choices
+Sodium ( serum ),Sodium,Numeric
+Solid Organ Transplant ( Antibody titer ).,Anti A ( IgM & IgG ),List Of Choices
+Solid Organ Transplant ( Antibody titer ).,"Anti A,B (IgM & IgG )",List Of Choices
+Solid Organ Transplant ( Antibody titer ).,Anti B (IgM & IgG ),List Of Choices
+Special Call - Radiologist,Impression,TextEditor
+Specific Gravity,Specific Gravity,SingleLine Text
+Sperm Antibody -Total (ASAB),Result,Numeric
+Sputum AFB  Stain ( Third Day ),Acid Fast Bacilli,List Of Choices
+Sputum AFB  Stain ( Third Day ),Result,SingleLine Text
+Sputum AFB  Stain ( Third Day ),Sputum AFB stain third day,SubHeading
+SPUTUM AFB (1st sample) -RNTCP,Acid Fast Bacilli,List Of Choices
+SPUTUM AFB (1st sample) -RNTCP,Result,List Of Choices
+SPUTUM AFB (1st sample) -RNTCP,Sputum AFB stain first day,SubHeading
+SPUTUM AFB (IInd sample) - RNTCP,Acid Fast Bacilli,List Of Choices
+SPUTUM AFB (IInd sample) - RNTCP,Result,List Of Choices
+SPUTUM AFB (IInd sample) - RNTCP,Sputum AFB stain second day,SubHeading
+Sputum AFB - 3 Days,AFB First Day,SubHeading
+Sputum AFB - 3 Days,AFB Second Day,SubHeading
+Sputum AFB - 3 Days,AFB Third Day,SubHeading
+Sputum AFB - 3 Days,Observation,List Of Choices
+Sputum AFB - 3 Days,Observation,List Of Choices
+Sputum AFB - 3 Days,Observation,List Of Choices
+Sputum AFB - 3 Days,Result,SingleLine Text
+Sputum AFB - 3 Days,Result,SingleLine Text
+Sputum AFB - 3 Days,Result,SingleLine Text
+Sputum AFB Stain ( Second Day ),Acid Fast Bacilli,List Of Choices
+Sputum AFB Stain ( Second Day ),Result,List Of Choices
+Sputum AFB Stain ( Second Day ),Sputum AFB stain second day,SubHeading
+Sputum AFB Stain (First Day ),Acid Fast Bacilli,List Of Choices
+Sputum AFB Stain (First Day ),Result,List Of Choices
+Sputum AFB Stain (First Day ),Sputum AFB stain first day,SubHeading
+Sputum Cytology,Observation,Template
+SSEP,Impression,TextEditor
+Stat Charge - Usg,Impression,TextEditor
+Stereotactic Biopsy,Impression,TextEditor
+Stereotactic Wire Loc,Impression,TextEditor
+Sterility Checking in Hospitals,Settle Plate,Template
+Sterility Checking in Hospitals,Swab,Template
+Stone Analysis,A:G Ratio,Numeric
+Stool culture for detection of Typhoid carriers,Observation,List Of Choices
+Stool Examination,Blood,List Of Choices
+Stool Examination,Colour,List Of Choices
+Stool Examination,Consistency,List Of Choices
+Stool Examination,Cysts,SingleLine Text
+Stool Examination,Microscopic Examination,SubHeading
+Stool Examination,Mucus,List Of Choices
+Stool Examination,Occult Blood,List Of Choices
+Stool Examination,Others,MultiLine Text
+Stool Examination,Ova,SingleLine Text
+Stool Examination,Parasites,List Of Choices
+Stool Examination,pH,Numeric
+Stool Examination,Physical Examination,SubHeading
+Stool Examination,Puscells,SingleLine Text
+Stool Examination,RBC,SingleLine Text
+Stool Examination,Vegetable Matter,List Of Choices
+Stool Fat Globules,Fat globules,List Of Choices
+Stool Hanging Drop,Result,List Of Choices
+Stool Occult Blood,Occult Blood,List Of Choices
+Stool pH,pH,Numeric
+Stool Reducing Substances,Reducing Substances,List Of Choices
+Stool Routine Examination,Blood,List Of Choices
+Stool Routine Examination,Colour,List Of Choices
+Stool Routine Examination,Consistency,List Of Choices
+Stool Routine Examination,Cysts,List Of Choices
+Stool Routine Examination,Fat globules,List Of Choices
+Stool Routine Examination,Microscopic Examination,SubHeading
+Stool Routine Examination,Mucus,List Of Choices
+Stool Routine Examination,Others,MultiLine Text
+Stool Routine Examination,Ova,List Of Choices
+Stool Routine Examination,Parasites,List Of Choices
+Stool Routine Examination,Physical Examination,SubHeading
+Stool Routine Examination,Puscells,SingleLine Text
+Stool Routine Examination,RBC,SingleLine Text
+Stool Routine Examination,Vegetable Matter,List Of Choices
+Stool Surveillance for SCT -1 Organism,Culture,Culture
+Streptococcus pneumoniae Antigen,Result,List Of Choices
+Sucrose Lysis,A:G Ratio,Numeric
+Synovial fluid  TC & DC,Appearance,List Of Choices
+Synovial fluid  TC & DC,Atypical Cells,List Of Choices
+Synovial fluid  TC & DC,Celll Count,SubHeading
+Synovial fluid  TC & DC,Colour,List Of Choices
+Synovial fluid  TC & DC,Differential Count,SubHeading
+Synovial fluid  TC & DC,Lymphocytes,Numeric
+Synovial fluid  TC & DC,Mesothelial Cells,List Of Choices
+Synovial fluid  TC & DC,Neutrophils,Numeric
+Synovial fluid  TC & DC,Others,MultiLine Text
+Synovial fluid  TC & DC,Physical Examination,SubHeading
+Synovial fluid  TC & DC,RBC,Numeric
+Synovial fluid  TC & DC,TC ( WBC ),SingleLine Text
+Synovial fluid  TC & DC,Volume,Numeric
+Synovial Fluid / Joint Fluid,Albumin,Numeric
+Synovial Fluid / Joint Fluid,Chemical Examination,SubHeading
+Synovial Fluid / Joint Fluid,Clarity,List Of Choices
+Synovial Fluid / Joint Fluid,Clot,List Of Choices
+Synovial Fluid / Joint Fluid,Colour,List Of Choices
+Synovial Fluid / Joint Fluid,Differential Count,SubHeading
+Synovial Fluid / Joint Fluid,Glucose 30 minutes,Numeric
+Synovial Fluid / Joint Fluid,Lymphocytes,Numeric
+Synovial Fluid / Joint Fluid,Microscopic Examination,SubHeading
+Synovial Fluid / Joint Fluid,Neutrophils,Numeric
+Synovial Fluid / Joint Fluid,Others,MultiLine Text
+Synovial Fluid / Joint Fluid,Physical Examination,SubHeading
+Synovial Fluid / Joint Fluid,Protein,Numeric
+Synovial Fluid / Joint Fluid,RBC Count,Numeric
+Synovial Fluid / Joint Fluid,Total Count,Numeric
+T Tube Cholangiography,Impression,TextEditor
+T3,T3,Numeric
+T4,T4,Numeric
+Tacrolimus,A:G Ratio,Numeric
+TB IgA,A:G Ratio,Numeric
+TB IgG,A:G Ratio,Numeric
+TB IgM,A:G Ratio,Numeric
+TC (Total  Count),Total Count,Numeric
+TCD Complete Study,Impression,TextEditor
+TEE - Transesophageal Echo Cardiograph,Impression,TextEditor
+TEE - Transesophageal Echo Cardiograph (Cardiology,Impression,TextEditor
+TESTOSTERONE TOTAL,Testosterone,Numeric
+Thyroglobulin,Thyroglobulin,Numeric
+Thyroglobulin Antibody ATA,Result,Numeric
+Thyroid Antibodies- AtAb TPO&ATA Serum,Anti thyroglobulin antibody,SubHeading
+Thyroid Antibodies- AtAb TPO&ATA Serum,Result,SingleLine Text
+Thyroid Antibodies- AtAb TPO&ATA Serum,Result,Numeric
+Thyroid Antibodies- AtAb TPO&ATA Serum,TPO (Thyroid Peroxidase) Antibody Serum,SubHeading
+"Thyroid Function Test (T3, T4 & TSH",Comment:,Template
+"Thyroid Function Test (T3, T4 & TSH",T3,Numeric
+"Thyroid Function Test (T3, T4 & TSH",T4,Numeric
+"Thyroid Function Test (T3, T4 & TSH","Thyroid Function Test (T3, T4 & TSH)",SubHeading
+"Thyroid Function Test (T3, T4 & TSH",TSH,Numeric
+Thyroid peroxidase Antibody,Result,Numeric
+Thyroid peroxidase Antibody,TPO (Thyroid Peroxidase) Antibody Serum,SubHeading
+TIBC  ( O ),TIBC,Numeric
+TILT Table test,Impression,TextEditor
+TORCH -  4 IgG,Result,Numeric
+Torch IgG,A:G Ratio,Numeric
+Torch IgM,A:G Ratio,Numeric
+"TORCH Panel, IgG",Result,Numeric
+"TORCH Panel, IgM",Result,Numeric
+TORCH- 4 IgG Combi Serum & CSF,Result,Numeric
+TORCH-10,Result,Numeric
+TORCH-4 IgM,Result,Numeric
+TORCH-8,Result,Numeric
+Total Protein,Total Protein,Numeric
+"Toxoplasma Antibodies Panel, IgG & IgM",Result,List Of Choices
+Toxoplasma IgG,A:G Ratio,Numeric
+Toxoplasma IgM,A:G Ratio,Numeric
+Toxoplasma-IgG Serum,Result,Numeric
+TPHA,A:G Ratio,Numeric
+TPO (Thyroid Peroxidase) Antibody CSF,Result,Numeric
+TPO (Thyroid Peroxidase) Antibody Serum,Result,Numeric
+TPO (Thyroid Peroxidase) Antibody Serum,TPO (Thyroid Peroxidase) Antibody Serum,SubHeading
+Transferrin Percentage Saturation  ( O ),Iron,Numeric
+Transferrin Percentage Saturation  ( O ),TIBC,Numeric
+Transferrin Percentage Saturation  ( O ),Transferin  Saturation,Numeric
+Transfusion reaction workup,Blood group,List Of Choices
+Transfusion reaction workup,Comments,MultiLine Text
+Transfusion reaction workup,Cross match,List Of Choices
+Transfusion reaction workup,Culture,SingleLine Text
+Transfusion reaction workup,DCT,List Of Choices
+Transfusion reaction workup,ICT,List Of Choices
+Transfusion reaction workup,Impression,MultiLine Text
+Transfusion reaction workup,Urine examination,MultiLine Text
+Tread Mill Test,Impression,TextEditor
+Triglyceride,Triglycerides,Numeric
+TRIPLE Test ( With Interpretation) 16-22 Weeks,A:G Ratio,Numeric
+Troponin - I,Troponin - I,Numeric
+Troponin T ( Card ),Troponin - T,List Of Choices
+TSH,TSH,Numeric
+TSH Receptor Antibody,Result,SingleLine Text
+Typhi Dot IgM  (Out Source),Result,SingleLine Text
+Typhi Dot IgM & IgG,Typhi Dot IgG,List Of Choices
+Typhi Dot IgM & IgG,Typhi Dot IgM,List Of Choices
+TZANCK SMEAR,Interpretation :-,Template
+Ultrasound Scaning,Impression,TextEditor
+Urea Blood,Urea,Numeric
+Uric Acid,Uric Acid,Numeric
+Urine AFB Stain,Acid Fast Bacilli,List Of Choices
+Urine AFB Stain,Result,SingleLine Text
+Urine AFB Stain,Urine AFB,SubHeading
+Urine Albumin,Urine Albumin,List Of Choices
+Urine Albumin / Creatinine Ratio,Albumin.,Numeric
+Urine Albumin / Creatinine Ratio,Creatinine,Numeric
+Urine Albumin / Creatinine Ratio,Urine Albumin / creatinine ratio,Numeric
+URINE ALBUMIN / CREATININE RATIO (spot ),Albumin,Numeric
+URINE ALBUMIN / CREATININE RATIO (spot ),Creatinine,Numeric
+URINE ALBUMIN / CREATININE RATIO (spot ),Urine Albumin / creatinine ratio,Numeric
+Urine Amylase ( O ),urine for Amylase,Numeric
+Urine Blood (Strip Method),Urine RBC,List Of Choices
+URINE CALCIUM / CREATININE RATIO,Calcium,Numeric
+URINE CALCIUM / CREATININE RATIO,Calcium,Numeric
+URINE CALCIUM / CREATININE RATIO,Creatinine,Numeric
+URINE CALCIUM / CREATININE RATIO,Creatinine,Numeric
+URINE CALCIUM / CREATININE RATIO,Urine Clcium Creatinine Ratio,Numeric
+Urine Calcium Creatinine Ratio ( Spot ),Calcium,Numeric
+Urine Calcium Creatinine Ratio ( Spot ),Calcium : Creatinine Ratio,Numeric
+Urine Calcium Creatinine Ratio ( Spot ),Calcium:creatinine Ratio (spot),SubHeading
+Urine Calcium Creatinine Ratio ( Spot ),Creatinine,Numeric
+Urine Chemistry (Dipstick method - 10 parameters),Appearance,List Of Choices
+Urine Chemistry (Dipstick method - 10 parameters),Bilirubin,List Of Choices
+Urine Chemistry (Dipstick method - 10 parameters),Chemical Examination,SubHeading
+Urine Chemistry (Dipstick method - 10 parameters),Colour,List Of Choices
+Urine Chemistry (Dipstick method - 10 parameters),Glucose,List Of Choices
+Urine Chemistry (Dipstick method - 10 parameters),Ketone,List Of Choices
+Urine Chemistry (Dipstick method - 10 parameters),Nitrite,List Of Choices
+Urine Chemistry (Dipstick method - 10 parameters),pH,Numeric
+Urine Chemistry (Dipstick method - 10 parameters),Physical Examination,SubHeading
+Urine Chemistry (Dipstick method - 10 parameters),Protein,List Of Choices
+Urine Chemistry (Dipstick method - 10 parameters),Specific gravity,Numeric
+Urine Chemistry (Dipstick method - 10 parameters),Urobilinogen,List Of Choices
+Urine Chloride Spot,Chloride,Numeric
+Urine Chylomicrons,A:G Ratio,Numeric
+Urine Creatinine,Urine Creatinine,Numeric
+Urine culture for surveillance(Outside treated patient),Colony Count,List Of Choices
+Urine culture for surveillance(Outside treated patient),Culture,Culture
+Urine culture for surveillance(Outside treated patient),Culture & Sensitivity - Urine (Automated VITEK 2),SubHeading
+Urine culture for surveillance(Outside treated patient),Gram Stain,List Of Choices
+Urine culture for surveillance(Outside treated patient),Observation,List Of Choices
+Urine Electrophoresis,Result,Numeric
+Urine Eosinophils,Others,MultiLine Text
+Urine Eosinophils,Urine Eosinophils,List Of Choices
+Urine Examination (Detailed),Amorphous material,List Of Choices
+Urine Examination (Detailed),Appearance,List Of Choices
+Urine Examination (Detailed),Bacteria,List Of Choices
+Urine Examination (Detailed),Bile Pigments,List Of Choices
+Urine Examination (Detailed),Bile Salt,List Of Choices
+Urine Examination (Detailed),Blood,List Of Choices
+Urine Examination (Detailed),Cast,List Of Choices
+Urine Examination (Detailed),Chemical Examination,SubHeading
+Urine Examination (Detailed),Colour,List Of Choices
+Urine Examination (Detailed),Crystal,List Of Choices
+Urine Examination (Detailed),Deposite,SingleLine Text
+Urine Examination (Detailed),Epithelial Cells,List Of Choices
+Urine Examination (Detailed),Ketone,List Of Choices
+Urine Examination (Detailed),Microscopic Examination,SubHeading
+Urine Examination (Detailed),Nitrite,List Of Choices
+Urine Examination (Detailed),Others,MultiLine Text
+Urine Examination (Detailed),pH,Numeric
+Urine Examination (Detailed),Physical Examination,SubHeading
+Urine Examination (Detailed),Puscells,SingleLine Text
+Urine Examination (Detailed),RBC,SingleLine Text
+Urine Examination (Detailed),Reaction,List Of Choices
+Urine Examination (Detailed),Specific Gravity,SingleLine Text
+Urine Examination (Detailed),Urine Albumin,List Of Choices
+Urine Examination (Detailed),Urine Sugar,List Of Choices
+Urine Examination (Detailed),Urobilinogen,SingleLine Text
+Urine Examination (Detailed),Yeast cells,List Of Choices
+Urine Examination - Health Checkup,Bilirubin,List Of Choices
+Urine Examination - Health Checkup,Blood,List Of Choices
+Urine Examination - Health Checkup,Glucose 1 Hr,Numeric
+Urine Examination - Health Checkup,Ketone,List Of Choices
+Urine Examination - Health Checkup,Leukocytes,List Of Choices
+Urine Examination - Health Checkup,Nitrite,List Of Choices
+Urine Examination - Health Checkup,pH,SingleLine Text
+Urine Examination - Health Checkup,Protein,List Of Choices
+Urine Examination - Health Checkup,Specific Gravity,SingleLine Text
+Urine Examination - Health Checkup,Urobilinogen,SingleLine Text
+Urine Fat Globules,Fat globules,List Of Choices
+Urine Hemoglobin ( O ),Urine Hb,MultiLine Text
+Urine Homocysteine,A:G Ratio,Numeric
+Urine Ketone/ Acetone,Acetone,List Of Choices
+urine Leuckocytes & Nitrite Test,Leuckocytes,List Of Choices
+urine Leuckocytes & Nitrite Test,Nitrites,List Of Choices
+Urine Magnesium,Urine Magnesium,Numeric
+URINE MICROALBUMIN,Microalbumin,Numeric
+Urine Microalbumin / Creatinine Ratio Spot (Strip),Microalbumin / Creatinine Ratio,Numeric
+Urine Microalbumin / Creatinine Ratio Spot (Strip),Urine Creatinine,Numeric
+Urine Microalbumin / Creatinine Ratio Spot (Strip),Urine Micro Albumin,Numeric
+Urine Microalbumin / Creatinine Ratio Spot (Strip),Urine Microalbumin,SubHeading
+Urine Microalbumin Spot ( Strip method ),Creatinine,Numeric
+Urine Microalbumin Spot ( Strip method ),Microalbumin / Creatinine Ratio,Numeric
+Urine Microalbumin Spot ( Strip method ),Urine Micro Albumin,Numeric
+Urine MicroAlbuminurea,Microalbuminurea,Numeric
+Urine MicroAlbuminurea,Note,Template
+Urine Microalbuminurea Spot ( Quantitative ),Microalbumin / Creatinine Ratio,Numeric
+Urine Microalbuminurea Spot ( Quantitative ),Urine Creatinine,Numeric
+Urine Microalbuminurea Spot ( Quantitative ),Urine Micro Albumin,Numeric
+Urine Microalbuminurea Spot ( Quantitative ),Urine MicroalbuminureaSpotQuantitative,SubHeading
+Urine Microscopy,Appearance,List Of Choices
+Urine Microscopy,Bacteria,Numeric
+Urine Microscopy,Bacteria,List Of Choices
+Urine Microscopy,Cast,List Of Choices
+Urine Microscopy,Colour,List Of Choices
+Urine Microscopy,Crystal,List Of Choices
+Urine Microscopy,Epithelial Cells,List Of Choices
+Urine Microscopy,Epithelial Cells,Numeric
+Urine Microscopy,Microscopic Examination,SubHeading
+Urine Microscopy,Psysical Examination,SubHeading
+Urine Microscopy,Puscells,SingleLine Text
+Urine Microscopy,RBC,SingleLine Text
+Urine Microscopy,RBC,Numeric
+Urine Microscopy,WBC,Numeric
+Urine Microscopy,Yeast cells,List Of Choices
+Urine Mucopolysaccharides,A:G Ratio,Numeric
+Urine Myoglobin,A:G Ratio,Numeric
+urine nitrate,Urine Nitrate,List Of Choices
+URINE OXALATE / CREATININE RATIO (Metropolis),Creatinine,Numeric
+URINE OXALATE / CREATININE RATIO (Metropolis),Oxalate,Numeric
+URINE OXALATE / CREATININE RATIO (Metropolis),Oxalate / Creatinine Ratio,Numeric
+Urine P/C Ratio,Creatinine,Numeric
+Urine P/C Ratio,Protein,Numeric
+Urine P/C Ratio,Protein Creatinine Ratio,Numeric
+Urine P/C Ratio,Urine P/ C Ratio,SubHeading
+Urine pH,pH,Numeric
+Urine Porphobilinogen ( O ),Porphobilinogen  Urine,List Of Choices
+Urine Potassium ( Spot ),Potassium,Numeric
+Urine Pottasium/ Creatinine Ratio,Potassium,Numeric
+Urine Pottasium/ Creatinine Ratio,Potassium / creatinine Ratio,Numeric
+Urine Pottasium/ Creatinine Ratio,Urine Creatinine,Numeric
+Urine Protein Creatinine Ratio,Creatinine,Numeric
+Urine Protein Creatinine Ratio,Protein,Numeric
+Urine Protein Creatinine Ratio,Protein Creatinine Ratio,Numeric
+Urine Protien Spot (Random),Urine Protien spot,SingleLine Text
+Urine Redusing Substance,Reducing Substances,List Of Choices
+Urine Routine Examination,Appearance,List Of Choices
+Urine Routine Examination,Appearance,List Of Choices
+Urine Routine Examination,Bacteria,Numeric
+Urine Routine Examination,Bacteria,List Of Choices
+Urine Routine Examination,Bacteria,Numeric
+Urine Routine Examination,Bacteria,List Of Choices
+Urine Routine Examination,Bilirubin,List Of Choices
+Urine Routine Examination,Blood,List Of Choices
+Urine Routine Examination,Cast,List Of Choices
+Urine Routine Examination,Cast,List Of Choices
+Urine Routine Examination,Chemical Examination,SubHeading
+Urine Routine Examination,Chemical Examination,SubHeading
+Urine Routine Examination,Colour,List Of Choices
+Urine Routine Examination,Colour,List Of Choices
+Urine Routine Examination,Crystal,List Of Choices
+Urine Routine Examination,Crystal,List Of Choices
+Urine Routine Examination,Epithelial Cells,List Of Choices
+Urine Routine Examination,Epithelial Cells,Numeric
+Urine Routine Examination,Epithelial Cells,Numeric
+Urine Routine Examination,Glucose,List Of Choices
+Urine Routine Examination,Ketone,List Of Choices
+Urine Routine Examination,Leukocyte,List Of Choices
+Urine Routine Examination,Microscopic Examination,SubHeading
+Urine Routine Examination,Nitrite,List Of Choices
+Urine Routine Examination,Others,MultiLine Text
+Urine Routine Examination,Others,MultiLine Text
+Urine Routine Examination,pH,Numeric
+Urine Routine Examination,Physical Examination,SubHeading
+Urine Routine Examination,Physical Examination,SubHeading
+Urine Routine Examination,Protein,List Of Choices
+Urine Routine Examination,Puscells,SingleLine Text
+Urine Routine Examination,Puscells,SingleLine Text
+Urine Routine Examination,RBC,SingleLine Text
+Urine Routine Examination,RBC,SingleLine Text
+Urine Routine Examination,RBC,Numeric
+Urine Routine Examination,RBC,Numeric
+Urine Routine Examination,Specific gravity,Numeric
+Urine Routine Examination,Urine Albumin,List Of Choices
+Urine Routine Examination,Urine Sediment,SubHeading
+Urine Routine Examination,Urine Sugar,List Of Choices
+Urine Routine Examination,Urobilinogen,List Of Choices
+Urine Routine Examination,WBC,Numeric
+Urine Routine Examination,WBC,Numeric
+Urine Routine Examination,Yeast cells,List Of Choices
+Urine Routine Examination,Yeast cells,List Of Choices
+Urine Sodium (spot ),Sodium,Numeric
+Urine Sodium (spot ),Urine Sodium,SubHeading
+Urine Specific Gravity,Urine Specific Gravity,Numeric
+Urine Spot Calcium,Calcium,Numeric
+Urine Spot Chloride,Chloride,Numeric
+Urine Spot Creatinine,Creatinine,Numeric
+Urine Spot Magnesium,Magnesium,Numeric
+Urine Spot Phosphorus,Phosphorus,Numeric
+Urine Spot Potassium,Urine Spot Potassium,Numeric
+Urine Spot Sodium,Urine Spot Sodium,Numeric
+Urine Spot uric Acid,Urine Spot Uric acid,Numeric
+Urine Sugar,Urine Sugar,List Of Choices
+Urine Urea,Urine urea,Numeric
+Urine Urobilnogen (Strip Method),Urobilinogen,SingleLine Text
+UrineBlood,Negative,SingleLine Text
+UrineBlood,Positive,List Of Choices
+Valporic Acid,A:G Ratio,Numeric
+Varicella Zoster Antibody IgM,A:G Ratio,Numeric
+VBG,CA++,Numeric
+VBG,Glucose,Numeric
+VBG,Hct,Numeric
+VBG,K+,Numeric
+VBG,Lactate,Numeric
+VBG,NA+,Numeric
+VBG,pCO2,Numeric
+VBG,pH,Numeric
+VBG,pO2,Numeric
+VDRL,Qualitative Test,List Of Choices
+VDRL,Report,List Of Choices
+VDRL,VDRL,SubHeading
+VDRL CSF,Result,SingleLine Text
+Venogram,Impression,TextEditor
+VEP,Impression,TextEditor
+VEP+BAER,Impression,TextEditor
+VEP+BAER+SSEP,Impression,TextEditor
+VGKC (LG1 & CASPR2) Antibody,Result,List Of Choices
+VGKC (LG1 & CASPR2) Antibody(Amritha),Result,Numeric
+Video EEG( up to 4hrs),Impression,TextEditor
+Video EEG( up to 8hrs),Impression,TextEditor
+Viral encephalitic panel II,Result,Numeric
+Viral meningitis  panel (Genepath),Result,SingleLine Text
+Vitamin A,A:G Ratio,Numeric
+Vitamin B12,Vitamin B12,Numeric
+Vitamin B6,A:G Ratio,Numeric
+Vitamin C,A:G Ratio,Numeric
+Vitamin D Total - 25 Hydroxy,25 OH Vitamin D,Numeric
+Vitamin E,A:G Ratio,Numeric
+Vitamin K,A:G Ratio,Numeric
+VMA - Random urine ( Lalpath lab ),Result,Numeric
+VZV - Varicella Zoster Virus IgM CSF,Result,List Of Choices
+VZV - Varicella Zoster Virus IgM Serum,Result,Numeric
+VZV- Varicella Zoster Virus IgG Serum,Result,Numeric
+Water Culture,Result,Numeric
+Weil - Felix Test,Result,Numeric
+Western Blot,A:G Ratio,Numeric
+WIDAL,Salmonella Paratyphi  'AH' Ag,List Of Choices
+WIDAL,Salmonella Paratyphi 'BH' Ag,List Of Choices
+WIDAL,Salmonella Typhi 'H' Ag,List Of Choices
+WIDAL,Salmonella Typhi 'O' Ag,List Of Choices
+WIDAL,Titre of Salmonella Paratyphi  A 'H ' agglutinin,Numeric
+WIDAL,Titre of Salmonella Paratyphi B 'H' Agglutinin,Numeric
+WIDAL,Titre of Salmonella Typhi 'H' Agglutinin,Numeric
+WIDAL,Titre of Salmonella Typhi 'O' Agglutinin,Numeric
+WIDAL,WIDAL,SubHeading
+Yeast Candida species -Anti fungal susceptibility,Result,List Of Choices
+Zinc,A:G Ratio,Numeric

@@ -2,6 +2,12 @@
 {% block title %}
     ICD Mapper home page
 {% endblock title %}
+{% block greporthomeblock %}
+   <li><a href="{% url 'icdmapperhomepage' %}">Home</a></li>
+   {% endblock greporthomeblock %}
+{% block testsetblock %}
+
+   {% endblock testsetblock %}
 {% block bodypart %}
     user {{ user.username }} logged in
 {% endblock bodypart %}

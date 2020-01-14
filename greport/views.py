@@ -3,6 +3,7 @@ from django.http import *
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
 import pandas as pd
+
 # Create your views here.
 
 

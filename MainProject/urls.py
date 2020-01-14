@@ -15,10 +15,17 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from .views import home_page as homepage
+from .views import home_page as homepage,test_500
+from django.conf.urls import handler400, handler403, handler404, handler500
+
+
 urlpatterns = [
     path('', homepage, name='home'),
     path('greports/', include('greport.urls')),
     path('icdmapper/', include('icdmapper.urls')),
     path('admin/', admin.site.urls),
+    path('test500/', test_500, name="test500"),
 ]
+
+handler404 = 'MainProject.views.handler404'
+handler500 = 'MainProject.views.handler500'

@@ -29,12 +29,13 @@ def homepage(request):
     return render(request, "greporthome.html", {})
 
 
+@login_required(login_url='/greports/login/')
 def logout_request(request):
     logout(request)
-    # return render(request, "Home_page.html", {})
     return redirect("home")
 
 
+@login_required(login_url='/greports/login/')
 def testset(request):
     data = pd.read_csv("./static/greportdata/TestSet.csv")
     data_html = data.to_html()

@@ -24,7 +24,6 @@ def login_user(request):
     return render(request, 'icdmapperlogin.html', {'valid': False})
 
 
-@login_required(login_url='/icdmapper/login/')
 def logout_request(request):
     logout(request)
     # return render(request, "Home_page.html", {})

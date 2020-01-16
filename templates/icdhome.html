@@ -10,8 +10,8 @@
 
    {% endblock testsetblock %}
 {% block bodypart %}
-    User logged in : {{ user.username }}
-    <form method="post" novalidate>
+    Current User :  {{ user.username }}
+    <form method="post" novalidate action="{% url 'icdmapperhomepage' %}">
   {% csrf_token %}
 
   {% for hidden_field in form.hidden_fields %}
@@ -54,7 +54,30 @@
     <button type="submit" class="btn btn-primary">Submit</button>
     </center>
     </form>
+    <center>
     {% if answer %}
         <p>{{ answer }}</p>
     {% endif %}
+    <hr>
+    <br>
+    <h3>Upload a remote file from the System</h3>
+    <br>
+    <form method="post" enctype="multipart/form-data" action="{% url 'icdupload' %}">
+    {% csrf_token %}
+    <input type="file" name="document">
+    <button type="submit" class="btn btn-primary" >Upload a File</button>
+    </form>
+    {% if url %}
+        <br>
+        <p>uploaded file : <a href="{{ url }}">View/Download File</a></p>
+    {% endif %}
+    {% if result %}
+        <p>{{ result }}</p>
+    {% endif %}
+    <hr>
+    <br>
+    <h3>Load files from Storage to map to ICD Codes</h3>
+    <br>
+    <a class="btn btn-primary" href="{% url 'loadstorage' %}">Load files from Storage</a>
+    </center>
 {% endblock bodypart %}

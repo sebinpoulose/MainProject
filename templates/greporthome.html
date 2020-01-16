@@ -9,6 +9,6 @@
    <li><a href="{% url 'testset' %}">Available Tests</a></li>
    {% endblock testsetblock %}
 {% block bodypart %}
-    user {{ user.username }} logged in
+    Current User : {{ user.username }}
     {{ loaded_data | safe }}
 {% endblock bodypart %}

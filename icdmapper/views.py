@@ -1,9 +1,16 @@
-from django.shortcuts import render, redirect
+import os
+
+from django.shortcuts import render, redirect, render_to_response
 from django.http import *
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
 from django.core.files.storage import FileSystemStorage
+from django.template import RequestContext
+
+from MainProject import settings
 from .forms import CutpasteForm
+
+
 # Create your views here.
 
 
@@ -54,11 +61,12 @@ def upload_file(request):
         fs = FileSystemStorage()
         name = fs.save(uploaded_file.name, uploaded_file)
         url = '/icdmapper'
-        url += fs.url(name)  # url to the file
+        url = fs.url(name)  # url to the file
+        print(url)
         form = CutpasteForm()
         context = {
             'form': form,
-            'url': url,
+            'url': uploaded_file.name,
             'result': "mapped value"
         }
         return render(request, 'icdhome.html', context)
@@ -67,4 +75,12 @@ def upload_file(request):
 
 
 def loadstorage(request):
-    return render(request, "loadstore.html")
+    if request.method == 'POST':
+        filenames = request.POST.getlist('userselect')
+        print(filenames)
+        result = str(filenames)
+        return render(request, 'loadstore.html',
+                      {'total_files': os.listdir(settings.MEDIA_ROOT), 'path': settings.MEDIA_ROOT,
+                       'result': result})
+    return render(request, 'loadstore.html',
+                  {'total_files': os.listdir(settings.MEDIA_ROOT), 'path': settings.MEDIA_ROOT})

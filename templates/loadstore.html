@@ -10,5 +10,31 @@
 
 {% endblock testsetblock %}
 {% block bodypart %}
+<center>
+<h2>File List</h2>
+<div style="text-align: center;">
+    <div style="display: inline-block; text-align: left;">
 
+
+    <form method="post" action="{% url 'loadstorage' %}">
+     {% csrf_token %}
+<table border="1" colspan="1" width="100%">
+ {% for file in total_files %}
+   <tr>
+  <input type="checkbox" name="userselect" value="{{ file }}">{{ file }}<br>
+   </tr>
+ {% endfor %}
+</table>
+    </div>
+</div>
+<br>
+  <button type="submit" class="btn btn-primary" >Map selected files</button>
+</form>
+
+{% if result %}
+    <p>{{ result }}</p>
+{% endif %}
+
+
+    </center>
 {% endblock bodypart %}

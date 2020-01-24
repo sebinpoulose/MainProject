@@ -44,6 +44,7 @@ def homepage(request):
         if form.is_valid():
             data = form.cleaned_data
             field = data['diagnosis']
+            Map_diagnosis()
             answer = field
             # print(field)
             return render(request, 'icdhome.html', {'form': form, 'answer': answer})

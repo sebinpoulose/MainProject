@@ -1,0 +1,93 @@
+244526,74638,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fswiss\fprq2\fcharset0 Arial;}{\f2\fswiss\fprq2\fcharset0 MS Reference Sans Serif;}{\f3\fswiss\fcharset0 Calibri;}{\f4\fnil\fcharset0 Calibri;}{\f5\fswiss\fprq2\fcharset0 Consolas;}{\f6\fnil\fcharset2 Symbol;}}
+{\colortbl ;\red0\green0\blue0;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\tx90\tx5850\tx6570\lang16393\b\f0\fs18\par
+\pard\sa160\sl252\slmult1\qc\ul\fs44 DEPARTMENT OF NEUROSURGERY\par
+\pard\sl252\slmult1\qc\ulnone\fs40 (\i Brain and Spine Surgery\i0 )\ul\fs22\par
+\pard\tx90\tx5850\tx6570\ulnone\i\fs28 Dr. Jagath lal Gangadharan\fs18                                                            \fs28 Dr.Manoj Narayana Panicker\b0\fs18\par
+\cf1\lang1033\i0\f1 MS, DNB,MCh(NIMHANS),MRCS(Ed),MNAMS \fs16                                          \cf0\f0\fs18 MS,MCH(NIMHANS)\cf1\f1\fs16\par
+\cf0\lang16393\b\i\f0\fs18 Consultant and HOD                                                                                                     \lang1033 Consultant\lang16393                              \f2\fs17\par
+\b0\i0\f0\fs18 drjagathlal@yahoo.com                                                                                               drmanojn@gmail.com\par
+jagath.lal@rajagirihospital.com                                                                                   manoj.panicker@rajagirihospital.com\par
+OPD: Monday/Wednesday/Friday                                                                              \lang1033 OPD:Tuesday/Thursday/Saturday\lang16393  \par
+                                       \b                \b0\par
+\par
+\b\i\fs28 Dr. Sumana B Pallegar\fs18                                                  \b0\par
+\cf1\lang1033\i0\f1 MBBS,DNB(Neurosurgery) \fs16                                         \par
+\cf0\lang16393\b\i\f0\fs18 Consultant                                                                                                                \f2\fs17\par
+\b0\i0\f0\fs18 sumanpallegar@gmail.com                                                                                                                                                            \par
+OPD: Monday/Wednesday/Saturday  \par
+\par
+\pard\sl252\slmult1\qc\tx945\b\i\fs22\par
+\pard\sa160\sl252\slmult1                   Dr.Rakesh Hari\b0\i0 , MBBS;  \b\i Dr. Rabin Ishak\b0\i0 , MBBS;  \b\i Dr. Ann Mary Anil,\b0\i0 MBBS; \kerning2\b\f3 (Regi\lang1033 strars)\lang16393\kerning0\b0\f0\par
+\pard\sl252\slmult1\qc\tx945\fs18\par
+\b\i\fs22 Mr. Praison M Shaju (Surgical Co-ordinator),Mr.Rony Anto\b0\i0 , (\b\i Medical Transcriptionist\b0\i0 )\fs18\par
+\pard\sl252\slmult1\tx945\lang1033\tab\tab\tab\par
+\pard\brdrb\brdrs\brdrw10\brsp20 \tx90\tx5850\tx6570\ul\b\fs28\par
+\pard\nowidctlpar\qj\lang3081\kerning2\ulnone\fs24\par
+DIAGNOSIS\b0 :\par
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent0{\pntxtb\'B7}}\nowidctlpar\fi-225\li225\qj\b POSTERIOR INTERHEMISPHERIC SUBDURAL HEMATOMA\par
+{\pntext\f6\'B7\tab}LEFT DISTAL RADIUS FRACTURE\par
+{\pntext\f6\'B7\tab}RIGHT LUNG LESION ? MALIGNANT\par
+\pard\kerning0\par
+HOPI\lang1033\b0 :\lang3081\par
+This 76 year old male patient was brought to the emergency room with alleged history of fall at around 9 p.m. on 18/02/2019.  The patient has history of difficulty in recollecting events for a few minutes.  No history of vomiting, seizures, or ENT bleed.\par
+\b\par
+PHYSICAL EXAM\lang1033\b0 :\lang3081\par
+\pard\sa160\sl252\slmult1\lang9 E4, M6, V5. PERRL.  HR 66/min.  BP 140/90 mmHg.  Left arm radial fracture.  CVS:  S1, S2 present.  Respiratory:  Clear, air entry bilaterally equal.  Per abdomen:  Soft, nontender\lang1033 .\lang9\b\par
+\pard\sa200\sl276\slmult1\par
+RADIOLOGY\b0 :\b\par
+\pard CT Brain (19/02/2019)\lang1033\b0 :\f4   \i A tiny extra-axial hyperdense crescent shaped thickening noted involving the posterior inter-hemispheric fissure measuring 3.7mm.  \i0 Rest of the supra and infratentorial brain parenchyma shows normal attenuation.  No focal lesions seen.  Gray - white matter differentiation maintained.  The ventricles, sylvian fissures, basal cisterns and sulcal spaces are prominent.  There is no evidence of obvious parenchymal contusions or hematoma.  No obvious subarachnoid hemorrhage.  Posterior fossa structures appear normal.  No obvious fractures detected.  Extra calvarial soft tissue swelling with minimal hematoma noted in the occipital region.  Cervical spine shows degenerative and osteoporotic changes. Ossification of the anterior and posterior longitudinal ligaments noted. No obvious fractures noted \i to the visualized extent.  Incidentally noted a soft tissue density lesion with spiculated margins in the apical segment of right upper lobe measuring 2.5 x 2.1cms with a small pleural tag.\par
+\i0 IMPRESSION:  Tiny extra-axial hyperdense crescent shaped thickening involving the posterior inter-hemispheric fissure - ? posterior inter-hemispheric SDH.  Diffuse age related neuroparenchymal atrophy.  - Soft tissue density lesion with spiculated margins and small pleural tag involving the apical segment of  RUL - malignancy needs to be ruled out. Advised HRCT Thorax for further evaluation.\lang16393\f0\par
+\lang9\b\par
+COURSE IN THE HOSPITAL\b0 :\b\par
+\pard\sa160\sl252\slmult1\lang16393\b0\f4 This patient was admitted for observation.  Treated with anti-epileptics and other supportive measures.  Orthopedics consultation was given for left distal radius fracture and was treated with plaster of paris slab.  He remained neurologically stable.  Visualized part of thorax in CT C-spine showed a soft tissue density in the upper lobe of right lung ? malignancy.  Pulmonology consultation was given and was advised Contrast CT followed by biopsy.  Since the patient and relative wanted to do further evaluation on OPD basis he is being discharged with advise to followup. \b\f0\par
+\par
+CONSULTATIONS\b0 :\par
+ORTHOPEDICS, Dr. Murukan Babu.\par
+PULMONOLOGY, Dr. Divya.\b\par
+\par
+CONDITION AT DISCHARGE\b0 :\par
+E4, M6, V5. No focal deficits.  Vitals stable.  Afebrile\b\par
+\par
+MEDICATIONS ADMINISTERED\b0 :\b\par
+\b0\f4 LEVIPIL, PANTOP, VOVERAN D.\b\f0\par
+\pard\sa200\sl276\slmult1\lang9\par
+\par
+\par
+MEDICATIONS\b0 :\b\par
+\pard\sa160\sl252\slmult1\lang16393 1. TAB. LEVIPIL 500 MG TWICE DAILY (1-0-1)X ONE WEEK\par
+2. TAB. PANTOCID 40 MG ONCE DAILY (1-0-0)X ONE WEEK\par
+3. TAB. VOVERAN D 50 MG TWICE DAILY (1-0-1)X THREE DAYS\par
+4. TAB. DOLO 650 MG SOS FOR PAIN.\par
+CONTINUE OWN MEDICATIONS AS BEFORE.\par
+\par
+ADVICE ON DISCHARGE\b0 :\b\par
+\pard\fi-360\li720\sa160\sl252\slmult1\b0\u61623?\tab\b REVIEW AFTER ONE WEEK IN NEUROSURGERY OPD (Tuesday/Thursday/Saturday).\par
+\b0\u61623?\tab\b\f4 REVIEW IN ORTHOPEDICS OPD ON 22/02/2019 \par
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent0{\pntxtb\'B7}}\fi-225\li585\sa160\sl252\slmult1   REVIEW IN PULMONOLOGY OPD WITH HRCT THORAX FOR EVALUATION OF LUNG LESION AFTER ONE WEEK.\par
+\pard\fi-360\li720\sa160\sl252\slmult1      TO \f0 WATCH FOR PERSISTENT HEADACHE, VOMITING, DROWSINESS, SEIZURES ANY FRESH NEUROLOGICAL DEFICIT AND REPORT TO NEAREST MEDICAL FACILITY or CASUALTY IMMEDIATELY. \par
+\b0\u61623?\tab\b IN CASE OF EMERGENCY CONTACT 0484-2905000 to contact the Neurosurgery team.\par
+\pard\sa160\sl252\slmult1\par
+\par
+\par
+\par
+\pard\lang1033\b0\par
+\b\par
+\pard\sl252\slmult1\lang16393 Dr. Manoj N. Panicker.\par
+\pard\sa160\b0 MS, MCh (neurosurgery)\par
+\pard\sa160\sl240\slmult1\cf1\kerning2\i\f4\fs20 "This discharge summary provides clinical information meant to facilitate continuity of patient care. For statutory purposes, a treatment /discharge certificate shall be issued on request.(As per the Kerala Medico-legal Code  approved by the Government of Kerala in 2011). For disability certificate, approach a Government constituted Medical board".\par
+\par
+\cf2\highlight3\lang1033\kerning0\b\f3\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\par
+\par
+\pard\cf0\highlight0\lang3081\ulnone\i0\f5\fs20\line\b\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+Name                                  Result     Unit         Reference\line 19-02-2019 09:44 AM\b0\line Total Bilirubin                       1.6       mg/dl         0.3 - 1.3           \line Direct Bilirubin                      0.3       mg/dl         0.2 - 0.4           \line Indirect Bilirubin                    1.3       mg/dl         0.2 - 0.9           \line SGOT                                  28        U/L           15.0 - 37.0         \line SGPT                                  35        U/L           30.0 - 65.0         \line Alkaline Phosphatase                  77        U/L           50.0 - 136.0        \line Total Protein                         7.2       g/dl          6.0 - 8.0           \line Albumin                               3.2       g/dl          3.4 - 5.0           \line Globulin                              4         g/dl          2.0 - 3.5           \line A:G Ratio                             0.8       :1            1.0 - 2.0\line\line Urea                                  23.54     mg/dl         15.0 - 45.0         \line Creatinine                            1.14      mg/dl         0.6 - 1.4\line\b 18-02-2019 11:13 PM\b0\line Haemoglobin                           17.6      g/dl          13.0 - 17.0         \line TC                                    8.9       x10^3/ul      4.0 - 11.0          \line Neutrophils                           73        %             40.0 - 80.0         \line Lymphocytes                           21        %             20.0 - 40.0         \line Monocytes                             4         %             2.0 - 10.0          \line Eosinophils                           2         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line RBC Count                             5.2       x10^6/ul      3.8 - 5.3           \line Hct                                   53        %             40.0 - 54.0         \line Platelet                              192       x10^3/ul      150.0 - 450.0       \line RDW                                   14.7      %             10.0 - 16.5         \line MPV                                   9.8       fl            7.5 - 11.5\line\line Sodium                                136       mEq/L         136.00 - 146.00     \line Potassium                             4.1       mEq/L         3.50 - 5.10\cf1\lang16393\kerning2\i\f4\par
+},<Age:76:Age>,<Sex:1:Sex>,2019-02-19 17:39:15.507000000

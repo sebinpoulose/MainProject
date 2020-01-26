@@ -1,0 +1,72 @@
+186227,74478,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Calibri;}{\f2\fswiss\fprq2\fcharset0 Consolas;}{\f3\froman\fprq2\fcharset0 Times New Roman;}{\f4\fswiss\fcharset0 Calibri;}{\f5\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sl276\slmult1\qc\ul\b\f0\fs40 Department of Gastroenterology\par
+\pard\sl276\slmult1\fs44\par
+\ulnone\fs28 Dr. Rosh Varghese MD, DM\par
+\b0\fs24 Senior Consultant\par
+Gastroenterology and Hepatology\fs28\par
+\par
+\b Dr. John Menachery MD, DM (HEPATOLOGY)\b0\par
+\fs24 Consultant\par
+Gastroenterology and Hepatology\par
+\par
+\b\fs28 Dr. Neema Renji\par
+\b0\fs24 Junior Resident\par
+Gastroenterology and Hepatology\fs28\par
+\par
+\ul\b\fs24 Diagnosis:\ulnone\b0\par
+\f1 Hepatic abscess ? amoebic \f0\par
+\par
+\ul\b History:\ulnone\b0\par
+Mr. Tony John, 29 years, with no co morbid illness presented to Gastromedicine unit with complaints of abdominal pain, hematuria and fever of  5 days.  He was evaluated outside for the same and ultrasound abdomen done on 14.02.2019 showed heterogeneous lesion in the right lobe of liver (50 x 49 x 63 mm)? hepatic abscess. He came here for further evaluation and management.  Patient has no complaints of abdominal distension, nausea, vomiting, Gastro esophageal reflux symptoms or altered bowel/bladder habits. There is no history of anorexia or weight loss. Patient has no history of drug allergies, blood transfusion, jaundice or major surgeries in the past. \par
+\par
+\ul\b On Examinations:\ulnone\b0\par
+\lang3081 Patient conscious/oriented \par
+Vitals stable \par
+Afebrile, no  icterus, no pallor, pedal edema or lymphadenopathy\par
+Per Abdomen : soft , right upper quadrant tenderness +\par
+Cardio vascular system : S1S2 heard \par
+Central nervous system: No focal neurological deficit\par
+Respiratory system: Normal vesicular breath sounds heard\lang1033\par
+\par
+\ul\b Lab Investigations:\ulnone\b0\par
+\pard\lang3081\b\f2\fs20 15-02-2019 04:15 PM\b0\line  \b Name                                            Result         Unit               Reference\line\b0 Physical Examination                             SubHead                                               \line Colour                                           Yellow                                                \line Appearance                                       Clear                                                 \line Chemical Examination                             SubHead                                               \line Urine Albumin                                    Nil                                                   \line Urine Sugar                                      Nil                                                   \line Microscopic Examination                          SubHead                                               \line WBC                                              2              /HPF               0.0 - 5.0           \line RBC                                              1              /HPF               0.0 - 2.0           \line Epithelial Cells                                 1              /HPF               Occasional          \line Cast                                             Nil            /LPF               Nil                 \line Crystal                                          Nil            /HPF               Nil                 \line Bacteria                                         Absent                                                \line Yeast                                            Absent\line\b 15-02-2019 03:45 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Liver Function Test ( LFT )           SubHead                                     \line Total Bilirubin                       0.6       mg/dl         0.3 - 1.3           \line Direct Bilirubin                      0.4       mg/dl         0.2 - 0.4           \line Indirect Bilirubin                    0.2       mg/dl         0.2 - 0.9           \line SGOT                                  19        U/L           15.0 - 37.0         \line SGPT                                  40        U/L           30.0 - 65.0         \line Alkaline Phosphatase                  159       U/L           50.0 - 136.0        \line Total Protein                         6.9       g/dl          6.0 - 8.0           \line Albumin                               2.2       g/dl          3.4 - 5.0           \line Globulin                              4.6       g/dl          2.0 - 3.5           \line A:G Ratio                             0.5       :1            1.0 - 2.0\line\b 15-02-2019 03:45 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Creatinine                            0.94      mg/dl         0.6 - 1.4\line\b 15-02-2019 03:45 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Blood Routine Examination ( CBC With ESubHead                                     \line Haemoglobin                           11.6      g/dl          13.0 - 17.0         \line TC                                    9.1       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           75        %             40.0 - 70.0         \line Lymphocytes                           15        %             20.0 - 40.0         \line Monocytes                             5         %             2.0 - 10.0          \line Eosinophils                           5         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     6.7       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     1.3       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.5       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.5       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             4.0       x10^6/ul      3.8 - 5.3           \line Hct                                   36        %             40.0 - 54.0         \line MCV                                   88        fl            80.0 - 100.0        \line MCH                                   29        pg            27.0 - 32.0         \line MCHC                                  32        g/dl          32.0 - 36.0         \line Platelet                              382       x10^3/ul      150.0 - 450.0       \line RDW                                   13.4      %             10.0 - 16.5         \line MPV                                   7.3       fl            7.5 - 11.5          \line ESR                                   62        mm/hr         0.0 - 15.0\line\b 15-02-2019 03:45 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Electrolytes                          SubHead                                     \line Sodium                                136       mEq/L         136.0 - 146.0       \line Potassium                             3.0       mEq/L         3.5 - 5.1\line\b 15-02-2019 03:45 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Test                                  14.6      Seconds       12.0 - 18.0         \line Control                               13.5      Seconds       13.5                \line INR                                   1.1       -             1.0\line\b 15-02-2019 03:45 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 CRP                                   236.9     mg/L          0.00 - 5.00\line\pard\sl276\slmult1\lang1033\f0\fs24\par
+\ul\b Procedures:\par
+\ulnone\f1 CT Abdomen (15.02.2019) : \b0 Hepatomegaly with a peripherally enhacing lesion showing central hypoattenuation and surrounding oedema in right lobe segment VII as described- suggestive of hepatic abscess. Multiple periportal lymph nodes -likely reactive, Bilateral kidneys ,ureters and bladder shows no significant abnormality .\par
+\par
+\ul\b\f0 IP Medications:\lang3081\b0\f2\fs20\line\pard\ulnone INJ  BACTOSAR  2GM  INJ\line INJ  METROGYL IV (100ML)\ul\line\ulnone INJ  KABIMOL INJ 1GM(100ML)\line INJ  TRAMAZAC INJ(1ML)\line TAB  DOLO 650MG TAB\line CAP  ECONORM 250 MG CAP\line ENE  ENEMAX ENEMA (100ML)\line INJ  EMESET INJ 2MG/ML(2ML)\ul\line\ulnone INJ  NORMAL SALINE 100 ML FRESINUS KABI\line IVF  METRONIDAZOLE 100 ML FRESINUS KABI(FRESOGYL)\line\pard\sl276\slmult1\lang1033\ul\b\f0\fs24\par
+Course in the hospital and Discussion:\ulnone\b0\par
+Mr. Tony John, 29 years, with no comorbid illness was admitted with hepatic abscess and hematuria . His routine labs showed  elevated inflammatory markers and hypokalemia. Blood and urine cultures were sent and  was started on parenteral antibiotics,  potassium supplements, analgesics and supportive s. CT contrast was which showed \b\f1  \b0 hepatomegaly with a peripherally enhancing lesion showing central hypo attenuation and surrounding edema in right lobe segment VII - suggestive of hepatic abscess and multiple periportal lymph nodes -likely reactive. His blood and urine cultures were negative. Urology consultation was taken for hematuria and adviced for cystoscopy if hematuria persist. He was clinically much better and there was  significant improvement in inflammatory markers which was indicative of response to treatment since the patient want to continue treatment at local center due to logistic reasons. He is being discharged with advice to continue treatment at local hospital. Shall review him in Gastromedicine out patient department after 1 week. \f0  \par
+\par
+\ul\b He is on following medications:\ulnone\b0\par
+Inj. Ceftriaxone 2 gm IV 1-0-1\par
+Inj. Metrogyl 500 mg IV 1-0-1\par
+Tab. Econorm 250 mg 1-0-1\par
+Tab. Ganaton 50 mg 1-1-1\par
+Tab. Esogres 40 mg 1-0-0 \par
+\par
+\ul\b Advice On Discharge:\ulnone\b0\par
+\f1 To review in Gastromedicine out patient department after 1 week with blood routine andCRP reports\f0\par
+\par
+\par
+\pard\sa200\sl276\slmult1\lang16393\ul\b Condition at the time of discharge:\ulnone\b0\fs22\par
+\pard\sl276\slmult1\lang1033\fs24 He is being discharged at request\par
+\ul\b\par
+Plan on Discharge:\ulnone\b0\par
+He is being discharged at request\par
+\par
+\ul\b Diet:\ulnone\b0\par
+He is being discharged at request\par
+\par
+\par
+\b\fs28 Prepared By:\tab\tab\tab Verified By:\par
+\b0 Ms. Salvya Issac                       Dr. Rosh Varghese MD.DM. \par
+\pard\sa200\sl276\slmult1\b\f3\fs24\par
+\pard\sa160\qj\lang16393\ul\f0 When and how to obtain emergency care:\ulnone\b0\par
+\b\fs22 To report immediate to the ER of Rajagiri hospital in case of\lang1033\b0\f3\fs24  Abdominal pain \par
+\pard\sa200\sl276\slmult1\b\f0 In case of Emergency please contact: \lang16393 Helpline No. 0484-2905000\b0  \fs28         \lang1033\ul\par
+\pard\lang16393\ulnone\b\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\b0\fs18\par
+\pard\sa160\sl252\slmult1\fs22\par
+\cf1\highlight2\b\i\f4 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f0\par
+\pard\f5\fs17\par
+},<Age:29:Age>,<Sex:1:Sex>,2019-02-18 14:12:10.327000000

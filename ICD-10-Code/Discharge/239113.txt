@@ -1,0 +1,42 @@
+239113,74596,{\rtf1\ansi\ansicpg1252\deff0\deflang16393{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fswiss\fcharset0 Calibri;}{\f2\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b\f0\fs22 Final Diagnosis:\ulnone\b0   Right duplex kidney with bilateral Renal calculi \par
+\ul\b Procedure:\ulnone\b0   Right Mini percutaneous nephrolithotripsy under general anaesthesia on 18.2.19\par
+\ul\b Drug allergies:\ulnone\b0   nil\par
+\ul\b History & Clinical Findings:\ulnone\b0   \lang255\par
+\lang1033 Mrs Ambily raju, who was diagnosed with bilateral renal calculi with right emphyematous pyelonephritis  1 month back. Her urine culture grew Enterococcus faecium and was treated with iv antibiotics (piperacillin tazobactam). She was planned for definitive surgical management\par
+\ul\b Past History:\ulnone\b0    Diabetes on medications\par
+\ul\b Investigations\ulnone\b0 :\par
+\lang3081\kerning0\b\fs18 18-02-2019 01:55 AM\b0\line\pard Sodium                                138       mEq/L         136.00 - 146.00     \line Potassium                             4         mEq/L         3.50 - 5.10\line FBS                                   92        mg/dl         70.00 - 110.00\line\b 17-02-2019 07:22 PM\b0\line Physical Examination                             SubHead                                               \line Colour                                           Pale Yellow                                           \line Appearance                                       Clear                                                 \line Chemical Examination                             SubHead                                               \line Urine Albumin                                    Faint Trace                                           \line Urine Sugar                                      Nil                                                   \line Microscopic Examination                          SubHead                                               \line WBC                                              100            */HPF               0.0 - 5.0           \line RBC                                              4              */HPF               0.0 - 2.0           \line Epithelial Cells                                 0              /HPF               Occasional          \line Cast                                             Nil            /LPF               Nil                 \line Crystal                                          Nil            /HPF               Nil                 \line Bacteria                                         Present                                               \line Yeast                                            Absent\line Creatinine                            0.88      mg/dl         0.6 - 1.4\line Haemoglobin                           12.4      g/dl          11.5 - 14.5         \line TC                                    9.6       x10^3/ul      4.0 - 11.0          \line Platelet                              486       x10^3/ul      150.0 - 450.0       \line Sodium                                133       mEq/L         136.0 - 146.0       \line Potassium                             3.7       mEq/L         3.5 - 5.1\line Test                                  11.6      Seconds       12.0 - 18.0         \line Control                               13.5      Seconds       13.5                \line INR                                   0.83      -             1.0\line HbA1c                                 8.6       %             4.0 - 6.0           \line MBG                                   200       mg/dl\line BLOOD GROUP                   ' A2 ' Rh TYPE                       POSITIVE\par
+HIV 1 & 2                                        Non-Reactive\line RBS                                   122       mg/dl         70.0 - 160.0\line HBsAg                                            Non-Reactive\line HCV                                              Non-Reactive\line\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b\fs22 Course in the hospital and discussion\ulnone\b0   \lang255\par
+\lang1033 Mrs Ambili raju underwent Right Mini percutaneous nephrolithotripsy under general anaesthesia on 18.2.19 with iv antibiotic prophylaxis (Cefoperazone sulbactam). Post operative period was uneventful. Catheter was removed on post op day 1. She is being discharged in a stable condition.\par
+\ul\b Operative findings\ulnone\b0  \lang255\par
+\pard\sb100\sa100\lang16393\kerning0 Bifid system with stones in the lower moeity. Radio opaque stones - 3. hard stones. Ureteric catheter placed in the right ureter. Foleys in bladder. Prone position. Lower calyx punctured under fluoroscopy. Tract dilated till 14 fr. Mini perc done. Stone completely fragmented with ho laser. No residual stones seen. 6 fr dj stent placed in the ureter. No nephrostomy.\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b Advice on discharge:\ulnone\b0   \lang255\par
+\lang1033\kerning0 Avoid straining, lifting weight for 4 weeks\par
+Mild blood tinge may be noted in the urine, do not be alarmed.\par
+\kerning1\ul\b Discharge medication:\ulnone\b0  \lang255\par
+\lang1033 Tab Mortega 1-0-1 x 5 days\par
+Tab Pantagut DM 1-0-0 x 5 days (before food)\par
+Tab Dolo 650mg 1-0-1 x 3 days and then SOS (if pain)\par
+Tab Triblend VG2 1-0-1 to continue\par
+Tab Cetapin XR 1000mg 1-0-1 to continue\par
+\ul\b Plan on discharge\ulnone\b0 : \kerning0 Review in Urology OPD after 1 month with prior appointment ( Dr. Tharun ) for right double J stent removal. X-ray KUB on follow up.\lang255\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b Condition at the time of discharge: \ulnone\b0 Stable and afebrile. Right Double J stent insitu.\lang255\par
+\lang1033\ul\b When to obtain urgent care: \kerning0\ulnone\b0 In case of fever with chills / severe left or right flank pain or discomfort / severe burning sensation while voiding / severe lower abdominal pain or discomfort / gross blood in urine \lang255\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b How to obtain urgent care:\ulnone\b0   \kerning0 Report to Emergency department / Call Urology OPD\lang255\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b In case of emergency, contact:\ulnone\b0  0484-2905000, \b Urology OPD\b0 : 0484-2905005, \b ER\b0 : 0484-2905834\par
+\lang255\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang16393\kerning0\b Prepared by : Dr. Sudhan Kumar\lang1033\kerning1\b0\par
+\ul\b\par
+\pard\nowidctlpar\hyphpar0\ulnone Dr. H Sanjay Bhat      \tab\tab\tab\tab\tab\cf1\highlight2 Dr. Balagopal Nair T \cf0\highlight0\lang255\b0\par
+\cf1\highlight2\lang1033 Senior\cf3\highlight0\lang16393  Consultant Urologist (HOD)\tab\tab\cf1\highlight2\lang1033 Consultant\cf3\highlight0  Urologist                                                                                              \lang16393                                                                                                                                               \cf0\lang255\par
+\cf3\lang16393 MBBS, MS, DNB, FRCS, MCh, FAGE            \cf1\highlight2\lang1033 MBBS, MS, DNB (Uro)\cf0\highlight0\lang255\par
+\cf3\lang16393\par
+\par
+\pard\nowidctlpar\hyphpar0\sl252\slmult1\lang1033\b Dr. Sandeep R Nath                                     Dr. Tharun B K                                \cf0\lang255\b0\par
+\cf3\lang1033 Consultant Urologist                                    Consultant Urologist                                    \cf0\lang255\par
+\cf1\highlight2\lang1033 MBBS, MS, MCh(Uro)\cf3\highlight0\lang16393                                    MBBS, DNB (General surgery), DNB (Urology)           \cf0\lang255\par
+\pard\cf3\lang1033\par
+\cf1\highlight2\kerning0\b\i\f1 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f2\fs17\par
+},<Age:45:Age>,<Sex:2:Sex>,2019-02-20 13:17:54.567000000

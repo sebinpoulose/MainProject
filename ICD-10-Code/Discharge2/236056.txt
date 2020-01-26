@@ -1,0 +1,55 @@
+236056,74559,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue10;\red0\green0\blue255;\red0\green0\blue0;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\nowidctlpar\hyphpar0\cf1\lang255\kerning1\f0\fs24\par
+\pard\nowidctlpar\hyphpar0\sb240\sa160\sl252\slmult1\qc\lang16393\b\fs40 Department of Medical Oncology\lang255\b0\fs24\par
+\lang16393\b\fs32 Treatment Summary\lang255\b0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\lang16393\b\par
+\pard\hyphpar0\sa160\sl252\slmult1\qj\cf0\lang9\ul\f1 DIAGNOSIS\ulnone :\line\b0 CARCINOMA RIGHT BREAST, \lang3081\kerning0 cT4bN1M0\lang9\kerning1\b\line\lang255\b0\line\ul\b COMORBIDITIES\ulnone\b0 : \line\lang16393 SYSTEMIC HYPERTENSION\par
+\ul\b DRUG ALLERGY\ulnone :\line\b0 Not known\b\par
+\pard\ul CHIEF COMPLAINTS\ulnone :\line\b0 Mrs. Mary Paul Mathai, 63-yrs-old female, evaluated for right breast lump since 1 year associtated with mild pricking pain. Mammogram correlated with USG reported as \kerning0 heteroechoic mass lesion with microlobulations is seen in the right breast 8 'o clock position 5 cms from the nipple, this lesion measures approximately 3.9 x 3.7 cms, a smaller satellite lesion is seen posteromedial to this lesion and measures 7 x 5 mm, the larger lesion is seen abutting the skin,however no definite skin infiltration and enlarged right axillary nodes. \kerning1 Trucut biopsy done showed \kerning0 Infiltrating duct carcinoma, grade 3. IHC revealed ER Negative, PR Negative, HER2neu Equivocal (2+) (FISH awaited) (weak to moderate complete membrane staining in > 10% cells Percentage of cells with uniform intense complete membrane staining < 1%) with Ki 67 of 30 - 40%.  USG abdomen was normal. CT chest done showed few bilateral tiny subsolid nodules in both lungs, predominantly in subpleural location. Her diagnosis, prognosis and treatment options explained in detail with the patient and relatives. She is admitted for neo adjuvant chemotherapy. \lang255\kerning1\par
+\pard\hyphpar0\sa160\sl252\slmult1\qj\lang16393\ul\b\line EXAMINATION\ulnone :\b0  \line Vitals stable\lang255\par
+\lang16393\ul\b PRE CHEMO INVESTIGATIONS\ulnone :\line\b0 Within normal limits\par
+\pard\hyphpar0\sa200\sl276\slmult1\qj\lang9\ul\b CHEMOTHERAPY GIVEN\ulnone :\line Cycle \lang16393 3\lang9  Day 1 (\lang16393 18\lang9 /0\lang16393 2\lang9 /2019) \line\b0 Cap. APRECAP 125 mg PO\line Inj. PALNOSETRON 0.25 mg slow IV bolus\line Inj. DEXONA 8 mg slow IV\line\line Inj. FARMORUBICIN (EPIRUBICIN) 150 mg 100 ml NS over 30 minutes\line Inj. CYCLOPHOSPHAMIDE (ENDOXAN) 1000 mg 250 ml over 30 min\b\par
+\ul DISCHARGE MEDICATIONS\ulnone :\line\lang16393\kerning2\b0 Inj. PEGEX (PEG FILGRASTIM) 6 mg S/C on 20/02/2019 @ 9 am\line\lang9\kerning1 Cap. APRECAP \lang16393 80\lang9  mg \lang16393 x 2 days @ 10.00 am\line Tab. DECMAX 4 mg 0-0-2 on 10/03/2019\lang9\line Tab PANTOP 40 mg 1-0-0 x 10 days\line Tab. TRIKA 0.25 mg 0-0-1 x 2 weeks                                                \line Tab PERINORM 10 mg if needed for vomiting\line Tab GERBISA 10 mg at bedtime if needed for constipation\line\line Tab AMLOVAS AT 0-0-1 (To be continued)\par
+\ul\b REVIEW ON\ulnone\b0 : \line\lang16393 27\lang9 /0\lang16393 2\lang9 /2019 - CBC and inform\line\lang16393 11\lang9 /0\lang16393 3\lang9 /2019 - CBC, RFT, SGPT, ALP, RBS for next cycle of chemotherapy. \lang16393\b\par
+\pard\hyphpar0\sa160\sl252\slmult1\qj\ul CONDITION AT THE TIME OF DISCHARGE\ulnone :\line\b0 Stable\lang255\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\cf1\lang16393\ul\b\f0 POST CHEMOTHERAPY INSTRUCTIONS\ulnone :\lang255\b0\par
+\lang16393\b\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\qj\lang9\b0       1. Ask your doctor any doubts regarding disease and treatment.\lang255\par
+\lang9       2. There is no specific diet recommended after chemotherapy.\lang255\par
+\lang9       3. Check blood counts in between and SMS your doctor (if requested).\lang255\par
+\pard\nowidctlpar\hyphpar0\fi-360\li720\sa160\sl252\slmult1\qj\lang9 4. Do blood investigations prior to next cycle of chemotherapy as requested by your doctor.\lang255\par
+\lang9 5. Please inform your regular medications to your doctor.\lang255\par
+\lang9 6. Bring day care chemotherapy card with you.\lang255\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\qj\lang9       7. Avoid over the counter medications/ alternative medicine unless allowed by your doctor.\lang255\par
+\lang9       8. If you develop fever more than or equal to \lang16393 100 F or severe vomiting, tiredness, contact the     \tab hospital/ Doctor immediately\lang255\par
+\lang16393       9. Please have the discharge summary with you when you call your doctor.\lang255\par
+\lang16393       10. Please note down Emergency numbers:\lang255\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\lang16393\b\par
+\pard\nowidctlpar\hyphpar0\li720\sa160\sl252\slmult1\qj\par
+Rajagiri Hospital: \i 0484-2905000\i0\tab\tab\lang255\b0\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qc\lang16393\b\i\fs28\ldblquote Wish you a speedy recovery\rdblquote\lang255\b0\i0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang16393\fs22 Name and Signature of Consultant\lang255\fs24\par
+\lang16393\fs22\par
+\pard\nowidctlpar\hyphpar0\lang1033\b Dr. Sanju Cyriac, MD (General Medicine), DM (Medical Oncology), DNB\lang255\b0\fs24\par
+\lang1033\fs22 Consultant - Medical Oncology\tab\tab\tab\tab\lang255\fs24\line\lang1033\fs22 Rajagiri Hospital\lang255\fs24\par
+\lang1033\fs22 Phone no: +91 9747880036\tab\lang255\fs24\line\lang1033\fs22 E-Mail: \cf2\ul sanju.cyriac@rajagirihospital.com\cf1\lang255\ulnone\fs24\par
+\lang1033\fs22\par
+\b Dr. Subi T. S., MS (General surgery AIIMS, DELHI), MCh (Surgical Oncology, TATA, MUMBAI)\lang255\b0\fs24\par
+\lang1033\fs22 Consultant - Surgical Oncology\tab\tab\tab\tab\lang255\fs24\line\lang1033\fs22 Rajagiri Hospital\lang255\fs24\par
+\lang1033\fs22 Phone no: +91 8547737149\tab\lang255\fs24\line\lang1033\fs22 E-Mail: \cf2\ul subi.ts@rajagirihospital.com\cf1\lang255\ulnone\fs24\par
+\lang1033\ul\fs22\par
+\ulnone\b Dr. Varun Rajan MD (Internal Medicine), DM (Medical Oncology)\lang255\b0\fs24\line\lang1033\fs22 Consultant - Medical Oncology\tab\tab\tab\tab\lang255\fs24\line\lang1033\fs22 Rajagiri Hospital\lang255\fs24\par
+\lang1033\fs22 E-Mail: \cf2\ul varun.rajan@rajagirihospital.com\cf1\lang255\ulnone\fs24\par
+\pard\line\cf0\lang16393\kerning0\b\fs22 Dr. Ayesha Jaleel,DMRT,DNB(Radiation Oncology)\par
+\lang1033\b0 Consultant \tab\tab\tab\tab\lang255\fs24\line\lang1033\fs22 Rajagiri Hospital\par
+\pard\cbpat5\cf1\lang16393\kerning1\fs24 Phone no: +91 \cf3\kerning0 9645884553\par
+\cf1\kerning1\fs22 E-Mail: \cf2\ul ayesha.jaleel@rajagirihospital.com\cf3\kerning0\ulnone\fs24\par
+\pard\nowidctlpar\hyphpar0\cf1\lang1033\kerning1\fs22  \lang255\fs24\par
+\pard\cf0\lang1033\kerning2\b\fs22 Ms. Anooja  Jose\b0\par
+Physician Assistant\par
+\pard\nowidctlpar\sa200\sl276\slmult1 Rajagiri Hospital\par
+\pard\nowidctlpar\hyphpar0\cf1\kerning1\fs17\par
+\par
+\pard\cf4\highlight5\kerning0\b\i\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f2\fs17\par
+},<Age:63:Age>,<Sex:2:Sex>,2019-02-18 14:26:30.240000000

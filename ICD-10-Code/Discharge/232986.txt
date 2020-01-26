@@ -1,0 +1,114 @@
+232986,74441,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset2 Wingdings;}{\f2\fnil\fcharset0 Calibri;}{\f3\fnil\fcharset0 Consolas;}{\f4\fswiss\fprq2\fcharset0 Consolas;}{\f5\fswiss\fprq2\fcharset0 Calibri;}{\f6\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\sa160\sl252\slmult1\qc\ul\b\f0\fs24\par
+\pard\sa200\sl276\slmult1\qc\fs36 DEPARTMENT OF GENERAL MEDICINE\ulnone\b0\fs24\par
+\pard\lang3081\par
+\b\par
+Dr. Koruth George P., MD                   Dr. Renji Jos, MD, PDDM             Dr. Geena Jacob, MD\par
+\b0 Senior Consultant                                          Senior Consultant                                            Consultant\par
+\b\par
+Dr. D Santhichandra Pai, DNB            Dr. Nijin Jose, MD                            Dr. Salini Baby John, MD                           \par
+\b0 Junior Consultant                                       Junior Consultant                                             Junior Consultant\par
+             \lang1033\ul\par
+\pard\qj\lang16393\ulnone\b Dr. Daniel Joseph, MBBS                   Dr. Ambily Anu Isaac, MBBS           \par
+\pard\sa200\sl276\slmult1\b0 Medical Officer     \tab\tab\tab    Medical Officer\par
+\lang1033\ul\par
+\pard\sa160\sl252\slmult1\b DRUG ALLERGIES:\b0\par
+\ulnone Not known\par
+\par
+\ul\b DIAGNOSIS:\lang3081\kerning2\ulnone\f1\tab\par
+\pard\lang1033\kerning0\f0\fs6\par
+\f2\fs24\par
+\tab\lang3081\kerning2\f1\'b2\tab\lang1033\kerning0\f0 Acute Bronchitis \par
+\par
+\f2\tab\lang3081\kerning2\f1\'b2\tab\lang1033\kerning0\f0 Type 2 Diabetes Mellitus \par
+\par
+\f2\tab\lang3081\kerning2\f1\'b2\tab\lang1033\kerning0\f0 Systemic Hypertension \par
+\par
+\f2\tab\lang3081\kerning2\f1\'b2\tab\lang1033\kerning0\f0 Iron Deficiency Anemia\par
+\par
+\f2\tab\lang3081\kerning2\f1\'b2\tab\lang1033\kerning0\f0 Addison's Disease \par
+\par
+\f2\tab\lang3081\kerning2\f1\'b2\tab\lang1033\kerning0\f0 Mysthenia Gravis \par
+\par
+\f2\tab\lang3081\kerning2\f1\'b2\tab\lang1033\kerning0\f0 Type 2 Autoimmune Polyglandular Syndrome\par
+\f2\par
+\tab\lang3081\kerning2\f1\'b2\tab\lang1033\kerning0\f0 Graves' Disease - Post Radio Iodine Ablation - On Oral Thyroxine \par
+\par
+\f2\tab\lang3081\kerning2\f1\'b2\tab\lang1033\kerning0\f0 Post \lang3081 Pedunculated polypectomy (2009)\f3\fs20  \lang1033\f0\fs24\par
+\lang3081\b0\f4\fs20\par
+\par
+\pard\sa160\sl252\slmult1\lang1033\f5\fs4\par
+\ul\b\f0\fs24 PRESENTING COMPLAINTS:\lang3081\ulnone\b0\f4\fs20\par
+\f0\fs24 Intermittent cough with expectoration - 2 weeks\par
+Breathlessness - 1 day\par
+Myalgia +\lang1033\ul\b\par
+\par
+CLINICAL EXAMINATION:\b0\par
+\ulnone BP:      150/90  mmHg\tab  PR:  80/min, regular.  Peripheral pulses present.\par
+Temp:\tab  98.4\lquote  F.   SpO2 98 % (room air).\par
+RS:\tab Normal vesicular breath sounds.  Scattered rhonchi bilaterally +. Scattered basal crepts +.\par
+CVS:\tab S1 + S2 +.  No murmur.\par
+PA:\tab Soft.  Non-tender. \par
+\tab Hernial orifices normal.  Bowel Sounds+. \par
+CNS:\tab No focal deficit. DTR equal B/L.  Plantar B/L flexor.\par
+\par
+\ul\b INVESTIGATIONS:\lang3081\ulnone\b0\f4\fs20\line\pard\b 19-02-2019 10:47 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 TSH                                   1.78      uIU/ml        0.35 - 5.50\line\line\b 18-02-2019 10:06 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 PPBS                                  271       mg/dl         90.00 - 140.00\line\line\b 18-02-2019 09:03 AM\b0\line Investigation                  Result\line\line Occult Blood                  NEGATIVE\par
+\line\line\b 18-02-2019 03:14 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 FBS                                   142       mg/dl         70.00 - 110.00\line\line\b 16-02-2019 09:07 AM\b0\line Investigation                  Result\line\line Occult Blood                  NEGATIVE\par
+\line\line\b 16-02-2019 02:44 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Peripheral Blood Smear ( PBF )        SubHead\line\line Observation\line PS:   /2019RBC:   Shows mild anisopoikilocytosis and hypochromia              The cells seen are normocytes admixed with microcytes, ovalocytes, and occasional               macrocytes. Polychromatophils are noted. No NRBCs/parasites seenWBC: Normal in total number            Neutrophils are predominating            Absolute lymphocyte count is reduced             No left shift/blasts seen.            Platelets :   Adequate in number                      Seen scattered singly           IMPRESSION: Peripheral smear shows microcytic hypochromic anemia with relative neutrophilia.\par
+\line\b 16-02-2019 02:44 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 FBS                                   238       mg/dl         70.00 - 110.00\line\line\b 15-02-2019 06:34 PM\b0\line Investigation                  Result\line\line Occult Blood                  NEGATIVE\par
+\line\line\b 15-02-2019 12:54 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 HbA1c                                 11.7      %             4.0 - 6.0           \line MBG                                   303       mg/dl\line\line\b 15-02-2019 12:54 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Iron                                  33        ug/dL         50.0 - 170.0\line\line\b 15-02-2019 12:54 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 TIBC                                  407       ug/dL         250.0 - 450.0\line\line\b 15-02-2019 10:30 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 PPBS                                  239       mg/dl         90.00 - 140.00\line\line\b 15-02-2019 07:24 AM\b0\line Investigation                  Result\line\line Acetone                       Negative\par
+\b Investigation                         Result\line\line\b0 Culture & Sensitivity- Sputum SubHead\line Sample                        SPUTUM\line Gram Stain                    Pus cells : Moderate/LPF.Epithelial cells : Rare/LPF.Few Gram positive cocci ,Rare Gram negative bacilli and Budding yeast cells seen,Suggestive of Normal flora.\line Observation                   Culture yields normal flora only.\par
+\line\b 15-02-2019 05:09 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Haemoglobin                           10.2      g/dl          11.5 - 14.5         \line TC                                    4.5       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           75        %             40.0 - 80.0         \line Lymphocytes                           19        %             20.0 - 40.0         \line Monocytes                             5         %             2.0 - 10.0          \line Eosinophils                           1         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     3.4       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     0.9       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.2       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.0       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             3.9       x10^6/ul      3.8 - 5.3           \line Hct                                   34        %             40.0 - 54.0         \line MCV                                   87        fl            80.0 - 100.0        \line MCH                                   26        pg            27.0 - 32.0         \line MCHC                                  30        g/dl          32.0 - 36.0         \line Platelet                              286       x10^3/ul      150.0 - 450.0       \line RDW                                   17.6      %             10.0 - 16.5         \line MPV                                   6.9       fl            7.5 - 11.5\line\line\b 15-02-2019 05:09 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 FBS                                   199       mg/dl         70.00 - 110.00\line\line\b 15-02-2019 01:20 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Haemoglobin                           10.5      g/dl          11.5 - 14.5         \line TC                                    5.1       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           81        %             40.0 - 80.0         \line Lymphocytes                           13        %             20.0 - 40.0         \line Monocytes                             5         %             2.0 - 10.0          \line Eosinophils                           1         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     4.1       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     0.6       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.3       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.1       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             4.1       x10^6/ul      3.8 - 5.3           \line Hct                                   35        %             40.0 - 54.0         \line MCV                                   86        fl            80.0 - 100.0        \line MCH                                   26        pg            27.0 - 32.0         \line MCHC                                  30        g/dl          32.0 - 36.0         \line Platelet                              298       x10^3/ul      150.0 - 450.0       \line RDW                                   17.6      %             10.0 - 16.5         \line MPV                                   7.3       fl            7.5 - 11.5\line\line\b 15-02-2019 01:20 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Liver Function Test ( LFT )           SubHead                                     \line Total Bilirubin                       0.4       mg/dl         0.3 - 1.3           \line Direct Bilirubin                      0.1       mg/dl         0.2 - 0.4           \line Indirect Bilirubin                    0.3       mg/dl         0.2 - 0.9           \line SGOT                                  18        U/L           15.0 - 37.0         \line SGPT                                  22        U/L           30.0 - 65.0         \line Alkaline Phosphatase                  91        U/L           50.0 - 136.0        \line Total Protein                         6.4       g/dl          6.0 - 8.0           \line Albumin                               3.1       g/dl          3.4 - 5.0           \line Globulin                              3.3       g/dl          2.0 - 3.5           \line A:G Ratio                             0.94      :1            1.0 - 2.0\line\line\b 15-02-2019 01:20 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Electrolytes                          SubHead                                     \line Sodium                                142       mEq/L         136.0 - 146.0       \line Potassium                             4         mEq/L         3.5 - 5.1\line\line\line\b 15-02-2019 01:20 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Renal Function Test                   SubHead                                     \line Urea                                  12.84     mg/dl         15.0 - 45.0         \line Creatinine                            0.76      mg/dl         0.6 - 1.4\line\line\line\b 15-02-2019 01:20 AM\b0\line  \b Name                                            Result         Unit               Reference\line\line\b0 Physical Examination                             SubHead                                               \line Colour                                           Yellow                                                \line Appearance                                       Clear                                                 \line Chemical Examination                             SubHead                                               \line Urine Albumin                                    Nil                                                   \line Urine Sugar                                      +                                                     \line Microscopic Examination                          SubHead                                               \line WBC                                              3              /HPF               0.0 - 5.0           \line RBC                                              1              /HPF               0.0 - 2.0           \line Epithelial Cells                                 1              /HPF               Occasional          \line Cast                                             Nil            /LPF               Nil                 \line Crystal                                          Nil            /HPF               Nil                 \line Bacteria                                         Occasional                                            \line Yeast                                            Absent\line\line\line\b 15-02-2019 01:20 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 CRP                                   2.4       mg/L          0.00 - 5.00\line\line\b 15-02-2019 01:20 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 ESR                                   20        mm/hr         0.00 - 20.00\line\pard\sa160\sl252\slmult1\b\f0\fs24\par
+CT Chest Plain   (18/02/2019\b0 ) : \lang16393 Report awaited. \lang3081\par
+\b\f4\fs20\par
+\lang1033\ul\f0\fs24 COURSE IN THE HOSPITAL:\par
+\pard\lang3081\ulnone\b0 Patient a known case of \lang1033 type 2 diabetes mellitus, systemic hypertension, iron deficiency anemia, Addison's disease, mysthenia gravis, type 2 autoimmune polyglandular syndrome, Graves' disease - post radio iodine ablation,  post \lang3081 pedunculated polypectomy in 2009, vascular headache and vocal cord polyp (2002), who is under follow up in Gastroenterology for evaluation of malena, got admitted with complaints of intermittent cough with whitish expectoration of 2 weeks associated with myalgia and breathlessness of 1 day\b\f3\fs20 . \b0\f0\fs24 She had received oral Amoxicillin for 10 days initially for complaints of yellowish sputum. Investigations showed mild anemia with normal ESR and CRP. Urine routine showed mild glycosuria. Blood sugars were elevated. HbA1c was 11.7%. Urine acetone was negative. RFT and serum electrolytes were normal. LFT showed minimal A:G reversal. Chest x-ray showed normal lung parenchyma. ECG showed normal sinus rhythm.  Peripheral smear showed microcytic hypochromic anemia with relative neutrophilia. Serum Iron was low and TIBC was normal. Sputum Gram stain was unremarkable and culture grew normal flora only. Sputum smear for AFB was negative. Stool for occult blood (3 samples) were negative. She was seen by the Endocrinologist and advice followed. She was seen by the ENT Surgeon, indirect laryngoscopy revealed edematous arytenoid and advice followed. Fiberoptic Endoscopic Evaluation of Swallowing showed no abnormality. She was seen by the Ophthalmologist for glaucoma and advice followed. She was reviewed by the Gastroenterologist. Endoscopic Ultrasonography unger GA was tried, but deferred as the patient had desaturation during the procedure. She was continued on routine medications along with inhaled beta 2 agonist and other symptomatic measures. CT Scan of Chest, report awaited. She remained afebrile throughout hospital stay, improved symptomatically and is being discharged in a stable state.\par
+\par
+\pard\sa160\sl252\slmult1\lang1033\ul\b INPATIENT MEDICATION:\par
+\ulnone\b0 Inj. Lantus, Inj. Humalog, Tab. Hisone, Tab. Glycomet SR, Tab. Myestin, Tab. Azoran, Tab. Thyronorm, Tab. Tazloc, Tab. Livogen, Tab. Shelcal, Tab. Neurobion Forte, Tab. Fludac, Tab. Bepogra, Tab. Deriphyllin OD, Tab. Pan, Tab. Istamet, Tab. Amlodipine, Tab. Fibator, Cap. Evion, Asthalin R/C, Brinzox eye drops,  Neb. Asthalin, Steam inhalation with Tincture Benzoin, Syp. Mucolite \par
+\ul\b\par
+DISCHARGE ADVICE:\ulnone\b0\par
+Inj. Lantus                               0-0-38 u                   x to continue (own medication)    S/C  (at 10 pm)\par
+Inj. Humalog Penfill                 10-8-8 u                   x to continue (own medication)    S/C\par
+Tab. Glycomet SR      1g         0-0-1                       x to continue (own medication)     \par
+Tab. Istamet 50/1000             1-0-0                       x to continue (own medication)    \par
+Tab. Hisone             15 mg     1-1-1                      x to continue (own medication)    \par
+Tab. Myestin           60 mg     1-1-1                      x to continue (own medication)    \par
+Tab. Azoran            50 mg     1/2-0-1                   x to continue (own medication)       \par
+Tab. Thyronorm      75 mcg    1-0-0                     x to continue (own medication)    \par
+Tab. Tazloc            40 mg       1-0-0                     x to continue (own medication)       \par
+Tab. Amlodipine    5 mg         1-0-0                    x to continue (own medication)  \par
+Tab. Livogen                           0-0-1                     x to continue (own medication)    \par
+Tab. Shelcal           500 mg     1-0-1                     x to continue (own medication)    \par
+Tab. Neurobion Forte             0-0-1                    x to continue (own medication)    \par
+Tab. Fludac         20 mg          1-0-0                     x to continue (own medication)    \par
+Tab. Fibator                          0-0-1                   x to continue (own medication)  \par
+Cap. Evion         400 mg       0-0-1                   x to continue (own medication)       \par
+Tab. Bepogra      10 mg          1-0-1                     x 5 days\par
+Tab. Deriphyllin OD 300        0-0-1                     x 7 days   \par
+Tab. Pantocid       40 mg        1-0-0                    x 7 days   \par
+Asthalin R/C     100 mcg      1-1-1                     x 7 days  \par
+Brinzox eye drops                 1-0-1                    x to continue ( both eyes) (own medication)       .\par
+Nebulize with Asthalin every 8 hours.  \par
+Steam inhalation with Tincture Benzoin twice daily.\par
+\ul\b\par
+REVIEW:\par
+\ulnone\b0 Review after 7 days in \b GENERAL MEDICINE / ENDOCRINOLOGY/GASTROENTEROLOGY OPD \b0 with :\b\par
+\tab *   CBC with ESR / FBS / PPBS /\ul\par
+\ulnone\tab *   CT Chest - Pending report\par
+\ul\par
+CONDITION AT THE TIME OF DISCHARGE:\par
+\ulnone\b0 Stable.\b\par
+\par
+\ul WHEN & HOW TO OBTAIN URGENT CARE:\ulnone\par
+\b0 To report back immediately to the Emergency Room if symptoms recur.\par
+\b\par
+Signed by:\par
+                        DR. GEENA JACOB, MD\par
+                        CONSULTANT\par
+\pard\sa200\sl276\slmult1                         GENERAL MEDICINE\par
+\fs18 Incase of Emergency please contact:\par
+\pard\sa160\sl252\slmult1\lang16393 Helpline No. 0484-6655000                                                          Email: mail@rajagirihospital.com\par
+\pard Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\f6\fs17\par
+\par
+},<Age:63:Age>,<Sex:2:Sex>,

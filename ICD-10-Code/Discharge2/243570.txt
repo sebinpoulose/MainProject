@@ -1,0 +1,88 @@
+243570,74430,{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Tahoma;}{\f1\fswiss\fprq2\fcharset0 Calibri;}{\f2\froman\fprq2\fcharset0 Times New Roman;}{\f3\fmodern\fprq1\fcharset0 Consolas;}{\f4\fswiss\fprq2\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red5\green99\blue193;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\ltrpar\fi720\li720\sa160\sl252\slmult1\qc\lang16393\b\f0\fs44               Department of Neurology\par
+\pard\ltrpar\nowidctlpar\qj\f1\fs22\par
+\f2\fs20 Dr. Gigy Kuruttukulam MD DM\kerning2  \tab       Dr. Jacob Chacko MD DM,            Dr. Nimish Vijayakumar, MD DM \par
+\pard\ltrpar\qj\lang3081\kerning0\b0 Interventional Neurologist & Head\tab       \lang16393\kerning2 Consultant Neurologist\tab                      Consultant Neurologist\par
+\kerning0\b\fs12\par
+\fs20 Dr. Sunesh ER, MD DM \tab\tab              Dr. Kaushik Sundar, MD DM   \fs4                          \fs20\par
+\kerning2\b0 Consultant Neurologist\kerning0\b  \tab\tab\b0              Consultant &\b  \lang3081\b0 Interventional Neurologist\lang16393\b  \par
+\fs2 [\par
+[\par
+\par
+[\fs20  \kerning2\b0\par
+\kerning0\b Dr. Lomesh Bhirud, MD DM             Dr. Vadivel S, MBBS, DNB, MNAMS, DM \par
+\b0 Fellow in Stroke and Intervention\b          \b0 Fellow in Stroke and Intervention\b      \tab        \par
+\b0\fs10\par
+\b\fs20 Dr. Ajay Panwar, MD DM \tab\tab      Dr. Ancy Rahman \tab          Dr. Muhammed Alif  \par
+\b0 Fellow in Stroke and Intervention\b          \b0 Medical Officer \tab\tab          Medical Officer \par
+\pard\ltrpar\fi-360\li1800\sa160\sl252\slmult1\b\fs24\par
+\pard\ltrpar\sl252\slmult1 Diagnosis:\par
+\b0 Subarachnoid haemorrhage   \par
+Left anterior cerebral artery - A Com aneurysm \par
+\pard\ltrpar\sa160\sl252\slmult1\par
+\b History of present illness:\b0    \par
+\pard\ltrpar\sa160\sl252\slmult1\qj Mr. Shihab A M, 40 year old male with no previous comorbidities, had acute onset severe holocranial headache since one week. No history of loss of consciousness, seizure, vomiting. \par
+\pard\ltrpar\sl252\slmult1\lang1033\kerning2\b\par
+Clinical Examination\lang16393\kerning0 :\b0  \par
+\lang3081 Pulse rate 80/minute \par
+\pard\ltrpar\qj Blood pressure 130/70mmHg\par
+Conscious, oriented\par
+No cranial nerve deficit\par
+Power: 5/5 all 4 limbs. \par
+\par
+\pard\ltrpar\sa160\sl252\slmult1\lang16393\b Investigations:\b0    \par
+\pard\ltrpar\sl252\slmult1\qj\b Computerised tomography of brain \b0 15.02.19: Minimal hyperdensity in the right high parietal sulcal space - ? Acute subarachnoid hemorrhage.  \par
+\line\b Computerised Tomography angiography\b0 : report awaited. \par
+\par
+\pard\ltrpar\sa160\sl252\slmult1\b Diagnostic cerebral angiography: 15.02.19: \b0 Left ACA- Acom, measuring approximately 5.94 mm x 3.84 mm with a neck of 1.9 mm. \par
+\pard\ltrpar\lang3081\f3\fs20\line\b 15-02-2019 03:28 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Haemoglobin                           14.0      g/dl          13.0 - 17.0         \line TC                                    7.0       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           59        %             40.0 - 80.0         \line Lymphocytes                           31        %             20.0 - 40.0         \line Monocytes                             8         %             2.0 - 10.0          \line Eosinophils                           2         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     3.9       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     2.2       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.5       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.1       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             5.2       x10^6/ul      3.8 - 5.3           \line Hct                                   44        %             40.0 - 54.0         \line MCV                                   84        fl            80.0 - 100.0        \line MCH                                   27        pg            27.0 - 32.0         \line MCHC                                  32        g/dl          32.0 - 36.0         \line Platelet                              207       x10^3/ul      150.0 - 450.0       \line RDW                                   13.9      %             10.0 - 16.5         \line MPV                                   7.4       fl            7.5 - 11.5\line\line\b 15-02-2019 03:28 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Electrolytes                                                                      \line Sodium                                140       mEq/L         136.00 - 146.00     \line Potassium                             3.4       mEq/L         3.50 - 5.10\line\line\b 15-02-2019 03:28 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Renal Function Test                                                               \line Urea                                  14.98     mg/dl         15.00 - 45.00       \line Creatinine                            0.87      mg/dl         0.60 - 1.40\line\line\b 15-02-2019 03:28 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Test                                  12.5      Seconds       12.0 - 18.0         \line Control                               13.5      Seconds       13.5                \line INR                                   0.91      -             1.0\line\line\b 13-02-2019 04:04 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Renal Function Test                                                               \line Urea                                  21.4      mg/dl         15.00 - 45.00       \line Creatinine                            0.85      mg/dl         0.60 - 1.40\line\line\b 13-02-2019 07:31 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Calcium                               7.92      mg/dl         8.5 - 10.5\line\par
+\b 13-02-2019 07:31 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Platelet                              204       x10^3/ul      150.0 - 450.0\line\par
+\b 13-02-2019 07:31 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Uric Acid                             3.2       mg/dl         3.5 - 7.2\line\par
+\b 13-02-2019 07:31 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 TSH                                   0.87      uIU/ml        0.35 - 5.50\line\par
+\b 13-02-2019 07:31 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 25 OH Vitamin D                       17.94     ng/ml\line\par
+\b 13-02-2019 07:31 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 FBS                                   91        mg/dl         70.0 - 110.0\line\pard\ltrpar\sa160\sl252\slmult1\line\b 13-02-2019 07:31 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 RHeumatoid Factor (RA) (Qualitative/SeSubHead                                     \line Comment                               Negative\line\line\pard\ltrpar\sl252\slmult1\qj\lang16393\b\f2\fs24\par
+\pard\ltrpar\sa160\sl252\slmult1 Course in the hospital:\b0    \par
+\pard\ltrpar\sl252\slmult1\qj Mr. Shihab A M, 40 year old male admitted with acute severe headache. His Computerised Tomography showing subarachnoid haemorrhage. Diagnostic cerebral angiography was suggestive of left anterior cerebral artery - Acom aneurysm. Patient was given both options of endovascular coiling and surgical clipping of the aneurysm; however patient went against medical advice from the hospital. \b\par
+\pard\ltrpar\sa160\sl252\slmult1\qj\par
+\pard\ltrpar\sa160\sl252\slmult1 Consultations:\b0    \par
+\pard\ltrpar\sl252\slmult1\qj Interventional radiology -Dr. Manisha Joshy \par
+\b\par
+\par
+\pard\ltrpar\sa160\sl252\slmult1 Treatment provided:\b0    \par
+\pard\ltrpar\sl252\slmult1\qj Tablet Dolo 650mg, Tablet Nimodipine 60mg\par
+\pard\ltrpar\sa160\sl252\slmult1\qj\b\par
+\pard\ltrpar\sa160\sl252\slmult1 Condition at discharge:\b0    \par
+\pard\ltrpar\sl252\slmult1\qj Discharged against medical advice. \par
+\pard\ltrpar\qj\par
+\pard\ltrpar\sa160\sl252\slmult1\b Advice on discharge:\b0    \par
+\pard\ltrpar\sl252\slmult1\qj Review in Neurology outpatient department after 2 weeks. \par
+\pard\ltrpar\qj\par
+\pard\ltrpar\sl252\slmult1\b Current Medications:\b0    \par
+Tablet Nimodipine \tab 60mg \tab\tab 1-1-1-1 x 1 week \par
+Tablet Dolo \tab\tab\tab 650mg \tab 1 if needed \par
+\pard\ltrpar\b\par
+\pard\ltrpar\sa160\sl252\slmult1 When and how to obtain urgent care:\b0    \par
+In case of weakness, sensory complaints, seizure, loss of consciousness, headache immediately report to emergency.  \par
+\pard\ltrpar\fs12\par
+\pard\ltrpar\qj\b\i\fs24 Please contact for emergency care: 0484 - 2905000 Ext- 5834/35\par
+\pard\ltrpar\b0\i0\par
+Prepared by: Dr. Lomesh Bhirud, MD DM\par
+\par
+Verified by:\par
+\par
+\par
+\par
+\pard\ltrpar\qj\b Dr. Gigy Kuruttukulam MD DM\par
+\b0 Interventional Neurologist & Head\par
+Department of Neurology \par
+\pard\ltrpar\par
+\pard\ltrpar\qj\lang3081  \par
+\lang16393\b\i\fs22 Prescription counselling done by: \tab\tab\tab\tab Clinical pharmacologist\par
+\fs20\par
+Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receiver (patient / bystanders) are requested to go through the details and confirm the accuracy before leaving hospital. This discharge summary is not a legal document / certificate. This contains information regarding the patient\rquote s ailment for further reference.  \par
+\pard\ltrpar Department mobile: 7356881101 (9 AM-5PM), E-mail - \cf1\ul neurology@rajagirihospital.com\cf0\ulnone\b0\i0\fs24\par
+\pard\ltrpar\sa160\sl252\slmult1\b\par
+\pard\ltrpar\cf2\highlight3\lang1033\i\f1\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f4\fs17\par
+\lang16393\kerning2\b\f2\fs44\par
+},<Age:40:Age>,<Sex:1:Sex>,2019-02-16 00:09:49.460000000

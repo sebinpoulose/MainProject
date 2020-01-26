@@ -1,0 +1,87 @@
+244102,74428,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Liberation Serif;}{\f2\froman\fprq2 Times New Roman;}{\f3\froman\fprq2\fcharset0 Calibri;}{\f4\froman\fprq2\fcharset0 MS Reference Sans Serif;}{\f5\froman\fprq2\fcharset0 Microsoft Sans Serif;}{\f6\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\tx5835\lang9\b\f0\fs28                                DEPARTMENT OF ORTHOPAEDICS\lang16393\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\tx5835\lang9\b\f0\fs22 UNIT \f2 -\f0  I \b0\fs18 (\b Monday, Wednesday, Friday\b0 )\b\fs22                                                 UNIT \f2 -\f0  II \b0\fs18 (\b Tuesday, Thursday, Friday)\lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs20 Dr. Murukan Babu, MS, D Ortho                                                            Dr. Ranjith T C, MS                                                  \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs18 Head of the department                                                                                          Sr. Consultant                                                                                                      \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs18 Sr. Consultant\b0                                                                                                           Division of Adult Reconstruction,                \lang16393\f1\fs24\par
+\lang9\f0\fs18 Division of Arthroscopy & Joint Replacement                                                         Deformity correction & Paediatric Orthopaedics\lang16393\f1\fs24\par
+\lang9\b\f0\fs20 Dr. Paul K Jose, MS Ortho, D Ortho                                                       Dr. Nikil Ellikkat Babu, MS\lang16393\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl276\slmult1\tx5835\lang9\f0\fs18 Fellowship-Arthroscopy & Arthroplasty \b                                                                  Consultant \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs18 Consultant\fs20                                                                                                      \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs20 Dr. Arun Kumar A. S., MS\fs18                                                                                 \fs22 DIVISION OF SPINE SURGERY\lang16393\b0\f1\fs24\par
+\lang9\f0\fs18 Fellow in Arthroscopy and Arthroplasty                                                                   \b\fs20 Dr.Ameer S Theruvath\lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs20                                                                                                                       \fs18 D.Ortho, DNB, MNAMS, FNB(Spine Surgery)\lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs22 UNIT \f2 -\f0  III \b0\fs18 (\b Tuesday, Wednesday, Saturday\b0 )                                                    \b Consultant - Spine Surgery\b0                                                                                                                                \lang16393\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\tx5835\lang9\b\f0\fs20 Dr. Tom Jose, MS \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs18 Consultant\fs22                                                                                             DNB Trainee \b0\fs18  \lang16393\f1\fs24\par
+\lang9\b\f0\fs20 Dr. Philip K Thomas, MS                                                                           Dr.Pavan Kiran Raut           \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs18 Consultant                                                                                                               \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs20                                                                         \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs18                                               \lang16393\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\tx5835\lang9\ul\b\f0\fs28 Diagnosis:\ulnone\b0\fs22  \par
+Fracture clavicle right\f3\fs24\par
+\ul\b\f0\fs28 Allergies:\ulnone\b0\fs22  \par
+Not known\fs24\par
+\ul\b\fs28 History:\ulnone\b0\fs22  \par
+18 year old , Alleged history of road traffic accident 15-2-2019.\par
+Pain right chest, back of head and right hip\par
+No history of LOC,vomiting,seizures,ENT bleed\lang16393\f1\fs24\par
+\lang9\f0\par
+\ul\b\fs28 Clinical Examination:\ulnone\b0\fs22  \par
+GCS-15/15 Pupil- equal and reactive\par
+BP-120/80 m Hg   HR-90/min SPo2-100% room air\par
+Local examination\par
+abrasion right proximal forearm \par
+Right chest\par
+swelling over right clavicle,tenderness middle 1/3 rd  present,movements painfully restricted,Peripheral pulses present,No neurologic deficits.\par
+Chest compression negative\par
+Right Hip\par
+Abrasion over right iliac crest, hip movements painful, No distal neuurovascuar deficits\par
+Pelvic compression negative\lang16393\f1\fs24\par
+\lang9\f0 Spine- Normal\par
+\ul\b\fs28 Investigations:\ulnone\b0\fs22  \par
+X-ray chest and shoulder -Fracture clavicle right\par
+CT Brain- Filim issued\lang16393\f1\fs24\par
+\lang9\f0\fs22\par
+\ul\b\fs28 Course in the Hospital:\ulnone\b0\fs22  \par
+He was admitted with above complaints, Fracture clavicle management discussed with patient and relative and treated with clavicle brace and arm sling.Neurosurgery consultation was done in view of pain over accipital region and ther advises carried out.At time of discharge patient stable.He is advised to continue rest at home.\lang16393\f1\fs24\par
+\lang9\f0\par
+\ul\b\fs28 Advice on discharge:\ulnone\b0\fs22  \par
+Clavicle brace and arm sling to continue\par
+strict bed rest\lang16393\f1\fs24\par
+\lang9\f0 Not to lift weight with right upper limb\lang16393\f1\par
+\lang9\f0\par
+\ul\b\fs28 In patient Medication\ulnone\b0\fs24 :\fs22  \par
+Injn.kabimol 1 g IV 1-1-1\lang16393\f1\fs24\par
+\lang9\f0\par
+\ul\b\fs28 Discharge Medication:\ulnone\b0\fs22  \par
+Tab.Voveran D 50 mg 1-0-1 x 5 days\par
+Tab.Ultracet 1 - SOS if severe pain- 10 tablet\par
+Tab.Rantac 150 mg 1-0-1 x 5 days\lang16393\f1\fs24\par
+\lang9\f0\par
+\ul\b\fs28 Plan on discharge:\ulnone\b0\fs22  \par
+Review in orthopedics OPD after 1 week with prior appointment\par
+\fs24\par
+\ul\b\fs28 Condition at the time of discharge:\ulnone\b0\fs22  \par
+Patient stable,clavicle fracture managed with clavicle brace and arm sling\lang16393\f1\fs24\par
+\lang9\f0\par
+\ul\b\fs28 When and how to obtain urgent care:\ulnone\b0\fs22  \par
+Review earlier if increasing pain,swelling, headache .\lang16393\f1\fs24\par
+\lang9\f0\line\lang16393\f1 Prepared by\par
+Dr.Nikil babu\par
+\lang9\f0\par
+\par
+\ul\b\fs28 Signed by:\lang16393\ulnone\b0\f1\fs24\par
+\lang9\f3 Dr.Nalanda Jaydev\par
+\par
+\par
+\b\f0 Incase of Emergency please contact:\lang16393\b0\f1\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult0\tx5835\lang9\b\f0\fs22 Helpline No. 0484-2905000                                                          Email: mail@rajagirihospital.com\lang16393\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\tx5835\lang9\b\f0\fs22 Prior Appointment No. 0484-2905111\lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs22 Please keep your discharge summary & prescription with you, when you call\lang16393\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\tx5835\lang1033\f4\fs17\par
+\cf1\highlight2\b\i\f3\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\ulnone\i0\f1\fs24\par
+\cf3\lang1033\f5\fs17\par
+\pard\cf0\f6\par
+},<Age:18:Age>,<Sex:1:Sex>,2019-02-16 13:22:31.047000000

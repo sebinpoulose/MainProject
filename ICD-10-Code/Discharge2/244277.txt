@@ -1,0 +1,87 @@
+244277,74564,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fswiss\fcharset0 Calibri;}{\f2\fnil\fcharset0 Calibri;}{\f3\fswiss\fprq2\fcharset0 Consolas;}{\f4\fswiss\fprq2\fcharset0 MS Reference Sans Serif;}{\f5\fnil\fcharset0 Times New Roman;}{\f6\froman\fprq2\fcharset0 Times New Roman;}{\f7\froman\fprq2\fcharset2 Symbol;}{\f8\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\qc\lang16393\b\f0\fs28 DISCHARGE SUMMARY\par
+\pard\b0\fs22\par
+\pard\sa160\sl252\slmult1\lang1033\ul\b Consultants Neonatology\ulnone\b0                                                                                     \ul\b Consultants Pediatrics\ulnone\b0\par
+\b Dr. Madhu George\b0 , \i MD, MRCPCH, Fellow (UK, Canada)\i0                                 \b Dr. Abdul Tawab\b0\i , MD\i0\par
+\pard\sa160\sl252\slmult1\tx6435\lang16393\fs20 (Head of the Department)\lang1033\b\fs22  \tab  Dr. Sheju Thomas\b0\i , MD\lang16393\i0\fs20\tab\lang1033\b\fs22\par
+\pard\sa160\sl252\slmult1                                                                                                                                   Dr. Uma Mohandas, \b0\i MD\par
+\i0                                                           \tab\tab                                                           \b Dr. John Thomas, \b0\i MD\par
+\b\i0 Dr. Jino Joseph\b0 , \i MD, DNB (Neonatology)\b\i0   \b0\i                                                        \kerning2\b\i0  Dr. Ejas Peer Rahman, \kerning0\b0\i MD\kerning2\par
+\kerning0                                                                                                                                   \kerning2\b\i0 Dr. Najeeba CM, \kerning0\b0\i MD\par
+\pard\lang16393\i0                                                                                                                                   \b\f1 Dr. Mohammed Bilal, \lang1033\b0\i\f0 MD\lang16393\i0\par
+\pard\qj                                                                                                                                   \b\f1 Dr. Reshmi Raveendran, \lang1033\b0\i\f0 MD\kerning2\i0\fs21\par
+\pard\lang16393\kerning0\b\fs28\par
+\ul\fs22 Diagnosis:\ulnone\b0    \b\f2 Term(39+5 weeks)/Appropriate for gestational age/Male/Hyperbilirubinemia  (No compatibility) /Exaggerated weight loss (14%)\ul\f0\par
+\ulnone\b0\par
+\par
+\ul\b Birth Parameters:\ulnone\b0     \tab\tab\tab\tab\tab                                     \ul\b Discharge Parameters:\ulnone\b0     \par
+\b Weight:\b0  2820 grams (10 th centile )\tab\tab\tab\tab\tab\b Weight:\b0     2659 grams\par
+\b Head Circumference :\b0\f2 33 cms \f0  (10 th centile )\tab\tab\tab\tab\lang1033\b Percentage of weight loss:\lang16393\b0  5.7%\par
+\b Length:\b0  48 cms ( greater than 3rd centile )\tab\tab\tab\tab\tab\tab                                            \par
+Admission Weight : 2407 grams\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\par
+      \ul\b\par
+\pard\sa160\sl252\slmult1\ulnone Mothers Blood Group:\b0\f2\tab B Positive\b\f0\tab\tab Baby\rquote s Blood Group: \b0\f2 O Positive \b\f0\tab\tab            \lang1033\par
+\b0\f2 This baby boy was referred from Alphonsa hospital idukki on  day 06 of life with high serum bilirubin 24.7 mg/dL .\lang16393\ul\b\f0\par
+\pard\qj\ulnone\b0 This baby boy was born to Athira and Febin on February 11,2019 at 14:11 hours at Alphonsa Hospital in Idukki  by a forceps assisted vaginal delivery. Athira  is a 29  year old primi gravida  whose blood group is B Positive and is seroprotected. She had regular antenatal checks during this pregnancy. Her expected delivery date  was February 13,2019 here were no medical disorders complicating her pregnancy .There were no risk factors for sepsis. \par
+\par
+\pard\sa160\sl252\slmult1 She delivered a baby boy  at 39+5 weeks gestation who weighed 2820 grams at birth. He  cried soon after birth and did not need any resuscitation. His Apgar scores were not known to us. He  had an uneventful postnatal course. He had \lang1033\f2  high serum bilirubin 24.7 mg/dL on day six of life ,hence he was referred here for further management. He was admitted to our unit on day 06 of life. He was started on phototherapy  and Intravenous fluids. He was noted to have exaggerated weight loss (14%). His blood counts were normal. his sodium levels was high on admission suggestive of dehydration. He gained weight the following two days and his repeat electrolyte and renal function tests were normal. His weight on discharge was 2659 grams. He had received phototherapy for 42 hours. His serum bilirubin at discharge is  11mg/dL. \lang16393\f0  He   is presently on breast feeds with top ups as necessary. \ul\b\par
+\pard\qj\ulnone\b0\par
+He   was immunized (Hepatitis B , OPV ) on February 11,2019 .BCG given on February 14,2019 \par
+His new born screening test was not sent.\par
+He  passed the hearing screen on February 18,2019.\par
+\pard He  had a normal discharge check on February 18,2019.\ul\b\par
+\ulnone\b0\par
+\ul\b Treatment Given:\ulnone\b0\par
+D3 MUST  drops 1ml once daily orally\par
+Phototherapy \par
+Intravenous Fluids \ul\b\par
+\par
+Investigations:\par
+\lang3081\ulnone\b0\f3\fs20\line\b 18-02-2019 06:02 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Electrolytes                          SubHead                                     \line Sodium                                141       mEq/L         136.0 - 146.0       \line Potassium                             5.7       mEq/L         3.5 - 5.1\line\line\b 18-02-2019 06:02 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 TSH                                   4.76      uIU/ml        0.35 - 5.50\line\par
+\b 18-02-2019 06:02 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Total Bilirubin                       11        mg/dl         0.3 - 1.3\line\line\b 17-02-2019 12:11 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 CRP                                   1.4       mg/L          0.00 - 5.00\line\line\b 17-02-2019 08:28 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Electrolytes                          SubHead                                     \line Sodium                                140       mEq/L         136.0 - 146.0       \line Potassium                             5.5       mEq/L         3.5 - 5.1\line\line\b 17-02-2019 08:28 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Total Bilirubin                       16.1      mg/dl         0.3 - 1.3\line\line\b 17-02-2019 12:09 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Total Bilirubin                       21        mg/dl         0.3 - 1.3           \line Comment                               *Rechecked\line\line\b 16-02-2019 07:29 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Electrolytes                          SubHead                                     \line Sodium                                146       mEq/L         136.0 - 146.0       \line Potassium                             4.9       mEq/L         3.5 - 5.1\line\line\b 16-02-2019 07:29 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Renal Function Test                   SubHead                                     \line Urea                                  27.82     mg/dl         15.0 - 45.0         \line Creatinine                            0.2       mg/dl         0.6 - 1.4\line\line\b 16-02-2019 07:29 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Reticulocyte Count                    1.0       %             0.5 - 2.0\line\line\b 16-02-2019 07:29 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Total Bilirubin                       24.7      mg/dl         0.3 - 1.3           \line Comment                               *Rechecked\line\line\b 16-02-2019 07:29 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Haemoglobin                           18.3      g/dl          11.0 - 17.0         \line TC                                    11.4      x10^3/ul      5.0 - 19.0          \line Differential Count                    SubHead                                     \line Neutrophils                           34        %             15.0 - 45.0         \line Lymphocytes                           45        %             15.0 - 80.0         \line Monocytes                             13        %             2.0 - 5.0           \line Eosinophils                           4         %             1.0 - 5.0           \line Band                                  4         %                                 \line IT Ratio                              0.10      -             0.2                 \line Neutrophils Count                     4.3       x10^3/ul      3.0 - 9.0           \line Lymphocytes Count                     5.1       x10^3/ul      3.0 - 16.0          \line Monocytes Count                       1.5       x10^3/ul      0.3 - 1.0           \line Eosinophils Count                     0.5       x10^3/ul      0.2 - 1.0           \line RBC Count                             5.9       x10^6/ul      3.0 - 5.4           \line Hct                                   58        %             31.0 - 55.0         \line MCV                                   100       fl            90.0 - 124.0        \line MCH                                   31        pg            28.0 - 40.0         \line MCHC                                  32        g/dl          30.0 - 35.0         \line Platelet                              400       x10^3/ul      150.0 - 450.0       \line RDW                                   16.9      %                                 \line MPV                                   7.5       fl            7.5 - 11.5\line\lang16393\ul\b\f0\fs22\par
+Pending Results:\ulnone\b0  \f2 MRSA screen sent on February16,2019. \ul\b\f0\par
+\par
+\par
+Advice on Discharge:\ulnone\b0\par
+Breast feeds on demand + top ups as necessary\par
+D3 MUST  drops 1 ml once daily orally to continue\par
+Immunization as per schedule. Next shots due on March 29,2019\par
+Follow up in the neonatal outpatient clinic on February 23,2019 at 11;00 hours.\par
+\ul\b\par
+\par
+\pard\sa200\sl276\slmult1 Condition at the time of discharge:\ulnone\b0           Stable, on full feeds.\f4\fs17\par
+\pard\par
+\f5\fs24 Prepared by: Dr Binoy. T\f6\fs28\par
+\f4\fs17\par
+\f2\fs28 Signed by: \b Dr Madhu George\b0\par
+                  (Head of the Department)\b\f5\par
+\pard\sa160\sl252\slmult1\f6\par
+\lang1033\ul\f0\fs22 Get help quickly from a doctor if your baby shows any of the signs listed below\par
+\pard\fi-360\li720\sa160\sl252\slmult1\ulnone\b0\f7\fs18\'b7\tab\f0 Cannot be woken or is responding less than usual to what is going on around\par
+\f7\'b7\tab\f0 Seems more floppy drowsy or less alert than usual\par
+\f7\'b7\tab\f0 Has a convulsion or fit\par
+\f7\'b7\tab\f0 Has an unusual cry (high pitched, weak or continuous) for one hour or more\par
+\f7\'b7\tab\f0 Has a bulge in the groin that gets bigger with crying\par
+\f7\'b7\tab\f0 Skin is much paler than usual or suddenly goes very white\par
+\f7\'b7\tab\f0 Nails are blue or colour does not return to toe within three seconds of a squeeze\par
+\f7\'b7\tab\f0 Blue colour develops around mouth\par
+\f7\'b7\tab\f0 Palms and soles appear deep yellow\par
+\f7\'b7\tab\f0 Rash develops with reddish-purple spots or bruises\par
+\f7\'b7\tab\f0 Struggles to breathe or stops breathing\par
+\f7\'b7\tab\f0 Breathes more quickly than normal or grunts when breathing out\par
+\f7\'b7\tab\f0 Has vomited up atleast half the feed after each of the last three feeds\par
+\f7\'b7\tab\f0 Vomit is green\par
+\f7\'b7\tab\f0 Has both vomiting and diarrhea\par
+\f7\'b7\tab\f0 Has drunk less milk and has fewer wet nappies than usual\lang16393\b\f6\fs28    \par
+\pard\sa160\sl252\slmult1\lang1033\f0 Emergency numbers\b0 : \par
+\b\fs22 Helpline: 0484-2905000             Accident and Emergency: 0484-2905800             NICU: 0484-2905240\lang16393\f6\par
+\pard\sa160\sl252\slmult1\qj\fs16 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\b0\fs22\par
+\pard\lang16393\f4\fs17\par
+\lang1033\f8\par
+\pard\sa200\sl276\slmult1\cf1\highlight2\b\i\f1\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang9\ulnone\i0\f2\par
+\pard\lang1033\b\f8\fs17\par
+\par
+\par
+\par
+},<Age:9:Age>,<Sex:1:Sex>,2019-02-18 14:13:07.273000000

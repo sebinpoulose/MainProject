@@ -1,0 +1,23 @@
+161240,74406,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 MS Reference Sans Serif;}}
+\viewkind4\uc1\pard\ul\f0\fs28 Department of interventional radiology\ulnone  \par
+\b\fs17\par
+\ul\fs24 Discharge summary\ulnone\fs17  \par
+\par
+Diagnosis : Bilateral lower limb pain and ulcer left ankle. History of EVLT bilaterally in 2017.\par
+\par
+    Mrs Lissy Cyriac, 54Y/F presented with both legs for past few months . Ulcer noted in left ankle for past few months. History of EVLT for varicose veins in both legs in 2017. On examination she was found to have bilateral varicose veins . Doppler showed bilateral varicose veins with prominent perforators along GSV and SSV. She underwent bilateral EVLT of 15-02-19. After observation she is being discharged today.\par
+\par
+\par
+POST PROCEDURE ORDERS:\par
+1. Compression stocking x 3 months\par
+2. T. TAXIM-O 200mg 1-0-1 x 5 days\par
+3. T. HIFENAC-P 1 SOS X 10 in case of severe pain\par
+4. T. Razo 1-0-1 20 mg x 5 DAYS\par
+5. Cold water / ice application in case of pain.\par
+Review after 1 week /  SOS.\par
+\par
+\par
+Dr Lijesh Kumar\par
+Consultant Interventional radiologist\par
+\pard\fs17\par
+},<Age:54:Age>,<Sex:2:Sex>,2019-02-15 22:44:09.500000000

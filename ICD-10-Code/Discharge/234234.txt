@@ -1,0 +1,88 @@
+234234,74568,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sa160\sl252\slmult1\tx810\tx1170\tx1440\lang16393\kerning2\b\f0\fs40\tab\tab\tab\tab\tab\tab\par
+\pard\sa160\sl252\slmult1\qc\tx810\tx1170\tx1440\ul DEPARTMENT OF PULMONARY MEDICINE\kerning0\par
+\pard\ulnone\b0\fs22\par
+\kerning2\b\fs32                                                 \fs28 Dr. Rajesh V\kerning0\b0\fs22                           \par
+\pard\tx6765\kerning2\b\fs24                                                                 MBBS, MD, DNB, IDCCM\kerning0\b0\fs22             \par
+\kerning2\b\fs24                                                                 Senior Consultant and HOD \kerning0\b0\fs22       \par
+                     \kerning2\b\fs24                                     \kerning0\b0\fs22\par
+\pard\kerning2\b\fs28 Dr. Jolsana Augustine\fs32                    \fs28 Dr. Divya R                     Dr Melcy Cleetus\fs32\par
+\fs24 MBBS, DTCD, DNB                                      MBBS, DTCD, MD               MBBS, DTCD, DNB\par
+Consultant                                                    Consultant                           Junior specialist\par
+                     \fs32     \kerning0\b0\par
+\kerning2\ul\b\fs28 Speciality Clinics\par
+\kerning0\ulnone\b0\fs32\par
+\pard\nowidctlpar\fi-420\li420\lang1033\kerning2\fs24      l \lang16393 Allergy & Immunotherapy Services\b\par
+\pard\nowidctlpar\lang1033\b0      l \lang16393 Sleep Disordered Breathing Clinic\b\par
+\pard\nowidctlpar\fi-420\li420\tx420\lang1033\b0      l \lang16393 Difficult Asthma Clinic\b\par
+\lang1033\b0      l \lang16393 Quit Smoking Clinic\b\par
+\lang1033\b0      l \lang16393 Interventional Pulmonology Services\b\par
+\pard\sa160\sl252\slmult1\kerning0\b0\fs32\par
+\pard\sa200\sl276\slmult1\ul\b\fs24 DRUG ALLERGIES\ulnone\b0\par
+Not known\lang1033\ul\b\par
+\b0\par
+\b DIAGNOSIS\par
+\lang16393\ulnone\b0 Lower respiratory tract infection\par
+Right lower lobe pneumonia\par
+Type 2 diabetes mellitus\par
+Old treated pulmonary tuberculosis- 10 years back\lang1033\ul\b\par
+\b0\par
+\b PRESENTING COMPLAINTS\lang16393\ulnone\b0\par
+Fever, cough with expectoration and breathing difficulty for 1 week\lang1033\ul\b\par
+\b0\par
+\b CLINICAL EXAMINATION\par
+\ulnone\b0 BP        190/100  mm of Hg\tab\tab\tab PR    163 |min regular peripheral pulses present\par
+RR           26  / mt                                            SpO2 - 98% at room air\par
+RS    Bilateral scattered rhonchi        \par
+OTHER SYSTEMS  Unremarkable\par
+\par
+\ul\b INVESTIGATIONS\par
+\ulnone\b0 Chest X-ray PA - Bilateral infiltrates\par
+CBC- Hb- 12.8, TC- 11.7, PLC- 514\par
+ESR- 59, CRP- 221.2\par
+RFT - Urea- 17.12, Creatinine- 0.88\par
+LFT- SGOT- 20, SGPT- 42\par
+Serum electrolytes- Na- 132, K- 3.4\par
+FBS- 278\par
+Urine ketone/ Acetone- Negative\par
+\par
+\ul\b COURSE IN HOSPITAL\lang16393\ulnone\b0 .\par
+\pard\nowidctlpar\sa200\sl276\slmult1\lang1033\fs22 Mrs. Rajeena Sidhik, 47 year old lady known case of type 2 diabetes mellitus presented in Emergency Medicine department with complaints of f\lang16393\fs24 ever, cough with expectoration and breathing difficulty for 1 week\lang1033\fs22 . \kerning2\fs24 Initially she was evaluated in a local hospital. But she did not get any symptomatic relief, hence she was referred to Rajagiri hospital for further management. \par
+\pard\sa200\sl276\slmult1\kerning0 With this background she presented here. She was tachypneic at presentation. Her chest radiograph showed bilateral infiltrates. General Medicine consultation was taken and advices were followed. She was admitted under Pulmonary Medicine Department and was treated with IV antibiotics (Piperacillin with Tazobactum and Doxycycline), bronchodilators and other supportive measures. \lang16393 Her baseline blood investigations showed elevated total counts, platelets, ESR, CRP and blood sugar values as well as hyponatremia. \lang1033 Echocardiogram was done which showed good left ventricular systolic function, EF-60% and no evidence of pulmonary artery hypertension. Computed tomography of chest was done bilateral patchy consolidation (official report awaited). \par
+\pard\nowidctlpar\sa200\sl276\slmult1\kerning2 She is better with treatment and stable at discharge and is maintaining a saturation of 94% on room air. Pneumococcal vaccine was given at discharge. Influenza vaccine was not given due to non availablity.\lang16393\kerning0\par
+\pard\sa200\sl276\slmult1\lang1033\ul\b\par
+MEDICINE ADMINISTERED\b0\par
+\pard\nowidctlpar\sa200\sl276\slmult1\ulnone 1. Inj. Biopiper TZ 4.5 gm IV every 8th hourly\par
+2. Inj. Difidox 100 mg IV every 12th hourly\par
+3. Inj. Paracetamol 1gm IV every 8th hourly\par
+4. Nebulization Salbair I every 8th hourly\par
+5. Nebulization Budamate every 12th hourly\par
+6. Inj. Prevnar 13 IM stat \ul\par
+\pard\sa200\sl276\slmult1\par
+\pard\sa160\sl252\slmult1\b CONDITION AT THE TIME OF DISCHARGE\par
+\lang16393\ulnone\b0 Stable\lang1033\fs22\par
+\pard\sa200\sl276\slmult1\ul\fs24\par
+\b DISCHARGE MEDICATIONS\par
+\pard\nowidctlpar\sa200\sl276\slmult1\ulnone\b0 1. Cap. Swich CV 325 mg 1-0-1 for 5 days\par
+2. Tab. Doxycycline 100 mg 1-0-1 for 5 days\par
+3. Cap. Sompraz D 40 mg 1-0-0 for 5 days\par
+4. Tab. Telekast F 0-0-1 for 5 days\par
+\pard\sa200\sl276\slmult1 5. Syp. Zerotuss 10 ml thrice daily for 5 days\par
+6. Tab. Dolo 650 mg 1 tab SOS \par
+7. Cap. Abflo 100 mg 1-0-1 for 5 days\par
+8. Inhaler Formoflo 250 mcg 2 puffs twice daily with transpacer followed by mouthwash\ul\par
+\par
+\b DISCHARGE ADVICE\lang16393\ulnone\b0\par
+\lang1033 Review after 5 days in Pulmonary Medicine and General Medicine OPD's with CBC, CRP, LFT, FBS, PPBS and Chest X ray reports\lang16393\fs32\par
+\par
+\lang1033\ul\b Review appointment with Dr. Rajesh V/Dr. Salini Baby John\par
+\par
+\pard\sa160\sl252\slmult1\lang16393\ulnone Signed by: Dr Rajesh V / Dr Jolsana Augustine  / Dr Divya R / Dr Melcy Cleetus\par
+\pard\sa160\qj\ul\fs24 When and how to obtain emergency care\par
+\ulnone\fs22 To report immediate to the emergency medicine department of Rajagiri hospital in case of worsening shortness of breath, intractable cough, fever greater than 100 /F persisting for more than 6 hours, chest pain or haemoptysis.\fs32\par
+\pard\sa200\sl276\slmult1\lang1033\fs24 In case of Emergency please contact:\lang16393 Helpline No. 0484-2905000\b0  \fs28         \lang1033\ul\par
+\pard\sa160\sl252\slmult1\lang16393\ulnone\b\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\b0\fs24\par
+\pard\lang1033\fs28\par
+\cf1\highlight2\b\i\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f1\fs17\par
+},<Age:47:Age>,<Sex:2:Sex>,

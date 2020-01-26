@@ -1,0 +1,76 @@
+244036,74563,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fswiss\fprq2\fcharset0 MS Reference Sans Serif;}{\f2\fnil\fcharset0 Calibri;}{\f3\fswiss\fprq2\fcharset0 Consolas;}{\f4\froman\fprq2\fcharset0 Times New Roman;}{\f5\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\sl276\slmult1\qc\lang9\b\f0\fs32 Department Of Paediatrics - UNIT-I\par
+\par
+\pard\sl276\slmult1\fs22 Senior Consultant:                                                                                              Consultants:\par
+\pard Dr. Serena Mohan Varghese                                                                           Dr. Uma Mohandas \b0 (\lang1033\i MD\lang9\i0 )\par
+Dch, DNB (Paediatrics), PGDDN                                                                     \b Dr. Deepti Damodaran\b0 (\lang1033\i MD\lang9\i0 )\par
+IAP fellow in Neonatology                                                                              \b Dr. Najeeba C M \b0 (\lang1033\i MD\lang9\i0 )\b                                                                                                                                 \b0\par
+\b                                                                                                                                     Dr. Reshmi Raveendran\b0 (\lang1033\i MD\lang9\i0 )\par
+                                                                                                                                    \b Dr. John Thomas C (MD)\par
+\b0\par
+\b DNB Trainees:\par
+Dr. Binoy T\par
+Dr. Nida Janna V K\par
+Dr. Mariya Robert\par
+Dr. Saran Sarma\par
+\par
+\par
+\b0\f1\fs17\par
+\par
+\pard\sa200\sl276\slmult1\ul\b\f0\fs22 History:\ulnone\f2  \b0  \b AMELIA\b0 ,  1 year old female child came with h/o fever last 1 day. Had 1 episode of vacant stare lasted about 5 mins in the morning. \par
+\f0\par
+\ul\b Clinical Examination:\ulnone\b0  \par
+Temp - 100.9F,  RR: 28/min   HR: 160/min       SPO2: 98% in Room air\par
+Throat - normal\par
+Ear - normal\par
+\f2 CVS: S1S2+, no murmur\par
+\pard RESPIRATORY: Air entry b/l equal. \lang3081\par
+\lang9\par
+\pard\sa200\sl276\slmult1 ABDOMEN:soft,non tender\par
+CNS: No FND\par
+\f0\par
+\pard\sb100\sa100\ul\b Clinical Course:\ulnone\b0    This child was admitted with above mentioned complaints. Baseline blood investigations all were normal. Urine routine was also normal. Child was started on supportive measures along with Frisium. Child had fever spikes on first 2 days of admission. On D3, on evaluation, child had congested throat with exudates. Hence added oral Augmentin. Blood culture provisionally reported as sterile after 48 hrs of incubation. Child improved symptomatically. At the time of discharge, child stable, active & good oral intake.\par
+\pard\sa200\sl276\slmult1\par
+\pard\sa200\ul\b Treatment given:\par
+\ulnone\b0\f2 IV Kabimol\par
+T. Frisium x 2 days\par
+Syp Augmentin x 1 dose\par
+\par
+\pard\ul\b\f0 Investigation: \ulnone\b0   \lang3081\f3\fs20\par
+\line\b 15-02-2019 05:18 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 ESR                                   3         mm/hr         0.0 - 20.0\line\line\b 15-02-2019 05:18 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Phosphorus                            5.84      mg/dl         2.6 - 4.7\line\par
+\b 15-02-2019 05:18 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Liver Function Test ( LFT )           SubHead                                     \line Total Bilirubin                       0.6       mg/dl         0.3 - 1.3           \line Direct Bilirubin                      0.2       mg/dl         0.2 - 0.4           \line Indirect Bilirubin                    0.4       mg/dl         0.2 - 0.9           \line SGOT                                  30        U/L           15.0 - 37.0         \line SGPT                                  15        U/L           30.0 - 65.0         \line Alkaline Phosphatase                  241       U/L           50.0 - 136.0        \line Total Protein                         6.9       g/dl          6.0 - 8.0           \line Albumin                               4.2       g/dl          3.4 - 5.0           \line Globulin                              2.7       g/dl          2.0 - 3.5           \line A:G Ratio                             1.56      :1            1.0 - 2.0\line\line\b 15-02-2019 12:24 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Haemoglobin                           10.2      g/dl          11.5 - 14.5         \line TC                                    8.6       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           72        %             40.0 - 80.0         \line Lymphocytes                           16        %             20.0 - 40.0         \line Monocytes                             10        %             2.0 - 10.0          \line Eosinophils                           2         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     5.7       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     1.4       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.8       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.2       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             5.0       x10^6/ul      3.8 - 5.3           \line Hct                                   32        %             40.0 - 54.0         \line MCV                                   64        fl            80.0 - 100.0        \line MCH                                   20        pg            27.0 - 32.0         \line MCHC                                  32        g/dl          32.0 - 36.0         \line Platelet                              388       x10^3/ul      150.0 - 450.0       \line RDW                                   16.4      %             10.0 - 16.5         \line MPV                                   6.6       fl            7.5 - 11.5\line\line\b 15-02-2019 12:24 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Calcium                               9.07      mg/dl         8.5 - 10.5\line\line\b 15-02-2019 12:24 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Electrolytes                          SubHead                                     \line Sodium                                143       mEq/L         136.0 - 146.0       \line Potassium                             4.5       mEq/L         3.5 - 5.1\line\line\b 15-02-2019 12:24 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 CRP                                   1.4       mg/L          0.00 - 5.00\line\line\b 15-02-2019 12:24 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Magnesium                             2.16      mg/dl         1.8 - 2.4\line\line\b 15-02-2019 12:24 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Renal Function Test                   SubHead                                     \line Urea                                  14.98     mg/dl         15.0 - 45.0         \line Creatinine                            0.28      mg/dl         0.6 - 1.4\line\line\b 15-02-2019 12:24 PM\b0\line\b Name                                            Result         Unit               Reference\line\b0 Physical Examination                             SubHead                                               \line Colour                                           Yellow                                                \line Appearance                                       Clear                                                 \line Chemical Examination                             SubHead                                               \line Urine Albumin                                    Nil                                                   \line Urine Sugar                                      Nil                                                   \line Microscopic Examination                          SubHead                                               \line WBC                                              1              /HPF               0.0 - 5.0           \line RBC                                              1              /HPF               0.0 - 2.0           \line Epithelial Cells                                 2              /HPF               Occasional          \line Cast                                             Nil            /LPF               Nil                 \line Crystal                                          Nil            /HPF               Nil                 \line Bacteria                                         Occasional                                            \line Yeast                                            Absent\line\line\par
+\pard\sa200\sl276\slmult1\par
+\lang9\ul\b\f0\fs22 Anthropometry: \ulnone\b0    \par
+Weight: 9kg \f2\par
+\ul\b\f0\par
+Reports pending:\ulnone\b0\f2   Blood culture\par
+\ul\b\f0\par
+Diagnosis:\ulnone\b0    \par
+Acute pharyngitis\par
+Simple febrile seizure - 1st episode\par
+\par
+\ul\b Condition at Discharge:\ulnone\b0   Stable, active and oral intake improved.\par
+\par
+\ul\b Discharge Advise:\ulnone\b0   \par
+\pard\sa200 1. \f2 Syp Augmentin DDS  2.5ml  twice daily  x 7 days\par
+2. T. Frisium (5mg)  1/2  twice daily  x  2  days (to keep in hand & give whenever fever occurs along with Calpol)\par
+3. Syp. Calpol (250mg/5ml)  3ml  6th hrly  x  2  days & then SOS\par
+review sos if loose stools+\par
+\f0 - Review in paediatric OPD on next Wednesday (27/02/19)\par
+\pard\sa200\sl276\slmult1\par
+\par
+\par
+\b Prepared by: Laila M V \tab\tab\tab Signed By: Dr Saran Sarma\par
+\par
+When & how to obtain urgent care:if fever or cough recurs, report to casualty\par
+\par
+\cf1\lang1033\ldblquote Before leaving your hospital bed, please talk to the nursing staff looking after you and ensure that you have the above medications with you and you understand how to take them after discharge from the hospital\rdblquote\cf0\lang9\b0  \par
+Incase of Emergency please contact:\par
+\pard\sa160\sl252\slmult0\b\f4 Helpline No. 0484-6655000                                                          Email: mail@rajagirihospital.com\par
+\pard\sa200\sl276\slmult1\b0\f0\par
+\pard\sa160\sl252\slmult0\qj\b\fs16 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receiver (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\f5\fs17\par
+\pard\lang9\f0\fs32\par
+\lang1033\f5\fs17\par
+\par
+},<Age:1:Age>,<Sex:2:Sex>,2019-02-18 16:38:22.517000000

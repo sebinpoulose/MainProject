@@ -1,0 +1,42 @@
+165587,74689,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue10;\red0\green0\blue255;\red0\green0\blue0;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\nowidctlpar\hyphpar0\cf1\lang255\kerning1\f0\fs24\par
+\pard\nowidctlpar\hyphpar0\sb240\sa160\sl252\slmult1\qc\lang16393\b\fs40 Department of Medical Oncology\lang255\b0\fs24\par
+\lang16393\b\fs32 Treatment Summary\lang255\b0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\lang16393\b\par
+\pard\hyphpar0\sa200\sl276\slmult1\qj\cf0\lang9\ul\f1 DIAGNOSIS\ulnone :\line\kerning0\b0 ACUTE MYELOID LEUKEMIA- PROGRESSION\lang16393\kerning1\b\par
+\pard\hyphpar0\sa160\sl252\slmult1\qj\ul DRUG ALLERGY\ulnone :\line\b0 Not known\b\par
+\pard\ul CHIEF COMPLAINTS\ulnone :\line\lang9\kerning0\b0 Mr. Poulose P L, 72-year-old elderly gentleman, known case of Type 2 DM and Dyslipidemia was presented to a local  hospital with complaints of on and off low grade fever, decreased appetite and generalized weakness of 4 days duration. He was admitted there on 22/10/2017 and found to have left sided gross hydronephrosis with thinned out renal cortex and B/L renal calculi. CT abdomen also showed minimal perinephric fat stranding around right kidney, Gross left sided hydrouretronephrosis with cortical thinning and proximal and left hydrouretronephrosis with a left proximal ureteric calculi. Peripheral smear done there showed dimorphic anemia (28.10.2017). He was treated conservatively with antibiotics.Following which he came here for further evaluation. He was initially evaluated by our Internal Medicine team. He was worked up for systemic infection/pyelopnephritis. His peripheral smear showed features suggestive of leukemia. Bone marrow aspiration and biopsy was done which showed features of Acute Myeloid Leukemia. Cytogenetics was normal. Immunophenotyping profile was of Acute myeloid leukemia with monocytic component. Cells were positive for CD13 (moderate), CD33 (moderate), HLADR (moderate), CD34 (dim), CD11c (dim), CD64 (dim), CD117 (dim), and cMPO (dim), CD14 (moderate), CD4 (dim). FISH for t(8:21),t(15:17), inv16 were negative. He recveived 12 cycles of Decitabine. Peripheral blood smear after 12 cycles revealed 11% blasts on 15/10/2018. In view of rising counts, his treatment switched to Inj. Azacytidine and was started on 05/11/2018, post cycle 1. He was admitted with tiredness and increased TC counts on 03/12/2018 and was initiated on Hydroxyurea. \lang16393\kerning2 Routine blood investigations showed low platelet count and low hemoglobin level\lang9 . Admitted for \lang16393 blood\lang9  transfusion\kerning0 . \line\par
+\pard\hyphpar0\sa160\sl252\slmult1\qj\lang16393\kerning1\ul\b EXAMINATION\ulnone :\b0  \line Vitals stable\lang255\par
+\pard\lang16393\ul\b PRE CHEMO INVESTIGATIONS\ulnone :\line\lang3081\kerning2\b0 CBC\lang16393  : Hb :\lang3081  \lang16393 6.8 gm/dl, TC : 75\lang3081 00\lang16393  \kerning1 cells/cumm\lang3081\kerning2 /\lang16393 PLC : 100\lang3081 00\lang16393\kerning1 cells/cumm\lang3081\kerning2\fs20\par
+\pard\hyphpar0\sa160\sl252\slmult1\qj\lang16393\kerning1\b\fs24\line\lang9\ul COURSE IN THE HOSPITAL\ulnone :\line\b0 Patient received \lang16393 2 pint platelets and 1 pint packed RBC \lang9 without any complications. He is being discharged in a stable state of health. \lang255\par
+\pard\hyphpar0\sa200\sl276\slmult1\qj\lang9\ul\b DISCHARGE MEDICATIONS\ulnone :\line\b0 Cap HYDAB 500 mg \lang16393 1\lang9 -\lang16393 0\lang9 -\lang16393 0 and 1-0-1 alternate days\lang9  x \lang16393 2\lang9  days\line Tab DERIPHYLLINE RETARD 150 mg 1-0-1 x \lang16393 2\lang9  days\line Tab PANTOP 40 mg 1-0-0 x \lang16393 2\lang9  days\line Tab A to Z NS NEW 1-0-0 x \lang16393 2\lang9  days\line\lang16393 Syp. SUCRAFIL 10 ml 1-1-1 x 2 days\par
+METROGYL DG GEL FORTE local application 1-0-1 x 2 days\lang9\line\lang16393 Tab LEVOCET 5 mg 0-0-1 x 2 days\lang3081\kerning0\fs20  \line\lang16393\kerning1\fs24 SALINE NASAL DROPS \lang9  (To be continued)\kerning0\line\lang16393\fs20\line\lang9\fs24 Tab AMLO 5 mg 0-1/2-0 (To be continued)\line Tab ROZAVEL F5 0-0-1 (To be continued)\line Tab ISTAMET XR CP 1-0-0 (To be continued)\fs22\par
+\pard\hyphpar0\sa160\sl252\slmult1\qj\kerning1\ul\b\fs24 REVIEW ON\ulnone\b0 : \line\lang16393 22/02/2019 with CBC report.\line\line\ul\b CONDITION AT THE TIME OF DISCHARGE\ulnone :\line\b0 Stable\b\par
+\pard\nowidctlpar\hyphpar0\li720\sa160\sl252\slmult1\qj\cf1\f0\par
+Rajagiri Hospital: \i 0484-2905000\i0\tab\tab\lang255\b0\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qc\lang16393\b\i\fs28\ldblquote Wish you a speedy recovery\rdblquote\lang255\b0\i0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang16393\fs22 Name and Signature of Consultant\lang255\fs24\par
+\lang16393\fs22\par
+\pard\nowidctlpar\hyphpar0\lang1033\b Dr. Sanju Cyriac, MD (General Medicine), DM (Medical Oncology), DNB\lang255\b0\fs24\par
+\lang1033\fs22 Consultant - Medical Oncology\tab\tab\tab\tab\lang255\fs24\line\lang1033\fs22 Rajagiri Hospital\lang255\fs24\par
+\lang1033\fs22 Phone no: +91 9747880036\tab\lang255\fs24\line\lang1033\fs22 E-Mail: \cf2\ul sanju.cyriac@rajagirihospital.com\cf1\lang255\ulnone\fs24\par
+\lang1033\fs22\par
+\b Dr. Subi T. S., MS (General surgery AIIMS, DELHI), MCh (Surgical Oncology, TATA, MUMBAI)\lang255\b0\fs24\par
+\lang1033\fs22 Consultant - Surgical Oncology\tab\tab\tab\tab\lang255\fs24\line\lang1033\fs22 Rajagiri Hospital\lang255\fs24\par
+\lang1033\fs22 Phone no: +91 8547737149\tab\lang255\fs24\line\lang1033\fs22 E-Mail: \cf2\ul subi.ts@rajagirihospital.com\cf1\lang255\ulnone\fs24\par
+\lang1033\ul\fs22\par
+\ulnone\b Dr. Varun Rajan MD (Internal Medicine), DM (Medical Oncology)\lang255\b0\fs24\line\lang1033\fs22 Consultant - Medical Oncology\tab\tab\tab\tab\lang255\fs24\line\lang1033\fs22 Rajagiri Hospital\lang255\fs24\par
+\lang1033\fs22 E-Mail: \cf2\ul varun.rajan@rajagirihospital.com\cf1\lang255\ulnone\fs24\par
+\pard\line\cf0\lang16393\kerning0\b\fs22 Dr. Ayesha Jaleel,DMRT,DNB(Radiation Oncology)\par
+\lang1033\b0 Consultant \tab\tab\tab\tab\lang255\fs24\line\lang1033\fs22 Rajagiri Hospital\par
+\pard\cbpat5\cf1\lang16393\kerning1\fs24 Phone no: +91 \cf3\kerning0 9645884553\par
+\cf1\kerning1\fs22 E-Mail: \cf2\ul ayesha.jaleel@rajagirihospital.com\cf3\kerning0\ulnone\fs24\par
+\pard\nowidctlpar\hyphpar0\cf1\lang1033\kerning1\fs22  \lang255\fs24\par
+\pard\cf0\lang1033\kerning2\b\fs22 Ms. Anooja  Jose\b0\par
+Physician Assistant\par
+\pard\nowidctlpar\sa200\sl276\slmult1 Rajagiri Hospital\par
+\pard\nowidctlpar\hyphpar0\cf1\kerning1\fs17\par
+\par
+\pard\cf4\highlight5\kerning0\b\i\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f2\fs17\par
+},<Age:76:Age>,<Sex:1:Sex>,

@@ -1,0 +1,76 @@
+127550,74587,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}{\f1\fnil\fcharset2 Wingdings;}{\f2\fnil\fcharset0 Calibri;}{\f3\fswiss\fprq2\fcharset0 Consolas;}{\f4\fswiss\fprq2\fcharset0 Calibri;}{\f5\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\sa160\sl252\slmult1\qc\ul\b\f0\fs24\par
+\pard\sa200\sl276\slmult1\qc\fs36 DEPARTMENT OF GENERAL MEDICINE\ulnone\b0\fs24\par
+\pard\lang3081\par
+\b\par
+Dr. Koruth George P., MD                   Dr. Renji Jos, MD, PDDM             Dr. Geena Jacob, MD\par
+\b0 Senior Consultant                                          Senior Consultant                                            Consultant\par
+\b\par
+Dr. D Santhichandra Pai, DNB            Dr. Nijin Jose, MD                            Dr. Salini Baby John, MD                           \par
+\b0 Junior Consultant                                       Junior Consultant                                             Junior Consultant\par
+             \lang1033\ul\par
+\pard\qj\lang16393\ulnone\b Dr. Daniel Joseph, MBBS                   Dr. Ambily Anu Isaac, MBBS           \par
+\pard\sa200\sl276\slmult1\b0 Medical Officer     \tab\tab\tab    Medical Officer\par
+\lang1033\ul\par
+\pard\sa160\sl252\slmult1\b DRUG ALLERGIES:\b0\par
+\ulnone\par
+\par
+\ul\b DIAGNOSIS:\lang3081\kerning2\ulnone\f1\tab\par
+\pard\lang1033\kerning0\f0\fs6\par
+\f2\fs24\par
+\tab\lang3081\kerning2\f1\'b2\tab\lang1033\kerning0\f0 Short \par
+\f2\par
+\tab\lang3081\kerning2\f1\'b2\tab\lang1033\kerning0\f0 Typ\par
+\par
+\lang3081\b0\f3\fs20\par
+\par
+\pard\sa160\sl252\slmult1\lang1033\f4\fs4\par
+\ul\b\f0\fs24 PRESENTING COMPLAINTS:\lang3081\ulnone\b0\f3\fs20\par
+\f0\fs24 Int- 3  days\par
+Fs - 1day\par
+Thin +\par
+\lang1033\ul\b\par
+CLINICAL EXAMINATION:\b0\par
+\ulnone BP:      1/  mmHg\tab  PR: 6/min, regular.  Peripheral pulses present.\par
+Temp:\tab .6 \lquote  F.   \par
+RS:\tab Normal vesicular breath sounds.\par
+CVS:\tab S1 + S2 +.  No murmur.\par
+PA:\tab Soft.  Non-tender. \par
+\tab Hernial orifices normal.  Bowel Sounds+. \par
+CNS:\tab No focal deficit. DTR equal B/L.  Plantar B/L flexor.\par
+\par
+\ul\b INVESTIGATIONS:\lang3081\ulnone\b0\f3\fs20\line\pard\line\line\pard\sa160\sl252\slmult1\b\f0\fs24 USG Abdomen (/02/2019\b0 ) :\b  \lang16393\kerning2\b0\par
+\lang3081\kerning0\b\f3\fs20\par
+\par
+\lang1033\ul\f0\fs24 COURSE IN THE HOSPITAL:\par
+\lang3081\ulnone\b0 Patient, got admitted with complaints of int days and fe. Investigations showed  ESR. Urine routine . Blood sugars  RFT was normal. t. LFT showed reversal. . Chest x-ray showed haziness in right midzone. ECG showed sinus***. He was treated with symptomatic measures. Repeat investigations showed improveme Blood culture(3 samples)\par
+He fever subsided, symptoms improved and he is being discharged in a stable state.\par
+\pard\fs14\par
+\fs24\par
+\pard\sa160\sl252\slmult1\lang1033\ul\b INPATIENT MEDICATION:\par
+\pard\lang3081\ulnone\b0 Tab \line\pard\sa160\sl252\slmult1\lang1033\par
+\ul\b DISCHARGE ADVICE:\ulnone\b0\par
+\lang3081\par
+\par
+\par
+\par
+\lang1033\par
+\ul\b REVIEW:\par
+\ulnone\b0 Review after  days in \b GENERAL MEDICINE OPD \b0 with :\b\par
+\tab *   CBC with ESR \ul\par
+\par
+CONDITION AT THE TIME OF DISCHARGE:\par
+\ulnone\b0 Stable.\b\par
+\par
+\ul WHEN & HOW TO OBTAIN URGENT CARE:\ulnone\par
+\b0 To report back immediately to the Emergency Room if symptoms recur.\par
+\b\par
+Signed by:\par
+                        DR. GEENA JACOB, MD\par
+                        CONSULTANT\par
+\pard\sa200\sl276\slmult1                         GENERAL MEDICINE\par
+\fs18 Incase of Emergency please contact:\par
+\pard\sa160\sl252\slmult1\lang16393 Helpline No. 0484-6655000                                                          Email: mail@rajagirihospital.com\par
+\pard Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\f5\fs17\par
+\par
+},<Age:76:Age>,<Sex:1:Sex>,

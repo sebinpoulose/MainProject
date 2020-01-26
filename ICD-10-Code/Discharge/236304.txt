@@ -1,0 +1,95 @@
+236304,74703,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 MS Reference Sans Serif;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\froman\fprq2\fcharset0 Calibri;}{\f3\froman\fprq2 Calibri;}{\f4\fnil\fcharset0 Times New Roman;}{\f5\fswiss\fprq2\fcharset0 Consolas;}{\f6\fswiss\fcharset0 Calibri;}{\f7\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue0;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\nowidctlpar\hyphpar0\cf1\kerning1\f0\fs17\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\qc\cf0\lang16393\b\caps\f1\fs40 Department of Cardiology\lang255\b0\caps0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang16393\b\f2\fs20\par
+\pard\nowidctlpar\hyphpar0\lang9\kerning0\fs18 UNIT \f3 -\f2  I                                                                                 CARDIO VASCULAR                                    CARDIAC\lang255\kerning1\b0\f1\fs24\par
+\lang9\kerning0\b\f2\fs18                                                                                                \lang16393\kerning1 THORACIC SURGERY                                  \lang9\kerning0 ANAESTHESIOLOGIST\lang255\kerning1\b0\f1\fs24\par
+\lang9\kerning0\b\f2\fs18                                                                                                                                                                         \lang255\kerning1\b0\f1\fs24\par
+\lang9\kerning0\b\f2\fs18 Dr. Ramdas Nayak H                                                           Dr. Shiv K Nair                                            \lang16393 Dr. Mary Smitha Thomas\lang9                                           \lang255\kerning1\b0\f1\fs24\par
+\lang9\kerning0\f2\fs16 MD, DNB (Cardiology)\tab , FACC, FSCAI                                             MS (PGI), M.Ch (CVTS), FIACS                            \lang16393 DNB (Anaesthesiology),PDCCCA\lang9                                                           \lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang16393\kerning0\f2\fs16 HOD, Sr. Interventional Cardiologist & Electrophysiologist\lang9       Sr. Consultant Cardiac Surgeon & HOD           Consultant Cardiac Anesthesiologist            \lang16393\tab\tab\tab\lang9  \lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\tx6810\lang16393\kerning0\b\f2\fs18 Dr. Jacob George                                                                 Dr. Rinett Sebastian K V                           \lang9\tab             \lang255\kerning1\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\lang16393\kerning0\f2\fs16 MD, DM                                                                                             MS, M.Ch (CVTS), DNB (CVTS)                           \lang9                                                  \lang255\kerning1\f1\fs24\par
+\lang16393\kerning0\f2\fs16 Consultant Interventional Cardiologist                                        \lang9 Consultant Cardiac Surgeon                    \tab                     \lang255\kerning1\f1\fs24\par
+\lang9\kerning0\f2\fs20\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\lang16393\b\fs18 UNIT \lang9\f3 -\lang16393\f2  II                                                                                 Dr. Deepak A N                                              \lang255\kerning1\b0\f1\fs24\par
+\lang16393\kerning0\b\f2\fs18                                                                                                \b0\fs16  MS, MCh(CVTS)\lang255\kerning1\f1\fs24\par
+\lang9\kerning0\b\f2\fs18 Dr. Suresh Davis\lang16393\b0\fs16                                                                            Consultant Cardiac Surgeon                                                     \lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\tx3915\tx6810\lang9\kerning0\f2\fs16 MD, Diploma (Diabetology), DM\lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\lang9\kerning0\f2\fs16 Consultant Interventional Cardiologist\lang16393\b\fs18                                                                                                                                  \lang255\kerning1\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl276\slmult1\lang16393\kerning0\f2\fs16\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\b\fs18 Dr. Sandeep R\b0\fs16  \lang255\kerning1\f1\fs24\par
+\lang16393\kerning0\f2\fs16 MD, DM, DNB\lang255\kerning1\f1\fs24\par
+\lang16393\kerning0\f2\fs16 Consultant Interventional Cardiologist    \lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl276\slmult1\lang16393\kerning0\b\f2\fs18                                              \lang255\kerning1\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\lang16393\b\fs40\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\fs24 DIAGNOSIS:\lang255\b0\par
+\lang1033\f4 Ischemic heart disease\par
+\tab Exertional angina class II\par
+\tab Positive TMT\par
+\tab Good LV systolic function\par
+\tab Normal sinus rhythm\par
+Type 2 Diabetes Mellitus\par
+Systemic Hypertension\b\f1\par
+\par
+DRUG ALLERGIES:\lang255\b0\par
+\lang1033\f4 Not Known  \b\f1\par
+\b0\fs22\par
+\b\fs24 HISTORY OF PRESENT ILLNESS:\lang255\b0\par
+\lang1033\fs22 Mrs Mariamma Devassikutty 70/M, diabetic and hypertensive presented to OPD with complaints of exertional angibna. ECG and Echo were within limits and her TMT was positive for inducible ischemia. She was advised to undergo coronary angiogram abnd admitted here for the same.  \par
+\par
+\b\fs24 PHYSICAL EXAMINATION:\lang255\b0\par
+\pard\qj\lang3081\kerning2 Pulse Rate\lang16393 : 66\lang3081 /mt, regular \lang16393 , \lang3081 Peripheral pulses felt\lang16393 , \lang3081 Blood pressure: 130/80mm Hg\lang16393 , \lang3081 No carotid bruit\lang16393 , \lang3081 Cardiovascular system: S1\lang16393 ,\lang3081  S2 normal. No murmurs\lang16393 , \lang3081 Re\lang16393 s\lang3081 piratory system: NVBS\lang16393 , \lang3081 P/A and Central Nervous System: Normal\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\kerning1\fs22\par
+\par
+\b\fs24 LAB INVESTIGATION:\lang255\b0\par
+\pard\lang3081\kerning0\f5\fs20\line\line\b 20-02-2019 09:01 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Creatinine                            1.04      mg/dl         0.60 - 1.40\line\par
+\line\line\b 20-02-2019 09:01 AM\b0\line  \b Name                                            Result         Unit               Reference\line\line\b0 HIV 1 & 2 CARD                                   SubHead                                               \line HIV 1 & 2                                        Non-Reactive\line\line\par
+\line\line\b 14-02-2019 07:18 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Liver Function Test ( LFT )           SubHead                                     \line Total Bilirubin                       0.5       mg/dl         0.3 - 1.3           \line Direct Bilirubin                      0.1       mg/dl         0.2 - 0.4           \line Indirect Bilirubin                    0.4       mg/dl         0.2 - 0.9           \line SGOT                                  19        U/L           15.0 - 37.0         \line SGPT                                  28        U/L           30.0 - 65.0         \line Alkaline Phosphatase                  60        U/L           50.0 - 136.0        \line Total Protein                         8.0       g/dl          6.0 - 8.0           \line Albumin                               3.7       g/dl          3.4 - 5.0           \line Globulin                              4.3       g/dl          2.0 - 3.5           \line A:G Ratio                             0.9       :1            1.0 - 2.0\line\line\line\line\b 14-02-2019 07:18 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Blood Routine Examination ( CBC With ESubHead                                     \line Haemoglobin                           13.9      g/dl          11.5 - 14.5         \line TC                                    6.9       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           59        %             40.0 - 70.0         \line Lymphocytes                           33        %             20.0 - 40.0         \line Monocytes                             4         %             2.0 - 10.0          \line Eosinophils                           4         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     3.9       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     2.3       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.3       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.2       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             4.8       x10^6/ul      3.8 - 5.3           \line Hct                                   44        %             35.0 - 44.0         \line MCV                                   90        fl            80.0 - 100.0        \line MCH                                   29        pg            27.0 - 32.0         \line MCHC                                  32        g/dl          32.0 - 36.0         \line Platelet                              397       x10^3/ul      150.0 - 450.0       \line RDW                                   13.4      %             10.0 - 16.5         \line MPV                                   7.1       fl            7.5 - 11.5          \line ESR                                   29        mm/hr         0.0 - 20.0\line\par
+\line\line\b 14-02-2019 07:18 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Potassium                             4.9       mEq/L         3.5 - 5.1\line\par
+\line\line\b 14-02-2019 07:18 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Renal Function Test                   SubHead                                     \line Urea                                  14.98     mg/dl         15.0 - 45.0         \line Creatinine                            0.9       mg/dl         0.6 - 1.4\line\line\line\b 14-02-2019 07:18 AM\b0\line Investigation                  Result\line\line BLOOD GROUP                   ' B '\line Rh TYPE                       POSITIVE\par
+\par
+\line\line\b 14-02-2019 07:18 AM\b0\line  \b Name                                            Result         Unit               Reference\line\line\b0 HBsAg Card                                       SubHead                                               \line HBsAg                                            Non-Reactive\line\line\par
+\line\line\b 14-02-2019 07:18 AM\b0\line  \b Name                                            Result         Unit               Reference\line\line\b0 HCV Card                                         SubHead                                               \line HCV                                              Non-Reactive\line\line\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\kerning1\f1\fs22\par
+\par
+\b\fs24 INVESTIGATION:\lang255\b0\par
+\lang1033\fs22\par
+\par
+\b\fs24 COURSE IN THE HOSPITAL:\lang255\b0\par
+\lang1033\b\par
+\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1 INPATIENT MEDICATIONS:\lang255\b0\par
+\lang1033\b\par
+\par
+CONDITION AT THE TIME OF DISCHARGE:\lang255\b0\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\fs22\par
+\par
+\b\fs24 ADVICE ON DISCHARGE:\lang255\b0\par
+\lang1033\fs22\par
+\b\fs24 DIET:\lang255\b0\par
+\lang1033\fs22\par
+\par
+\b\fs24 PHYSICAL ACTIVITIES:\lang255\b0\par
+\lang1033\fs22\par
+\b\fs24 DISCHARGE MEDICATIONS:\lang255\b0\par
+\lang1033\par
+\fs22\par
+\b\fs24 PLAN ON DISCHARGE:\lang255\b0\par
+\lang1033\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang16393\b\f2\fs28\par
+\par
+\f1 Prepared by:\lang255\b0\fs24\par
+\lang16393\b\fs28\par
+Attending Consultant:\lang255\b0\fs24\par
+\lang16393\b\fs28\par
+\lang1033\fs24 When and how to obtain urgent care:\fs22  Chest pain/breathlessness/palpitation/giddiness\lang255\b0\fs24\par
+\lang16393\b\fs28\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\fs24 In case of Emergency please contact:\lang255\b0\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang16393\b\fs22 Helpline No. 0484-2905000                                                          Email: mail@rajagirihospital.com\lang255\b0\fs24\par
+\lang16393\b\fs22\par
+\fs16 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang255\b0\fs24\par
+\pard\cf2\highlight3\lang1033\kerning0\b\i\f6\fs22\par
+Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f7\fs17\par
+},<Age:70:Age>,<Sex:2:Sex>,

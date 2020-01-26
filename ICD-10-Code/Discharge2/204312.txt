@@ -1,0 +1,76 @@
+204312,74545,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Microsoft Sans Serif;}{\f1\froman\fprq2\fcharset0 Calibri;}{\f2\froman\fprq2\fcharset0 Times New Roman;}{\f3\froman\fprq2 Times New Roman;}{\f4\fswiss\fprq2\fcharset0 Calibri;}{\f5\fswiss\fprq2\fcharset0 Consolas;}{\f6\fswiss\fcharset0 Calibri;}{\f7\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue0;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\nowidctlpar\hyphpar0\cf1\kerning1\f0\fs17\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qc\lang16393\ul\b\f1\fs28 DEPARTMENT OF \lang1033 OBSTETRICS AND GYNECOLOGY\cf0\lang255\ulnone\b0\f2\fs24\par
+\cf1\lang16393\ul\b\f1\fs28\par
+\pard\nowidctlpar\hyphpar0\lang9\ulnone\f2\fs22 UNIT \f3 -\f2  I                                                   UNIT \f3 -\f2  II                                      UNIT - III\cf0\lang255\b0\fs24\par
+\cf1\lang9\b\fs18\par
+\fs20 Dr. V. P. Paily                                                 Dr. Ajitha Kumari S                       Dr. JoshyJoseph Neelenkavil   \cf0\lang255\b0\fs24\par
+\cf1\lang9\b\fs16 (MD, FRCOG)\fs20                                                  (\fs16 MBBS, MD\fs20 )                                        (\fs16 MBBS, MD, MRCOG\fs20 )                     \cf0\lang255\b0\fs24\par
+\cf1\lang9\b\fs18 HOD & Sr. Consultant\b0  \b                                       Unit chief  Sr. Consultant                 Unit chief  Sr. Consultant \cf0\lang255\b0\fs24\par
+\cf1\lang9\fs18   \cf0\lang255\fs24\par
+\cf1\lang9\fs18                                                \cf0\lang255\fs24\par
+\cf1\lang9\b\fs20 Dr. Michelle Aline Antony                             Dr. Raymond George                     Dr. M G Usha                  \cf0\lang255\b0\fs24\par
+\cf1\lang9\b\fs20 (\fs16 MBBS, MS-OBG,                                                       DNB(OBG),  FNB( High risk                     MBBS, MD, DGO                               \cf0\lang255\b0\fs24\par
+\cf1\lang9\b\fs16 PDS-Breast & Gynec Oncology\fs20 )                          \fs16 pregnancy & Perinatology)                        \fs18 Sr. Consultant\fs16                               \cf0\lang255\b0\fs24\par
+\pard\nowidctlpar\hyphpar0\sl276\slmult1\cf1\lang9\b\fs18 Sr. Consultant, Gynec Oncologist                     \fs20 Consultant                     \cf0\lang255\b0\fs24\par
+\cf1\lang9\b\fs18                                                           \cf0\lang255\b0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\cf1\lang16393\f1\par
+\ul\b DIAGNOSIS:\ulnone\b0     \par
+G2 P1 L1 AT 39 WEEKS 5 DAYS GESTATION \par
+HYPOTHYROIDISM\par
+FULL TERM NORMAL VAGINAL DELIVERY WITH SECOND DEGREE PERINEAL TEAR ON 15/02/19\cf0\lang255\f2\par
+\cf1\lang16393\f1\par
+\ul\b ALLERGY:\ulnone\b0     No known allergy\cf0\lang255\f2\par
+\cf1\lang16393\f1\par
+\ul\b PRESENTING COMPLAINTS:\ulnone\b0    Came for safe confinement\cf0\lang255\f2\par
+\cf1\lang16393\f1\par
+\ul\b RELEVANT H/O:\ulnone\b0     G2 P1 L1 at 39 weeks 5 days gestation admitted for safe confinement, LMP - 10/5/18 , EDC - 17/2/19, previous FTND, LCB - 1 year 9 months. H/O delayed milesones for the child.\par
+H/O Hypothyroidism, on T.Thyronorm 25mcg OD\par
+Father - HTN, CVA\par
+Mother - DM\cf0\lang255\f2\par
+\cf1\lang16393\f1   \cf0\lang255\f2\par
+\cf1\lang16393\ul\b\f1 CLINICAL EXAMINATION:\ulnone\b0   On examination\par
+P/A - Uterus term , relaxed, SFH - 36cm, cephalic, FHS good.\par
+P/V - Cervix posterior, 60% soft, 2cm long, 3cm dilated, membrane + , head at -3, pelvis normal.\par
+\par
+\pard\cf0\kerning0\ul\b\f4 INVESTIGATIONS:\lang3081\ulnone\b0\f5\fs20\line\pard\sa160\sl252\slmult1\qj\lang16393\ul\b\f4\fs24 BLOOD GROUP:\ulnone\b0  B Positive\par
+\ul\b SEROLOGY\ulnone\b0 : HIV / HBsAg / HCV/ RPR - Non Reactive   \par
+\ul\b MODE OF DELIVERY:\ulnone\b0  Full term normal vaginal delivery with second degree perinel tear \par
+\ul\b DATE-\ulnone\b0   15/02/19               \par
+\ul\b TIME- \ulnone\b0  09:14 Pm                 \par
+\ul\b GENDER OF BABY: \ulnone\b0  Male      \par
+\ul\b BIRTH WEIGHT:\ulnone\b0  2854 gms          \par
+\ul\b APGAR:\ulnone\b0  8 @ 1',  9 @ 5',  9 @ 10' \par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\cf1\kerning1\f1\par
+\pard\sa160\sl252\slmult1\qj\ul\b DELIVERY/OPERATION NOTES:\ulnone\b0   \cf0\kerning0\f4  With good uterine contractions, delivered a full term male baby of weight 2854 gms at 09:14 pm on 15/02/19. Baby cried soon after birth. She had second degree perineal tear. Active management of third stage of labour was done. Placenta and membranes expelled in toto. Uterus well contracted. Perineal tear sutured in layers. Bleeding within normal limits. P/R - Rectal mucosa intact.  \cf1\kerning1\f1   \cf0\lang255\f2\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\cf1\lang16393\f1\par
+\pard\sa160\sl252\slmult1\qj\ul\b COURSE IN HOSPITAL:\ulnone\b0    \cf0\kerning0\f4 Admitted with above mentioned history and findings. She had Full term normal vaginal delivery with second degree perineal tear on 15/02/19. She was treated with analgesics, IV Fluids and supportive drugs. She is being discharged in a stable condition.\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\cf1\kerning1\f1\par
+\pard\sa160\sl252\slmult1\qj\ul\b TREATMENT GIVEN:\ulnone\b0     \cf0\kerning0\f4 Tab. Rantac 150mg orally, Tab. Xykaa 1g orally, Cap. Becosules orally, Tab. Thyronorm 25mcg orally, IV Fluids and supportive care. \par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\cf1\kerning1\f1\par
+\ul\b ADVICE ON DISCHARGE:\ulnone\b0  \par
+\pard\sa160\sl252\slmult1\qj\cf0\kerning0\f4 Tablet. FEROBANK 0 - 0 - 1 x 6 WEEKS\par
+Tablet. OROTATE 3D  1 - 0 -0  x 6 WEEKS \par
+Capsule. BECOSULES  0 -1- 0 x 2 WEEKS\par
+Tablet. RANTAC 150mg 1 - 0- 1 x 5 DAYS\par
+\pard\sa160\sl252\slmult1 Tablet. XYKAA 1g if needed in case of pain (5 Nos)\par
+Syrup. DUPHALAC 15ml at bed time x 2 WEEKS\par
+CONTINUE TAB. THYRONORM 25mcg  1 - 0 - 0\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\cf1\kerning1\f1    \cf0\lang255\f2\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\cf1\lang16393\ul\b\f1 CONDITION AT THE TIME OF DISCHARGE:STABLE\cf0\lang255\ulnone\b0\f2\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\cf1\lang16393\f1\par
+\pard\sa160\sl252\slmult1\qj\ul\b REVIEW:\ulnone\b0   \cf0\kerning0\f4 Review after 6 weeks in Gynecology OPD with TSH report / If necessary.\b\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\lang255\kerning1\b0\f2\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\tx5310\cf1\lang16393\ul\b\f1 WHEN AND HOW TO OBTAIN URGENT CARE\fs22 :\ulnone  To report immediate to the gynaecology OPD or ER of Rajagiri hospital In case of fever, pain, bleeding or mood swing.\cf0\lang255\b0\f2\fs24\par
+\pard\nowidctlpar\hyphpar0\qj\cf1\lang16393\f1\fs52\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\b\fs24 DR. AJITHA KUMARI SUDHAMMA\cf0\lang255\b0\f2\par
+\pard\nowidctlpar\hyphpar0\sl252\slmult1\cf1\lang16393\f1\fs22 MBBS, MD, DGO\cf0\lang255\f2\fs24\par
+\cf1\lang16393\f1 SENIOR CONSULTANT\cf0\lang255\f2\par
+\cf1\lang16393\f1 Department OF OBG\cf0\lang255\f2\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\cf1\lang16393\f1\par
+\pard\nowidctlpar\hyphpar0\sa160\ul\b EMERGENCY HELPLINE NO\ulnone :\b0  +91484-2905000, 7356881118\cf0\lang255\f2\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\tx5310\cf1\lang16393\b\f1\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\cf0\lang255\b0\f2\fs24\par
+\pard\cf1\lang16393\f1\fs28\par
+\cf2\highlight3\lang1033\kerning0\b\i\f6\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f7\fs17\par
+},<Age:30:Age>,<Sex:2:Sex>,2019-02-18 13:46:25.470000000

@@ -1,0 +1,61 @@
+197529,74680,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Liberation Serif;}{\f2\froman\fprq2 Times New Roman;}{\f3\froman\fprq2\fcharset0 Calibri;}{\f4\fswiss\fprq2\fcharset0 Consolas;}{\f5\fnil\fcharset0 Calibri;}{\f6\froman\fprq2\fcharset0 MS Reference Sans Serif;}{\f7\froman\fprq2\fcharset0 Microsoft Sans Serif;}{\f8\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\tx5835\lang9\b\f0\fs28                                DEPARTMENT OF ORTHOPAEDICS\lang16393\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\tx5835\lang9\b\f0\fs22 UNIT \f2 -\f0  I \b0\fs18 (\b Monday, Wednesday, Friday\b0 )\b\fs22                                                 UNIT \f2 -\f0  II \b0\fs18 (\b Tuesday, Thursday, Friday)\lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs20 Dr. Murukan Babu, MS, D Ortho                                                            Dr. Ranjith T C, MS                                                  \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs18 Head of the department                                                                                          Sr. Consultant                                                                                                      \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs18 Sr. Consultant\b0                                                                                                           Division of Adult Reconstruction,                \lang16393\f1\fs24\par
+\lang9\f0\fs18 Division of Arthroscopy & Joint Replacement                                                         Deformity correction & Paediatric Orthopaedics\lang16393\f1\fs24\par
+\lang9\b\f0\fs20 Dr. Paul K Jose, MS Ortho, D Ortho                                                       Dr. Nikil Ellikkat Babu, MS\lang16393\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl276\slmult1\tx5835\lang9\f0\fs18 Fellowship-Arthroscopy & Arthroplasty \b                                                                  Consultant \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs18 Consultant\fs20                                                                                                      \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs20 Dr. Arun Kumar A. S., MS\fs18                                                                                 \fs22 DIVISION OF SPINE SURGERY\lang16393\b0\f1\fs24\par
+\lang9\f0\fs18 Fellow in Arthroscopy and Arthroplasty                                                                   \b\fs20 Dr.Ameer S Theruvath\lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs20                                                                                                                       \fs18 D.Ortho, DNB, MNAMS, FNB(Spine Surgery)\lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs22 UNIT \f2 -\f0  III \b0\fs18 (\b Tuesday, Wednesday, Saturday\b0 )                                                    \b Consultant - Spine Surgery\b0                                                                                                                                \lang16393\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\tx5835\lang9\b\f0\fs20 Dr. Tom Jose, MS \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs18 Consultant\fs22                                                                                             DNB Trainee \b0\fs18  \lang16393\f1\fs24\par
+\lang9\b\f0\fs20 Dr. Philip K Thomas, MS                                                                           Dr.Pavan Kiran Raut           \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs18 Consultant                                                                                                               \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs20                                                                         \lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs18                                               \lang16393\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\tx5835\lang9\ul\b\f0\fs28 Diagnosis:\ulnone\b0\fs22  \lang16393\f1\fs24\par
+\lang9\f3 LUMBAR CANAL STENOSIS L4-5 AND L5-S1\par
+\ul\b\f0\fs28 Allergies:\ulnone\b0\fs22   Not known\fs24\par
+\ul\b\fs28 History:\ulnone\b0\fs22  \lang16393\f1\fs24\par
+\lang9\f0 Patient presented with complaints of low back ache radaiting to right lower limb with weakness since few weeks\par
+\ul\b\fs28 Past History:\ulnone\b0\fs22  \lang16393\f1\fs24\par
+\lang9\f0 History of pappillary carcinoma thyroid\par
+\lang16393\f1 Diabetes mellitus\par
+Dyslipidemia\lang9\f0\par
+\ul\b\fs28 Clinical Examination:\ulnone\b0\fs22  \lang16393\f1\fs24\par
+\lang9\f0 Tenderness lumbar spine\par
+Motor power grade 4/5 in the right lower limb in L4,L5 and S1 distribution\par
+\ul\b\fs28 Investigations:\ulnone\b0\fs22  \lang3081\f4\fs20\line\pard\b 19-02-2019 12:07 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Urea                                  25.68     mg/dl         15.0 - 45.0\line\b 19-02-2019 12:07 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Creatinine                            0.7       mg/dl         0.6 - 1.4\line\b 19-02-2019 12:07 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Haemoglobin                           11.6      g/dl          12.0 - 15.0\line\b 19-02-2019 12:07 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Thyroid Function Test (T3, T4 & TSH)                                              \line T3                                    66.63     ng/dl         60.00 - 181.00      \line T4                                    11.1      ug/dL         5.40 - 11.70        \line TSH                                   0.18      uIU/ml        0.35 - 5.50\line\b 19-02-2019 12:07 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\tx5835\b0 RBS                                   63        mg/dl         70.0 - 160.0\lang16393\f1\fs24\par
+\lang9\ul\b\f0\fs28 Course in the Hospital:\ulnone\b0\fs22  \par
+Patient was admitted and MRI scan was done under general anesthesia as the patient was claustrophobic. MRI showed lumbar canal stenosis maximum at L4-5 with severe bilateral neuroforaminal stenosis and moderate central and right paracentral  stenosis at L5-S1 . Conservative and surgical treatment options discussed with patient. Decided for conservative treatment and if any neurological deterioration occur surgery may be required.\fs24\par
+\ul\b\fs28 Advice on discharge:\ulnone\b0\fs22  \par
+Review after 1 month\lang16393\f1\fs24\par
+Avoid repeated bending, weight lifting\lang9\f0\par
+\ul\b\fs28 In patient Medication\ulnone\b0\fs24 :\fs22  \lang16393\f1\fs24\par
+\pard\lang3081\ul\f4\fs20 GASTROINTESTINAL & HEPATOBILIARY SYSTEM\line\line\ulnone TAB  PERINORM TAB 10MG\line TAB  RANTAC 150MG TAB\line\ul\line INTRAVENOUS & OTHER STERILE SOLUTIONS\line\line\ulnone INJ  DNS 500 ML FRESINUS KABI\lang9\f0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\tx5835\ul\b\fs28 Discharge Medication:\ulnone\b0\fs22  \lang16393\f1\fs24\par
+\lang9\f0\fs22 Tab Gabantin 100mg 0-0-1  x 1 month\par
+Cap Renerve 1-0-0 x 1 month\par
+Tab Flupiritine maleate 100mg if required for severe pain (10 tabs)\par
+Continue other regular medications\fs24\par
+\ul\b\fs28 Condition at the time of discharge:\ulnone\b0\fs22  \par
+Stable, afebrile\fs24\par
+\ul\b\fs28 When and how to obtain urgent care:\ulnone\b0\fs22   In case of severe limb pain/ weakness \par
+\fs24\par
+\ul\b\fs28 Signed by:\lang16393\ulnone\b0\f1\fs24\par
+\lang9\b\f5\tab Dr. Ameer S.T\b0\f3\par
+\b\f0 Incase of Emergency please contact: Duty doctor on call\lang16393\b0\f1\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult0\tx5835\lang9\b\f0\fs22 Helpline No. 0484-2905000                                                          Email: mail@rajagirihospital.com\lang16393\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\tx5835\lang9\b\f0\fs22 Prior Appointment No. 0484-2905111\lang16393\b0\f1\fs24\par
+\lang9\b\f0\fs22 Please keep your discharge summary & prescription with you, when you call\lang16393\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\tx5835\lang1033\f6\fs17\par
+\cf1\highlight2\b\i\f3\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\ulnone\i0\f1\fs24\par
+\cf3\lang1033\f7\fs17\par
+\pard\cf0\f8\par
+},<Age:63:Age>,<Sex:2:Sex>,

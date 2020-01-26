@@ -1,0 +1,68 @@
+244572,74698,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fswiss\fprq2\fcharset0 Consolas;}{\f2\fnil\fcharset0 Calibri;}{\f3\froman\fprq2\fcharset0 Times New Roman;}{\f4\fswiss\fcharset0 Calibri;}{\f5\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sl276\slmult1\qc\ul\b\f0\fs40 Department of Gastroenterology\par
+\pard\sl276\slmult1\fs44\par
+\ulnone\fs28 Dr. Rosh Varghese MD, DM\par
+\b0\fs24 Senior Consultant\par
+Gastroenterology and Hepatology\fs28\par
+\par
+\b Dr. John Menachery MD, DM (HEPATOLOGY)\b0\par
+\fs24 Consultant\par
+Gastroenterology and Hepatology\par
+\par
+\b\fs28 Dr. Neema Renji\par
+\b0\fs24 Junior Resident\par
+Gastroenterology and Hepatology\par
+\fs28\par
+\ul\b\fs24 Diagnosis:\ulnone\b0\par
+\par
+\par
+\par
+\ul\b History:\ulnone\b0\par
+Mr. Sivan P.K 67 years, \par
+Endoscopy done on 19.02.2019 showed\par
+\par
+\ul\b On Examinations:\ulnone\b0\par
+\lang3081 Patient conscious/oriented \par
+Vitals stable \par
+Afebrile, no  icterus, no pallor, pedal edema or lymphadenopathy\par
+Per Abdomen : soft , no tenderness \par
+Cardio vascular system : S1S2 heard \par
+Central nervous system: No focal neurological deficit\par
+Respiratory system: Normal vesicular breath sounds heard\lang1033\par
+\par
+\ul\b Lab Investigations:\lang3081\ulnone\b0\f1\fs20\line\pard\b 20-02-2019 09:14 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Haemoglobin                           11.1      g/dl          13.00 - 17.00\line\b 19-02-2019 03:08 PM\b0\line  \b Name                                            Result         Unit               Reference\line\b0 Physical Examination                             SubHead                                               \line Colour                                           Green                                                 \line Consistency                                      Semi-Solid                                            \line Mucus                                            Absent                                                \line Blood                                            Absent                                                \line Parasites                                        Not Seen                                              \line Microscopic Examination                          SubHead                                               \line Puscells                                         1 - 2          /HPF                                   \line RBC                                              0 - 2          /HPF                                   \line Ova                                              Not Seen                                              \line Cysts                                            Not Seen                                              \line Vegetable Matter                                 Present                                               \line Fat globules                                     Absent\line\b 19-02-2019 03:08 PM\b0\line Investigation                  Result\line Occult Blood                  NEGATIVE\line\b 19-02-2019 03:08 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Iron                                  33        ug/dL         65.0 - 175.0        \line TIBC                                  213       ug/dL         250.0 - 450.0       \line Transferin  Saturation                15.49     %             20.0 - 55.0         \line Ferritin                              148.2     ng/ml         8.0 - 388.0\line\line\pard\sl276\slmult1\lang1033\f0\fs24\par
+\ul\b Procedures:\ulnone\b0\par
+\b\f2 Colonoscopy (20.02.2019) : \b0\f0\par
+\par
+\ul\b IP Medications:\lang3081\b0\f1\fs20\line\pard\ulnone TAB  STEMETIL MD TAB 5MG\line TAB  VERTIN 16MG TAB\line PWD  PEGMOVE POWDER (121.1 GM)\line PWD  PEGOVAG ORAL SOLUTION 137.90 GM\line\pard\sl276\slmult1\lang1033\f0\fs24\par
+\ul\b Course in the hospital and Discussion:\ulnone\b0\par
+Mr. Sivan P.K,67 years, ........................was admitted for evaluation of anemia. Hemoglobin done outside was ....g/dl. Iron profile and peripheral blood smear were sent. In view of anemia colonoscopy was done which showed........................... His iron levels was low. Patient was started on......... iron supplements. \par
+\par
+\ul\b Discharge Medications:\ulnone\b0\par
+\par
+\par
+\ul\b Advice On Discharge:\ulnone\b0\par
+To review in Gastromedicine unit after ...........\par
+\par
+\pard\sa200\sl276\slmult1\lang16393\ul\b Condition at the time of discharge:\ulnone\b0\fs22\par
+\pard\sl276\slmult1\lang1033\fs24 He is stable at the time of discharge\par
+\ul\b\par
+Plan on Discharge:\ulnone\b0\par
+Follow up in Gastromedicine unit \par
+\par
+\par
+\ul\b Diet:\ulnone\b0\par
+\par
+\par
+\b\fs28 Prepared By:\tab\tab\tab Verified By:\par
+\b0 Ms. Salvya Issac                   Dr. Rosh Varghese MD.DM. \par
+\pard\sa200\sl276\slmult1\b\f3\fs24\par
+\pard\sa160\qj\lang16393\ul\f0 When and how to obtain emergency care:\ulnone\b0\par
+\b\fs22 To report immediate to the ER of Rajagiri hospital in case of\lang1033\b0\f3\fs24  Gastrointestinal bleed\par
+\pard\sa200\sl276\slmult1\b\f0 In case of Emergency please contact: \lang16393 Helpline No. 0484-2905000\b0  \fs28         \lang1033\ul\par
+\pard\lang16393\ulnone\b\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\b0\fs18\par
+\pard\sa160\sl252\slmult1\fs22\par
+\cf1\highlight2\b\i\f4 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f0\par
+\pard\f5\fs17\par
+},<Age:67:Age>,<Sex:1:Sex>,

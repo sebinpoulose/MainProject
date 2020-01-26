@@ -1,0 +1,77 @@
+244011,74551,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fswiss\fprq2\fcharset0 MS Reference Sans Serif;}{\f2\fnil\fcharset0 Calibri;}{\f3\fswiss\fprq2\fcharset0 Consolas;}{\f4\froman\fprq2\fcharset0 Times New Roman;}{\f5\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\sl276\slmult1\qc\lang9\b\f0\fs32 Department Of Paediatrics - UNIT-I\par
+\par
+\pard\sl276\slmult1\fs22 Senior Consultant:                                                                                              Consultants:\par
+\pard Dr. Serena Mohan Varghese                                                                           Dr. Uma Mohandas \b0 (\lang1033\i MD\lang9\i0 )\par
+Dch, DNB (Paediatrics), PGDDN                                                                     \b Dr. Deepti Damodaran\b0 (\lang1033\i MD\lang9\i0 )\par
+IAP fellow in Neonatology                                                                              \b Dr. Najeeba C M \b0 (\lang1033\i MD\lang9\i0 )\b                                                                                                                                 \b0\par
+\b                                                                                                                                     Dr. Reshmi Raveendran\b0 (\lang1033\i MD\lang9\i0 )\par
+                                                                                                                                    \b Dr. John Thomas C (MD)\par
+\b0\par
+\b DNB Trainees:\par
+Dr. Binoy T\par
+Dr. Nida Janna V K\par
+Dr. Mariya Robert\par
+Dr. Saran Sarma\par
+\par
+\par
+\b0\f1\fs17\par
+\par
+\pard\sa200\sl276\slmult1\ul\b\f0\fs22 History:\ulnone\f2  \b0  \b MUHAMMED HUDHAIFAH\b0 ,  1 year  6 months old male child came with h/o high grade fever for 3 days. H/o multiple episodes of vomiting for last 2 days. Started loose stools last 1 day. H/o food intake from outside. \par
+\f0\par
+\ul\b Clinical Examination:\ulnone\b0  \par
+Temp - 99.2F,  RR: 26/min   HR: 146/min       SPO2: 98% in Room air\par
+Lethargic\par
+Throat - Normal\par
+Ear - Normal\par
+\f2 CVS: S1S2+, no murmur\par
+\pard RESPIRATORY: Air entry b/l equal. \par
+\par
+\pard\sa200\sl276\slmult1 ABDOMEN:soft,non tender\par
+CNS: No FND\par
+\f0\par
+\pard\sb100\sa100\ul\b Clinical Course:\ulnone\b0    This child was admitted to PICU with above mentioned complaints. Baseline blood investigations all were normal. Urine routine also normal. But urine acetone was 3+. Child was given IV fluids STAT & started on other supportive measures. Child improved symptomatically & loose stool frequency reduced. Blood & stool culture provisionally reported as sterile after 48 hrs of incubation. At the time of discharge, child stable, active & good oral intake.\par
+\pard\sa200\sl276\slmult1\par
+\pard\sa200\ul\b Treatment given:\par
+\ulnone\b0\f2 IV fluids\par
+IV Emeset\par
+IV Rantac\par
+Syp ZN20\par
+Syp Bifilac\par
+Syp Aristozyme\par
+\pard\par
+\ul\b\f0 Investigation: \ulnone\b0   \lang3081\f3\fs20\par
+\line\b 15-02-2019 03:51 PM\b0\line\b Name                                            Result         Unit               Reference\line\b0 Physical Examination                             SubHead                                               \line Colour                                           Yellow                                                \line Consistency                                      Soft                                                  \line Mucus                                            Absent                                                \line Blood                                            Absent                                                \line Parasites                                        Not Seen                                              \line Microscopic Examination                          SubHead                                               \line Puscells                                         0 - 1          /HPF                                   \line RBC                                              Nil            /HPF                                   \line Ova                                              Not Seen                                              \line Cysts                                            Not Seen                                              \line Vegetable Matter                                 Absent                                                \line Fat globules                                     Present\line\line\b 15-02-2019 02:50 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 ESR                                   17        mm/hr         0.0 - 15.0\line\line\b 15-02-2019 02:50 PM\b0\line\b Name                                            Result         Unit               Reference\line\b0 Physical Examination                             SubHead                                               \line Colour                                           Pale Yellow                                           \line Appearance                                       Clear                                                 \line Chemical Examination                             SubHead                                               \line Urine Albumin                                    +                                                     \line Urine Sugar                                      Nil                                                   \line Microscopic Examination                          SubHead                                               \line WBC                                              1              /HPF               0.0 - 5.0           \line RBC                                              3              */HPF               0.0 - 2.0           \line Epithelial Cells                                 1              /HPF               Occasional          \line Cast                                             Nil            /LPF               Nil                 \line Crystal                                          Nil            /HPF               Nil                 \line Bacteria                                         Absent                                                \line Yeast                                            Absent\line\line\b 15-02-2019 02:50 PM\b0\line Investigation                  Result\line Acetone                       Positive ( +++ )\par
+\line\b 15-02-2019 11:25 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Haemoglobin                           11.3      g/dl          13.0 - 17.0         \line TC                                    12.7      x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           51        %             40.0 - 80.0         \line Lymphocytes                           43        %             20.0 - 40.0         \line Monocytes                             5         %             2.0 - 10.0          \line Eosinophils                           0         %             1.0 - 6.0           \line Basophils                             1         %             0.0 - 2.0           \line Neutrophils Count                     5.8       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     5.4       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.7       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.1       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.1       cells/cumm    0.02 - 0.1          \line RBC Count                             4.9       x10^6/ul      3.8 - 5.3           \line Hct                                   36        %             40.0 - 54.0         \line MCV                                   72        fl            80.0 - 100.0        \line MCH                                   23        pg            27.0 - 32.0         \line MCHC                                  32        g/dl          32.0 - 36.0         \line Platelet                              434       x10^3/ul      150.0 - 450.0       \line RDW                                   14.2      %             10.0 - 16.5         \line MPV                                   6.5       fl            7.5 - 11.5\line\line\b 15-02-2019 11:25 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 CRP                                   5.6       mg/L          0.00 - 5.00\line\b\par
+15-02-2019 11:25 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Electrolytes                          SubHead                                     \line Sodium                                141       mEq/L         136.0 - 146.0       \line Potassium                             4.4       mEq/L         3.5 - 5.1\line\line\b 15-02-2019 11:25 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 SGPT/ ALT (Serum)                     SubHead                                     \line SGPT                                  26        U/L           30.0 - 65.0\line\line\b 15-02-2019 11:25 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 SGOT/ AST (Serum)                     SubHead                                     \line SGOT                                  46        U/L           10.0 - 37.0\line\line\b 15-02-2019 11:25 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Creatinine                            0.39      mg/dl         0.6 - 1.4\line\par
+\line\pard\sa200\sl276\slmult1\lang9\ul\b\f0\fs22 Anthropometry: \ulnone\b0    \par
+Weight: 9.6kg \par
+Height - 82cm \par
+\ul\b\par
+Reports pending:\ulnone\b0\f2   Blood & stool culture\par
+\ul\b\f0\par
+Diagnosis:\ulnone\b0    \par
+Acute diarrhoeal disease\par
+\par
+\ul\b Condition at Discharge:\ulnone\b0   Stable, active and oral intake improved.\par
+\par
+\ul\b Discharge Advise:\ulnone\b0   \par
+\pard\sa200 1. \f2 Syp ZN20  5ml once daily  x  10 days\par
+2. Syp Bifilac  2.5ml  SOS \par
+3. Syp Aristozyme  2.5ml  twice daily  x  2  weeks\par
+\pard\sa200\sl276\slmult1\f0 - Review in paediatric  OPD after 5 days \par
+\par
+\par
+\par
+\b Prepared by: Laila M V \tab\tab\tab Signed By: Dr Saran Sarma\par
+\par
+When & how to obtain urgent care:if fever or cough recurs, report to casualty\par
+\par
+\cf1\lang1033\ldblquote Before leaving your hospital bed, please talk to the nursing staff looking after you and ensure that you have the above medications with you and you understand how to take them after discharge from the hospital\rdblquote\cf0\lang9\b0  \par
+Incase of Emergency please contact:\par
+\pard\sa160\sl252\slmult0\b\f4 Helpline No. 0484-6655000                                                          Email: mail@rajagirihospital.com\par
+\pard\sa200\sl276\slmult1\b0\f0\par
+\pard\sa160\sl252\slmult0\qj\b\fs16 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receiver (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\f5\fs17\par
+\pard\par
+},<Age:1:Age>,<Sex:1:Sex>,2019-02-18 13:14:23.633000000

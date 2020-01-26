@@ -1,0 +1,45 @@
+241870,74616,{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 MS Reference Sans Serif;}{\f2\froman\fprq2\fcharset0 Times New Roman;}{\f3\fswiss\fcharset0 Calibri;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\ltrpar\sa160\sl252\slmult1\lang16393\b\f0\fs22\par
+\par
+Diagnosis\b0 : Both Eyes Posterior Subcapsular Cataract \par
+\b Surgery done\b0  :\par
+              Right  Eye Phacoemulsification with foldable Posterior Chamber Intraocular Lens implantation under local anaesthesia\par
+\b Date of surgery\b0 : 18- 2- 19\par
+\b Past history\b0 : Diabetes Mellitus\par
+\par
+\b Condition on discharge\b0  :\par
+Right eye\par
+Wound well apposed\par
+Cornea clear\par
+AC- normal depth\par
+Pupil round\par
+PCIOL\par
+\par
+\b Advice on Discharge\b0 :\par
+\pard\ltrpar\fi-360\li720\sa160\sl252\slmult1 1)\tab T. Ciplox 500 mg twice daily for 2 days\par
+2)\tab T. Dolo 650  1 sos if pain present\par
+3)\tab   Right   Eye Predforte eye drops  hourly every day for  3 days from 19- 2- 19, then 2 hourly every day for 4 days from 22- 2- 19\par
+\pard\ltrpar\li720\sa160\sl252\slmult1                                               Then  4 times every day for 1 week from 26- 2- 19\par
+                                                       3 times every day for 1 week from 5- 3- 19\par
+                                                       2 times every day for 1 week  from 12- 3- 19\par
+                                                       1 time every day for 1 week  from 19- 3- 19\par
+                                                        Then stop\par
+\pard\ltrpar\fi-360\li720\sa160\sl252\slmult1 4)\tab Right  Eye  4 Quin eye drops 6 times daily for  1 week from  19- 2- 19        , then 4 times daily for 4 weeks from 26- 2- 19\par
+5) T. Gloeye once daily for  1 month\par
+\pard\ltrpar\sa160\sl252\slmult1\par
+\b Review:\b0  on 26- 2- 19\par
+\par
+\par
+\b When and how to obtain urgent care:\b0 If severe pain in right eye or redness\lang1033\b\par
+\lang16393\par
+\pard\ltrpar\lang1033\b0\f1\fs17\par
+\par
+\pard\ltrpar\sa200\sl276\slmult1\b\f2\fs24 In case of Emergency please contact:\par
+\pard\ltrpar\sa160\sl252\slmult1\lang16393\fs22 Helpline No. 0484-2905000                                                          Email: mail@rajagirihospital.com\par
+\par
+\pard\ltrpar\sa160\sl252\slmult1\qj\fs16 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\par
+\par
+\cf1\highlight2\lang1033\i\f3\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f1\fs17\par
+}
+,<Age:45:Age>,<Sex:1:Sex>,2019-02-19 12:59:28.457000000

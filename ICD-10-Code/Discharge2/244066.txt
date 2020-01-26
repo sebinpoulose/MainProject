@@ -1,0 +1,50 @@
+244066,74436,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fcharset0 Calibri;}{\f1\fnil\fcharset0 Calibri;}{\f2\fswiss\fprq2\fcharset0 Consolas;}{\f3\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sa160\qc\kerning1\b\f0\fs40 DEPARTMENT OF PAEDIATRIC SURGERY\par
+\fs24\par
+\pard\sa160\fs28 Dr. Ahamed Kabeer                                                            Dr. Reju Joseph Thomas\fs24\par
+\b0 MBBS, DNB(General Surgery),                                                          MS, FRCSEd, DNB, M\lang16393 C\lang1033 h, MMAS\par
+M\lang16393 C\lang1033 h(Paediatric Surgery)\lang16393\par
+------------------------------------------------------------------------------------------------------------------------------------------\lang1033\kerning2\fs21\par
+\lang16393\kerning1\b\fs24 Referred by\b0 : Angamaly \par
+\b\par
+Diagnosis\b0 : \b\f1 Intussusception\b0\f0\par
+\b\par
+Procedure\b0 : Ultrasound guided Hydrostatic reduction done on 15/2/19.\par
+\b\par
+History\b0 :History of fever and incessant crying since 3 days. History of vomiting since 2 days.\par
+\b\par
+Past Medical/Surgical History\b0 : She fell from the bed and hit her head 2 days back, following which she vomited. Hence she was taken to a hospital at Angamaly for evaluation. CT scan was reported to be normal. She was admitted for fever management. She was given Ceftriaxone injection for 2 days. However the crying had not reduced. An ultrasound scan done showed features suggestive of intussusception. She was then referred here for further management.\par
+\pard\b\par
+On examination\b0 : Child irritable, febrile. Abdomen soft, vague mass palpable over Right lumbar region. Tenderness present. \b\par
+\pard\sa160\par
+Investigation\b0 :\par
+\pard\lang3081\kerning0\b\f2\fs20 15-02-2019 02:32 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Haemoglobin                           11.2      g/dl          11.5 - 14.5         \line TC                                    6.8       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           62        %             40.0 - 80.0         \line Lymphocytes                           31        %             20.0 - 40.0         \line Monocytes                             6         %             2.0 - 10.0          \line Eosinophils                           1         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     3.9       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     2.1       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.4       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.1       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             4.3       x10^6/ul      3.8 - 5.3           \line Hct                                   35        %             40.0 - 54.0         \line MCV                                   81        fl            80.0 - 100.0        \line MCH                                   26        pg            27.0 - 32.0         \line MCHC                                  32        g/dl          32.0 - 36.0         \line Platelet                              282       x10^3/ul      150.0 - 450.0       \line RDW                                   13.8      %             10.0 - 16.5         \line MPV                                   7.8       fl            7.5 - 11.5\line\b 15-02-2019 02:32 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 CRP                                   16.3      mg/L          0.00 - 5.00\line\b 15-02-2019 02:32 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Creatinine                            0.31      mg/dl         0.60 - 1.40\line\b 15-02-2019 02:32 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Electrolytes                          SubHead                                     \line Sodium                                137       mEq/L         136.0 - 146.0       \line Potassium                             4.1       mEq/L         3.5 - 5.1\line\b 15-02-2019 02:32 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 SGOT/ AST (Serum)                                                                 \line SGOT                                  31        U/L           10.00 - 37.00\line\b 15-02-2019 02:32 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 SGPT/ ALT (Serum)                                                                 \line SGPT                                  15        U/L           30.00 - 65.00\line\b 15-02-2019 02:32 PM\b0\line  \b Name                                            Result         Unit               Reference\line\b0 Physical Examination                             SubHead                                               \line Colour                                           Pale Yellow                                           \line Appearance                                       Clear                                                 \line Chemical Examination                             SubHead                                               \line Urine Albumin                                    Nil                                                   \line Urine Sugar                                      Nil                                                   \line Microscopic Examination                          SubHead                                               \line WBC                                              4              /HPF               0.0 - 5.0           \line RBC                                              2              /HPF               0.0 - 2.0           \line Epithelial Cells                                 2              /HPF               Occasional          \line Cast                                             Nil            /LPF               Nil                 \line Crystal                                          Nil            /HPF               Nil                 \line Bacteria                                         Present                                               \line Yeast                                            Absent\par
+\lang16393\kerning1\f0\fs24\par
+\pard\sa160\b Course in the hospital\b0 : Hydrostatic saline reduction of the intussusception was achieved under Ultrasound guidance. post procedure child was kept for observation tolerated feeds.\par
+\b\par
+Condition at Discharge\b0 : Stable and fit for discharge.\par
+\b\par
+Discharge medications\b0 : Syp. Taxim O 80mg twice daily for 4 days \par
+Syp Metrogly 80mg twice daily for 4 days\par
+Syp paracetamol 100mg three times a day for 2 days\par
+\b\par
+Advice on discharge\b0 : Review in OPD on  18/2/19.\par
+\b\par
+Signed by\b0 :\par
+\par
+\lang1033\b\fs28 Dr. Ahamed Kabeer    \lang16393\b0\fs24\par
+\pard\hyphpar0\sa160\lang1033\b\par
+When and how to obtain urgent care\lang16393\b0 :\par
+\fs28\par
+\pard\hyphpar0\sa200\lang1033\b\fs24 In case of Emergency, contact\lang16393 : 0484-2905000\b0                    \fs22 Email: \b mail@rajagirihospital.com\lang255\b0\fs24\par
+\pard\hyphpar0\sa160\lang16393\b\fs22 For appointments: 0484-2905111 \b0 or use Patient Portal:- http://patientportal.rajagirihospital.com/ \par
+\b OPD Extension No.: 0484-2905127\b0\par
+\par
+\fs16 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang255\fs24\par
+\pard\cf1\highlight2\lang1033\kerning0\i\fs22\par
+\b Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul\b telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\b0\i0\f3\fs17\par
+\pard\sa160\lang16393\kerning1\b\f0\fs24\par
+\b0\par
+\pard\lang1033\kerning0\f3\fs17\par
+},<Age:11:Age>,<Sex:2:Sex>,2019-02-16 16:46:31.283000000

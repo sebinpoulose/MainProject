@@ -1,0 +1,86 @@
+239545,74576,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil\fcharset0 Calibri;}{\f2\fswiss\fprq2\fcharset0 Consolas;}{\f3\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red0\green0\blue0;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sa160\sl252\slmult1\qc\b\f0\fs17 X\lang3081\kerning1\ul\f1\fs24 Department of Gastrointestinal Surgery\kerning0\ulnone\b0\par
+\pard\hyphpar0\qc\kerning1\ul\b\par
+\pard\hyphpar0\ulnone\par
+Dr. Joseph George\tab\tab\tab\tab\tab      Dr. Mahesh Kumar P S\par
+\b0 MS, MCh (AIIMS)\tab\tab\tab\tab\tab             MBBS, MS General surgery\par
+Consultant GI Surgeon\tab\tab\tab\tab      Department of GI Surgery\par
+\b\par
+Dr. Shanavas Kakkat\par
+\pard\kerning0\b0 MBBS, MS, DNB, MCh, FMAS\par
+\kerning1 Consultant GI Surgeon\kerning0\par
+\par
+\par
+\par
+\pard\hyphpar0\kerning1\b DIAGNOSIS: \lang16393\kerning0\b0\par
+S/P  anterior resection-Carcinoma Rectosigmoid Junction\par
+\pard\sb100\sa100 Open anterior resection on 31/01/2019\par
+\par
+\pard\hyphpar0\lang1033\kerning1\b HISTORY: \lang16393\kerning0\b0\par
+Mr.Johnson, a 55 year old male, a case of carcinoma rectosigmoid-post anterior resection ,got admitted with complaints of  periumbilical pain and minimal wound discharge. No history of fever or abdominal distension.Bowel habits regular.\lang1033\kerning1\par
+\par
+\b PAST HISTORY: \lang16393\kerning0\b0\par
+\lang1033\kerning1 Coronary Artery Disease \par
+-Status Post Cornary Artery Bypass Graft on antiplatelets[after extensive endarterectomy]\par
+Status post Mitral valve repair\par
+Systemic Hypertension\par
+Peripheral vascular occlusive disease\par
+Status post femoro poplitial bypass\par
+\par
+\b PHYSICAL EXAMINATION AT ADMISSION: \lang16393\kerning0\b0\par
+Conscious,Oriented\par
+Vitals stable\par
+febrile\par
+Per abdomen :-Soft\par
+seropurulent wound discharge+\lang1033\kerning1\b\par
+\par
+INVESTIGATIONS:\par
+\pard\hyphpar0\qj\b0 pus C/S-E.coli growth.\par
+\b\par
+HOSPITAL COURSE:\b0  \lang16393\kerning0\par
+This 55 year old male got admitted here with above mentioned complaints. Culture and sensitivity done and antibiotics were started according to sensitivity.Periumbilical collection drained and managed with regular dresings and antibiotics.He is symptomatically better,wound discharge decreased and wound is healing.Cardology review and oncology opinion for adjuvant therapy taken.\par
+\par
+\b Inpatient medications:-\b0\par
+\pard\lang3081 INJECTION    METROGYL  (100ML)\line INJECTION   TAXIM 1GM  \line TAB  ECOSPRIN 75MG \line TAB  NEBICARD 2.5MG \line XYKAA BD 1000MG \line INJECTION   DOLO 1000 MG/100 ML\line\pard\hyphpar0 TAB AUGMENTIN DUO 625\lang1033\kerning1\par
+\b LAB REPORTS\b0 :  \par
+\pard\lang3081\kerning0\f2\fs20\line\b 16-02-2019 06:46 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Total Count                           6.9       x10^3/ul      4.0 - 11.0\line\b 16-02-2019 06:46 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Differential Count                    SubHead                                     \line Neutrophils                           54        %             40.0 - 80.0         \line Lymphocytes                           36        %             20.0 - 40.0         \line Monocytes                             5         %             2.0 - 10.0          \line Eosinophils                           5         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     3.7       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     2.5       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.4       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.3       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1\line\b 16-02-2019 06:46 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Electrolytes                                                                      \line Sodium                                135       mEq/L         136.00 - 146.00     \line Potassium                             4         mEq/L         3.50 - 5.10\line\b 16-02-2019 06:46 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 CRP                                   6.4       mg/L          0.00 - 5.00\line\par
+\pard\hyphpar0\lang1033\kerning1\f1\fs24\par
+\pard\sa160\sl252\slmult1\b CONDITION AT THE TIME OF DISCHARGE\b0 : \kerning0\b\par
+\lang16393\b0 Hemodynamically stable, Afebrile, Tolerating oral feeds, Bowel and bladder habits regular\lang1033\b\par
+\pard\hyphpar0\kerning1\b0\par
+\b ADVICE ON DISCHARGE\b0 : \lang16393\kerning0\par
+\lang1033\kerning1 Review on 25/02/2019 in Gastrosurgery and Cardiology [Dr.Ramdas]  unit.Review in oncology on 25/02/19\par
+Diet as tolerated\par
+Care of wound\par
+\par
+\par
+Discharge Medications:-\par
+\lang16393\kerning0 1.T.Xykaa BD 1 g orally two times daily for 5 days(7 am-0-7 pm)\par
+2.T.Augmentin Duo 625 three times daily for 7 days(7 am-1 pm-7pm)\par
+3.T.Pantocid 40 orally one time a day for 5 days\par
+4.T.Ecosprin 75 mg orally one time a day to continue\par
+5.T.Nebicard  2.5 mg orally one time a day to continue\par
+6.T.Tryptomer 25 mg orally at bed time till review\par
+7.T.Cilodoc 50 mg mg orally two times daily to continue\par
+8.T.Atocor 20 mg at bedtime to continue\par
+9.T.Ativan 4 mg at bedtime to continue.\par
+\lang1033\kerning1\par
+\pard\hyphpar0\sa120\qj\b\i WHEN TO OBTAIN URGENT CARE \par
+In case of any problems like: \par
+\pard\hyphpar0\fi-360\li720\sa120\qj\tx720\b0\i0 1.\tab Fever more than 100 \'b0f \par
+\pard\hyphpar0\fi-360\li720\sa120\qj 2.\tab Signs of infection ( redness, swelling, increased pain , Pus)\par
+3.\tab Nausea , vomiting and inability to keep medicines down\par
+4.\tab Increased pain despite pain medications\par
+5.\tab Uncontrolled loose motion or black stools\par
+\pard\hyphpar0\b\par
+\pard\sa160\sl252\slmult1\lang16393\kerning0\par
+                                                                     \par
+Signed by: \par
+\pard\sa200\sl276\slmult1\lang1033 In case of Emergency please contact:\par
+\pard\sa160\sl252\slmult1\lang16393 Helpline No. 0484-2905000                                                          Email: mail@rajagirihospital.com\par
+\pard\lang1033\b0\par
+\par
+\cf1\highlight2\b\i Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f3\fs17\par
+\b\f0\par
+},<Age:55:Age>,<Sex:1:Sex>,2019-02-18 18:39:14.860000000

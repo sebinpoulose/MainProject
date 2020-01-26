@@ -1,0 +1,103 @@
+244343,74521,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 MS Reference Sans Serif;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\froman\fprq2\fcharset0 Calibri;}{\f3\froman\fprq2 Calibri;}{\f4\fnil\fcharset0 Times New Roman;}{\f5\fswiss\fprq2\fcharset0 Consolas;}{\f6\fswiss\fcharset0 Calibri;}{\f7\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue0;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\nowidctlpar\hyphpar0\cf1\kerning1\f0\fs17\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\qc\cf0\lang16393\b\caps\f1\fs40 Department of Cardiology\lang255\b0\caps0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang16393\b\f2\fs20\par
+\pard\nowidctlpar\hyphpar0\lang9\kerning0\fs18 UNIT \f3 -\f2  I                                                                                 CARDIO VASCULAR                                    CARDIAC\lang255\kerning1\b0\f1\fs24\par
+\lang9\kerning0\b\f2\fs18                                                                                                \lang16393\kerning1 THORACIC SURGERY                                  \lang9\kerning0 ANAESTHESIOLOGIST\lang255\kerning1\b0\f1\fs24\par
+\lang9\kerning0\b\f2\fs18                                                                                                                                                                         \lang255\kerning1\b0\f1\fs24\par
+\lang9\kerning0\b\f2\fs18 Dr. Ramdas Nayak H                                                           Dr. Shiv K Nair                                            \lang16393 Dr. Mary Smitha Thomas\lang9                                           \lang255\kerning1\b0\f1\fs24\par
+\lang9\kerning0\f2\fs16 MD, DNB (Cardiology)\tab , FACC, FSCAI                                             MS (PGI), M.Ch (CVTS), FIACS                            \lang16393 DNB (Anaesthesiology),PDCCCA\lang9                                                           \lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang16393\kerning0\f2\fs16 HOD, Sr. Interventional Cardiologist & Electrophysiologist\lang9       Sr. Consultant Cardiac Surgeon & HOD           Consultant Cardiac Anesthesiologist            \lang16393\tab\tab\tab\lang9  \lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\tx6810\lang16393\kerning0\b\f2\fs18 Dr. Jacob George                                                                 Dr. Rinett Sebastian K V                           \lang9\tab             \lang255\kerning1\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\lang16393\kerning0\f2\fs16 MD, DM                                                                                             MS, M.Ch (CVTS), DNB (CVTS)                           \lang9                                                  \lang255\kerning1\f1\fs24\par
+\lang16393\kerning0\f2\fs16 Consultant Interventional Cardiologist                                        \lang9 Consultant Cardiac Surgeon                    \tab                     \lang255\kerning1\f1\fs24\par
+\lang9\kerning0\f2\fs20\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\lang16393\b\fs18 UNIT \lang9\f3 -\lang16393\f2  II                                                                                 Dr. Deepak A N                                              \lang255\kerning1\b0\f1\fs24\par
+\lang16393\kerning0\b\f2\fs18                                                                                                \b0\fs16  MS, MCh(CVTS)\lang255\kerning1\f1\fs24\par
+\lang9\kerning0\b\f2\fs18 Dr. Suresh Davis\lang16393\b0\fs16                                                                            Consultant Cardiac Surgeon                                                     \lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\tx3915\tx6810\lang9\kerning0\f2\fs16 MD, Diploma (Diabetology), DM\lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\lang9\kerning0\f2\fs16 Consultant Interventional Cardiologist\lang16393\b\fs18                                                                                                                                  \lang255\kerning1\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl276\slmult1\lang16393\kerning0\f2\fs16\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\b\fs18 Dr. Sandeep R\b0\fs16  \lang255\kerning1\f1\fs24\par
+\lang16393\kerning0\f2\fs16 MD, DM, DNB\lang255\kerning1\f1\fs24\par
+\lang16393\kerning0\f2\fs16 Consultant Interventional Cardiologist    \lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl276\slmult1\lang16393\kerning0\b\f2\fs18                                              \lang255\kerning1\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\lang16393\b\fs40\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\fs24 DIAGNOSIS:\lang255\b0\par
+\pard\nowidctlpar\hyphpar0\sa200\sl360\slmult1\lang1033\f4 Coronary artery disease\par
+    Recent unstable angina\par
+    Double vessel disease (CAG: 18.02.2019)\par
+   S/P Adhoc PTCA with stent to LCX (2.5X 34mm Resolute Onyx) on 18.02.2019\par
+   Good LV systolic function\par
+   Normal sinus rhythm\par
+Systemic Hypertension\par
+Dyslipidemia\b\f1\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\par
+DRUG ALLERGIES:\lang255\b0\par
+\lang1033\b\i\f4 Dust and Hair Dye \i0\f1\par
+\b0\fs22\par
+\b\fs24 HISTORY OF PRESENT ILLNESS:\lang255\b0\par
+\lang1033\fs22 Mr N.C Yohannan 61/M, hypertensive on treatment had  recent onset of  unstable angina for which he underwent CT coronary angiogram (04.02.2019) which revealed  90-95% stenosis in LCX  and 50-60% stenosis in RCA. He came here for further evaluation and advised coronary angiogram. He was admitted here for the same. \par
+\par
+\b\fs24 PHYSICAL EXAMINATION:\lang255\b0\par
+\pard\qj\lang3081\kerning2 Pulse Rate\lang16393 : 74\lang3081 /mt, regular \lang16393 , \lang3081 Peripheral pulses felt\lang16393 , \lang3081 Blood pressure: 120/80mm Hg\lang16393 , \lang3081 No carotid bruit\lang16393 , \lang3081 Cardiovascular system: S1\lang16393 ,\lang3081  S2 normal. No murmurs\lang16393 , \lang3081 Re\lang16393 s\lang3081 piratory system: NVBS\lang16393 , \lang3081 P/A and Central Nervous System: Normal\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\kerning1\fs22\par
+\par
+\b\fs24 LAB INVESTIGATION:\par
+\lang3081\kerning0\b0\f5\fs20\line\pard\b 18-02-2019 08:04 AM\line\b0 Test                                  13.3      Seconds       12.0 - 18.0         \line Control                               13.5      Seconds       13.5                \line INR                                   0.98      -             1.0\line\b 18-02-2019 07:37 AM\b0\line Total Bilirubin                       1         mg/dl         0.3 - 1.3           \line Direct Bilirubin                      0.2       mg/dl         0.2 - 0.4           \line Indirect Bilirubin                    0.8       mg/dl         0.2 - 0.9           \line SGOT                                  21        U/L           15.0 - 37.0         \line SGPT                                  21        U/L           30.0 - 65.0         \line Alkaline Phosphatase                  102       U/L           50.0 - 136.0        \line Total Protein                         7.8       g/dl          6.0 - 8.0           \line Albumin                               4.1       g/dl          3.4 - 5.0           \line Globulin                              3.7       g/dl          2.0 - 3.5           \line A:G Ratio                             1.11      :1            1.0 - 2.0\line\b 18-02-2019 07:37 AM\b0                                    \line Haemoglobin                           16.7      g/dl          13.0 - 17.0         \line TC                                    7.0       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           50        %             40.0 - 70.0         \line Lymphocytes                           38        %             20.0 - 40.0         \line Monocytes                             5         %             2.0 - 10.0          \line Eosinophils                           6         %             1.0 - 6.0           \line Basophils                             1         %             0.0 - 2.0           \line Neutrophils Count                     3.4       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     2.7       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.3       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.4       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.1       cells/cumm    0.02 - 0.1          \line RBC Count                             5.4       x10^6/ul      3.8 - 5.3           \line Hct                                   54        %             40.0 - 54.0         \line MCV                                   99        fl            80.0 - 100.0        \line MCH                                   31        pg            27.0 - 32.0         \line MCHC                                  31        g/dl          32.0 - 36.0         \line Platelet                              199       x10^3/ul      150.0 - 450.0       \line RDW                                   13.1      %             10.0 - 16.5         \line MPV                                   8.5       fl            7.5 - 11.5          \line ESR                                   16        mm/hr         0.0 - 15.0\line\b 18-02-2019 07:37 AM\line\b0 Sodium                                136       mEq/L         136.0 - 146.0\line\b 18-02-2019 07:37 AM\line\b0 Potassium                             4.7       mEq/L         3.5 - 5.1\line\b 18-02-2019 07:37 AM\b0                                      \line Urea                                  34.24     mg/dl         15.0 - 45.0         \line Creatinine                            0.98      mg/dl         0.6 - 1.4\line\b 18-02-2019 07:37 AM\b0                                    \line Total Cholesterol                     251       mg/dl         Desirable < 200 | Bo\line Triglycerides                         217       mg/dl         Desirable < 150 | Bo\line HDL Cholesterol                       34        mg/dl         40.0 - 60.0         \line LDL Cholesterol                       173       mg/dl         Optimal < 100 | Bord\line VLDL Cholesterol                      43        mg/dl         0.0 - 30.0\line\b 18-02-2019 07:37 AM\b0\line BLOOD GROUP                   ' A '\line Rh TYPE                       POSITIVE\line\b 18-02-2019 07:37 AM\b0\line  \b Name                                            Result         Unit               Reference\line\b0 HIV 1 & 2 CARD                                   SubHead                                               \line HIV 1 & 2                                        Non-Reactive\line\b 18-02-2019 07:37 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 FBS                                   99        mg/dl         70.0 - 110.0\line\b 18-02-2019 07:37 AM\b0\line  \b Name                                            Result         Unit               Reference\line\b0 HBsAg Card                                       SubHead                                               \line HBsAg                                            Non-Reactive\line\b 18-02-2019 07:37 AM\b0\line  \b Name                                            Result         Unit               Reference\line\b0 HCV Card                                         SubHead                                               \line HCV                                              Non-Reactive\line\line\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\kerning1\f1\fs22\par
+\b\fs24 INVESTIGATION:\lang255\b0\par
+\lang1033\f4 Electrocardiogram ( 18.02.2019): Sinus rhythm, Rate  60bpm, PRI  150ms, No ST-T changes \par
+Electrocardiogram( 18.02.2019)post PTCA: Sinus rhythm, Rate  60bpm, PRI 150ms, No ST-T changes \par
+\pard\sl240\slmult1 Echocardiogram ( 19.02.2019): \lang16393\kerning2 Suboptimal echo windows,Normal chamber dimensions,No definite regional wall motion abnormality,Good LV systolic function,Sclerosed aortic valve,No AS/AR,Mild MR,Trivial TR,  No PAH,Good RV function,Intact septae,No clot / pericardial effusion,\lang1033 IVC= 1.1 cm collapsing with respiration . EF- 60%\par
+\par
+USG abdomen  (19.02.2019): Ill defined hypoechoeic area measuring 18X23mm noted in the subscapular location in segment VIII, Grade I fatty liver, Mild prostatomegaly\par
+\kerning1\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\f1\fs22\par
+\b\fs24 COURSE IN THE HOSPITAL:\lang255\b0\par
+\pard\sl360\slmult1\lang1033 After preliminary investigations he underwent coronary angiogram through right radial access which revealed \lang16393 double vessle disease ( proximal LCX 95% stenosis with TIMI I flow distally and proximal to mid RCA shows multiple lesions with maximum of  50% stenosis).  Successful PTCA with stent to \lang1033\f4  LCX (2.5X 34mm Resolute Onyx) was done.  \lang16393\f1  \lang1033 Post procedure period was uneventful.  He was treated with antiplatelet, statin and antihypertensives. USG abdomen showed ill defined  \kerning2\f4 hypoechoeic area measuring 18X23mm noted in the subscapular location in segment VIII, grade I fatty liver and mild prostatomegaly. Echo showed no regional wall motion abnormality with good LV systolic function. He was shifted to room and mobilized. Gastrosurgery consultation was sought for  hyperechoic area in subscapular region and advised CECT  at a later date. He is being discharged with an advice to continue medications. \kerning1\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\b\f1\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1 INPATIENT MEDICATIONS:\lang255\b0\par
+\pard\lang3081\kerning0\f4 TAB  ATOCOR ,TAB  ECOSPRIN ,TAB  PLAVIX ,TAB  TELMIGET H ,TAB  AVIL  ,INJ  FENSTUD ,TAB  CLONOTRIL,TAB  DOLO ,BOT  MAGNESIUM SULPHATE,TAB  CHYMORAL FORTE ,SYP  POTKLOR \line\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\b\f1\par
+CONDITION AT THE TIME OF DISCHARGE:\lang255\b0\par
+\pard\qj\lang1033 Hemodynamically stable, mobilized, asymptomatic\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\fs22\par
+\b\fs24 ADVICE ON DISCHARGE:\lang255\b0\par
+\pard\sl360\slmult1\qj\lang16393\kerning2 Review with Dr Suresh Davis in Cardiology OPD after 2 weeks with  Renal functions tests , Electrolytes and Electrocardiogram reports (Tuesday, Thursday, Saturday)\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\kerning1\fs22 Review with Dr Joseph George in Gastrosurgery OPD after 2 weeks with CECT  report (With prior appointment)\par
+\b\fs24 DIET:\lang255\b0\par
+\pard\qj\lang16393\kerning2 Low fat/low salt diet\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\kerning1\fs22\par
+\b\fs24 PHYSICAL ACTIVITIES:\lang255\b0\par
+\pard\qj\lang16393\kerning2 Regular walk\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\kerning1\fs22\par
+\b\fs24 DISCHARGE MEDICATIONS:\lang255\b0\par
+\lang1033 TAB. ECOSPRIN 150MG 0-1-0 ( AFTER FOOD)\par
+TAB. PLAVIX 75MG 1-0-1\par
+TAB. AZTOR 40MG 0-0-1\par
+TAB. TELMIGET  40MG 0-0-1\par
+TAB. CLONOTRIL 0.25MG 0-0-1\par
+TAB. PANTOCID  40MG 1-0-1 (BEFORE FOOD)\par
+TAB. DOLO 650MG 1-1-1 X 3 DAYS\par
+TAB. CHYMORAL FORTE  1-0-1 X  3 DAYS \par
+SYP. POTKLOR  10ML-10ML-10ML (WITH HALF GLASS OF WATER) X 3 DAYS \par
+\par
+\fs22\par
+\b\fs24 PLAN ON DISCHARGE:\lang255\b0\par
+\lang1033 Medical follow up \par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang16393\b\f2\fs28\par
+\par
+\f1 Prepared by: Meethu \lang255\b0\fs24\par
+\lang16393\b\fs28\par
+Attending Consultant: Dr Susresh Davis/ Dr Sandeep R \lang255\b0\fs24\par
+\lang16393\b\fs28\par
+\lang1033\fs24 When and how to obtain urgent care:\fs22  Chest pain/breathlessness/palpitation/giddiness\lang255\b0\fs24\par
+\lang16393\b\fs28\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\fs24 In case of Emergency please contact:\lang255\b0\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang16393\b\fs22 Helpline No. 0484-2905000                                                          Email: mail@rajagirihospital.com\lang255\b0\fs24\par
+\lang16393\b\fs22\par
+\fs16 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang255\b0\fs24\par
+\pard\cf2\highlight3\lang1033\kerning0\b\i\f6\fs22\par
+Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f7\fs17\par
+},<Age:61:Age>,<Sex:1:Sex>,2019-02-20 12:39:00.410000000

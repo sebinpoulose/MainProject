@@ -2,16 +2,13 @@ from Database import Database
 from nltk.corpus import stopwords
 import nltk
 import ncrmodel
-<<<<<<< HEAD
 import tensorflow as tf
+print("entered maaaqaapppppp")
 tf.enable_eager_execution()
-param_dir = "C:/Users/sadiq naizam/Desktop/python_workspace/ncr_hpo_params/model_params"
-word_model_file = "C:/Users/sadiq naizam/Desktop/python_workspace/ncr_hpo_params/model_params/pmc_model_new.bin"
-=======
 param_dir = "C:/Users/student/PycharmProjects/ncr_hpo_params/model_params"
 word_model_file = "C:/Users/student/PycharmProjects/ncr_hpo_params/model_params/pmc_model_new.bin"
->>>>>>> ed0f0e98cae6f3afa10ec4c4084dd9ec500a7e48
 model = ncrmodel.NCR.loadfromfile(param_dir, word_model_file)
+
 #nltk.download('stopwords')
 #nltk.download('averaged_perceptron_tagger')
 #nltk.download('punkt')

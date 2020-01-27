@@ -7,10 +7,11 @@ from django.contrib.auth.decorators import login_required
 from django.core.files.storage import FileSystemStorage
 from django.template import RequestContext
 import sys
-sys.path.insert(1, 'C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\MainProject\\ICD-10-Code\\')
+
+sys.path.insert(1, 'C:\\Users\\student\\PycharmProjects\\MainProject\\ICD-10-Code\\')
 from maaaap import Mapper
 
-
+obj = Mapper()
 
 from MainProject import settings
 from .forms import CutpasteForm
@@ -41,8 +42,8 @@ def logout_request(request):
     # return render(request, "Home_page.html", {})
     return redirect("home")
 
-def get_icd(request,data):
-    return request(request,'icdhome.html',{'diagnosis':Mapper.map(data)})
+#def get_icd(request,data):
+#    return request(request,'icdhome.html',{'diagnosis':data})
 
 @login_required(login_url='/icdmapper/login/')
 def homepage(request):
@@ -50,11 +51,10 @@ def homepage(request):
         form = CutpasteForm(request.POST)
         if form.is_valid():
             data = form.cleaned_data
-            data = get_icd(request,data)
             field = data['diagnosis']
-            answer = field
+            answer = str(obj.map([field]))
             print(answer)
-            return render(request, 'icdhome.html', {'form': form, 'answer': "hello"})
+            return render(request, 'icdhome.html', {'form': form, 'answer': answer})
         else:
             print('error')
     else:

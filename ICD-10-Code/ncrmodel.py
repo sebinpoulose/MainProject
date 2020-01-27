@@ -5,7 +5,7 @@ import json
 import pickle 
 import fasttext
 import re
-tf.enable_eager_execution()
+#tf.enable_eager_execution()
 
 def is_number(s):
   try:

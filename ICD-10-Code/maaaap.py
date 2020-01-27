@@ -2,6 +2,8 @@ from Database import Database
 from nltk.corpus import stopwords
 import nltk
 import ncrmodel
+import tensorflow as tf
+tf.enable_eager_execution()
 param_dir = "C:/Users/sadiq naizam/Desktop/python_workspace/ncr_hpo_params/model_params"
 word_model_file = "C:/Users/sadiq naizam/Desktop/python_workspace/ncr_hpo_params/model_params/pmc_model_new.bin"
 model = ncrmodel.NCR.loadfromfile(param_dir, word_model_file)

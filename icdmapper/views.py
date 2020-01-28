@@ -7,9 +7,9 @@ from django.contrib.auth.decorators import login_required
 from django.core.files.storage import FileSystemStorage
 from django.template import RequestContext
 import sys
-
-sys.path.insert(1, 'C:\\Users\\student\\PycharmProjects\\MainProject\\ICD-10-Code\\')
+sys.path.insert(2, 'C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\MainProject\\ICD-10-Code\\')
 from maaaap import Mapper
+from Extractor import Extractor
 
 obj = Mapper()
 
@@ -69,13 +69,25 @@ def upload_file(request):
         fs = FileSystemStorage()
         name = fs.save(uploaded_file.name, uploaded_file)
         url = '/icdmapper'
-        url = fs.url(name)  # url to the file
+        url = "."+fs.url(name)  # url to the file
         print(url)
+        ext = Extractor([url])
+        data = ext.getalldiagnosis()
+        #answer = [data[x] for x in data]
+        final_result = {}
+        for key,value in data.items():
+            final_result[key] = obj.map(value)
+        print(final_result)
+
+
+
+
+
         form = CutpasteForm()
         context = {
             'form': form,
             'url': uploaded_file.name,
-            'result': "mapped value"
+            'result': final_result
         }
         return render(request, 'icdhome.html', context)
     form = CutpasteForm()
@@ -85,10 +97,21 @@ def upload_file(request):
 def loadstorage(request):
     if request.method == 'POST':
         filenames = request.POST.getlist('userselect')
+        for i in range(len(filenames)):
+            filenames[i]="./media/"+filenames[i]
         print(filenames)
+        ext = Extractor(filenames)
+        data = ext.getalldiagnosis()
+        # answer = [data[x] for x in data]
+        final_result = {}
+        for key, value in data.items():
+            final_result[key] = obj.map(value)
+        print(final_result)
+
+
         result = str(filenames)
         return render(request, 'loadstore.html',
                       {'total_files': os.listdir(settings.MEDIA_ROOT), 'path': settings.MEDIA_ROOT,
-                       'result': result})
+                       'result': final_result})
     return render(request, 'loadstore.html',
                   {'total_files': os.listdir(settings.MEDIA_ROOT), 'path': settings.MEDIA_ROOT})

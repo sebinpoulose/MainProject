@@ -5,8 +5,8 @@ import ncrmodel
 import tensorflow as tf
 print("entered maaaqaapppppp")
 tf.enable_eager_execution()
-param_dir = "C:/Users/student/PycharmProjects/ncr_hpo_params/model_params"
-word_model_file = "C:/Users/student/PycharmProjects/ncr_hpo_params/model_params/pmc_model_new.bin"
+param_dir = "C:/Users/sadiq naizam/Desktop/python_workspace/ncr_hpo_params/model_params"
+word_model_file = "C:/Users/sadiq naizam/Desktop/python_workspace/ncr_hpo_params/model_params/pmc_model_new.bin"
 model = ncrmodel.NCR.loadfromfile(param_dir, word_model_file)
 
 #nltk.download('stopwords')

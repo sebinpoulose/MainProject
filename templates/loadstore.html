@@ -32,7 +32,22 @@
 </form>
 
 {% if result %}
-    <p>{{ result }}</p>
+    <h4>RESULTS</h4>
+    {% for key,value in result.items %}
+        Filename : {{ key }}
+        <table>
+            <tr>
+                <th>Diagnosis</th>
+                <th>ICD-10 Code</th>
+            </tr>
+        {% for elem in value %}
+                <tr>
+                <td><b>{{ elem.0 }}</b></td>
+                <td><b>{{ elem.1 }}</b></td>
+                </tr>
+        {% endfor %}
+        </table>
+    {% endfor %}
 {% endif %}
 
 

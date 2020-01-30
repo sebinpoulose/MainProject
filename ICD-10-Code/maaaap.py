@@ -5,8 +5,8 @@ import ncrmodel
 import tensorflow as tf
 print("entered maaaqaapppppp")
 tf.enable_eager_execution()
-param_dir = "C:/Users/sadiq naizam/Desktop/python_workspace/ncr_hpo_params/model_params"
-word_model_file = "C:/Users/sadiq naizam/Desktop/python_workspace/ncr_hpo_params/model_params/pmc_model_new.bin"
+param_dir = "C:\\Users\\student\\PycharmProjects\\ncr_hpo_params\\model_params"
+word_model_file = "C:\\Users\\student\\PycharmProjects\\ncr_hpo_params\\model_params\\pmc_model_new.bin"
 model = ncrmodel.NCR.loadfromfile(param_dir, word_model_file)
 
 #nltk.download('stopwords')
@@ -149,15 +149,15 @@ class Mapper():
 
 if __name__ == "__main__":
     map = Mapper()
-    list = map.map(['Mantle cell lymphoma in leukemic phase',
-                    'Ischemic heart disease post angioplasty',
-                    'Thyroidectomy - on replacement',
-                    'Bilateral vocal cord palsy',
-                    'Hypertension',
-                    'Steroid induced hyperglycemia',
-                    'Chronic obstructive pulmonary disease',
-                    'Chronic kidney disease',
-                    'Gastroesophageal reflux disease - large hiatus hernia',
-                    'Lower respiratory tract infection'])
+    list = map.map(['renal neoplasm']) #,
+                    # 'Ischemic heart disease post angioplasty',
+                    # 'Thyroidectomy - on replacement',
+                    # 'Bilateral vocal cord palsy',
+                    # 'Hypertension',
+                    # 'Steroid induced hyperglycemia',
+                    # 'Chronic obstructive pulmonary disease',
+                    # 'Chronic kidney disease',
+                    # 'Gastroesophageal reflux disease - large hiatus hernia',
+                    # 'Lower respiratory tract infection'])
     for i in list:
         print(i)

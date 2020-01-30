@@ -7,7 +7,7 @@ from django.contrib.auth.decorators import login_required
 from django.core.files.storage import FileSystemStorage
 from django.template import RequestContext
 import sys
-sys.path.insert(2, 'C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\MainProject\\ICD-10-Code\\')
+sys.path.insert(2, 'C:\\Users\\student\\PycharmProjects\\MainProject\\ICD-10-Code\\')
 from maaaap import Mapper
 from Extractor import Extractor
 
@@ -45,6 +45,7 @@ def logout_request(request):
 #def get_icd(request,data):
 #    return request(request,'icdhome.html',{'diagnosis':data})
 
+
 @login_required(login_url='/icdmapper/login/')
 def homepage(request):
     if request.method == 'POST':
@@ -52,8 +53,7 @@ def homepage(request):
         if form.is_valid():
             data = form.cleaned_data
             field = data['diagnosis']
-            answer = str(obj.map([field]))
-            print(answer)
+            answer = obj.map([field])
             return render(request, 'icdhome.html', {'form': form, 'answer': answer})
         else:
             print('error')
@@ -78,11 +78,6 @@ def upload_file(request):
         for key,value in data.items():
             final_result[key] = obj.map(value)
         print(final_result)
-
-
-
-
-
         form = CutpasteForm()
         context = {
             'form': form,

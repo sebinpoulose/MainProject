@@ -1,22 +1,17 @@
 {% extends 'basehome.html' %}
-{% block title %}
-    Graphical Reports home page
-{% endblock title %}
-{% block greporthomeblock %}
-   <li><a href="{% url 'greporthomepage' %}">Home</a></li>
-   {% endblock greporthomeblock %}
 {% block testsetblock %}
-   <li><a href="{% url 'testset' %}">Available Tests</a></li>
+   <li><a href="{% url 'icdset' %}">ICD-10 Codes Lookup</a></li>
    {% endblock testsetblock %}
+{% block greporthomeblock %}
+   <li><a href="{% url 'icdmapperhomepage' %}">Home</a></li>
+   {% endblock greporthomeblock %}
 {% block bodypart %}
-    Current User : {{ user.first_name }} {{ user.last_name }}
-    <br>
     {% if loaded_data %}
-    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search Tests" title="Type in a name">
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search For ICD Codes" title="Type in a name">
     {% endif %}
     <br>
     {{ loaded_data | safe }}
-<script>
+    <script>
 function myFunction() {
   // Declare variables
   var input, filter, table, tr, td, i, txtValue;
@@ -39,5 +34,4 @@ function myFunction() {
   }
 }
 </script>
-
 {% endblock bodypart %}

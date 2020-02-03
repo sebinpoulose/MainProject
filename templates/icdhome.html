@@ -7,10 +7,11 @@
    <li><a href="{% url 'icdmapperhomepage' %}">Home</a></li>
    {% endblock greporthomeblock %}
 {% block testsetblock %}
-
+   <li><a href="{% url 'icdset' %}">ICD-10 Codes Lookup</a></li>
    {% endblock testsetblock %}
 {% block bodypart %}
-    Current User :  {{ user.username }}
+    Current User : {{ user.first_name }} {{ user.last_name }}
+    <br>
     <form method="post" novalidate action="{% url 'icdmapperhomepage' %}">
   {% csrf_token %}
 

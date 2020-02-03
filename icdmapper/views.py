@@ -5,7 +5,7 @@ from django.http import *
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
 from django.core.files.storage import FileSystemStorage
-from django.template import RequestContext
+import pandas as pd
 import sys
 sys.path.insert(2, 'C:\\Users\\student\\PycharmProjects\\MainProject\\ICD-10-Code\\')
 from maaaap import Mapper
@@ -110,3 +110,10 @@ def loadstorage(request):
                        'result': final_result})
     return render(request, 'loadstore.html',
                   {'total_files': os.listdir(settings.MEDIA_ROOT), 'path': settings.MEDIA_ROOT})
+
+
+def icdset(request):
+    data = pd.read_csv("./static/icddata/icdset.csv")
+    data_html = data.to_html()
+    context = {'loaded_data': data_html}
+    return render(request, "icdset.html", context)

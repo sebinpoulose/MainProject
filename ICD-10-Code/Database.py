@@ -24,4 +24,21 @@ class Database:
         self.cursor.execute( query, value)
         return self.cursor.fetchall()
 
+    def fetch(self, query):
+        self.cursor.execute(query)
+        return self.cursor.fetchall()
+
+    def update(self, query):
+        self.cursor.execute(query)
+        self.db.commit()
+        return self.cursor.rowcount
+
+    def update_no_commit(self, query):
+        self.cursor.execute(query)
+        return self.cursor.rowcount
+
+    def commit(self):
+        self.db.commit()
+
+
 

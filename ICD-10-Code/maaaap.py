@@ -85,6 +85,8 @@ class Mapper():
                 #for x in self.data:
                     hpd = model.get_match([j], 5)
                     print(hpd)
+                    print(type(hpd[0][0][0]))
+                    print(type(hpd[0][0][1].item()))
                     hpx = model.get_match(self.data, 5)
                     print(hpx)
                     print(j)
@@ -97,14 +99,14 @@ class Mapper():
                         point = point + 1
                     for hi in range(len(hpx)):
                         if hpx[hi][0][0] == hpd[0][point][0]:
-                            print(self.data[hi],self.icd[hi],hpx[hi][0][1])
+                            print(self.data[hi], self.icd[hi], hpx[hi][0][1])
                             if fl:
                                 large = hpx[hi][0][1]
-                                hpt = (self.data[hi],self.icd[hi])
+                                hpt = (self.data[hi], self.icd[hi])
                                 fl = 0
                             elif large < hpx[hi][0][1]:
                                 large = hpx[hi][0][1]
-                                hpt = (self.data[hi],self.icd[hi])
+                                hpt = (self.data[hi], self.icd[hi])
 
                     print(hpt[0]+":"+hpt[1])
                     print(large)

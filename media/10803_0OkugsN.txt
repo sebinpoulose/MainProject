@@ -1,0 +1,80 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset0 Calibri;}{\f3\fswiss\fprq2\fcharset0 Consolas;}{\f4\fnil\fcharset2 Wingdings;}{\f5\froman\fprq2\fcharset0 Times New Roman;}{\f6\fswiss\fcharset0 Calibri;}{\f7\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sa160\sl252\slmult1\qc\ul\b\f0\fs24\par
+\pard\sa200\sl276\slmult1\qc\lang3081\f1\fs28 DEPARTMENT OF GENERAL MEDICINE - UNIT II\ulnone\b0\f2\fs22\par
+\pard\b\f1\fs24\par
+\pard\sa160\sl252\slmult1\qj                  \lang16393\ul UNIT -I\lang3081\ulnone                           \lang16393\ul UNIT -II\lang3081\ulnone                                        \lang16393\ul UNIT -III\ulnone\b0\par
+\pard\lang3081\b Dr. Koruth George P., MD           Dr. Renji Jos, MD, PDDM           Dr. Geena Jacob, MD\par
+\b0 Senior Consultant                             Senior Consultant                              Consultant\par
+\b\par
+Dr. D Santhichandra Pai, DNB      Dr. Nijin Jose, MD                       Dr. Salini Baby John, MD                           \par
+\b0 Junior Consultant                               Junior Consultant                             Junior Consultant\par
+\pard\sa200\sl276\slmult1\lang1033\ul\b\fs22\par
+\pard\qj\lang16393\ulnone\fs24 Dr. Ambily Anu Isaac, MBBS            \par
+\pard\sa200\sl276\slmult1\b0        Medical Officer  \lang1033\ul\b\fs22\par
+\pard\sa160\sl252\slmult1\fs24\par
+DRUG ALLERGIES: \b0\par
+\ulnone No known drug allergies.\par
+\lang3081\f3\fs20\par
+\lang1033\ul\b\f1\fs24 DIAGNOSIS:\par
+\ulnone\f2\tab\lang3081\kerning2\f4\'b2 \lang1033\kerning0\f1 ACUTE TONSILLITIS \par
+\par
+\ul PRESENTING COMPLAINTS:\par
+\ulnone\b0 Fever - 3 days \par
+Throat pain - 3 days \ul\b\par
+\ulnone\b0 Heartburn - 1 day \par
+Belching +\par
+\par
+\ul\b CLINICAL EXAMINATION:\b0\par
+\ulnone BP:      \tab   120/70 mmHg,   PR: 82 /min, regular.  Peripheral pulses present.\par
+Temp:\tab     100' F\par
+Throat :     Congested +.  Grade II tonsils +\par
+RS           Normal vesicular breath sounds. No added sounds. \par
+CVS:\tab     S1 + S2 +.  No murmurs\par
+PA:\tab     Soft.  Non tender. No organomegaly.\par
+\tab     Hernial orifices normal.  Bowel Sounds+.\par
+CNS:\tab     No focal deficits. DTR equal B/L Plantars .\par
+\pard\ul\b\par
+\ulnone\fs6\par
+\pard\sa160\sl252\slmult1\ul\fs24 RADIOLOGICAL FINDINGS:\par
+\ulnone X-Ray Chest Pa [15.2.19]: \b0 Normal lung parenchyma. \b\par
+USG - Abdomen [20.2.19]: \b0\par
+\ul\b\par
+COURSE IN THE HOSPITAL:\b0\par
+\pard\lang3081\ulnone Mrs. Fini Jose, 27-year-old female, got admitted here with above mentioned complaints.  Routine blood investigations were essentially normal.  Urine routine was normal.  Blood culture - report awaited.  ENT consultation [Dr. Vishnu] obtained for throat pain and difficulty swallowing, opined as tonsillitis, advised to continue same treatment.  Gastromedicine evaluation [Dr. Johm] obtained for heartburn and belching, advised endoscopy.  *****.  Patient was treated with IV broad spectrum antibiotic and other supportive measures. \par
+\par
+\lang1033\par
+\pard\sa160\sl252\slmult1\ul\b INPATIENT MEDICATION:\par
+\lang16393\ulnone\b0 Inj. Augmentin; Inj. Rabiprez; Betadine gargle; Nasivion nasal drops; Tab. Montek LC; Inj. Dolo; BDAC P \par
+\ul\b\par
+DISCHARGE ADVICE : \ulnone\b0\par
+Tab. Augmentin        625mg  1-1-1   x ****\par
+Cap. Fullnerve                      1-0-0    x 5 days \par
+Tab. Montek LC                  0-0-1    x 5 days \par
+Tab. Pantagut DM                1-0-0    x 5 days \par
+Betadine gargle \par
+\par
+\ul\b REVIEW\lang1033\ulnone :\ul\b0\par
+\lang16393\ulnone\b Review after 7 days in GENERAL MEDICINE  with the following reports: \par
+\lang1033\f2\tab\lang3081\kerning2\f4\'b2  \lang1033\kerning0\f1 CBC //  \par
+Collect pending report of Blood culture \par
+\lang16393\ul\par
+CONDITION AT THE TIME OF DISCHARGE:\lang1033\b0\par
+\lang16393\ulnone General condition improved, vitals stable.\par
+\par
+\ul\b WHEN & HOW TO OBTAIN URGENT CARE:\lang1033\b0\par
+\lang16393\ulnone To report back immediately to the Emergency Room if symptoms recur.\par
+\par
+Signed by:  \par
+\lang1033\fs20\par
+\pard\sa200\sl276\slmult1\b                 \lang16393 DR. RENJI JOS, MD, PDDM\lang1033                     \lang16393 DR. NIJIN JOSE, MD\lang1033                       Dr. AMBILY ANU ISAAC, MBBS\par
+                \lang16393 SENIOR CONSULTANT\lang1033                                \lang16393 CONSULTANT                             \lang1033                MEDICAL OFFICER \par
+               \lang16393 GENERAL MEDICINE\lang1033                                   \lang16393 GENERAL MEDICINE\lang1033      \tab\tab GENERAL MEDICINE\par
+\f5\fs24 Incase of Emergency please contact:\par
+\pard\sa160\sl252\slmult1\lang16393\fs22 Helpline No. 0484-2905000                                                          Email: mail@rajagirihospital.com\par
+\fs16 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\b0\fs22\par
+\pard\cf1\highlight2\b\i\f6 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\par
+\par
+\b\f2 INVESTIGATIONS: \par
+\cf0\highlight0\lang3081\ulnone\i0\f3\fs20 19-02-2019 04:27 AM\b0\line  \b Name                                            Result         Unit               Reference\line\b0 Physical Examination                             SubHead                                               \line Colour                                           Pale Yellow                                           \line Appearance                                       Clear                                                 \line Chemical Examination                             SubHead                                               \line Urine Albumin                                    Nil                                                   \line Urine Sugar                                      Nil                                                   \line Microscopic Examination                          SubHead                                               \line WBC                                              1              /HPF               0.0 - 5.0           \line RBC                                              4              */HPF               0.0 - 2.0           \line Epithelial Cells                                 1              /HPF               Occasional          \line Cast                                             Nil            /LPF               Nil                 \line Crystal                                          Nil            /HPF               Nil                 \line Bacteria                                         Occasional                                            \line Yeast                                            Absent\line\b 18-02-2019 07:07 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Liver Function Test ( LFT )           SubHead                                     \line Total Bilirubin                       0.5       mg/dl         0.3 - 1.3           \line Direct Bilirubin                      0.1       mg/dl         0.2 - 0.4           \line Indirect Bilirubin                    0.4       mg/dl         0.2 - 0.9           \line SGOT                                  18        U/L           15.0 - 37.0         \line SGPT                                  37        U/L           30.0 - 65.0         \line Alkaline Phosphatase                  83        U/L           50.0 - 136.0        \line Total Protein                         8.4       g/dl          6.0 - 8.0           \line Albumin                               3.7       g/dl          3.4 - 5.0           \line Globulin                              4.6       g/dl          2.0 - 3.5           \line A:G Ratio                             0.8       :1            1.0 - 2.0\line\b 18-02-2019 07:07 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Haemoglobin                           12.6      g/dl          11.5 - 14.5         \line TC                                    10.6      x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           65        %             40.0 - 80.0         \line Lymphocytes                           26        %             20.0 - 40.0         \line Monocytes                             4         %             2.0 - 10.0          \line Eosinophils                           5         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     6.8       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     2.7       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.5       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.5       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             4.2       x10^6/ul      3.8 - 5.3           \line Hct                                   40        %             40.0 - 54.0         \line MCV                                   95        fl            80.0 - 100.0        \line MCH                                   30        pg            27.0 - 32.0         \line MCHC                                  32        g/dl          32.0 - 36.0         \line Platelet                              279       x10^3/ul      150.0 - 450.0       \line RDW                                   13.1      %             10.0 - 16.5         \line MPV                                   7.5       fl            7.5 - 11.5\line\b 18-02-2019 07:07 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Electrolytes                          SubHead                                     \line Sodium                                138       mEq/L         136.0 - 146.0       \line Potassium                             3.6       mEq/L         3.5 - 5.1\line\b 18-02-2019 07:07 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Renal Function Test                   SubHead                                     \line Urea                                  17.12     mg/dl         15.0 - 45.0         \line Creatinine                            0.78      mg/dl         0.6 - 1.4\line\b 18-02-2019 07:07 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 CRP                                   11.6      mg/L          0.0 - 5.0\line\lang1033\f7\fs17\par
+}

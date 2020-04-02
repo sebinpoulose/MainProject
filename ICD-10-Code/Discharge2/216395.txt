@@ -1,0 +1,73 @@
+216395,74637,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Calibri;}{\f2\fswiss\fprq2\fcharset0 Consolas;}{\f3\froman\fprq2\fcharset0 Times New Roman;}{\f4\fswiss\fcharset0 Calibri;}{\f5\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sl276\slmult1\qc\ul\b\f0\fs40 Department of Gastroenterology\par
+\pard\sl276\slmult1\fs44\par
+\ulnone\fs28 Dr. Rosh Varghese MD, DM\par
+\b0\fs24 Senior Consultant\par
+Gastroenterology and Hepatology\fs28\par
+\par
+\b Dr. John Menachery MD, DM (HEPATOLOGY)\b0\par
+\fs24 Consultant\par
+Gastroenterology and Hepatology\par
+\par
+\b\fs28 Dr. Neema Renji\par
+\b0\fs24 Junior Resident\par
+Gastroenterology and Hepatology\fs28\par
+\par
+\ul\b\fs24 Diagnosis:\ulnone\b0\par
+\lang3081\f1 Gastric submucosal lesion ? Gastrointestinal stromal tumor- Biopsy awaited \f0\par
+Type II Diabetes mellitus\par
+Systemic hypertension\par
+Dyslipidemia\par
+Grade I Fatty liver\lang1033\par
+\ul\b\par
+History:\ulnone\b0\par
+\lang3081 Mrs. Chinnamma Abraham 65 years, a known case of type II diabetes mellitus, systemic hypertension, dyslipidemia and gastric submucosal lesion ? \f1 Gastrointestinal stromal tumor\f0  on regular medications was admitted for Endoscopic ultrasound + Fine needle aspiration cytology. Patient has no complaints of abdominal pain, abdominal distension, nausea, vomiting, Gastroesophagealreflux symptoms or altered bladder/ bowel habits. There is no history of anorexia or weight loss. She was evaluated with an \lang1033\f1 Endoscopic ultrasound on 01.10.2018 which revealed :Gastric submucosal lesion ?\lang3081 Gastrointestinal stromal tumor\f0 - biopsy  revealed spindle cell lesion. Last Ultrasound abdomen done on 03.09.2018 showed grade I fatty liver. Her antiplatelets have been stopped 5 days prior, in view of  Fine needle aspiration cytology. Patient has no history of drug allergies in the past. She has history of jaundice, blood transfusion and surgeries in the past\lang1033\par
+\par
+\ul\b On Examinations:\ulnone\b0\par
+\lang3081 Patient conscious/oriented\par
+Vitals stable \par
+Afebrile, no pallor, icterus, pedal edema or lymphadenopathy\par
+Per abdomen: soft ; no tenderness, no organomegaly\par
+Cardio vascular system:S1S2 heard \par
+Central nervous system :No Focal neurological deficit\par
+Respiratory system : No4rmal vesicular breath sound heard\lang1033\par
+\par
+\ul\b Lab Investigations:\ulnone\b0\par
+\pard\lang3081\b\f2\fs20 19-02-2019 09:50 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 CRP                                   2.1       mg/L          0.00 - 5.00\line\b 19-02-2019 08:29 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Creatinine                            0.75      mg/dl         0.60 - 1.40\line\b 19-02-2019 08:29 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Blood Routine Examination ( CBC With ESubHead                                     \line Haemoglobin                           11.1      g/dl          11.5 - 14.5         \line TC                                    6.0       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           46        %             40.0 - 70.0         \line Lymphocytes                           45        %             20.0 - 40.0         \line Monocytes                             5         %             2.0 - 10.0          \line Eosinophils                           3         %             1.0 - 6.0           \line Basophils                             1         %             0.0 - 2.0           \line Neutrophils Count                     2.8       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     2.7       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.3       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.2       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             4.1       x10^6/ul      3.8 - 5.3           \line Hct                                   36        %             35.0 - 44.0         \line MCV                                   88        fl            80.0 - 100.0        \line MCH                                   27        pg            27.0 - 32.0         \line MCHC                                  30        g/dl          32.0 - 36.0         \line Platelet                              335       x10^3/ul      150.0 - 450.0       \line RDW                                   14.7      %             10.0 - 16.5         \line MPV                                   7.4       fl            7.5 - 11.5          \line ESR                                   34        mm/hr         0.0 - 20.0\line Test                                  13.5      Seconds       12.0 - 18.0         \line Control                               13.5      Seconds       13.5                \line INR                                   1         -             1.0\line Electrolytes                                                                      \line Sodium                                138       mEq/L         136.00 - 146.00     \line Potassium                             3.8       mEq/L         3.50 - 5.10\line\b 19-02-2019 05:30 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 T3                                    84.4      ng/dl         60.00 - 181.00\line T4                                    8         ug/dL         5.40 - 11.70\line TSH                                   3.77      uIU/ml        0.35 - 5.50\line FBS                                   123       mg/dl         70.00 - 110.00\line\pard\sl276\slmult1\lang1033\f0\fs24\par
+\ul\b Procedures:\ulnone\b0\par
+\b\f1 EUS (19.2.2019) \b0 : Gastric submucosal lesion  \lang3081\f0 ? \f1 Gastrointestinal stromal tumor\f0  \lang1033\par
+\par
+\ul\b Course in the hospital and Discussion:\ulnone\b0\par
+Mrs. Chinnamma Abraham 65 years, a known case of type II diabetes mellitus, systemic hypertension, dyslipidemia and gastric submucosal lesion\lang3081 ? \f1 Gastrointestinal stromal tumor\f0  on regular medications was admitted for Endoscopic ultrasound . \lang1033 Her routine labs were unremarkable. After attaining anesthesia clearance an Endoscopic ultrasound was done which showed  \f1  a 1.5 x 2.2 cm hypoechoic lesion noted in the corporal area arising from second layer- \f0 F\lang3081 ine needle aspiration cytology \lang1033  done and specimen was sent for histopathological examination- result is awaited. Patient tolerated the procedure well and there was no post procedure complications noted. Gastrosurgical consultation was taken and she was  advised excision of lesion  which is planned  for next week. Patient  is being discharged in stable condition with following medications and advised to review in Gastrosurgical department on 25.02.2019\par
+\par
+\ul\b Discharge Medications:\par
+\ulnone\b0\f1 Cap Rablet IT 1-0-0 before food\par
+Tab Meb SR 200mg 1-0-1\par
+Tab Amitryn 10mg 0-0-1\par
+4K PEG 2 scoops 0-0-1  with water\f0\par
+Continue own medications as before\par
+\par
+\ul\b Advice On Discharge:\ulnone\b0\par
+\pard\sa200\sl276\slmult1 To review in Gastromedicine unit on 25.02.2019 for admission\par
+\lang16393\ul\b Condition at the time of discharge:\ulnone\b0\fs22\par
+\pard\sl276\slmult1\lang1033\fs24 She is stable at the time of discharge\par
+\ul\b\par
+Plan on Discharge:\ulnone\b0\par
+Admission under Gastrosurgery for excision \par
+Antiplatelets to be with held 5 days prior to admission\par
+\par
+\ul\b Diet:\ulnone\b0\par
+Anti diabetic diet \par
+Low fat/ Low salt diet\par
+\par
+\b\fs28 Prepared By:\tab\tab\tab\tab\tab\tab Verified By:\par
+\pard\sa200\sl276\slmult1\f1\fs32 Ms. Salvya Issac                                           Dr. Rosh Varghese MD.DM.\f3\fs24\par
+\pard\sa160\qj\lang16393\ul\f0 When and how to obtain emergency care:\ulnone\b0\par
+\b\fs22 To report immediate to the ER of Rajagiri hospital in case of abdominal pain\lang1033\b0\f3\fs24\par
+\pard\sa200\sl276\slmult1\b\f0 In case of Emergency please contact: \lang16393 Helpline No. 0484-2905000\b0  \fs28         \lang1033\ul\par
+\pard\lang16393\ulnone\b\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\b0\fs18\par
+\pard\sa160\sl252\slmult1\fs22\par
+\cf1\highlight2\b\i\f4 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f0\par
+\pard\f5\fs17\par
+},<Age:65:Age>,<Sex:2:Sex>,2019-02-20 13:24:12.390000000

@@ -1,0 +1,83 @@
+244272,74517,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fswiss\fprq2\fcharset0 Consolas;}{\f2\fnil\fcharset0 MS Reference Sans Serif;}{\f3\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue0;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sa160\sl252\slmult1\qc\lang3081\kerning1\ul\b\f0\fs24 Department of Gastrointestinal Surgery\kerning0\ulnone\b0\par
+\pard\hyphpar0\qc\kerning1\ul\b\par
+\pard\hyphpar0\ulnone\par
+Dr. Joseph George\tab\tab\tab\tab\tab      Dr. Mahesh Kumar P S\par
+\b0 MS, MCh (AIIMS)\tab\tab\tab\tab\tab             MBBS, MS General surgery\par
+Consultant GI Surgeon\tab\tab\tab\tab      Department of GI Surgery\par
+\b\par
+Dr. Shanavas Kakkat\par
+\pard\kerning0\b0 MBBS, MS, DNB, MCh, FMAS\par
+\kerning1 Consultant GI Surgeon\kerning0\par
+\par
+\par
+\par
+\pard\hyphpar0\kerning1\b DIAGNOSIS: \lang16393\kerning0\b0\par
+Acute Appendicitis\lang1033\kerning1\par
+\b\par
+OPERATION:\b0  \lang16393\kerning0\par
+Laparoscopic Appendectomy on 17/02/2019\lang1033\kerning1\b\par
+\par
+HISTORY: \lang16393\kerning0\b0\par
+Mrs.Abisha, a 21year old female, presented to Emergency room with complaints of abdominal pain  and vomiting since one day.No history of fever or loose stools. He was admitted here for further evaluation and management.\lang1033\kerning1\b  \par
+\b0\par
+\b PAST HISTORY: \lang16393\kerning0\b0\par
+No significant medical or surgical history\lang1033\kerning1\b\par
+\b0\par
+\b PHYSICAL EXAMINATION AT ADMISSION: \lang16393\kerning0\b0\par
+Conscious,Oriented \par
+Vitals stable\par
+Afebrile\par
+Per Abdomen :-Soft\par
+Right iliac fossa tenderness+\lang1033\kerning1\b\par
+\par
+INVESTIGATIONS:\par
+\b0 Ultrasound abdomen on 16/02/2019:-The appendix shows a diameter of approximately 7.6 mm with periappendicular inflammatory stranding and minimal periappendicular fluid. Ileocaecal inflammatory thickening present. \par
+\par
+\b OPERATION DETAILS:\b0  \lang16393\kerning0\par
+Appendix inflamed. Minimal adhesions present. No collection.\lang1033\kerning1\b\par
+\pard\hyphpar0\qj\par
+HOSPITAL COURSE:\b0  \lang16393\kerning0\par
+This 21 year old lady got admitted here with above mentioned complaints. All relevant investigations were sent.C reactive protien was found to be elevated. In view of  appendicitis, she underwent Laparoscopic Appendectomy on 17/02/2019. She had surgical site pain which was managed with analgesics. She developed allergy to antibiotic - ciplox TZ. Bowel and bladder habits regular.\par
+\par
+\b Inpatient medications:-\lang3081\ul\b0\line\pard\ulnone INJ KEFAZONE S FORTE 4.5 GM I V\line DOLO INFUSION 1000 MG/100 ML\par
+INJECTION METROGYL IV (100ML)\line FENSTUD INJECTION 2 ML\line INJECTION   TRAMAZAC INJ(1ML)\line INJECTION EMESET INJ 2MG/ML(2ML)\line INJECTION  PANTOP IV 40MG\lang1033\kerning1\b\par
+\lang3081\kerning0\b0 INJECTIONAVIL INJ 22.75MG/ML(2ML)\line TAB  CIPLOX TZ TAB\line XYKAA BD 1000MG TAB\line\pard\hyphpar0 TAB  HIFENAC 100 MG TAB\f1\fs20\par
+\lang1033\kerning1\f0\fs24\par
+\pard\b LAB REPORTS\b0 : \lang3081\kerning0\f1\fs20\line\b 17-02-2019 03:50 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 CRP                                   18.4      mg/L          0.00 - 5.00\line\b 16-02-2019 05:53 PM\b0\line BLOOD GROUP                   ' B '\line Rh TYPE                       POSITIVE\par
+\b 16-02-2019 05:50 PM\b0\line  \b Name                                            Result         \b0\line HIV 1 & 2                                        Non-Reactive\line HCV                                              Non-Reactive\line HBsAg                                            Non-Reactive\line\b 16-02-2019 04:42 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Haemoglobin                           14.4      g/dl          11.5 - 14.5         \line TC                                    13.8      x10^3/ul      4.0 - 11.0                                              \line Neutrophils                           82        %             40.0 - 80.0         \line Lymphocytes                           12        %             20.0 - 40.0         \line Monocytes                             4         %             2.0 - 10.0          \line Eosinophils                           2         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     11.1      x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     1.7       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.5       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.3       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             5.2       x10^6/ul      3.8 - 5.3           \line Hct                                   43        %             40.0 - 54.0         \line MCV                                   83        fl            80.0 - 100.0        \line MCH                                   28        pg            27.0 - 32.0         \line MCHC                                  33        g/dl          32.0 - 36.0         \line Platelet                              240       x10^3/ul      150.0 - 450.0       \line RDW                                   13.8      %             10.0 - 16.5         \line MPV                                   6.9       fl            7.5 - 11.5\line CRP                                   3.2       mg/L          0.00 - 5.00\line ESR                                   21        mm/hr         0.00 - 20.00\line Sodium                                136       mEq/L         136.00 - 146.00     \line Potassium                             3.5       mEq/L         3.50 - 5.10                                                           \line Urea                                  17.12     mg/dl         15.00 - 45.00       \line Creatinine                            0.69      mg/dl         0.60 - 1.40\line\par
+\pard\hyphpar0\lang1033\kerning1\b\f0\fs24 CONDITION AT DISCHARGE\par
+\lang3081\kerning0\b0\f1\fs20\line\pard\sa160\sl252\slmult1\lang16393\f0\fs24 Hemodynamically stable, Afebrile, Tolerating oral feeds, Bowel and bladder habits regular\lang1033\b\par
+\pard\hyphpar0\kerning1\b0\par
+\b ADVICE ON DISCHARGE\b0 : \lang16393\kerning0\par
+\lang1033\kerning1 Review on 27/02/2019 in Gastrosurgery  unit\par
+Diet as tolerated\par
+Care of wound\par
+\par
+\par
+Discharge Medications:-\par
+\lang16393\kerning0 1.T.Xykaa BD 1 g orally two times daily for 5 days(7 am-0-7 pm)\par
+2.T.Hifenac 100 mg orally two times a day for 3 days[10am-0-10pm]\par
+3.T.Pantocid 40 mg orally one time a day for 5 days\par
+4.T.Augmentin Duo 625 mg three times a day for 5 days\par
+\pard\hyphpar0\li720\sl100\slmult0\lang1033\kerning1\par
+\par
+\pard\hyphpar0\sa120\qj\b\i WHEN TO OBTAIN URGENT CARE \par
+In case of any problems like: \par
+\pard\hyphpar0\fi-360\li720\sa120\qj\tx720\b0\i0 1.\tab Fever more than 100 \'b0f \par
+\pard\hyphpar0\fi-360\li720\sa120\qj 2.\tab Signs of infection ( redness, swelling, increased pain , Pus)\par
+3.\tab Nausea , vomiting and inability to keep medicines down\par
+4.\tab Increased pain despite pain medications\par
+5.\tab Uncontrolled loose motion or black stools\par
+\pard\hyphpar0\b\par
+\pard\sa160\sl252\slmult1\lang16393\kerning0\par
+                                                    \par
+Signed by: \par
+\pard\sa200\sl276\slmult1\lang1033 In case of Emergency please contact:\par
+\pard\sa160\sl252\slmult1\lang16393 Helpline No. 0484-2905000                                                          Email: mail@rajagirihospital.com\par
+\pard\lang1033\b0\par
+\par
+\cf1\highlight2\b\i Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f2\fs17\par
+\b\f3\par
+},<Age:21:Age>,<Sex:2:Sex>,2019-02-19 13:06:15.437000000

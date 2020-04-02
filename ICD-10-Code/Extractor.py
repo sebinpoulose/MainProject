@@ -1,6 +1,7 @@
 class Extractor:
     def __init__(self, files):
         import re
+        import string
         from ParseRTF import striprtf
         assert type(files) is list, "List of file paths expected"
         self.files = files
@@ -50,6 +51,7 @@ class Extractor:
                 diagnosis.remove(":")
             for i in range(len(diagnosis)):
                 diagnosis[i] = re.sub(r'[^\x00-\x7F]', '', diagnosis[i]).strip()
+                diagnosis[i]= re.sub('[(){}<>.,!]', '',diagnosis[i])
             self.result[document] = diagnosis
 
     def getalldiagnosis(self):
@@ -58,3 +60,8 @@ class Extractor:
     def getdiagnosis(self, document):
         assert document in self.files, "Specified file doesn't exist"
         return self.result[document]
+
+
+if __name__=="__main__":
+    e = Extractor(["161240.rtf"])
+    print(e.getalldiagnosis())

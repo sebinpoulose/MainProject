@@ -1,0 +1,67 @@
+244664,74660,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fswiss\fprq2\fcharset0 Calibri;}{\f2\fswiss\fcharset0 Calibri;}{\f3\fswiss\fprq2\fcharset0 Consolas;}{\f4\froman\fprq2\fcharset0 Times New Roman;}{\f5\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sl276\slmult1\qc\ul\b\f0\fs36 Discharge at request\f1\fs40\par
+Department of Gastroenterology\par
+\pard\sl276\slmult1\fs44\par
+\ulnone\fs28 Dr. Rosh Varghese MD, DM\par
+\b0\fs24 Senior Consultant\par
+Gastroenterology and Hepatology\fs28\par
+\par
+\b Dr. John Menachery MD, DM (HEPATOLOGY)\b0\par
+\fs24 Consultant\par
+Gastroenterology and Hepatology\par
+\par
+\b\fs28 Dr. Neema Renji\par
+\b0\fs24 Junior Resident\par
+Gastroenterology and Hepatology\par
+\fs28\par
+\par
+\ul\b\fs24 Diagnosis:\par
+\ulnone\b0\f0 Abdominal distension under evaluation\f1 -? Intestinal Obstruction \par
+\par
+\ul\b History:\ulnone\b0\par
+Mr. Porinchu V.M 65 years old with no other comorbidities presented to OPD with complaints of abdominal distension ,abdominal pain ,constipation and post prandial vomiting since 1 day. He was evaluated at Carmel hospital for same complaints and was found to have a mass lesion in rectum with intestinal obstruction. He was referred here for further evaluation and management. There is no history of  fever, bleeding manifestation, altered bladder habits or jaundice. There is no history of anorexia or weight loss. Patient has no history of known drug allergies or surgeries in the past.\par
+\par
+\ul\b On Examinations:\ulnone\b0\par
+\kerning2\f2 Conscious and oriented\par
+Vitals stable\par
+Afebrile, No Pallor, Icterus, cyanosis, clubbing, edema or nodes\par
+Per abdomen: Abdomen distended,Bowel sounds increased\par
+Per rectal examination : Rectum empty \par
+Other systems : WNL\kerning0\f1\par
+\par
+\ul\b Lab Investigations:\ulnone\b0\par
+\pard\lang3081\b\f3\fs20 19-02-2019 03:16 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Creatinine                            0.96      mg/dl         0.6 - 1.4\line\b 19-02-2019 03:16 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Blood Routine Examination ( CBC With ESubHead                                     \line Haemoglobin                           14.7      g/dl          13.0 - 17.0         \line TC                                    11.4      x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           87        %             40.0 - 70.0         \line Lymphocytes                           9         %             20.0 - 40.0         \line Monocytes                             4         %             2.0 - 10.0          \line Eosinophils                           0         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     9.8       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     1.0       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.4       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.0       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             5.2       x10^6/ul      3.8 - 5.3           \line Hct                                   47        %             40.0 - 54.0         \line MCV                                   90        fl            80.0 - 100.0        \line MCH                                   29        pg            27.0 - 32.0         \line MCHC                                  32        g/dl          32.0 - 36.0         \line Platelet                              401       x10^3/ul      150.0 - 450.0       \line RDW                                   13.8      %             10.0 - 16.5         \line MPV                                   7.4       fl            7.5 - 11.5          \line ESR                                   43        mm/hr         0.0 - 15.0\line\b 19-02-2019 03:16 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Sodium                                135       mEq/L         136.0 - 146.0\line\b 19-02-2019 03:16 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Potassium                             3.2       mEq/L         3.5 - 5.1\line\par
+\pard\sl276\slmult1\lang1033\ul\b\f1\fs24 Procedures:\ulnone\b0\par
+NIL\par
+\par
+\ul\b Course in the hospital and Discussion:\ulnone\b0\par
+Mr. Porinchu V.M 65 years old got admitted with complaints of abdominal distension,abdominal pain ,vomiting and constipation. His routine blood investigations showed hemoglobin value of 14.7 g/dl, elevated ESR and mild hypokalemia and elevated CEA value of 11.85. He was kept NPO and  continuous RT aspiration was done. He was treated with parenteral antibiotic (Inj. Ciprofloxacin annd Inj. Metronidazole), Inj. Hyocimax and PPIs. A possibility of intestinal obstruction was kept and planned for CECT abdomen but patient relatives opted out due to financial constraints. Nature of his illness and need for further evaluation has been explained in detail to patient relatives. Hence he is being discharged at request with an advice to continue further management elsewhere.\par
+\ul\b Medications given :\ulnone\b0\par
+Inj.Ciplox 200 mg  IV 1-0-1\par
+Inj.Metrogyl 500 mg 1-1-1\par
+Inj.Hyocimax 1 amp IV 1-0-1\par
+Inj.Pantocid 40 mg IV 1-0-1\par
+IV fluid NS and D5  at 100 ml/hour alternatively \par
+\ul\b Advice On Discharge:\ulnone\b0\par
+To continue treatment elsewhere\par
+\par
+\pard\sa200\sl276\slmult1\lang16393\ul\b Condition at the time of discharge:\ulnone\b0\fs22\par
+\pard\sl276\slmult1\lang1033\fs24 Stable\par
+\ul\b\par
+Plan on Discharge:\ulnone\b0\par
+To review in Gastromedicine OPD elsewhere\par
+\par
+\ul\b Diet:\ulnone\b0\par
+Normal diet\par
+\par
+\b\fs28 Prepared By:Dr.Merin Thattil\tab\tab\tab\tab\tab\tab\tab\tab Verified By:Dr.John Menachery MD DM\par
+\pard\sa160\qj\lang16393\ul\fs24 When and how to obtain emergency care:\ulnone\b0\par
+\b\fs22 To report immediate to the ER of Rajagiri hospital in case of\lang1033\b0\f4\fs24\par
+\pard\sa200\sl276\slmult1\par
+\b\f1 In case of Emergency please contact: \lang16393 Helpline No. 0484-2905000\b0  \fs28         \lang1033\ul\par
+\pard\lang16393\ulnone\b\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\b0\fs18\par
+\pard\sa160\sl252\slmult1\fs22\par
+\cf1\highlight2\b\i\f2 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f1\par
+\pard\f5\fs17\par
+},<Age:65:Age>,<Sex:1:Sex>,2019-02-20 10:30:17.670000000

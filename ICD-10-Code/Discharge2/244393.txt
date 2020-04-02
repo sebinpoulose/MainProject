@@ -1,0 +1,89 @@
+244393,74538,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fswiss\fcharset0 Calibri;}{\f2\fnil\fcharset0 Calibri;}{\f3\fswiss\fprq2\fcharset0 MS Reference Sans Serif;}{\f4\froman\fprq2\fcharset0 Times New Roman;}{\f5\froman\fprq2\fcharset2 Symbol;}{\f6\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\qc\lang16393\b\f0\fs28 DISCHARGE SUMMARY\par
+\pard\b0\fs22\par
+\pard\sa160\sl252\slmult1\lang1033\ul\b Consultants Neonatology\ulnone\b0                                                                                     \ul\b Consultants Pediatrics\ulnone\b0\par
+\b Dr. Madhu George\b0 , \i MD, MRCPCH, Fellow (UK, Canada)\i0                                 \b Dr. Abdul Tawab\b0\i , MD\i0\par
+\pard\sa160\sl252\slmult1\tx6435\lang16393\fs20 (Head of the Department)\lang1033\b\fs22  \tab  Dr. Sheju Thomas\b0\i , MD\lang16393\i0\fs20\tab\lang1033\b\fs22\par
+\pard\sa160\sl252\slmult1                                                                                                                                   Dr. Uma Mohandas, \b0\i MD\par
+\i0                                                           \tab\tab                                                           \b Dr. John Thomas, \b0\i MD\par
+\b\i0 Dr. Jino Joseph\b0 , \i MD, DNB (Neonatology)\b\i0   \b0\i                                                        \kerning2\b\i0  Dr. Ejas Peer Rahman, \kerning0\b0\i MD\kerning2\par
+\kerning0                                                                                                                                   \kerning2\b\i0 Dr. Najeeba CM, \kerning0\b0\i MD\par
+\pard\lang16393\i0                                                                                                                                   \b\f1 Dr. Mohammed Bilal, \lang1033\b0\i\f0 MD\lang16393\i0\par
+\pard\qj                                                                                                                                   \b\f1 Dr. Reshmi Raveendran, \lang1033\b0\i\f0 MD\kerning2\i0\fs21\par
+\pard\lang16393\kerning0\b\fs28\par
+\ul\fs22 Diagnosis:   \ulnone\b0 Term(39+2 weeks)/Appropriate for gestational age/Female\ul\b\par
+\ulnone\b0\par
+\par
+\ul\b Birth Parameters:\ulnone\b0     \tab\tab\tab\tab\tab                                                \ul\b Discharge Parameters:\ulnone\b0     \par
+\b Weight:\b0\f2 3401 grams(50th centile) \f0\tab\tab\tab\tab\tab\tab                      \b Weight:\b0     \par
+\b Head Circumference :\b0\tab 35 cms(greater than 50th centile)\tab\tab\tab                                                       \par
+\b Length:\b0  49 cms(greater than 10th centile)\tab\tab\tab\tab\tab     \lang1033\b Percentage of weight loss:\lang16393\b0   \par
+       \ul\b\par
+\pard\sa160\sl252\slmult1\ulnone Mothers Blood Group:O Positive \tab\tab\tab Baby\rquote s Blood Group:\tab O Positive \tab            \lang1033 Direct Coombs Test: Negative \lang16393\ul\par
+\pard\qj\ulnone\b0 This baby girl was born to Krishnendu and Mithun on February 18,2019 at 09:40  hours at Rajagiri Hospital in Aluva by a spontaneous vaginal delivery. Krishnendu is a 23 year old primi gravida whose blood group is O Positive and is seroprotected. She had regular antenatal checks during this pregnancy. Her expected delivery date  was February 23,2019 . There were no medical disorders complicating her pregnancy .There were no risk factors for sepsis. \par
+\par
+She delivered a baby girl at 39+2 weeks gestation who weighed 3401  grams at birth. She cried soon after birth and did not need any resuscitation. Her Apgar scores were 8  at 1 minute, 9 at 5 minutes and 9 at 10 minutes of life. She had an uneventful postnatal course. She is presently on breast feeds with top ups as necessary. Her bilicheck was also normal/xxxxxx had received phototherapy for jaundice.\par
+\par
+She  was immunised (BCG, Hepatitis B , OPV ) on February 19,2019\par
+She had the newborn screening test sent on February 20,2019 . Results are awaited.\par
+She has not had the hearing screen done yet. It shall be arranged as an outpatient.\par
+\pard She had a normal discharge check on February 20,2019 .\ul\b\par
+\ulnone\b0\par
+\ul\b Treatment Given:\par
+\ulnone\b0 Injection . Vitamin K 1mg Intramuscular (IM) stat\par
+BCG 0.1 ml Intradermal (ID) stat\par
+Hepatitis B 0.5 ml Intramuscular (IM) stat\par
+Oral Polio Vaccine  2 drops orally  stat\par
+D3 MUST  drops 1ml once daily orally\ul\b\par
+\par
+Investigations:\par
+\ulnone\b0 <your text here>\ul\b\par
+\par
+\par
+\par
+Pending Results:\ulnone\b0  Newborn screening test sent on February 20,2019\ul\b\par
+\par
+\par
+Advice on Discharge:\ulnone\b0\par
+Breast feeds on demand + top ups as necessary\par
+Watch for jaundice\par
+D3 MUST  drops 1 ml once daily orally to continue\par
+Immunisation as per schedule. Next shots due on April 02,2019\par
+Follow up in the neonatal outpatient clinic on February --,2019 at 11:00 hours .Can bring earlier if jaundiced.\par
+Hearing screen to be done on follow up \ul\b\par
+\par
+\pard\sa200\sl276\slmult1 Condition at the time of discharge:\ulnone\b0           Stable, on full feeds.\f3\fs17\par
+\pard\par
+\b\f4\fs28 Prepared by:\b0\par
+\f3\fs17\par
+\f0\fs22 Signed by: \b Dr Madhu George\b0\par
+                  \fs20 (Head of the Department)\b\f4\fs28\par
+\pard\sa160\sl252\slmult1\par
+\lang1033\ul\f0\fs22 Get help quickly from a doctor if your baby shows any of the signs listed below\par
+\pard\fi-360\li720\sa160\sl252\slmult1\ulnone\b0\f5\fs18\'b7\tab\f0 Cannot be woken or is responding less than usual to what is going on around\par
+\f5\'b7\tab\f0 Seems more floppy drowsy or less alert than usual\par
+\f5\'b7\tab\f0 Has a convulsion or fit\par
+\f5\'b7\tab\f0 Has an unusual cry (high pitched, weak or continuous) for one hour or more\par
+\f5\'b7\tab\f0 Has a bulge in the groin that gets bigger with crying\par
+\f5\'b7\tab\f0 Skin is much paler than usual or suddenly goes very white\par
+\f5\'b7\tab\f0 Nails are blue or colour does not return to toe within three seconds of a squeeze\par
+\f5\'b7\tab\f0 Blue colour develops around mouth\par
+\f5\'b7\tab\f0 Palms and soles appear deep yellow\par
+\f5\'b7\tab\f0 Rash develops with reddish-purple spots or bruises\par
+\f5\'b7\tab\f0 Struggles to breathe or stops breathing\par
+\f5\'b7\tab\f0 Breathes more quickly than normal or grunts when breathing out\par
+\f5\'b7\tab\f0 Has vomited up atleast half the feed after each of the last three feeds\par
+\f5\'b7\tab\f0 Vomit is green\par
+\f5\'b7\tab\f0 Has both vomiting and diarrhea\par
+\f5\'b7\tab\f0 Has drunk less milk and has fewer wet nappies than usual\lang16393\b\f4\fs28    \par
+\pard\sa160\sl252\slmult1\lang1033\f0 Emergency numbers\b0 : \par
+\b\fs22 Helpline: 0484-2905000             Accident and Emergency: 0484-2905800             NICU: 0484-2905240\lang16393\f4\par
+\pard\sa160\sl252\slmult1\qj\fs16 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\b0\fs22\par
+\pard\lang16393\f3\fs17\par
+\lang1033\f6\par
+\pard\sa200\sl276\slmult1\cf1\highlight2\b\i\f1\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang9\ulnone\i0\f2\par
+\pard\lang1033\b\f6\fs17\par
+\par
+\par
+},<Age:2:Age>,<Sex:2:Sex>,

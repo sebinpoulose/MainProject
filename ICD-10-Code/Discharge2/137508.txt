@@ -1,0 +1,58 @@
+137508,74676,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fswiss\fprq2\fcharset0 Calibri;}{\f3\fswiss\fprq2\fcharset0 MS Reference Sans Serif;}{\f4\fswiss\fcharset0 Calibri;}{\f5\fnil\fcharset0 MS Reference Sans Serif;}{\f6\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sa160\sl252\slmult1\qc\lang16393\expndtw10\b\f0\fs32                                Department of \expndtw0 Otorhinolaryngology\expndtw10\b0\par
+\pard\expndtw0\b\fs28\par
+\fs24 Dr. Rajesh Raju George                                              Dr. Dhanya E K\par
+\fs22 Senior Consultant & HOD                                           Consultant\par
+\fs28\par
+\par
+\fs24 Dr. Irine Gee Varghese\fs28                                       \fs24 Dr. Vishnu Narayanan\fs28\par
+\fs22 Junior Specialist                                                            Junior Specialist\par
+\fs28\par
+\par
+\b0\fs22\tab\tab\tab\par
+\pard\sl252\slmult1\b\fs18\par
+\par
+\pard\sa160\sl252\slmult1\fs24 Diagnosis:\b0    Deviated nasal septum to Left\par
+\b History & Examination:\b0    Patient presented  with complaints of left sided nasal obstruction since 3 years. On examination Deviated nasal septum to Left with caudal dislocation to left and prominent nasal spur to right. He was counselled for surgery.\b\par
+\par
+Investigations:\b0   Attached to Summary \par
+\b\par
+Course in the Hospital:\b0  Patient was admitted under ENT and underwent all routine blood investigations. Pre-anaesthetic fitness was obtained. He underwent Septoplasty under GA on 19-02-19. Postopertive period was uneventful. Nasal packs were removed on first post-operative day, no anterior/ post nasal bleeding. Hence discharged.\par
+\b\f1 Treatment Given: \par
+INJ. CEFUROXIME 1.5gm IV STAT prior to surgery\par
+INJ KABIMOL 1gm IV SOS if required for pain\par
+\f0  T. COVATIL 250mg  1 - 0 -1   \par
+ T. BEPOGRA        10mg     1- 0 - 1 \par
+ T. LUPISOZ 40mg     1 - 0 - 0 \par
+ T. DOLOWIN PLUS            1 - 0 - 1\par
+ XYLOFLO NASAL DROPS (0.1%) 2 DROPS 1-1-1\par
+\par
+Operative Findings:  \b0 Endoscopic Septoplasty under GA was done on 19/2/19. Deviated nasal septum to Left with  caudal deviation to left, prominent nasal spur to right.\par
+Under GA Killians incision was made on left side of septum. Mucoperichondrial & mucoperiosteal flaps elevated on both sides. Deviated parts of cartilagenous and bony septum removed. Septum made central. . IVALON nasal packs kept B/L.Haemostasis acheived.\par
+\b Condition of discharge:\b0   Patient conscious and oriented, taking oral feeds without difficulty. Nasal packs removed, no anterior/post nasal bleeding.\b\par
+Discharge Instructions:\par
+1) T. COVATIL 250mg  1 - 0 -1   X 7DAYS\par
+2) T. BEPOGRA      10mg  1 - 0 - 1 X 7DAYS\par
+3) T. LUPISOZ 40mg     1 - 0 - 0 X 7DAYS\par
+4) XYLOFLO NASAL DROPS (0.1%) 3 DROPS TID X 5 DAYS\par
+5) T. DOLOWIN PLUS 1 - 0 - 1 X 3DAYS , THEN SOS(if required for pain) ( 6 tablets)\par
+6) SOLSPRE NASAL SPRAY 2 PUFF 6TH HOURLYx 7days\par
+\par
+Review in ENT OPD after 7days\par
+Avoid forceful nose blowing , hawking, weight bearing.\par
+\par
+\fs28 Signed by: \par
+\par
+\pard\sa200\sl276\slmult1\fs24 When & how to obtain urgent care: In case bleeding from nose/mouth review immediately in OPD/ Emergency \lang1033\b0\f2\fs22\par
+\b\f0\fs24\par
+Incase of Emergency please contact:Duty doctor on call.\par
+\pard\sa160\sl252\slmult1\lang16393\fs22 Helpline No. 0484-2905000                                                          Email: mail@rajagirihospital.com\par
+\par
+\pard\sa160\sl252\slmult1\qj\fs16 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\f2\fs40\par
+\pard\lang1033\b0\f3\fs17\par
+\cf1\highlight2\b\i\f4\fs22\par
+Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f5\fs17\par
+\par
+\b\f6\par
+},<Age:22:Age>,<Sex:1:Sex>,2019-02-20 12:06:54.060000000

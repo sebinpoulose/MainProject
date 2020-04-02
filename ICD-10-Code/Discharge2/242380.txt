@@ -1,0 +1,62 @@
+242380,74623,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Calibri;}{\f2\froman\fprq2 Times New Roman;}{\f3\froman\fprq2\fcharset0 MS Reference Sans Serif;}{\f4\fswiss\fcharset0 Calibri;}{\f5\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue0;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\nowidctlpar\hyphpar0\lang255\kerning1\f0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qc\cf1\lang16393\ul\b\f1\fs28 DEPARTMENT OF \lang1033 OBSTETRICS AND GYNECOLOGY\cf0\lang255\ulnone\b0\f0\fs24\par
+\cf1\lang16393\ul\b\f1\fs28\par
+\pard\nowidctlpar\hyphpar0\lang9\ulnone\f0\fs22 UNIT \f2 -\f0  I                                                   UNIT \f2 -\f0  II                                      UNIT - III\cf0\lang255\b0\fs24\par
+\cf1\lang9\b\fs18\par
+\fs20 Dr. V. P. Paily                                                 Dr. Ajitha Kumari S                       Dr. JoshyJoseph Neelenkavil   \cf0\lang255\b0\fs24\par
+\cf1\lang9\b\fs16 (MD, FRCOG)\fs20                                                  (\fs16 MBBS, MD\fs20 )                                        (\fs16 MBBS, MD, MRCOG\fs20 )                     \cf0\lang255\b0\fs24\par
+\cf1\lang9\b\fs18 HOD & Sr. Consultant\b0  \b                                       Unit chief  Sr. Consultant                 Unit chief  Sr. Consultant \cf0\lang255\b0\fs24\par
+\cf1\lang9\fs18   \cf0\lang255\fs24\par
+\cf1\lang9\fs18                                                \cf0\lang255\fs24\par
+\cf1\lang9\b\fs20 Dr. Michelle Aline Antony                             Dr. Raymond George                     Dr. M G Usha                  \cf0\lang255\b0\fs24\par
+\cf1\lang9\b\fs20 (\fs16 MBBS, MS-OBG,                                                       DNB(OBG),  FNB( High risk                     MBBS, MD, DGO                               \cf0\lang255\b0\fs24\par
+\cf1\lang9\b\fs16 PDS-Breast & Gynec Oncology\fs20 )                          \fs16 pregnancy & Perinatology)                        \fs18 Sr. Consultant\fs16                               \cf0\lang255\b0\fs24\par
+\pard\nowidctlpar\hyphpar0\sl276\slmult1\cf1\lang9\b\fs18 Sr. Consultant, Gynec Oncologist                     \fs20 Consultant                     \cf0\lang255\b0\fs24\par
+\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\cf1\lang16393\f1\fs28   \cf0\lang255\f0\fs24\par
+\cf1\lang16393\ul\b\f1 DISCHARGE STATUS:\ulnone\b0          NORMAL\cf0\lang255\f0\par
+\cf1\lang16393\ul\b\f1 DIAGNOSIS:\ulnone\b0       \par
+PROLAPSE\par
+VAGINAL HYSETERECTOMY + LEFT SALPINGO OOPHORECTOMY + ANTERIOR AND POSTERIO REPAIR + SACROSPINOUS COLPOPEXY ON 16-02-2019\cf0\lang255\f0\par
+\cf1\lang16393\ul\b\f1 ALLERGY:\ulnone\b0      RANITIDINE\cf0\lang255\f0\par
+\pard\nowidctlpar\hyphpar0\cf1\lang16393\ul\b\f1 PRESENTING COMPLAINTS:\ulnone\b0          Complaints of mass descending per vaginum for last 2 years .\cf0\lang255\f0\par
+\cf1\lang16393\f1\par
+\ul\b RELEVANT H/O:\ulnone\b0     \par
+Para 2 Living 2 , 2 Normal deliveries , Last child birth 21 years , sterilised\par
+Menopause at 48 years of age , no history of post menopausal bleeding \par
+Case of dyslipidemia on Atorvastatin \par
+Case of bronchial Asthma - On Rotacap inhalar\cf0\lang255\f0\par
+\cf1\lang16393\f1\par
+\ul\b CLINICAL EXAMINATION:\ulnone\b0        \cf0\lang255\f0\par
+\cf1\lang16393\f1 Per Abdomen - Soft\par
+Per speculum & Per Vaginum - Second degree descent of cervix , cystocele ++ , rectocele + \par
+\pard\nowidctlpar\hyphpar0\sb100\sa100\ul\b PROCEDURE:\ulnone\b0      Vaginal hysterectomy + Left salpingo oophorectomy + Anterior and posterior repair + Sacrospinous colpopexy \cf0\lang255\f0\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\cf1\lang16393\ul\b\f1 DATE:\ulnone\b0     16-02-2019\cf0\lang255\f0\par
+\pard\nowidctlpar\hyphpar0\sb100\sa100\cf1\lang16393\ul\b\f1 OPERATION NOTES:\ulnone\b0     Circular incision over cervix , UV fold opened , bladder pushed up . POD opened . Clamps applied bilaterally on uterosacrals , uterines , tubes cut ligated . Right ovary and tube normal . Left ovary enlarged with a cystic clear content . Proceeded with LSO . Left side sacrospinous colpopexy was done . Cystocele repair and posterior repair was done . Vault closed vertically . Vault packed with roller gauze . CBD clear urine . \cf0\lang255\f0\par
+\cf1\lang16393\ul\b\f1 COURSE IN HOSPITAL:\ulnone\b0       Admitted with above mentioned history and findings . Vaginal hysterectomy + Left salpingo oophorectomy + Anterior and posterior repair + Sacrospinous colpopexy was done on 16-02-2019 . Post operative period was uneventful . \cf0\lang255\f0\par
+\pard\nowidctlpar\hyphpar0\cf1\lang16393\ul\b\f1 TREATMENT GIVEN:\ulnone\b0       \cf0\lang255\f0 Inj.Stafcure 1.5 gm intra venous , Tab.Perinorm 10 mg orally , Ta.Pantop 40 mg orally , Tab.Gerbisa 10 mg orally , inj.clexane 0.2 ml subcutabeous , Inj.emeset 4 mg intravenous , Dynapar Suppository per rectal , Tab.Ceftum 500 mg orally , Intra venous fluids and Supportive care . \cf1\lang16393\f1\par
+\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\ul\b CONDITION AT THE TIME OF DISCHARGE:STABLE\cf0\lang255\ulnone\b0\f0\par
+\cf1\lang16393\ul\b\f1 ADVICE ON DISCHARGE:\ulnone\b0       \par
+TAB.CEFTUM 500 mg 1-0-1 X 3 days\par
+TAB.PANTOP 40 mg 1-0-0 X 5 days\par
+CAP.BECOSULES Z 0-1-0 X 2 weeks\par
+TAB.OROTATE 3D 1-0-0 X 2 months\par
+TAB.LIVOGEN 0-0-1 X 2 months\par
+\cf0\lang255\f0\par
+\cf1\lang16393\ul\b\f1 REVIEW: \ulnone\b0     After 2 weeks with Histopathology report / if needed\cf0\lang255\f0\par
+\cf1\lang16393\f1    \cf0\lang255\f0\par
+\cf1\lang16393\b\f1 DR. MICHELLE ALINE ANTONY \cf0\lang255\b0\f0\par
+\pard\nowidctlpar\hyphpar0\sl252\slmult1\cf1\lang16393\f1\fs22 MBBS, MD, GYNAEC ONCO SPECIALIST\cf0\lang255\f0\fs24\par
+\cf1\lang16393\f1 SENIOR CONSULTANT \cf0\lang255\f0\par
+\cf1\lang16393\f1 Department OF OBG\cf0\lang255\f0\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\cf1\lang16393\f1\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\tx5310\ul\b WHEN AND HOW TO OBTAIN URGENT CARE\fs22 :\ulnone  To report immediate to the gynaecology OPD or ER of Rajagiri hospital In case of fever pain or bleeding\cf0\lang255\b0\f0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\cf1\lang16393\f1\par
+\pard\nowidctlpar\hyphpar0\sa160\b Emergency helpline No: +91484-2905000\cf0\lang255\b0\f0\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\cf1\lang16393\b\f1\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\cf0\lang255\b0\f0\fs24\par
+\pard\nowidctlpar\hyphpar0\cf1\lang1033\f3\fs17\par
+\pard\cf2\highlight3\kerning0\b\i\f4\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f5\fs17\par
+},<Age:56:Age>,<Sex:2:Sex>,2019-02-19 13:14:51.227000000

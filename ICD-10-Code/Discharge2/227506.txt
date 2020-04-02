@@ -1,0 +1,61 @@
+227506,74502,{\rtf1\ansi\ansicpg1252\deff0\deflang16393{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\froman\fcharset0 Times New Roman;}{\f2\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b\f0\fs22 Final Diagnosis:\ulnone\b0  \lang255\par
+\lang1033 Right large recurrent inguinal hernia + left inguinal hernia\par
+Prostatomegaly\par
+\ul\b Procedure:\ulnone\b0   \lang255\par
+\lang1033 Bilateral total extraperitoneal repair + transurethral resection of prostate under general anaesthesia on 16.2.19 \par
+\ul\b Drug allergies:\ulnone\b0   nil\par
+\ul\b History & Clinical Findings:\ulnone\b0   \lang255\par
+\pard\lang3081\kerning0 Mr joseph thomas presented with features of prostatism for which he was on alpha blockers but there was no improvement in urine flow. He was evaluated to have huge prostate of size 100cc with large post void residue. On examination, he was found to have right groin recurrent hernia. Digital rectal examination, large prostate +. Uroflowmetry showed poor flow pattern. He was planned for definitive surgical management and hence was admitted.\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b Past History:\ulnone\b0   \lang255\par
+\lang1033 Coronary artery disease - post PTCA 18 months back\par
+Diabetes/ hypertension on medications\par
+\ul\b Investigations\ulnone\b0   \lang255\par
+\pard\lang3081\kerning0\b 16-02-2019 06:03 PM\b0\line\b Name                                  Result     Unit         Reference\par
+\b0 Sodium                                137       mEq/L         136.00 - 146.00     \line Potassium                             3.7       mEq/L         3.50 - 5.10\line FBS                                   109       mg/dl         70.00 - 110.00\line\b 15-02-2019 12:24 PM\b0\line Liver Function Test ( LFT )           SubHead                                     \line Total Bilirubin                       0.4       mg/dl         0.3 - 1.3           \line Direct Bilirubin                      0.1       mg/dl         0.2 - 0.4           \line Indirect Bilirubin                    0.3       mg/dl         0.2 - 0.9           \line SGOT                                  23        U/L           15.0 - 37.0         \line SGPT                                  41        U/L           30.0 - 65.0         \line Alkaline Phosphatase                  42        U/L           50.0 - 136.0        \line Total Protein                         7.1       g/dl          6.0 - 8.0           \line Albumin                               3.9       g/dl          3.4 - 5.0           \line Globulin                              3.2       g/dl          2.0 - 3.5           \line A:G Ratio                             1.22      :1            1.0 - 2.0\line Haemoglobin                           12.3      g/dl          13.0 - 17.0         \line TC                                    6.0       x10^3/ul      4.0 - 11.0          \line Platelet                              255       x10^3/ul      150.0 - 450.0       \line Sodium                                146       mEq/L         136.00 - 146.00     \line Potassium                             4.2       mEq/L         3.50 - 5.10\line Urea                                  25.68     mg/dl         15.0 - 45.0         \line Creatinine                            0.89      mg/dl         0.6 - 1.4\line Test                                  13.8      Seconds       12.0 - 18.0         \line Control                               13.5      Seconds       13.5                \line INR                                   1.03      -             1.0\line HbA1c                                 7.3       %             4.0 - 6.0           \line MBG                                   157       mg/dl\line BLOOD GROUP                   ' A ' Rh TYPE                       POSITIVE\par
+HIV 1 & 2                                        Non-Reactive\line RBS                                   157       mg/dl         70.0 - 160.0\line HBsAg                                            Non-Reactive\line HCV                                              Non-Reactive\par
+\par
+HISTOPATHOLOGY: REPORT AWAITED.\par
+\line\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b Course in the hospital and discussion\ulnone\b0 :\lang255\par
+\lang1033 Mr Joseph thomas was admitted and evaluated.Cardiologist fitness for surgery obtained. After preanaesthetic evaluation,he underwent bilateral total extraperitoneal repair + transurethral resection of prostate under general anaesthesia on 16.2.19 with iv antibiotic prophylaxis (Cefoperazone sulbactam). Post operative period was uneventful. Drain and catheter was removed on post op day 2. He improved symptomatically, wound appears healthy. He is being discharged in a stable condition with post void residue of 75ml.\par
+\ul\b Operative findings\ulnone\b0  \lang255\par
+\pard\sb100\sa100\lang16393\kerning0\f1\fs24 Extraperitoneal approach. 10mm + 5mm + 5mm ports placed. Pneumoperitoneum created. Findings - right recurrent large hernia, left inguinal hernia+. Sac separated from the contents. Vas deferens and other cord structures delineated blaterally. Triangle of doom, triangle of pain, femoral triangle visualised bilaterally. Prolene mesh placed bilaterally over the defect and fixed to the aterior abdominal wall using tackers. Hemostasis secured. Drain placed. Wound closure done. .\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b\f0\fs22 Advice on discharge:\lang255\ulnone\b0\par
+\lang1033\kerning0 Avoid straining, lifting weight for 4 weeks.\par
+Steam inhalation twice daily\par
+\kerning1\ul\b Discharge medication:\ulnone\b0  \lang255\par
+\lang1033 Tab Covatil 500mg 1-0-1 x 5 days\par
+Tab Rantac 150mg 1-0-1 x 5 days (before food)\par
+Tab Dolo 650mg 1-0-1 x 3 days and then SOS (if pain)\par
+Syp Smuth 30ml at bed time to avoid constipation\par
+Tab Amaryl 3mg 1-0-0 to continue\par
+Tab Janumet (50/1000mg) 1-0-1 to continue\par
+Tab Prolomet XL 25mg 1-0-0 to continue\par
+Tab Repace H 1-0-0 to continue\par
+Tab Roseday 20mg 0-0-1 to continue\par
+Budecort inhaler 1puff at night time to continue\par
+Gerbisa suppository 10mg 1 SOS for severe constipation\par
+\ul\b Plan on discharge\ulnone\b0 :\lang255\par
+\pard\sa160\sl252\slmult1\lang1033\kerning0 Review in Urology OPD after one month with prior appointment (Dr. H Sanjay Bhat )\lang255\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b Condition at the time of discharge:\lang255\ulnone\b0\par
+\lang1033 Stable and afebrile.\lang255\par
+\lang1033\ul\b When to obtain urgent care:\ulnone\b0   \lang255\par
+\pard\sa160\sl252\slmult1\lang1033\kerning0 In case of fever with chills / retention of urine/wound gaping or discharge/ gross blood in urine \lang255\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b How to obtain urgent care:\ulnone\b0   \lang255\par
+\pard\sa160\sl252\slmult1\lang1033\kerning0 Report to Emergency department / Call Urology OPD\lang255\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\ul\b In case of emergency, contact:\ulnone\b0  0484-2905000, \b Urology OPD\b0 : 0484-2905005, \b ER\b0 : 0484-2905834\par
+\lang255\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang16393\kerning0\b Prepared by : Dr. Sudhan Kumar \lang1033\kerning1\b0\par
+\ul\b\par
+\pard\nowidctlpar\hyphpar0\ulnone Dr. H Sanjay Bhat      \tab\tab\tab\tab\tab\cf1\highlight2 Dr. Balagopal Nair T \cf0\highlight0\lang255\b0\par
+\cf1\highlight2\lang1033 Senior\cf3\highlight0\lang16393  Consultant Urologist (HOD)\tab\tab\cf1\highlight2\lang1033 Consultant\cf3\highlight0  Urologist                                                                                              \lang16393                                                                                                                                               \cf0\lang255\par
+\cf3\lang16393 MBBS, MS, DNB, FRCS, MCh, FAGE            \cf1\highlight2\lang1033 MBBS, MS, DNB (Uro)\cf0\highlight0\lang255\par
+\cf3\lang16393\par
+\par
+\pard\nowidctlpar\hyphpar0\sl252\slmult1\lang1033\b Dr. Sandeep R Nath                                     Dr. Tharun B K                                \cf0\lang255\b0\par
+\cf3\lang1033 Consultant Urologist                                    Consultant Urologist                                    \cf0\lang255\par
+\cf1\highlight2\lang1033 MBBS, MS, MCh(Uro)\cf3\highlight0\lang16393                                    MBBS, DNB (General surgery), DNB (Urology)           \cf0\lang255\par
+\pard\cf3\lang1033\par
+\cf1\highlight2\kerning0\b\i Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f2\fs17\par
+},<Age:75:Age>,<Sex:1:Sex>,2019-02-20 13:03:50.293000000

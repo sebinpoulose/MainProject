@@ -1,0 +1,85 @@
+244294,74690,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Calibri;}{\f2\fswiss\fprq2\fcharset0 Consolas;}{\f3\froman\fprq2\fcharset0 Times New Roman;}{\f4\fswiss\fcharset0 Calibri;}{\f5\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sl276\slmult1\qc\ul\b\f0\fs40 Department of Gastroenterology\par
+\pard\sl276\slmult1\fs44\par
+\ulnone\fs28 Dr. Rosh Varghese MD, DM\par
+\b0\fs24 Senior Consultant\par
+Gastroenterology and Hepatology\fs28\par
+\par
+\b Dr. John Menachery MD, DM (HEPATOLOGY)\b0\par
+\fs24 Consultant\par
+Gastroenterology and Hepatology\par
+\par
+\b\fs28 Dr. Neema Renji\par
+\b0\fs24 Junior Resident\par
+Gastroenterology and Hepatology\par
+\fs28\par
+\ul\b\fs24 Diagnosis:\ulnone\b0\par
+\f1 Vomiting : Grade B reflux esophagitis\par
+Laryngopharyngeal reflux disease \f0\par
+Type II Diabetes mellitus\par
+Systemic hypertension\par
+Dyslipidemia\par
+Benign prostatic hyperplasia\par
+\par
+\ul\b History:\ulnone\b0\par
+Mr. Davis A Palathingal, 58 years , a known case of  type II diabetes mellitus, systemic hypertension, dyslipidemia, benign prostatic hyperplasia presented to Emergency room with complaints of vomiting and generalized weakness since yesterday. He had vomiting and giddiness 2 weeks back and took treatment at near by medical center and was on medications. Patient has no complaints of abdominal pain, abdominal distension, gastroesophageal reflux symptoms, fever , gastrointestinal bleed or altered bowel/bladder habits. There is no history of anorexia or weight loss. Patient has no history of drug allergies,  blood transfusion or jaundice in the past. He has history of cholecystectomy and appendicetomy in the past. \par
+\par
+\ul\b On Examinations:\ulnone\b0\par
+\lang3081 Patient conscious/oriented \par
+Vitals stable \par
+Afebrile, no  icterus, no pallor, pedal edema or lymphadenopathy\par
+Per Abdomen : soft , no tenderness \par
+Cardio vascular system : S1S2 heard \par
+Central nervous system: No focal neurological deficit\par
+Respiratory system: Normal vesicular breath sounds heard\lang1033\par
+\par
+\ul\b Lab Investigations:\ulnone\b0\par
+\pard\lang3081\b\f2\fs20 19-02-2019 05:42 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 HbA1c                                 9.4       %             4.0 - 6.0           \line MBG                                   227       mg/dl\line\b 19-02-2019 05:42 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 T4                                    8.5       ug/dL         5.40 - 11.70\line TSH                                   2.23      uIU/ml        0.35 - 5.50\line\b 19-02-2019 04:41 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Potassium                             3.3       mEq/L         3.50 - 5.10\line\b 18-02-2019 07:02 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Electrolytes                                                                      \line Sodium                                131       mEq/L         136.00 - 146.00     \line Potassium                             3.1       mEq/L         3.50 - 5.10\line\b 17-02-2019 11:30 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Cortisol                              43.85     ug/dL\line Haemoglobin                           14.0      g/dl          13.0 - 17.0         \line TC                                    9.3       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           78        %             40.0 - 80.0         \line Lymphocytes                           18        %             20.0 - 40.0         \line Monocytes                             3         %             2.0 - 10.0          \line Eosinophils                           1         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     7.1       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     1.7       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.3       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.1       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             5.2       x10^6/ul      3.8 - 5.3           \line Hct                                   42        %             40.0 - 54.0         \line MCV                                   82        fl            80.0 - 100.0        \line MCH                                   27        pg            27.0 - 32.0         \line MCHC                                  33        g/dl          32.0 - 36.0         \line Platelet                              300       x10^3/ul      150.0 - 450.0       \line RDW                                   12.4      %             10.0 - 16.5         \line MPV                                   7.1       fl            7.5 - 11.5\line\b 17-02-2019 12:43 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Liver Function Test ( LFT )           SubHead                                     \line Total Bilirubin                       0.6       mg/dl         0.3 - 1.3           \line Direct Bilirubin                      0.2       mg/dl         0.2 - 0.4           \line Indirect Bilirubin                    0.4       mg/dl         0.2 - 0.9           \line SGOT                                  14        U/L           15.0 - 37.0         \line SGPT                                  33        U/L           30.0 - 65.0         \line Alkaline Phosphatase                  67        U/L           50.0 - 136.0        \line Total Protein                         7.5       g/dl          6.0 - 8.0           \line Albumin                               3.8       g/dl          3.4 - 5.0           \line Globulin                              3.7       g/dl          2.0 - 3.5           \line A:G Ratio                             1.03      :1            1.0 - 2.0\line Electrolytes                          SubHead                                     \line Sodium                                129       mEq/L         136.0 - 146.0       \line Potassium                             3.5       mEq/L         3.5 - 5.1\line Urea                                  21.4      mg/dl         15.0 - 45.0         \line Creatinine                            0.74      mg/dl         0.6 - 1.4\line Physical Examination                             SubHead                                               \line Colour                                           Pale Yellow                                           \line Appearance                                       Clear                                                 \line Chemical Examination                             SubHead                                               \line Urine Albumin                                    Nil                                                   \line Urine Sugar                                      +                                                     \line Microscopic Examination                          SubHead                                               \line WBC                                              0              /HPF               0.0 - 5.0           \line RBC                                              1              /HPF               0.0 - 2.0           \line Epithelial Cells                                 0              /HPF               Occasional          \line Cast                                             Nil            /LPF               Nil                 \line Crystal                                          Nil            /HPF               Nil                 \line Bacteria                                         Absent                                                \line Yeast                                            Absent\line CRP                                   1.6       mg/L          0.0 - 5.0\line ESR                                   9         mm/hr         0.00 - 15.00\line Troponin - I                          < 0.01    ug/L          < 0.01\line\pard\sl276\slmult1\lang1033\f0\fs24\par
+\ul\b Procedures:\par
+\ulnone\f1 3T MRI Brain Screening (17.02.2019) : \b0 Mild diffuse age related neuroparenchymal atrophy with bilateral chronic small vessel ischemic changes\ul\b\f0\par
+\ulnone\f1 Ultrasound abdomen (17.02.2019) : \b0 Cholecystectomy status, grade II prostatomegaly \f0\par
+\b\f1 Endoscopy (18.02.2019)  : \b0 Hiatus hernia , grade B reflux esophagitis, moderate antral gastritis. Rapid urease test : Negative \b\par
+Videolaryngoscopy (19.02.2019) :\b0  Laryngopharyngeal reflux disease \f0\par
+\ul\b\par
+Course in the hospital and Discussion:\ulnone\b0\par
+Mr. Davis A Palathingal, 58 years, a known case of  type II diabetes mellitus, systemic hypertension, dyslipidemia, benign prostatic hyperplasia was admitted with vomiting. His routine labs showed dyselectrolytemia. Patient was kept nil per oral; started on antiemectics, proton pump inhibitors, potasium supplements and supportives. Neurology consultation was taken, MRI brain was done which showed only m\f1 ild diffuse age related neuroparenchymal atrophy with bilateral chronic small vessel ischemic changes. \f0 Ultrasound abdomen was done which showed \f1  grade II prostatomegaly.  \f0 In view of persistant symptoms endoscopy was done which showed \f1 hiatus hernia, grade B reflux esophagitis and moderate antral gastritis. Endocrinology and ENT coinsultations were taken and advices followed. He improved with our line of management and became symptomatically better. He is being discharged in stable condition with following medication and advcie to review in Gastromedicine unit after 2 weeks\f0\par
+\par
+\ul\b Discharge Medications:\ulnone\b0\par
+Tab. Pantocid 40 mg 1-0-1 before food\par
+Tab. Perinorm 10 mg 1-0-1 x 5 days\par
+Tab. Ganaton 50 mg 1-1-1\par
+Tab. Avas 10 mg 0-0-1\par
+Tab. Macsart CL 1-0-0\par
+Tab. Soltral 1 tab 1-0-0\par
+Tab. Maxvoid plus 8 mg 0-0-1\par
+\b\f1 Endocrinology advice\b0\f0\par
+Inj. Eglucent 10-8-0   5 minutes before food\par
+Inj. Human Mixtard 0-0-10 unit\par
+\b\f1 ENT advice\b0\f0\par
+Nasivion 0.05% 3 drops 1-1-1 x 7 days\par
+Syp. Mucaine gel 10 ml 1-1-1 x 10 days\par
+\par
+\ul\b Advice On Discharge:\ulnone\b0\par
+\f1 To review in Gastromedicine unit after 2 weeks\par
+To review in Endocrinology unit after 2 weeks (Dr. Zacharia) with fasting blood sugars and postprandial blood sugars reports\f0\par
+\par
+\pard\sa200\sl276\slmult1\lang16393\ul\b Condition at the time of discharge:\lang1033\ulnone\b0 stable \par
+\pard\sl276\slmult1\ul\b Plan on Discharge:\ulnone\b0\par
+Follow up in gastromedicine unit\par
+\par
+\ul\b Diet:\ulnone\b0\par
+Antidiabetic diet \par
+\par
+\par
+\b\fs28 Prepared By:\tab\tab Verified By:\par
+\b0 Ms. Salvya Issac             Dr. Rosh Varghese MD.DM. \par
+\pard\sa200\sl276\slmult1\b\f3\fs24\par
+\pard\sa160\qj\lang16393\ul\f0 When and how to obtain emergency care:\ulnone\b0\par
+\b\fs22 To report immediate to the ER of Rajagiri hospital in case of\lang1033\b0\f3\fs24  Vomiting \par
+\pard\sa200\sl276\slmult1\b\f0 In case of Emergency please contact: \lang16393 Helpline No. 0484-2905000\b0  \fs28         \lang1033\ul\par
+\pard\lang16393\ulnone\b\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\b0\fs18\par
+\pard\sa160\sl252\slmult1\fs22\par
+\cf1\highlight2\b\i\f4 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f0\par
+\pard\f5\fs17\par
+},<Age:58:Age>,<Sex:1:Sex>,

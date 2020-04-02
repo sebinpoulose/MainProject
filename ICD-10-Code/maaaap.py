@@ -3,10 +3,10 @@ from nltk.corpus import stopwords
 import nltk
 import ncrmodel
 import tensorflow as tf
-print("entered maaaqaapppppp")
+# print("entered maaaqaapppppp")
 tf.enable_eager_execution()
-param_dir = "C:\\Users\\student\\PycharmProjects\\ncr_hpo_params\\model_params"
-word_model_file = "C:\\Users\\student\\PycharmProjects\\ncr_hpo_params\\model_params\\pmc_model_new.bin"
+param_dir = "C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\ncr_hpo_params\\model_params"
+word_model_file = "C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\ncr_hpo_params\\model_params\\pmc_model_new.bin"
 model = ncrmodel.NCR.loadfromfile(param_dir, word_model_file)
 
 #nltk.download('stopwords')
@@ -83,14 +83,14 @@ class Mapper():
                 i += 1
             if ricd == "Ambiguous":
                 #for x in self.data:
-                    hpd = model.get_match([j], 5)
-                    print(hpd)
-                    print(type(hpd[0][0][0]))
-                    print(type(hpd[0][0][1].item()))
-                    hpx = model.get_match(self.data, 5)
-                    print(hpx)
-                    print(j)
-                    print(hpd[0][0][0])
+                    hpd = model.get_match([j], 3)
+                    # print(hpd)
+                    # print(type(hpd[0][0][0]))
+                    # print(type(hpd[0][0][1].item()))
+                    hpx = model.get_match(self.data, 3)
+                    # print(hpx)
+                    # print(j)
+                    # print(hpd[0][0][0])
                     fl = 1
                     hpt = ("Ambiguous","Ambiguous")
                     large = 0
@@ -99,7 +99,7 @@ class Mapper():
                         point = point + 1
                     for hi in range(len(hpx)):
                         if hpx[hi][0][0] == hpd[0][point][0]:
-                            print(self.data[hi], self.icd[hi], hpx[hi][0][1])
+                            # print(self.data[hi], self.icd[hi], hpx[hi][0][1])
                             if fl:
                                 large = hpx[hi][0][1]
                                 hpt = (self.data[hi], self.icd[hi])
@@ -108,8 +108,8 @@ class Mapper():
                                 large = hpx[hi][0][1]
                                 hpt = (self.data[hi], self.icd[hi])
 
-                    print(hpt[0]+":"+hpt[1])
-                    print(large)
+                    # print(hpt[0]+":"+hpt[1])
+                    # print(large)
                     ricd = hpt[1]
             return [(item, ricd), maxi]
         else:
@@ -151,7 +151,7 @@ class Mapper():
 
 if __name__ == "__main__":
     map = Mapper()
-    list = map.map(['renal neoplasm']) #,
+    list = map.map(['Bilateral lower limb pain and ulcer left ankle. History of EVLT bilaterally in 2017.']) #,
                     # 'Ischemic heart disease post angioplasty',
                     # 'Thyroidectomy - on replacement',
                     # 'Bilateral vocal cord palsy',

@@ -1,0 +1,47 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\sa160\sl252\slmult1\qc\ul\b\f0\fs36 DEPARTMENT OF PULMONARY MEDICINE\par
+Discharge summary- Polysomnography\par
+\par
+\par
+\pard\sa160\sl252\slmult1\fs28 Diagnosis\par
+\ulnone\b0\fs24\par
+Suspected sleep apnea hypopnea syndrome\par
+\par
+\ul\b\fs28 Complaints\par
+\ulnone\b0\fs24\par
+Disturbed sleep and snoring\par
+\par
+\ul\b\fs28 Brief course\par
+\ulnone\b0\fs24\par
+Mrs. Sajitha Nassar was admitted for Polysomnography\par
+\par
+\ul\b\fs28 Comments on sleep study\par
+\ulnone\b0\fs24\par
+22 channel sleep study was done on 15/02/2019 the report of which is awaited.\par
+\par
+\ul\b\fs28 Recommendations\par
+\ulnone\b0\fs24\par
+Shall review after 5 days with sleep study report\par
+\par
+\ul\b\fs28 Condition at the time of discharge\par
+\ulnone\b0\fs24 Stable\par
+\par
+\pard\sl240\slmult1\fs17\par
+\pard\sa200\sl276\slmult1\ul\b\fs32 Review appointment with Dr. Divya R\par
+\par
+\pard\sa160\sl252\slmult1\ulnone Signed by: Dr Rajesh V / Dr \fs36 Jolsana Augustine / Dr. Divya R / Dr. Melcy Cleetus\fs32\par
+\pard\sa160\sl240\slmult1\qj\ul\fs24 When and how to obtain emergency care\par
+\ulnone\fs22 To report immediate to the emergency medicine department of Rajagiri hospital in case of worsening shortness of breath, intractable cough, fever greater than 100 /F persisting for more than 6 hours, chest pain or haemoptysis.\fs32\par
+\pard\sa200\sl276\slmult1\fs24 Incase of Emergency please contact:Helpline No. 0484-6655000\b0  \fs28         \ul\par
+\pard\sa160\sl252\slmult1\ulnone\b\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\b0\fs24\par
+\pard\sa160\sl252\slmult1\qj\fs28\par
+\pard\sl240\slmult1\fs17\par
+\pard\sa160\sl252\slmult1\fs22\par
+\pard\sl240\slmult1\fs17\par
+\pard\sa160\sl252\slmult1\fs22\par
+\par
+\par
+\par
+\par
+\pard\b\f1\fs17\par
+}

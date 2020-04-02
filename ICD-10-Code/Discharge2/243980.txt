@@ -1,0 +1,104 @@
+243980,74427,{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Tahoma;}{\f1\fswiss\fprq2\fcharset0 Calibri;}{\f2\froman\fprq2\fcharset0 Times New Roman;}{\f3\fnil\fcharset0 Times New Roman;}{\f4\fswiss\fprq2\fcharset0 Consolas;}{\f5\fmodern\fprq1\fcharset0 Consolas;}{\f6\fswiss\fprq2\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red5\green99\blue193;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\ltrpar\fi720\li720\sa160\sl252\slmult1\qc\lang16393\b\f0\fs44                  Department of Neurology\par
+\pard\ltrpar\nowidctlpar\qj\f1\fs22\par
+\f2\fs20 Dr. Gigy Kuruttukulam MD DM\kerning2  \tab       Dr. Jacob Chacko MD DM,            Dr. Nimish Vijayakumar, MD DM \par
+\pard\ltrpar\qj\lang3081\kerning0\b0 Interventional Neurologist & Head\tab       \lang16393\kerning2 Consultant Neurologist\tab                      Consultant Neurologist\par
+\kerning0\b\fs12\par
+\fs20 Dr. Sunesh ER, MD DM \tab\tab              Dr. Kaushik Sundar, MD DM   \fs4                          \fs20\par
+\kerning2\b0 Consultant Neurologist\kerning0\b  \tab\tab\b0              Consultant &\b  \lang3081\b0 Interventional Neurologist\lang16393\b  \par
+\fs2 [\par
+[\par
+\par
+[\fs20  \kerning2\b0\par
+\kerning0\b Dr. Lomesh Bhirud, MD DM             Dr. Vadivel S, MBBS, DNB, MNAMS, DM \par
+\b0 Fellow in Stroke and Intervention\b          \b0 Fellow in Stroke and Intervention\b      \tab        \par
+\b0\fs10\par
+\b\fs20 Dr. Ajay Panwar, MD DM \tab\tab      Dr. Ancy Rahman \tab          Dr. Muhammed Alif  \par
+\b0 Fellow in Stroke and Intervention\b          \b0 Medical Officer \tab\tab          Medical Officer \par
+\pard\ltrpar\fi-360\li1800\sa160\sl252\slmult1\b\fs24\par
+\pard\ltrpar\sl252\slmult1 Diagnosis:\b0    \par
+Transient ischemic attack\par
+Type 2 Diabetes mellitus\par
+Sick sinus syndrome \par
+Hypertension \par
+\par
+\pard\ltrpar\sa160\sl252\slmult1\b History of present illness:\b0    \par
+\pard\ltrpar\sa160\sl252\slmult1\qj Dr. Thomas Joseph, 67 year old male, known case of diabetes mellitus on medication, presented with sudden onset reduced speech since morning at around 8.45 am on 15.02.19 and giddiness, which improved significantly. Initially taken to nearby hospital and referred here for further management. No history of weakness of limbs, loss of consciousness, seizure.\par
+\par
+\pard\ltrpar\sa160\sl252\slmult1\lang1033\kerning2\b Clinical Examination\lang16393\kerning0 :\b0  \par
+\lang3081 Pulse rate 45/minute \par
+\pard\ltrpar\qj Blood pressure 140/80 mmHg\par
+Conscious, oriented\par
+Glasgow Coma Scale E4V5M6\par
+Bilateral pupils reacting symmetrically\par
+Power right upper limb 5/5 and right lower limb 5/5\par
+\tab left upper limb and lower limb 5/5\par
+\par
+\pard\ltrpar\sa160\sl252\slmult1\lang16393\b Investigations:\b0    \par
+\pard\ltrpar\sl252\slmult1\qj\b Computerised tomography of brain and angiogram\b0  15.02.19: Well defined hypodensity  in left ganglio-capsular location - likely representing prominent perivascular space.\u8203? No significant neuroparenchymal abnormality. \par
+\pard\ltrpar\kerning2 Atheromatous changes in bilateral ICA with calcific plaque near origin of right ICA causing upto 50 % diameter stenosis .\par
+\pard\ltrpar\sl252\slmult1\qj\par
+\kerning0\b Magnetic resonance imaging of brain single sequence \b0 15.02.19: No obvious acute infarcts/hemorrhages.\par
+\b\par
+\pard\ltrpar Echocardiogram 15.02.19: \lang1033\kerning2\b0 Mild concentric LVH. \lang16393 Normal chamber dimensions. No regional wall motion abnormality. Good LV systolic function. Grade I diastolic dysfunction. Sclerosed aortic valve. No AS/AR. Trivial MR. Trivial TR, RVSP=15 +RAP, No PAH. Good RV function. Intact septae. No clot / pericardial effusion. EF 60%. \par
+\pard\ltrpar\sl252\slmult1\qj\kerning0\b\par
+\f3 Holter\b0\f2 : Connected\par
+\b\par
+\pard\ltrpar\lang3081\f4\fs20 16-02-2019 05:23 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Lipid Profile                         SubHead                                     \line Total Cholesterol                     136       mg/dl         Desirable < 200 | Bo\line Triglycerides                         89        mg/dl         Desirable < 150 | Bo\line HDL Cholesterol                       36        mg/dl         40.0 - 60.0         \line LDL Cholesterol                       86        mg/dl         Optimal < 100 | Bord\line VLDL Cholesterol                      17.8      mg/dl         0.0 - 30.0\line\line HbA1c                                 9.5       %             4.0 - 6.0           \line MBG                                   230       mg/dl\line\line FBS                                   105       mg/dl         70.0 - 110.0\line\par
+\b\f5 15-02-2019 10:31 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Haemoglobin                           13.4      g/dl          13.0 - 17.0         \line TC                                    6.0       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           52        %             40.0 - 80.0         \line Lymphocytes                           33        %             20.0 - 40.0         \line Monocytes                             9         %             2.0 - 10.0          \line Eosinophils                           5         %             1.0 - 6.0           \line Basophils                             1         %             0.0 - 2.0           \line Neutrophils Count                     3.0       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     2.0       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.6       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.3       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             4.8       x10^6/ul      3.8 - 5.3           \line Hct                                   41        %             40.0 - 54.0         \line MCV                                   86        fl            80.0 - 100.0        \line MCH                                   28        pg            27.0 - 32.0         \line MCHC                                  32        g/dl          32.0 - 36.0         \line Platelet                              192       x10^3/ul      150.0 - 450.0       \line RDW                                   13.2      %             10.0 - 16.5         \line MPV                                   9.4       fl            7.5 - 11.5\line\line\b 15-02-2019 10:31 AM\b0\line Investigation                  Result\line BLOOD GROUP                   B\line Rh TYPE                       POSITIVE\par
+\line\b 15-02-2019 10:31 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Liver Function Test ( LFT )           SubHead                                     \line Total Bilirubin                       0.5       mg/dl         0.3 - 1.3           \line Direct Bilirubin                      0.2       mg/dl         0.2 - 0.4           \line Indirect Bilirubin                    0.3       mg/dl         0.2 - 0.9           \line SGOT                                  12        U/L           15.0 - 37.0         \line SGPT                                  7         U/L           30.0 - 65.0         \line Alkaline Phosphatase                  74        U/L           50.0 - 136.0        \line Total Protein                         6.8       g/dl          6.0 - 8.0           \line Albumin                               3.4       g/dl          3.4 - 5.0           \line Globulin                              3.4       g/dl          2.0 - 3.5           \line A:G Ratio                             1         :1            1.0 - 2.0\line\line\b 15-02-2019 10:31 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Renal Function Test                   SubHead                                     \line Urea                                  27.82     mg/dl         15.0 - 45.0         \line Creatinine                            0.76      mg/dl         0.6 - 1.4\line\line\b 15-02-2019 10:31 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Electrolytes                          SubHead                                     \line Sodium                                147       mEq/L         136.0 - 146.0       \line Potassium                             4.7       mEq/L         3.5 - 5.1\line\line\b 15-02-2019 10:31 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Test                                  12.5      Seconds       12.0 - 18.0         \line Control                               13.5      Seconds       13.5                \line INR                                   0.91      -             1.0\line\line\b 15-02-2019 10:31 AM\b0\line  \b Name                                            Result         Unit               Reference\line\b0 HIV 1 & 2 CARD                                   SubHead                                               \line HIV 1 & 2                                        Non-Reactive\line\line\b 15-02-2019 10:31 AM\b0\line  \b Name                                            Result         Unit               Reference\line\b0 HCV Card                                         SubHead                                               \line HCV                                              Non-Reactive\line\line\b 15-02-2019 10:31 AM\b0\line  \b Name                                            Result         Unit               Reference\line\b0 HBsAg Card                                       SubHead                                               \line HBsAg                                            Non-Reactive\line\line\par
+\par
+\pard\ltrpar\sa160\sl252\slmult1\lang16393\b\f2\fs24 Course in the hospital:\b0    \par
+\pard\ltrpar\qj Dr. Thomas Joseph, 67 year old male was diagnosed to have anterior circulation transient ischemic attack. His computerised tomography of brain and angiogram and magnetic resonance imaging of brain single sequence did not reveal any acute infarcts or hemorrhages. Computerised Tomography angio showed \kerning2 atheromatous changes in bilateral ICA with calcific plaque near origin of right ICA causing upto 50 % diameter stenosis . \kerning0 He was treated with low molecular weight heparin, dual antiplatelets, statin and other supportive measures. Stroke work up done. Presently patient is stable and being discharged on request with holter monitoring for 24 hours. \b\par
+\pard\ltrpar\sa160\sl252\slmult1\qj\par
+\pard\ltrpar\sl252\slmult1 Consultations:\b0    \par
+Cardiology - Dr Suresh Davis\b\par
+\pard\ltrpar\sl252\slmult1\qj\par
+\par
+\pard\ltrpar\sa160\sl252\slmult1 Treatment provided:\b0    \par
+Injection Clexane, Injection Human actrapid, Tablet Ecosprin 75mg, Tablet Clopilet 75mg, Tablet Atocor 40mg, Tablet Pantocid 40mg, Tablet Telma 40mg. \par
+\pard\ltrpar\sl252\slmult1\qj\b\par
+\pard\ltrpar\sa160\sl252\slmult1 Condition at discharge:\b0    \par
+Stable, on holter monitoring\par
+\par
+\b Advice on discharge:\b0    \par
+\pard\ltrpar\sl252\slmult1\qj Review in Neurology outpatient department after 2 weeks with Fasting and postprandial blood sugar. \par
+Diabetic diet\par
+Monitor sugars in consultation with physician \par
+Watch for symptoms of hypoglycemia and to take corrective measures.\par
+\pard\ltrpar\qj\par
+\par
+\pard\ltrpar\sl252\slmult1\b Medications:\b0    \par
+Injection Clexane \tab 0.6ml.\tab\tab subcutaneous 2 times a day x 2 days \par
+Tablet Ecosprin \tab 75mg \tab\tab 0-1-0 x 2 weeks to continue\par
+Tablet Clopilet \tab 75mg \tab\tab 0-1-0 x 2 weeks to continue\par
+Tablet Atorlip \tab\tab 40mg \tab\tab 0-0-1 x 2 weeks to continue\par
+Tablet Telma \tab\tab 40mg \tab\tab 1-0-0 x 2 weeks to continue\par
+Tablet Janumet \tab 50/500\tab\tab 1-1-0 x 2 weeks to continue\par
+Injection Lantus \tab\tab\tab\tab 10 units at bed time to continue\par
+Tablet Pantocid \tab 40mg \tab\tab 1-0-0 x 2 weeks to continue\par
+\pard\ltrpar\b\par
+\pard\ltrpar\sl252\slmult1 When and how to obtain urgent care:\b0    \par
+In case of weakness, sensory complaints, seizure, loss of consciousness, headache immediately report to emergency.  \b\par
+\pard\ltrpar\b0\fs12\par
+\pard\ltrpar\qj\b\i\fs24 Please contact for emergency care: 0484 - 2905000 Ext- 5834/35\par
+\pard\ltrpar\b0\i0\par
+Prepared by: Dr. Lomesh Bhirud, MD DM\par
+\par
+Verified by:\par
+\par
+\par
+\pard\ltrpar\qj\lang3081  \par
+\lang16393\b Dr. Gigy Kuruttukulam MD DM\par
+\b0 Interventional Neurologist & Head\par
+Department of Neurology \par
+\lang3081\par
+\lang16393\b\i\fs22 Prescription counselling done by: \tab\tab\tab\tab Clinical pharmacologist\par
+\fs20\par
+Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receiver (patient / bystanders) are requested to go through the details and confirm the accuracy before leaving hospital. This discharge summary is not a legal document / certificate. This contains information regarding the patient\rquote s ailment for further reference.  \par
+\pard\ltrpar Department mobile: 7356881101 (9 AM-5PM), E-mail - \cf1\ul neurology@rajagirihospital.com\cf0\ulnone\b0\i0\fs24\par
+\pard\ltrpar\sa160\sl252\slmult1\b\par
+\pard\ltrpar\cf2\highlight3\lang1033\i\f1\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f6\fs17\par
+\pard\ltrpar\qj\lang16393\b\f2\fs24\par
+},<Age:67:Age>,<Sex:1:Sex>,2019-02-16 13:54:40.080000000

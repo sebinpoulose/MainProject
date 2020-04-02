@@ -7,7 +7,7 @@ from django.contrib.auth.decorators import login_required
 from django.core.files.storage import FileSystemStorage
 import pandas as pd
 import sys
-sys.path.insert(2, 'C:\\Users\\student\\PycharmProjects\\MainProject\\ICD-10-Code\\')
+sys.path.insert(2, 'C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\MainProject\\ICD-10-Code\\')
 from maaaap import Mapper
 from Extractor import Extractor
 

@@ -1,0 +1,108 @@
+242779,74374,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 MS Reference Sans Serif;}{\f1\froman\fprq2\fcharset0 Times New Roman;}{\f2\froman\fprq2\fcharset0 Calibri;}{\f3\froman\fprq2 Calibri;}{\f4\fnil\fcharset0 Times New Roman;}{\f5\fswiss\fprq2\fcharset0 Consolas;}{\f6\fnil\fcharset0 Microsoft Sans Serif;}{\f7\fswiss\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\nowidctlpar\hyphpar0\cf1\kerning1\f0\fs17\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\qc\cf0\lang16393\b\caps\f1\fs40 Department of Cardiology\lang255\b0\caps0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang16393\b\f2\fs20\par
+\pard\nowidctlpar\hyphpar0\lang9\kerning0\fs18 UNIT \f3 -\f2  I                                                                                 CARDIO VASCULAR                                    CARDIAC\lang255\kerning1\b0\f1\fs24\par
+\lang9\kerning0\b\f2\fs18                                                                                                \lang16393\kerning1 THORACIC SURGERY                                  \lang9\kerning0 ANAESTHESIOLOGIST\lang255\kerning1\b0\f1\fs24\par
+\lang9\kerning0\b\f2\fs18                                                                                                                                                                         \lang255\kerning1\b0\f1\fs24\par
+\lang9\kerning0\b\f2\fs18 Dr. Ramdas Nayak H                                                           Dr. Shiv K Nair                                            \lang16393 Dr. Mary Smitha Thomas\lang9                                           \lang255\kerning1\b0\f1\fs24\par
+\lang9\kerning0\f2\fs16 MD, DNB (Cardiology)\tab , FACC, FSCAI                                             MS (PGI), M.Ch (CVTS), FIACS                            \lang16393 DNB (Anaesthesiology),PDCCCA\lang9                                                           \lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang16393\kerning0\f2\fs16 HOD, Sr. Interventional Cardiologist & Electrophysiologist\lang9       Sr. Consultant Cardiac Surgeon & HOD           Consultant Cardiac Anesthesiologist            \lang16393\tab\tab\tab\lang9  \lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\tx6810\lang16393\kerning0\b\f2\fs18 Dr. Jacob George                                                                 Dr. Rinett Sebastian K V                           \lang9\tab             \lang255\kerning1\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\lang16393\kerning0\f2\fs16 MD, DM                                                                                             MS, M.Ch (CVTS), DNB (CVTS)                           \lang9                                                  \lang255\kerning1\f1\fs24\par
+\lang16393\kerning0\f2\fs16 Consultant Interventional Cardiologist                                        \lang9 Consultant Cardiac Surgeon                    \tab                     \lang255\kerning1\f1\fs24\par
+\lang9\kerning0\f2\fs20\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\lang16393\b\fs18 UNIT \lang9\f3 -\lang16393\f2  II                                                                                 Dr. Deepak A N                                              \lang255\kerning1\b0\f1\fs24\par
+\lang16393\kerning0\b\f2\fs18                                                                                                \b0\fs16  MS, MCh(CVTS)\lang255\kerning1\f1\fs24\par
+\lang9\kerning0\b\f2\fs18 Dr. Suresh Davis\lang16393\b0\fs16                                                                            Consultant Cardiac Surgeon                                                     \lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\tx3915\tx6810\lang9\kerning0\f2\fs16 MD, Diploma (Diabetology), DM\lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\lang9\kerning0\f2\fs16 Consultant Interventional Cardiologist\lang16393\b\fs18                                                                                                                                  \lang255\kerning1\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl276\slmult1\lang16393\kerning0\f2\fs16\par
+\pard\nowidctlpar\hyphpar0\sl240\slmult1\b\fs18 Dr. Sandeep R\b0\fs16  \lang255\kerning1\f1\fs24\par
+\lang16393\kerning0\f2\fs16 MD, DM, DNB\lang255\kerning1\f1\fs24\par
+\lang16393\kerning0\f2\fs16 Consultant Interventional Cardiologist    \lang255\kerning1\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sl276\slmult1\lang16393\kerning0\b\f2\fs18                                              \lang255\kerning1\b0\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\lang16393\b\fs40\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\fs24 DIAGNOSIS:\lang255\b0\par
+\lang1033\f4 Coronary artery disease \par
+            New onset angina/ Positive TMT\par
+\tab CAG (15.02.2019) : Single Vessel Disease\par
+\tab Good LV systoli function\par
+\tab Normal sinus rhythm\par
+Type 2 Diabetes Mellitus\par
+Left inguinal hernia repair  4 years back\par
+\par
+\b\f1 DRUG ALLERGIES:\lang255\b0\par
+\lang1033\f4 Not known \b\f1\par
+\b0\fs22\par
+\b\fs24 HISTORY OF PRESENT ILLNESS:\lang255\b0\par
+\lang1033\fs22 Mr N.D Benny 53/M, diabetic on regular medications presented to OPD with complaints of exertional angina . ECG showed sinus rhythm T inversion in I, aVL and V3-V6 leads. Echo  showed no regional wall motion abnormality with good  LV systolic function. He was evaluated with TMT, which was positive inducible ishemia. He was advised to undergo coronary angiogram for risk stratification and admitted here for the same. \par
+\par
+\b\fs24 PHYSICAL EXAMINATION:\lang255\b0\par
+\pard\qj\lang3081\kerning2 Pulse Rate\lang16393 : 70\lang3081 /mt, regular \lang16393 , \lang3081 Peripheral pulses felt\lang16393 , \lang3081 Blood pressure: 130/80mm Hg\lang16393 , \lang3081 No carotid bruit\lang16393 , \lang3081 Cardiovascular system: S1\lang16393 ,\lang3081  S2 normal. No murmurs\lang16393 , \lang3081 Re\lang16393 s\lang3081 piratory system: NVBS\lang16393 , \lang3081 P/A and Central Nervous System: Normal\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\kerning1\fs22\par
+\par
+\b\fs24 LAB INVESTIGATION:\lang255\b0\par
+\lang3081\kerning0\f5\fs20\line\pard\b 15-02-2019 11:26 AM\b0                                    \line Sodium                                143       mEq/L         136.0 - 146.0       \line Potassium                             4.6       mEq/L         3.5 - 5.1                                  \line Urea                                  21.4      mg/dl         15.0 - 45.0         \line Creatinine                            1.07      mg/dl         0.6 - 1.4\b\line\b0 RBS                                   173       mg/dl         70.0 - 160.0                                \line Haemoglobin                           13.9      g/dl          13.0 - 17.0         \line TC                                    8.2       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           64        %             40.0 - 70.0         \line Lymphocytes                           26        %             20.0 - 40.0         \line Monocytes                             7         %             2.0 - 10.0          \line Eosinophils                           3         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     5.0       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     2.1       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.6       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.2       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             4.6       x10^6/ul      3.8 - 5.3           \line Hct                                   41        %             40.0 - 54.0         \line MCV                                   89        fl            80.0 - 100.0        \line MCH                                   30        pg            27.0 - 32.0         \line MCHC                                  34        g/dl          32.0 - 36.0         \line Platelet                              372       x10^3/ul      150.0 - 450.0       \line RDW                                   12.9      %             10.0 - 16.5         \line MPV                                   6.8       fl            7.5 - 11.5          \line ESR                                   6         mm/hr         0.0 - 15.0                                 \line Urea                                  19.26     mg/dl         15.0 - 45.0         \line Creatinine                            0.98      mg/dl         0.6 - 1.4\line BLOOD GROUP                   ' O '\line Rh TYPE                       POSITIVE\b\line\b0 FBS                                   116       mg/dl         70.0 - 110.0\line\b 08-02-2019 07:35 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 PPBS                                  205       mg/dl         90.0 - 140.0                                              \line HBsAg                                            Non-Reactive\line\line\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\kerning1\b\f1\fs24 INVESTIGATION:\lang255\b0\par
+\lang1033\f4 Electrocardiogram (08.02.2019): Sinus rhythm, Rate 70bpm, PRI 160ms, S\f1\fs22 inus rhythm T inversion in I, aVL and V3-V6 leads\par
+\pard\sl240\slmult1 Echocardiogram (08.02.2019): \lang16393\kerning2\f6\fs20 Mild concentric LVH,No regional wall motion abnormality,Good LV systolic function,Good RV function,No AS/AR,,Trivial MR,Trivial TR, No PAH,Intact septae,No clot / pericardial effusion,EF- 660%\par
+\par
+Treadmill Test ( 08.02.2019): Positive for inducible ischemia \lang1033\kerning1\b\f1\fs24\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\b0\fs22\par
+\pard\hyphpar0\sa200\sl276\slmult1\b\fs24 COURSE IN THE HOSPITAL:\par
+\b0 After preliminary investigations he underwent coronary angiogram through right radial access which revealed single vessel disease (ostioproximal LAD total occlusion). Post procedure period was uneventful. He is being discharged with an advice to continue medication and attempt PCI to ostial  LAD versus CABG\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\b INPATIENT MEDICATIONS:\lang255\b0\par
+\lang1033 TAB. AVIL,TAB RANTAC,\lang3081\kerning0\f4 TAB  AZTOR,TAB  CILAHEART-T ,TAB  CLOPITAB,TAB  NEBICARD ,TAB  NITROX-XL ,TAB  RANCAD ,TAB  RANOZEX,TAB  GLYCOMET GP ,TAB  TENEZA,TAB  NEUROBION FORTE \par
+\pard\f5\fs20\line\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang1033\kerning1\b\f1\fs24 CONDITION AT THE TIME OF DISCHARGE:\lang255\b0\par
+\pard\qj\lang1033 Hemodynamically stable, mobilized, asymptomatic\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\fs22\par
+\b\fs24 ADVICE ON DISCHARGE:\lang255\b0\par
+\pard\sl360\slmult1\qj\lang16393\kerning2 Review with Dr Suresh Davis in Cardiology OPD after 2 weeks with Fasting blood sugar, Post prandial blood sugar, Renal functions tests, Serum Electrolytes and Electrocardiogram reports (Tuesday, Thursday, Saturday)\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\kerning1\fs22\par
+\b\fs24 DIET:\lang255\b0\par
+\pard\qj\lang16393\kerning2 Low fat/diabetic diet\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\kerning1\fs22\par
+\b\fs24 PHYSICAL ACTIVITIES:\lang255\b0\par
+\lang1033\fs22 Avoid strenous activities \par
+\par
+\b\fs24 DISCHARGE MEDICATIONS:\lang255\b0\par
+\pard\lang3081\kerning2 TAB CLOPILET  A  75/75 MG 0-1-0 ( AFTER FOOD)\par
+\par
+TAB. AZTOR 40 MG 0-0-1\par
+\par
+TAB NEBISTAR 2.5 MG 1-0-0 \par
+\par
+TAB. CINOD T  40/10, 0-0-1\par
+\par
+TAB. NITROX XL 2.6 MG 1-1-0\par
+\par
+TAB. RANOZEX 500MG 1-0-1\par
+\par
+TAB. GLYCOMET GP 0.5 MG 1-0-0\par
+\par
+TAB. TENEPRIDE (20/100) 0-0-1\par
+\par
+TAB NEUROBION FORTE 1-0-0 \par
+\par
+CAP CINTODAC 1-0-0 \par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\kerning1\par
+\fs22\par
+\b\fs24 PLAN ON DISCHARGE:\lang255\b0\par
+\lang1033 Attempt PCI to ostial LAD versus  CABG\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang16393\b\f2\fs28\par
+\par
+\f1 Prepared by: Meethu\lang255\b0\fs24\par
+\lang16393\b\fs28\par
+Attending Consultant: Dr. Suresh Davis/Dr. Sandeep R\lang255\b0\fs24\par
+\lang16393\b\fs28\par
+\lang1033\fs24 When and how to obtain urgent care:\fs22  Chest pain/breathlessness/palpitation/giddiness\lang255\b0\fs24\par
+\lang16393\b\fs28\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\lang1033\fs24 In case of Emergency please contact:\lang255\b0\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang16393\b\fs22 Helpline No. 0484-2905000                                                          Email: mail@rajagirihospital.com\lang255\b0\fs24\par
+\lang16393\b\fs22\par
+\fs16 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang255\b0\fs24\par
+\pard\cf2\highlight3\lang1033\kerning0\b\i\f7\fs22\par
+Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f6\fs17\par
+},<Age:53:Age>,<Sex:1:Sex>,2019-02-16 16:23:41.377000000

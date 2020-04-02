@@ -1,0 +1,74 @@
+80351,74629,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Calibri;}{\f1\froman\fprq2\fcharset0 Liberation Serif;}{\f2\fswiss\fprq2\fcharset0 Consolas;}{\f3\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue0;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\hyphpar0\sa160\sl252\slmult1\qc\lang16393\kerning1\ul\b\f0\fs36 DEPARTMENT OF GENERAL SURGERY\lang1033\ulnone\b0\f1\fs24\par
+\pard\hyphpar0\sa160\sl252\slmult1\lang16393\b\f0\fs22\par
+DIAGNOSIS\b0\fs24 :RIGHT DIABETIC FOOT\par
+UNCONTROLLED TYPE 2 DIABETES MELLITUS\par
+HYPERTENSION\par
+DEMENTIA\lang1033\f1\par
+\lang16393\b\f0\fs22\par
+CHIEF COMPLAINTS\b0 :c/o ulcer in right foot x 2 months\par
+\lang1033\f1\fs24\par
+\b\f0\fs22 HISTORY OF PRESENT ILLNESS\b0 :Patient was apparently normal before 2 months after which he sustained a trauma in right foot and noticed a ulcer in right foot-second toe.It was associated with pain and redness.\f1\fs24\par
+\lang16393\b\f0\fs22\par
+PAST HISTORY\b0 :k/c/o Hypertension and Diabetes Mellitus since 20 years -on regular medications\par
+h/o dementia since 2016\lang1033\f1\fs24\par
+\lang16393\b\f0\fs22\par
+PHYSICAL EXAMINATION\b0 :Patient conscious,oriented,afebrile\lang1033\f1\fs24\par
+\f0\fs22                \b  VITAL\b0 :\f1\fs24\par
+\f0\fs22                   \b BP\b0 :140/70mm Hg\f1\fs24\par
+\b\f0\fs22                   HR\b0 :80/min\f1\fs24\par
+\b\f0\fs22                  CVS\b0 :S1S2+\f1\fs24\par
+\b\f0\fs22                  CNS\b0 :No focal neurological deficits\f1\fs24\par
+\b\f0\fs22                   PA\b0 :soft,BS+\f1\fs24\par
+\b\f0\fs22                  L/E\b0 :Features suggestive of diabetic ulcer in right foot\f1\fs24\par
+\lang16393\b\f0\fs22\par
+\pard INVESTIGATIONS\b0 :\lang3081\kerning0\f2\fs20\line\line\b 16-02-2019 10:05 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 HbA1c                                 7.4       %             4.0 - 6.0           \line MBG                                   160       mg/dl\line\line\par
+\line\line\b 16-02-2019 10:05 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 PPBS                                  239       mg/dl         90.0 - 140.0\line\par
+\line\line\b 16-02-2019 01:14 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 FBS                                   101       mg/dl         70.00 - 110.00\line\par
+\lang1033\fs17\par
+\fs20\line\line\b 13-02-2019 11:21 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Liver Function Test ( LFT )           SubHead                                     \line Total Bilirubin                       0.7       mg/dl         0.3 - 1.3           \line Direct Bilirubin                      0.2       mg/dl         0.2 - 0.4           \line Indirect Bilirubin                    0.5       mg/dl         0.2 - 0.9           \line SGOT                                  20        U/L           15.0 - 37.0         \line SGPT                                  22        U/L           30.0 - 65.0         \line Alkaline Phosphatase                  70        U/L           50.0 - 136.0        \line Total Protein                         8.5       g/dl          6.0 - 8.0           \line Albumin                               3.2       g/dl          3.4 - 5.0           \line Globulin                              5.3       g/dl          2.0 - 3.5           \line A:G Ratio                             0.6       :1            1.0 - 2.0\line\line\par
+\line\line\b 13-02-2019 11:21 AM\b0\line  \b Name                                            Result         Unit               Reference\line\line\b0 Physical Examination                             SubHead                                               \line Colour                                           Pale Yellow                                           \line Appearance                                       Clear                                                 \line Chemical Examination                             SubHead                                               \line Urine Albumin                                    Trace                                                 \line Urine Sugar                                      Nil                                                   \line Microscopic Examination                          SubHead                                               \line WBC                                              2              /HPF               0.0 - 5.0           \line RBC                                              3              */HPF               0.0 - 2.0           \line Epithelial Cells                                 1              /HPF               Occasional          \line Cast                                             Nil            /LPF               Nil                 \line Crystal                                          Nil            /HPF               Nil                 \line Bacteria                                         Occasional                                            \line Yeast                                            Absent\line\line\par
+\line\line\b 13-02-2019 11:21 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Blood Routine Examination ( CBC With ESubHead                                     \line Haemoglobin                           12.3      g/dl          13.0 - 17.0         \line TC                                    16.1      x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           73        %             40.0 - 70.0         \line Lymphocytes                           11        %             20.0 - 40.0         \line Monocytes                             9         %             2.0 - 10.0          \line Eosinophils                           7         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     11.4      x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     1.8       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       1.5       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     1.1       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             4.4       x10^6/ul      3.8 - 5.3           \line Hct                                   39        %             40.0 - 54.0         \line MCV                                   89        fl            80.0 - 100.0        \line MCH                                   28        pg            27.0 - 32.0         \line MCHC                                  31        g/dl          32.0 - 36.0         \line Platelet                              419       x10^3/ul      150.0 - 450.0       \line RDW                                   13.1      %             10.0 - 16.5         \line MPV                                   7.5       fl            7.5 - 11.5          \line ESR                                   69        mm/hr         0.0 - 15.0\line\line\par
+\line\line\b 13-02-2019 11:21 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Renal Function Test                   SubHead                                     \line Urea                                  23.54     mg/dl         15.0 - 45.0         \line Creatinine                            1.5       mg/dl         0.6 - 1.4\line\line\par
+\line\line\b 13-02-2019 11:21 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 HbA1c                                 7.5       %             4.0 - 6.0           \line MBG                                   163       mg/dl\line\line\par
+\line\line\b 13-02-2019 11:21 AM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 RBS                                   94        mg/dl         70.0 - 160.0\line\par
+\pard\hyphpar0\sa160\sl252\slmult1\kerning1\f1\fs24\par
+\lang16393\b\f0\fs22\par
+TREATMENT GIVEN\b0 :INJ.TAXIM 1 GM I/V 1-1-1 and other supportive measures.\lang1033\f1\fs24\par
+\lang16393\f0\fs22\par
+\lang1033\b COURSE IN THE HOSPITAL\b0 :Patient reported to the surgery OPD with c/o ulcer right foot.He is a k/c/o uncontrolled diabetes mellitus.He was admitted for wound care and glycemic control.Patient was started on i/v antibiotics and Endocrinology(Dr.Zachariah) consultation was given for glycemic control and orders carried out.Wound swab was taken for culture and sensitivity and found to have heavy growth of Escherichia coli .Patient is stable and comfortable,hence discharged with following medications.\f1\fs24\par
+\lang16393\b\f0\fs22\par
+CONDITION ON DISCHARGE\b0 :Patient is stable and comfortable.\lang1033\f1\fs24\par
+\lang16393\b\f0\fs22\par
+ADVICE ON DISCHARGE\b0 :DIABETIC AND SALT RESTRICTED DIET\par
+TAB.CIPROFLOXACIN 500 MG 1-0-1 X 7 DAYS\par
+TAB.PANTOCID 40 MG 1-0-1 X 7 DAYS\par
+TAB.CHYMOCIP 1-0-1 X 7 DAYS\par
+TAB.FORHEAL 1-0-1 X 7 DAYS\par
+SILVERCURE + ENZOHEAL+DEBRIN OINTMENT FOR LOCAL APPLICATION 1-0-0 X 7 DAYS\par
+TAB.GLIMULIN 2 MF 0-0-1 X 7 DAYS\par
+TAB.ISTAMET 50/500 1-0-0 X 7 DAYS\par
+TAB.QUITIPIN 25 MG 0-0-1 TO CONTINUE\par
+TAB.AMLOVAS 2.5 MG 1-0-0  TO CONTINUE\par
+TAB.ATORVA 10 MG 0-0-1 TO CONTINUE\par
+TAB.CLOPILET 75 MG 0-1-0 TO CONTINUE\par
+\lang1033\f1\fs24\par
+\lang16393\b\f0\fs22 FOLLOWUP APPOINTMENT\b0 :Review in Surgery and Endocrinology OPD after 7 days (26/02/2019) with FBS/PPBS report.\lang1033\f1\fs24\par
+\lang16393\b\f0\fs22\par
+\pard\hyphpar0\sa200\sl276\slmult1 WHEN AND HOW TO OBTAIN URGENT CARE\b0 :Report to Casualty  or Surgery OPD in cases of pain,redness,discharge,swelling on or around the wound.\lang1033\f1\fs24\par
+\pard\hyphpar0\sa160\sl252\slmult1\lang16393\f0\fs22  \lang1033\f1\fs24\par
+\lang16393\f0\fs22\par
+\par
+\par
+\pard\hyphpar0\sl252\slmult1\lang1033\b Dr. Joy George                                                                              \cf1 Dr. Binil Kesavan Babu\cf0  \b0\f1\fs24\par
+\cf1\b\f0\fs22 M.B.B.S, M.S ( General Surgery)                                               M.B.B.S, M.S ( General Surgery), FMAS, DMAS \cf0\b0\f1\fs24\par
+\cf1\b\f0\fs22 Reg: 14792                                                                                    Reg: 43420\cf0  \b0\f1\fs24\par
+\cf1\b\f0\fs22 Senior Consultant and Head Of Department\cf0                         \cf1 Consultant General Surgeon\cf0  \b0\f1\fs24\par
+\pard\hyphpar0\sa160\sl252\slmult1\lang16393\f0\fs22\par
+\pard\hyphpar0\sa200\sl276\slmult1\lang1033\b\fs24 In case of Emergency please contact: \lang16393 Helpline No. 0484-2905000\b0  \fs28         \lang1033\f1\fs24\par
+\pard\hyphpar0\lang16393\b\f0\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital\lang1033\b0\f1\fs24\par
+\f0\fs22\par
+\par
+\cf2\highlight3\kerning0\b\i Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f3\fs17\par
+},<Age:81:Age>,<Sex:1:Sex>,2019-02-19 13:45:55.337000000

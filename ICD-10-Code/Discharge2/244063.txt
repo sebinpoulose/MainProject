@@ -1,0 +1,79 @@
+244063,74451,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fswiss\fprq2\fcharset0 Consolas;}{\f2\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sa160\sl252\slmult1\kerning1\ul\b\f0\fs24\par
+\pard\sa160\sl252\slmult1\qc Department of Gastrointestinal Surgery\kerning0\ulnone\b0\par
+\pard\hyphpar0\qc\kerning1\ul\b\par
+\pard\hyphpar0\ulnone\par
+Dr. Joseph George\tab\tab\tab\tab\tab      Dr. Mahesh Kumar P S\par
+\b0 MS, MCh (AIIMS)\tab\tab\tab\tab\tab             MBBS, MS General surgery\par
+Consultant GI Surgeon\tab\tab\tab\tab      Department of GI Surgery\par
+\b\par
+Dr. Shanavas Kakkat\par
+\pard\kerning0\b0 MBBS, MS, DNB, MCh, FMAS\par
+\kerning1 Consultant GI Surgeon\kerning0\par
+\par
+\par
+\par
+\pard\hyphpar0\kerning1\b DIAGNOSIS: \lang16393\kerning0\b0\par
+Acute Cholecystitis\lang1033\kerning1\par
+\b\par
+OPERATION:\b0  \lang16393\kerning0\par
+Laparoscopic Cholecystectomy on 16/02/2019\lang1033\kerning1\b\par
+\par
+HISTORY: \lang16393\kerning0\b0\par
+Mr.Tony, a 40 year old male, presented to hospital with complaints of right hypochondrial pain which was associated with vomiting. No history of fever or jaundice. Outside ultrasound abdomen was suggestive of  calculus cholecystitis. He came here for further evaluation and management. Here he was evaluated and advised for surgery. Now he has been admitted here for the same.\par
+\lang1033\kerning1\par
+\b PAST HISTORY: \lang16393\kerning0\b0\par
+No significant past medical or surgical history\lang1033\kerning1\b\par
+\b0\par
+\b PHYSICAL EXAMINATION AT ADMISSION: \lang16393\kerning0\b0\par
+Conscious,Oriented\par
+Vitals stable\par
+Afebrile\par
+Per abdomen :-Soft\par
+Mild Right hypochondrial tenderness\lang1033\kerning1\b\par
+\b0\par
+\b OPERATION DETAILS:\b0  \lang16393\kerning0\par
+\pard\hyphpar0\qj\lang1033\kerning1 Over  distended and edematous Gall bladder  with multiple cholesterol stones. Adhesions present. Cystic duct 3mm. Stone spill +, Lavage done. Drain placed.\b\par
+\par
+\pard\hyphpar0 HOSPITAL COURSE:\b0  \lang16393\kerning0\par
+\lang1033\kerning1 This 60 year old male got admitted here for surgery. He underwent Laparoscopic cholecystectomy on 16/02/2019. Parenteral antibiotics were continued for 2 more days. Drain removed on day 2. Bowel and bladder habits regular.\b\par
+\par
+Inpatient medications:-\par
+\pard\lang3081\kerning0\b0 INJECTION  TAXIM 1GM  \line INJECTION KABIMOL 1GM(100ML)\line INJECTION  PANTOP 40MG\line TAB  PERINORM  10MG\line TAB  RANTAC 150MG \line TAB  CIPLOX TZ \line XYKAA BD 1000MG TAB\line HIFENAC 100 MG TAB\line EZLAX SACHET( 10.4GM)\line TAB  PANTOCID 40 \f1\fs20\line\pard\hyphpar0\par
+\lang1033\kerning1\b\f0\fs24 LAB REPORTS\b0 :  \lang3081\kerning0\f1\fs20\line\pard\b 15-02-2019 04:53 PM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Haemoglobin                           13.4      g/dl          13.0 - 17.0         \line TC                                    10.9      x10^3/ul      4.0 - 11.0                                              \line Neutrophils                           79        %             40.0 - 80.0         \line Lymphocytes                           13        %             20.0 - 40.0         \line Monocytes                             5         %             2.0 - 10.0          \line Eosinophils                           3         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Platelet                              240       x10^3/ul      150.0 - 450.0       \line RDW                                   13.7      %             10.0 - 16.5         \line MPV                                   7.8       fl            7.5 - 11.5\line\b 15-02-2019 04:53 PM\b0\line BLOOD GROUP                   ' A '\line Rh TYPE                       POSITIVE\lang1033\kerning1\f0\fs24\par
+\pard\hyphpar0\par
+\b CONDITION AT THE TIME OF DISCHARGE\b0 : \lang16393\kerning0\par
+\pard\sa160\sl252\slmult1 Hemodynamically stable, Afebrile, Tolerating oral feeds, Bowel and bladder habits regular\lang1033\b\par
+\pard\hyphpar0\kerning1\b0\par
+\b ADVICE ON DISCHARGE\b0 : \lang16393\kerning0\par
+\lang1033\kerning1 Review on 27/02/2019 in Gastrosurgery  unit\par
+Diet as tolerated\par
+Care of wound\par
+\par
+\par
+Discharge Medications:-\par
+\lang16393\kerning0 1.T.Xykaa BD 1 g orally two times daily for 5 days(7 am-0-7 pm)\par
+2.T.Hifenac 100 mg orally two times a day for 2 days[10am-0-10pm]\par
+3.T.Pantocid 40 mg orally one time a day for 5 days\par
+\lang1033\kerning1 4.T.Gramocef CV 200mg orally two times a day for 5 more days\par
+5.EZLAX Sachet 2 sachet in one glass of water at bed time for one day\par
+\par
+\pard\hyphpar0\li720\sl100\slmult0\par
+\pard\hyphpar0\sa120\qj\b\i WHEN TO OBTAIN URGENT CARE \par
+In case of any problems like: \par
+\pard\hyphpar0\fi-360\li720\sa120\qj\tx720\b0\i0 1.\tab Fever more than 100 \'b0f \par
+\pard\hyphpar0\fi-360\li720\sa120\qj 2.\tab Signs of infection ( redness, swelling, increased pain , Pus)\par
+3.\tab Nausea , vomiting and inability to keep medicines down\par
+4.\tab Increased pain despite pain medications\par
+5.\tab Uncontrolled loose motion or black stools\par
+\pard\hyphpar0\b\par
+\pard\sa160\sl252\slmult1\lang16393\kerning0\par
+                                                                \par
+Signed by: \par
+\pard\sa200\sl276\slmult1\lang1033 In case of Emergency please contact:\par
+\pard\sa160\sl252\slmult1\lang16393 Helpline No. 0484-2905000                                                          Email: mail@rajagirihospital.com\par
+\pard\lang1033\b0\par
+\par
+\cf1\highlight2\b\i Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f2\fs17\par
+},<Age:60:Age>,<Sex:1:Sex>,2019-02-19 12:57:09.903000000

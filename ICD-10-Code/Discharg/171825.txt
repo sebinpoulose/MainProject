@@ -1,0 +1,93 @@
+171825,74404,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sa160\sl252\slmult1\tx810\tx1170\tx1440\lang16393\kerning2\b\f0\fs40\tab\tab\tab\tab\tab\tab\par
+\pard\sa160\sl252\slmult1\qc\tx810\tx1170\tx1440\ul DEPARTMENT OF PULMONARY MEDICINE\kerning0\par
+\pard\ulnone\b0\fs22\par
+\kerning2\b\fs32                                                 \fs28 Dr. Rajesh V\kerning0\b0\fs22                           \par
+\pard\tx6765\kerning2\b\fs24                                                                 MBBS, MD, DNB, IDCCM\kerning0\b0\fs22             \par
+\kerning2\b\fs24                                                                 Senior Consultant and HOD \kerning0\b0\fs22       \par
+                     \kerning2\b\fs24                                     \kerning0\b0\fs22\par
+\pard\kerning2\b\fs28 Dr. Jolsana Augustine\fs32                    \fs28 Dr. Divya R                     Dr Melcy Cleetus\fs32\par
+\fs24 MBBS, DTCD, DNB                                      MBBS, DTCD, MD               MBBS, DTCD, DNB\par
+Consultant                                                    Consultant                           Junior specialist\par
+                     \fs32     \kerning0\b0\par
+\kerning2\ul\b\fs28 Speciality Clinics\par
+\kerning0\ulnone\b0\fs32\par
+\pard\nowidctlpar\fi-420\li420\lang1033\kerning2\fs24      l \lang16393 Allergy & Immunotherapy Services\b\par
+\pard\nowidctlpar\lang1033\b0      l \lang16393 Sleep Disordered Breathing Clinic\b\par
+\pard\nowidctlpar\fi-420\li420\tx420\lang1033\b0      l \lang16393 Difficult Asthma Clinic\b\par
+\lang1033\b0      l \lang16393 Quit Smoking Clinic\b\par
+\lang1033\b0      l \lang16393 Interventional Pulmonology Services\b\par
+\pard\sa160\sl252\slmult1\kerning0\b0\fs32\par
+\pard\sa200\sl276\slmult1\ul\b\fs24 DRUG ALLERGIES\par
+\ulnone\b0 Not known\lang1033\ul\b\par
+\ulnone\b0\par
+\ul\b DIAGNOSIS\par
+\lang16393\ulnone\b0 Acute bronchitis\par
+History of Seizure disorder \lang1033\ul\b\par
+\b0\par
+\b PRESENTING COMPLAINTS\par
+\lang16393\ulnone\b0 Cough and cold for 1 month\lang1033\ul\par
+\ulnone\par
+\ul\b CLINICAL EXAMINATION\par
+\ulnone\b0 BP       110/70    mm of Hg\tab\tab PR  84   |min regular peripheral pulses present\par
+RR     32/mt                                         SpO2 - 96% on room air\par
+RS    Bilateral scattered rhonchi           \par
+OTHER SYSTEMS - Unremarkable\par
+\par
+\ul\b INVESTIGATIONS\par
+\ulnone\b0 Chest X-ray PA - Increased bronchovascular markings\par
+CBC- Hb - 11.9, TC - 8.5, PLC - 226, ESR - 24\par
+CRP - 3.1, IgE - 472.67\par
+RFT - Urea - 14.98, Creatinine - 0.67\par
+LFT - SGOT - 14, SGPT - 13\par
+Serum electrolytes - Sodium - 136, Potassium - 3.6\par
+FBS - 103, PPBS- , HbA1C - 5.8\par
+Lipid profile - total cholesterol - 199, triglycerides- 79, HDL - 58, LDL - 124. VLDL - 16\par
+TSH - 1.26\par
+IgE - 472.67\par
+\par
+\ul\b COURSE IN HOSPITAL\lang16393\ulnone\b0\par
+\lang1033 Mrs. Bincy Biju, 43 year old lady known case of seizure disorder, presented in Pulmonary Medicine department with complaints of cough and cold for 1 month. Her chest radiograph showed increased bronchovascular markings. She was admitted and treated with IV antibiotics (Piperacillin with Tazobactum and Doxycycline), antiviral (Fluvir), bronchodilators, systemic steroids and other supportive measures. Her baseline blood investigations showed elevated ESR and IgE values. Computed tomography of chest was done which showed minimal atelectatic bands in left lower lobe of lung basal segments. Echocardiogram was done which showed normal left ventricular function and valves. She got better with medication and discharged.\par
+\pard\nowidctlpar\sa200\sl276\slmult1\kerning2 She is stable at discharge and maintaining a saturation of 94% on room air. Pneumococcal vaccine was given at discharge. Influenza vaccine was not given due to non availablity.\lang16393\kerning0\par
+\pard\sa200\sl276\slmult1\lang1033\ul\b\par
+MEDICINE ADMINISTERED\b0\par
+\pard\nowidctlpar\sa200\sl276\slmult1\ulnone 1. Inj. Biopiper TZ 4.5 gm IV every 8th hourly\par
+2. Inj. Difidox 100 mg IV every 12th hourly\par
+3. Inj. Deriphylline 1 cc IV every 8th hourly\par
+4. Inj. Medpred 40 mg IV every 8th hourly\par
+5. Inj. Pantocid 40 mg IV every 24 th hourly\par
+6. Tab. Fluvir 75 mg every 12th hourly\par
+7. Syp. Zerotuss 5 ml every 8th hourly\par
+8. Nebulization Salbair I every 8th hourly\par
+9. Nebulization Budamate every 12th hourly\par
+10. Nasivion nasal drops \par
+\pard\sa200\sl276\slmult1\ul\par
+\pard\sa160\sl252\slmult1\b CONDITION AT THE TIME OF DISCHARGE\par
+\lang16393\ulnone\b0 Stable\lang1033\fs22\par
+\pard\sa200\sl276\slmult1\ul\fs24\par
+\b DISCHARGE MEDICATIONS\par
+\pard\nowidctlpar\sa200\sl276\slmult1\ulnone\b0 1. Cap. Swich CV 325 mg 1-0-1 for 5 days\par
+2. Tab. Doxycycline 100 mg 1-0-1 for 5 days\par
+3. Cap. Abflo 100 mg 1-0-1 for 5 days\par
+4. Cap. Sompraz D 40 mg 1-0-0 for 5 days\par
+5. Tab. Predmet 16 mg 1-0-0 for 5 days\par
+6. Tab. Telekast F 0-0-1 for 5 days\par
+\pard\sa200\sl276\slmult1 7. Inhaler Formoflo 250 mcg 2 puffs twice daily with transpacer followed by mouthwash\par
+8. T. Tegrital CR 400 mg 1-0-1   to continue\par
+9. T. Lonazep 0.5 mg 1-0-1   to continue\ul\par
+\par
+\b DISCHARGE ADVICE\par
+\lang16393\ulnone\b0 Review after 5 days in Pulmonary Medicine OPD with CBC, CRP, LFT and Chest Xray reports\par
+\fs32\par
+\lang1033\ul\b Review appointment with Dr. Divya R\par
+\par
+\par
+\pard\sa160\sl252\slmult1\lang16393\ulnone Signed by: Dr Rajesh V / Dr Jolsana Augustine  / Dr Divya R / Dr Melcy Cleetus\par
+\pard\sa160\qj\ul\fs24 When and how to obtain emergency care\par
+\ulnone\fs22 To report immediate to the emergency medicine department of Rajagiri hospital in case of worsening shortness of breath, intractable cough, fever greater than 100 /F persisting for more than 6 hours, chest pain or haemoptysis.\fs32\par
+\pard\sa200\sl276\slmult1\lang1033\fs24 In case of Emergency please contact:\lang16393 Helpline No. 0484-2905000\b0  \fs28         \lang1033\ul\par
+\pard\sa160\sl252\slmult1\lang16393\ulnone\b\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\b0\fs24\par
+\pard\lang1033\fs28\par
+\cf1\highlight2\b\i\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f1\fs17\par
+},<Age:43:Age>,<Sex:2:Sex>,2019-02-18 10:55:14.180000000

@@ -1,0 +1,66 @@
+227394,74678,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fswiss\fprq2\fcharset0 Consolas;}{\f2\fnil\fcharset0 Calibri;}{\f3\froman\fprq2\fcharset0 Times New Roman;}{\f4\fswiss\fcharset0 Calibri;}{\f5\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sl276\slmult1\qc\ul\b\f0\fs40 Department of Gastroenterology\par
+\pard\sl276\slmult1\fs44\par
+\ulnone\fs28 Dr. Rosh Varghese MD, DM\par
+\b0\fs24 Senior Consultant\par
+Gastroenterology and Hepatology\fs28\par
+\par
+\b Dr. John Menachery MD, DM (HEPATOLOGY)\b0\par
+\fs24 Consultant\par
+Gastroenterology and Hepatology\par
+\par
+\b\fs28 Dr. Neema Renji\par
+\b0\fs24 Junior Resident\par
+Gastroenterology and Hepatology\par
+\fs28\par
+\ul\b\fs24 Diagnosis:\ulnone\b0\par
+Post Corrosive esophageal stricture - Esophageal dilatation done on 19.02.2019 (First session)\par
+\par
+\ul\b History:\ulnone\b0\par
+Mrs. Rosmi Deepak, 26 years, a known case of post corrosive esophageal stricture and gastric body ulcers presented to Gastromedicine unit with complaints od dysphagia. Patient has no complaints of abdominal pain, abdominal distension, nausea, vomiting, gastroesophageal symptoms, fever , gastrointestinal bleed or altered bowel/bladder habits. There is history of anorexia and weight loss. Endoscopy done on 22.01.2019 showed corrosive esophageal stricture at lower third of  esophagus and moderatecorpus gastritis. Patient has no history of drug allergies in the pat. \par
+\par
+\ul\b On Examinations:\ulnone\b0\par
+\lang3081 Patient conscious/oriented \par
+Vitals stable \par
+Afebrile, no  icterus, no pallor, pedal edema or lymphadenopathy\par
+Per Abdomen : soft , no tenderness \par
+Cardio vascular system : S1S2 heard \par
+Central nervous system: No focal neurological deficit\par
+Respiratory system: Normal vesicular breath sounds heard\lang1033\par
+\par
+\ul\b Lab Investigations:\lang3081\ulnone\b0\f1\fs20\line\pard\b 19-02-2019 11:05 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Creatinine                            0.52      mg/dl         0.60 - 1.40\line\b 19-02-2019 11:05 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Blood Routine Examination ( CBC With ESubHead                                     \line Haemoglobin                           12.5      g/dl          11.5 - 14.5         \line TC                                    4.3       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           58        %             40.0 - 70.0         \line Lymphocytes                           33        %             20.0 - 40.0         \line Monocytes                             6         %             2.0 - 10.0          \line Eosinophils                           2         %             1.0 - 6.0           \line Basophils                             1         %             0.0 - 2.0           \line Neutrophils Count                     2.4       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     1.4       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.3       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.1       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             4.6       x10^6/ul      3.8 - 5.3           \line Hct                                   40        %             35.0 - 44.0         \line MCV                                   88        fl            80.0 - 100.0        \line MCH                                   27        pg            27.0 - 32.0         \line MCHC                                  31        g/dl          32.0 - 36.0         \line Platelet                              311       x10^3/ul      150.0 - 450.0       \line RDW                                   14.0      %             10.0 - 16.5         \line MPV                                   8.6       fl            7.5 - 11.5          \line ESR                                   15        mm/hr         0.0 - 20.0\line\b 19-02-2019 11:05 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Electrolytes                                                                      \line Sodium                                135       mEq/L         136.00 - 146.00     \line Potassium                             4.1       mEq/L         3.50 - 5.10\line\b 19-02-2019 11:05 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Test                                  13.4      Seconds       12.0 - 18.0         \line Control                               13.5      Seconds       13.5                \line INR                                   0.99      -             1.0\line\pard\sl276\slmult1\lang1033\f0\fs24\par
+\ul\b Procedures:\ulnone\b0\par
+\b\f2 Endoscopy (19.02.2019) : \b0 Esophageal stricture : Savillary gillard  esophageal dilatation done \par
+\f0\par
+\ul\b IP Medications:\lang3081\b0\f1\fs20\line\pard\ulnone INJ  DNS 500 ML FRESINUS KABI\line INJ  DNS 500ML\line\pard\sl276\slmult1\lang1033\f0\fs24\par
+\ul\b Course in the hospital and Discussion:\ulnone\b0\par
+Mrs. Rosmi Deepak, 26 years, a known case of post corrosive esophageal stricture and gastric body ulcers was admitted for esophageal dilatation. Her routine labs were unremarkable. Endoscopy was done which showed stricture noted at lower third of esophagus- \f2 Savillary gillard \f0  dilatation starting from 5 mm  up to 9 mm done under fluroscopy.  There were no post procedural complications noted and she was gradually started on liquids which was escalated to semisolid diet. Nature of her illness, its prognosis and complications were explained to her relatives, the need for repeat esophageal dilatation explained. She is being discharged in stable condition with following medications and advised to review in Gastromedicine unit after 10 days\par
+\par
+\ul\b Discharge Medications:\ulnone\b0\par
+Razo easy sachet 1-0-1 before food\par
+\par
+\ul\b Advice On Discharge:\ulnone\b0\par
+To review in Gastromedicine unit after 10 days\par
+\par
+\pard\sa200\sl276\slmult1\lang16393\ul\b Condition at the time of discharge:\ulnone\b0\fs22\par
+\pard\sl276\slmult1\lang1033\fs24 She is stable at the time of discharge\par
+\ul\b\par
+Plan on Discharge:\ulnone\b0\par
+Follow up in Gastromediicne unit \par
+\par
+\ul\b Diet:\ulnone\b0\par
+Semisolid diet \par
+\par
+\par
+\b\fs28 Prepared By:\tab\tab\tab Verified By:\par
+\b0 Ms. Salvya Issac                  Dr. Rosh Varghese MD.DM. \par
+\b\f3\fs24\par
+\pard\sa160\qj\lang16393\ul\f0 When and how to obtain emergency care:\ulnone\b0\par
+\b\fs22 To report immediate to the ER of Rajagiri hospital in case of\lang1033\b0\f3\fs24  Dysphagia \par
+\pard\sa200\sl276\slmult1\b\f0 In case of Emergency please contact: \lang16393 Helpline No. 0484-2905000\b0  \fs28         \lang1033\ul\par
+\pard\lang16393\ulnone\b\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\b0\fs18\par
+\pard\sa160\sl252\slmult1\fs22\par
+\cf1\highlight2\b\i\f4 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f0\par
+\pard\f5\fs17\par
+},<Age:26:Age>,<Sex:2:Sex>,2019-02-20 13:22:00.930000000

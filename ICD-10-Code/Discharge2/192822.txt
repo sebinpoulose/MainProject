@@ -1,0 +1,54 @@
+192822,74335,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset0 Calibri;}{\f2\fnil\fcharset0 Times New Roman;}{\f3\fswiss\fprq2\fcharset0 Calibri;}{\f4\froman\fprq2\fcharset0 MS Reference Sans Serif;}{\f5\fswiss\fcharset0 Calibri;}{\f6\fnil\fcharset0 Microsoft Sans Serif;}}
+{\colortbl ;\red0\green0\blue10;\red0\green0\blue0;\red0\green0\blue255;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\nowidctlpar\hyphpar0\cf1\lang255\kerning1\f0\fs24\par
+\pard\nowidctlpar\hyphpar0\sb240\sa160\sl252\slmult1\qc\lang16393\b\f1\fs40 Department of Medical Oncology\lang255\b0\f0\fs24\par
+\cf2\lang16393\b\f2\fs32 Treatment Summary\lang255\b0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\lang16393\b\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\qj\lang9\ul DIAGNOSIS\ulnone :\line\pard\nowidctlpar\sa200\sl276\slmult1\qj\cf0\b0\f0 CARCINOMA BILATERAL BREAST\line\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\qj S/P: Left BCS and Right WLE\cf2\lang16393\b\f2\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\ul DRUG ALLERGY\ulnone :\line\cf0\lang9\kerning0\b0 Allergic to Aspirin, ?Meftal\cf2\lang16393\kerning1\b\par
+\ul CHIEF COMPLAINTS\ulnone :\lang255\b0\line\cf0\lang16393\f0 Mr. Sapna Nalinan, 49-yrs-old female evaluated with left breast lump since 3 months. Mammogram done showed \lang3081\kerning0 Irregular hypoechoic mass lesion measuring 3.1 x 2 cms is seen in the left UOQ, Small hypoechoic deposits are seen extending in a segmental distribution towards the axilla, Intralesional microcalfications and high resistance vascularity is seen.Mixed acoustic characteristics are seen Anteroposterior extension (larger mass with smaller deposits) measures approximately 6 cms Enlarged (> 4 nodes) left level 1 axillary nodes are seen with cortical ballooning. MRI breast done showed Left breast invasive malignancy with diffuse DCIS, Metastatic left axillary nodes- BIRADS 5, Irregular mass lesion infero-central quadrant of the right breast with restricted diffusion and concerning contrast kinetics - BIRADS 4C, Nodular enhancing lesions in close proximity to the above mentioned lesion- These are concerning for neoplasia? DCIS. Biopsy done from right breast reported as \lang16393 atypical ductal hyperplasia. Biopsy from left breast showed Ductal carcinoma in situ (high grade) with suspicious foci of invasion. USG abdomen done was normal. She underwent Left breast conservation surgery and Wide local excision of right breast lump on 25/4/2018. Histopath - Right breast with margins, Microinvasive carcinoma with DCIS ( Nuclear grade III ), pT1Mi Nx and Left Breast conservation surgery done showed Invasive breast carcinoma (NOS,ductal) grade III, with extensive DCIS , pT3 N1a. She is on chemotherapy with Trastuzumab/Docetaxel, post cycle 5 on 10/08/2018. She underwent adjuvant radiation to a dose of 40Gy/15# to left and right breast followed by a boost dose of 12.5Gy/5 # to tumour bed alone  using forward IMRT technique from 22.10.18-30.11.18. Gastromedicine consultation was sought on 15.02.2019 for features of colitis and advice followed.Now admitted for chemotherapy. \cf2\kerning1\ul\b\f2\par
+EXAMINATION\ulnone :\b0  \line Vitals stable\lang255\par
+\lang16393\ul\b PRE CHEMO INVESTIGATIONS\ulnone :\line\b0 Within normal limits\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\qj\lang9\ul\b CHEMOTHERAPY GIVEN\ulnone :\line\pard\hyphpar0\sa200\sl276\slmult1\qj\cf0\f0 CYCLE 10 DAY 1 of Trastuzumab (\lang16393 15/02\lang9 /2019)\line\b0 Inj. HERTRAZ (TRASTUZUMAB) 312 mg in 250 ml NS over 30 min\cf2\lang16393\b\f2\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\qj\lang9\ul DISCHARGE MEDICATIONS\ulnone :\line\b0 Tab CYTOTAM 20 mg 1-0-0 (To continue)\par
+\ul\b REVIEW ON\ulnone\b0 : \line 08/03/2019 with CBC reports\lang16393\b\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\ul CONDITION AT THE TIME OF DISCHARGE\ulnone :\line\b0 Stable\lang255\par
+\cf1\lang16393\ul\b\f1 POST CHEMOTHERAPY INSTRUCTIONS\ulnone :\lang255\b0\f0\par
+\lang16393\b\f1\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\qj\lang9\b0       1. Ask your doctor any doubts regarding disease and treatment.\lang255\f0\par
+\lang9\f1       2. There is no specific diet recommended after chemotherapy.\lang255\f0\par
+\lang9\f1       3. Check blood counts in between and SMS your doctor (if requested).\lang255\f0\par
+\pard\nowidctlpar\hyphpar0\fi-360\li720\sa160\sl252\slmult1\qj\lang9\f1 4. Do blood investigations prior to next cycle of chemotherapy as requested by your doctor.\lang255\f0\par
+\lang9\f1 5. Please inform your regular medications to your doctor.\lang255\f0\par
+\lang9\f1 6. Bring day care chemotherapy card with you.\lang255\f0\par
+\pard\nowidctlpar\hyphpar0\sa200\sl276\slmult1\qj\lang9\f1       7. Avoid over the counter medications/ alternative medicine unless allowed by your doctor.\lang255\f0\par
+\lang9\f1       8. If you develop fever more than or equal to \lang16393 100 F or severe vomiting, tiredness, contact the     \tab hospital/ Doctor immediately\lang255\f0\par
+\lang16393\f1       9. Please have the discharge summary with you when you call your doctor.\lang255\f0\par
+\lang16393\f1       10. Please note down Emergency numbers:\lang255\f0\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qj\lang16393\b\f1\par
+\pard\nowidctlpar\hyphpar0\li720\sa160\sl252\slmult1\qj\par
+Rajagiri Hospital: \i 0484-2905000\i0\tab\tab\lang255\b0\f0\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\qc\lang16393\b\i\f1\fs28\ldblquote Wish you a speedy recovery\rdblquote\lang255\b0\i0\f0\fs24\par
+\pard\nowidctlpar\hyphpar0\sa160\sl252\slmult1\lang16393\f1\fs22 Name and Signature of Consultant\lang255\f0\fs24\par
+\lang16393\f1\fs22\par
+\pard\nowidctlpar\hyphpar0\lang1033\b Dr. Sanju Cyriac, MD (General Medicine), DM (Medical Oncology), DNB\lang255\b0\f0\fs24\par
+\lang1033\f1\fs22 Consultant - Medical Oncology\tab\tab\tab\tab\lang255\f0\fs24\line\lang1033\f1\fs22 Rajagiri Hospital\lang255\f0\fs24\par
+\lang1033\f1\fs22 Phone no: +91 9747880036\tab\lang255\f0\fs24\line\lang1033\f1\fs22 E-Mail: \cf3\ul sanju.cyriac@rajagirihospital.com\cf1\lang255\ulnone\f0\fs24\par
+\lang1033\f1\fs22\par
+\b Dr. Subi T. S., MS (General surgery AIIMS, DELHI), MCh (Surgical Oncology, TATA, MUMBAI)\lang255\b0\f0\fs24\par
+\lang1033\f1\fs22 Consultant - Surgical Oncology\tab\tab\tab\tab\lang255\f0\fs24\line\lang1033\f1\fs22 Rajagiri Hospital\lang255\f0\fs24\par
+\lang1033\f1\fs22 Phone no: +91 8547737149\tab\lang255\f0\fs24\line\lang1033\f1\fs22 E-Mail: \cf3\ul subi.ts@rajagirihospital.com\cf1\lang255\ulnone\f0\fs24\par
+\lang1033\ul\f1\fs22\par
+\ulnone\b Dr. Varun Rajan MD (Internal Medicine), DM (Medical Oncology)\lang255\b0\f0\fs24\line\lang1033\f1\fs22 Consultant - Medical Oncology\tab\tab\tab\tab\lang255\f0\fs24\line\lang1033\f1\fs22 Rajagiri Hospital\lang255\f0\fs24\par
+\lang1033\f1\fs22 E-Mail: \cf3\ul varun.rajan@rajagirihospital.com\cf1\lang255\ulnone\f0\fs24\par
+\line\lang1033\b\f1\fs22 Dr. Rahul Ravind, DMRT, DNB (Radiation Oncology), MNAMS \lang255\b0\f0\fs24\par
+\lang1033\f1\fs22 Consultant \tab\tab\tab\tab\lang255\f0\fs24\line\lang1033\f1\fs22 Rajagiri Hospital\lang255\f0\fs24\par
+\lang1033\f1\fs22 E-Mail: \cf3\ul rahul.ravind@rajagirihospital.com\cf1\lang255\ulnone\f0\fs24\par
+\lang1033\f1\fs22  \lang255\f0\fs24\par
+\pard\cf0\lang1033\kerning2\b\f3\fs22 Ms. Anooja  Jose\b0\par
+Physician Assistant\par
+\pard\nowidctlpar\sa200\sl276\slmult1 Rajagiri Hospital\par
+\pard\nowidctlpar\hyphpar0\cf1\kerning1\f4\fs17\par
+\par
+\pard\cf4\highlight5\kerning0\b\i\f5\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f6\fs17\par
+},<Age:49:Age>,<Sex:2:Sex>,2019-02-15 11:03:33.877000000

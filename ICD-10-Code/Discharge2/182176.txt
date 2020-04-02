@@ -1,0 +1,73 @@
+182176,74548,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fswiss\fcharset0 Calibri;}{\f2\fswiss\fprq2\fcharset0 Consolas;}{\f3\froman\fprq2\fcharset0 Times New Roman;}{\f4\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sa200\sl276\slmult1\lang16393\b\f0\fs32                    Department Of Paediatrics-II and Critical Care\par
+\b0\fs22\par
+\pard\sa200\b                                                                   Dr. Bipin Jose                                                                                            \par
+\pard\sa200\tx6330                                                                   \b0 M.D (AIIMS)\b  ,\b0  MRCPCH(U.K)\b                                                                 \b0     \par
+                                                                  Fellowship in Paediatric Critical Care (U.K)                                       \par
+                                                                  PICU InCharge \par
+                                                                             \par
+\b\par
+\pard\sa200                                                                          CONSULTANTS\par
+Dr. Abdul Tawab C   N                          Dr.Uma Mohandas                                    Dr.Sheju Thomas   \b0                                                                                    \par
+     M.D (Paediatrics)                                   M.D (Paediatrics)                                        M.D (Paediatrics) \par
+\pard\fi720\sa200\b                                                                                                                                      \par
+\pard\sa200\sl276\slmult1\kerning2\f1 Dr. John Thomas C \kerning0\b0\f0                                \kerning2\b\f1 Dr. Najeeba C M\b0  \kerning0\f0                                         \kerning2\b\f1 Dr. Ejas Peer Rahman\kerning0\b0\f0\par
+M.D (Paediatrics)                                   M.D (Paediatrics)                                        M.D (Paediatrics)\par
+\par
+\b Dr. Reshmi Raveendran                        Dr. Keerthi Vijayan\par
+\b0 M.D (Paediatrics)                                    MBBS\par
+                                                                   Junior Resident\par
+\par
+\par
+\par
+\lang1033\ul\b History:\ulnone\b0     \par
+\b 1 year 10 month old male child brought with history of fever for 1 day associated with noisy breathing (present at rest also). H/o decreased oral intake present for 1 day.No h/o difficulty in breathing. H/o pneumonia at 1 year of age present.No other significant history present.\par
+\ul Clinical Examination:\ulnone\b0   \par
+Temp: 98.6F                                  RR: 28/mnt                                     HR: 110/mnt                                \par
+SPO2: 98% at room air                                      BP:90/60 mmHg\par
+Pallor   Cyanosis Lymphadenopathy: Nil\par
+Resp System: Bilateral breath sounds heard equally, B/l wheeze+, no retractions\par
+CVS: S1S2+, No murmur\par
+Abdomen: soft, no organomegaly\par
+CNS: no FND.\par
+\par
+\ul\b Clinical Course:\ulnone\b0      \par
+This child was  admitted with above mentioned complaints.He was given adrenalin nebulization and inj.dexamethasone.His routine blood investigations done showed elevated CRP (21).He was started on syrup azithral,syrup kidpred and other supportive measures.He improved symptomatically and had no further fever spikes or noisy breathing during hospital stay.Hence being discharged with following advices.\par
+\pard\sa200\ul\b Investigation: \ulnone\b0   \par
+\pard\lang3081\f2\fs20\line\line\b 16-02-2019 07:18 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Haemoglobin                           12.2      g/dl          13.0 - 17.0         \line TC                                    13.5      x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           62        %             40.0 - 80.0         \line Lymphocytes                           29        %             20.0 - 40.0         \line Monocytes                             9         %             2.0 - 10.0          \line Eosinophils                           0         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     8.4       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     3.9       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       1.3       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.0       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.1       cells/cumm    0.02 - 0.1          \line RBC Count                             4.9       x10^6/ul      3.8 - 5.3           \line Hct                                   37        %             40.0 - 54.0         \line MCV                                   77        fl            80.0 - 100.0        \line MCH                                   25        pg            27.0 - 32.0         \line MCHC                                  33        g/dl          32.0 - 36.0         \line Platelet                              267       x10^3/ul      150.0 - 450.0       \line RDW                                   14.6      %             10.0 - 16.5         \line MPV                                   8.4       fl            7.5 - 11.5\line\line\par
+\line\line\b 16-02-2019 07:18 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 CRP                                   21.6      mg/L          0.0 - 5.0\line\par
+\line\line\b 16-02-2019 07:18 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 ESR                                   13        mm/hr         0.0 - 15.0\line\par
+\line\line\b 16-02-2019 07:18 PM\b0\line  \b Name                                            Result         Unit               Reference\line\line\b0 Physical Examination                             SubHead                                               \line Colour                                           Pale Yellow                                           \line Appearance                                       Clear                                                 \line Chemical Examination                             SubHead                                               \line Urine Albumin                                    Faint Trace                                           \line Urine Sugar                                      Nil                                                   \line Microscopic Examination                          SubHead                                               \line WBC                                              2              /HPF               0.0 - 5.0           \line RBC                                              3              */HPF               0.0 - 2.0           \line Epithelial Cells                                 3              /HPF               Occasional          \line Cast                                             Nil            /LPF               Nil                 \line Crystal                                          Nil            /HPF               Nil                 \line Bacteria                                         Absent                                                \line Yeast                                            Absent\line\line\par
+\line\line\b 16-02-2019 07:18 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Creatinine                            0.36      mg/dl         0.6 - 1.4\line\par
+\line\line\b 16-02-2019 07:18 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 SGOT/ AST (Serum)                     SubHead                                     \line SGOT                                  46        U/L           10.0 - 37.0\line\line\par
+\line\line\b 16-02-2019 07:18 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 SGPT/ ALT (Serum)                     SubHead                                     \line SGPT                                  26        U/L           30.0 - 65.0\line\line\par
+\line\line\b 16-02-2019 07:18 PM\b0\line\b Name                                  Result     Unit         Reference\line\line\b0 Electrolytes                          SubHead                                     \line Sodium                                137       mEq/L         136.0 - 146.0       \line Potassium                             3.9       mEq/L         3.5 - 5.1\line\line\par
+\pard\sa200\lang1033\ul\b\f0\fs22\par
+\pard\sa200\sl276\slmult1 Anthropometry: \ulnone\b0    \par
+Weight :11.5 kg\par
+\ul\b Reports pending:\ulnone\b0     \par
+\b Nil\par
+\ul Diagnosis:\ulnone\b0      \par
+Moderate croup\par
+\ul\b Condition at Discharge:\ulnone\b0       \par
+\b Stable and active\par
+\ul Discharge Advise:\ulnone\b0   \par
+1. Neb Budesal 1 ml with 3 ml normal saline twice daily x 4 days\par
+2.Syrup Kidpred (1mg/1ml) 5 ml twice daily x 3 more days\par
+3.Syrup Azithral (200/5) 3 ml once daily x 3 more days\par
+Review in pediatric OPD SOS\par
+\par
+\b Prepared By: Dr Nida                                                               Verified By: Dr.Bipin Jose\par
+\b0\par
+\par
+\lang16393\b When & how to obtain urgent care: \lang1033\b0 If  Symptoms Recur\par
+\par
+\par
+Incase of Emergency please contact:\par
+\pard\sa160\sl252\slmult1\lang16393\b\f3 Helpline No. 0484-2905000                                                          Email: mail@rajagirihospital.com\par
+\pard\sa200\sl276\slmult1\lang1033\b0\f0\par
+\pard\sa160\sl252\slmult1\qj\lang16393\b\fs16 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receiver (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\b0\fs12\par
+\pard\lang1033\f4\fs17\par
+\cf1\highlight2\b\i\f1\fs22 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f4\fs17\par
+},<Age:1:Age>,<Sex:1:Sex>,2019-02-18 12:55:54.607000000

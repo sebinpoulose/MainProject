@@ -1,0 +1,53 @@
+90374,74653,{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 ArialBold;}{\f2\fnil\fcharset0 Microsoft Sans Serif;}{\f3\fswiss\fprq2\fcharset0 Consolas;}{\f4\fnil\fcharset0 Calibri;}{\f5\fswiss\fprq2\fcharset0 MS Reference Sans Serif;}{\f6\fswiss\fcharset0 Calibri;}{\f7\fnil\fcharset0 MS Reference Sans Serif;}}
+{\colortbl ;\red40\green40\blue40;\red255\green255\blue255;}
+\viewkind4\uc1\pard\sl252\slmult1\qc\b\f0\fs36\par
+DEPARTMENT OF BARIATRIC SURGERY, GENERAL SURGERY & TRAUMA CARE\par
+\fs28\par
+\pard\sl252\slmult1\fs24 DISCHARGE MODE- NORMAL\par
+\par
+\ul DIAGNOSIS:\ulnone\b0\par
+ALLEGED ASSAULT- FOREHEAD  LACERATED WOUND AND CONTUSION\par
+\par
+\ul\b OPERATIVE PROCEDURE:\ulnone\b0\par
+WOUND DEBRIDMENT AND SUTURING  UNDER LOCAL ANESTHESIA ON 18/2/19\par
+\par
+\ul\b HISTORY:\ulnone\b0\par
+Alleged assault on 18/2/19, head hit against pillar and sustained injury over the forehead region.\par
+\par
+\ul\b CLINICAL EXAMINATION:\par
+\ulnone\b0 Temp:  98.4F         Pulse:   87/min       BP: 110/80mm of Hg\par
+GCS-15/15\par
+Forehead- skull deep lacerated wound and ill defined contusions\par
+\b\par
+\ul INVESTIGATIONS:\ulnone\b0\par
+\pard\lang3081\b\f1 CT BRAIN TRAUMA: 18/2/19\par
+\b0\f2 No significant trauma related intracranial abnormality detected in present study\f3\fs20\line\b 18-02-2019 11:22 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Haemoglobin                           12.4      g/dl          11.5 - 14.5         \line TC                                    5.0       x10^3/ul      4.0 - 11.0          \line Differential Count                    SubHead                                     \line Neutrophils                           43        %             40.0 - 80.0         \line Lymphocytes                           52        %             20.0 - 40.0         \line Monocytes                             4         %             2.0 - 10.0          \line Eosinophils                           1         %             1.0 - 6.0           \line Basophils                             0         %             0.0 - 2.0           \line Neutrophils Count                     2.0       x10^3/ul      2.0 - 7.0           \line Lymphocytes Count                     2.6       x10^3/ul      1.0 - 3.0           \line Monocytes Count                       0.2       x10^3/ul      0.2 - 1.0           \line Eosinophils Count                     0.1       x10^3/ul      0.02 - 0.44         \line Basophils Count                       0.0       cells/cumm    0.02 - 0.1          \line RBC Count                             4.4       x10^6/ul      3.8 - 5.3           \line Hct                                   38        %             40.0 - 54.0         \line MCV                                   86        fl            80.0 - 100.0        \line MCH                                   28        pg            27.0 - 32.0         \line MCHC                                  33        g/dl          32.0 - 36.0         \line Platelet                              215       x10^3/ul      150.0 - 450.0       \line RDW                                   12.7      %             10.0 - 16.5         \line MPV                                   8.4       fl            7.5 - 11.5\b\line\b0 CRP                                   0.6       mg/L          0.00 - 5.00\b\line\b0 Renal Function Test                   SubHead                                     \line Urea                                  23.54     mg/dl         15.0 - 45.0         \line Creatinine                            0.92      mg/dl         0.6 - 1.4\line\b 18-02-2019 11:22 AM\b0\line\b Name                                  Result     Unit         Reference\line\b0 Liver Function Test ( LFT )           SubHead                                     \line Total Bilirubin                       0.3       mg/dl         0.3 - 1.3           \line Direct Bilirubin                      0.1       mg/dl         0.2 - 0.4           \line Indirect Bilirubin                    0.2       mg/dl         0.2 - 0.9           \line SGOT                                  22        U/L           15.0 - 37.0         \line SGPT                                  48        U/L           30.0 - 65.0         \line Alkaline Phosphatase                  99        U/L           50.0 - 136.0        \line Total Protein                         7.6       g/dl          6.0 - 8.0           \line Albumin                               3.8       g/dl          3.4 - 5.0           \line Globulin                              3.9       g/dl          2.0 - 3.5           \line A:G Ratio                             0.97      :1            1.0 - 2.0\b\line\b0 Electrolytes                          SubHead                                     \line Sodium                                138       mEq/L         136.0 - 146.0       \line Potassium                             3.8       mEq/L         3.5 - 5.1\b\line\b0 Test                                  13.1      Seconds       12.0 - 18.0         \line Control                               13.5      Seconds       13.5                \line INR                                   0.96      -             1.0\b\line\b0 HBsAg Card                                       SubHead                                               \line HBsAg                                            Non-Reactive\b\line\b0 HCV Card                                         SubHead                                               \line HCV                                              Non-Reactive\b\line\b0 HIV 1 & 2 CARD                                   SubHead                                               \line HIV 1 & 2                                        Non-Reactive\line Investigation                  Result\line BLOOD GROUP                   ' O '\line Rh TYPE                       POSITIVE\par
+\pard\sl252\slmult1\lang1033\ul\b\f0\fs24 COURSE IN THE HOSPITAL:\ulnone\b0\par
+Patient came to Emergency Department with above history. She underwent wound exploration and suturing under local anesthesia.  CT scan was taken and injury to skull and brain was ruled out. Patient was admitted for observation and pain management.\par
+\par
+\ul\b\f4 CONDITION AT THE TIME OF DISCHARGE:\ulnone\b0\f0\par
+ Patient is hemodynamically stable, tolerating orally, ambulating byself, wound healthy and fit for discharge.\par
+\ul\b MEDICINE ADMINISTERED:\ulnone\b0\par
+\pard\lang3081\f3\fs20 INJ  STAFCURE 1.5MG INJ\line INJ  DOLO INFUSION 1000 MG/100 ML\line TAB  ETOSHINE 60MG TAB\line INJ  PANTOP IV 40MG\line INJ  NORMAL SALINE 100 ML FRESINUS KABI\line INJ  NS INJ 0.9 % 100 ML\line TAB  CHYMORAL FORTE TAB\line\pard\sl252\slmult1\lang1033\ul\b\f0\fs24 DISCHARGE ADVICE:\par
+\ulnone\b0 TAB. STAFCURE CV TWICE A DAY FOR 6DAYS\par
+TAB. ETOSHINE 60MG TWICE A DAY FOR 5 DAYS\par
+TAB. SOMPRAZ 20MG TWICE A DAY FOR 7 DAYS\par
+TAB. CHYMORAL FORTE THRICE A DAY FOR 3 DAYS\par
+\pard\sa200\sl276\slmult1\fs22\par
+\pard\sl252\slmult1\ul\b\fs24 FOLLOW UP:\ulnone\b0\par
+REVIEW ON 27-2-19 IN SURGERY OPD FOR SUTURE REMOVAL\par
+\par
+\b VERIFIED BY:\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab ISSUED BY:\par
+Dr. RAVI KANTH R\par
+MS, FBMS-Fellowship in Bariatric & Metabolic Surgery,\par
+FIAGES, FMAS.\par
+CONSULTANT-BARIATRIC SURGEON\par
+DEPT OF BARIATRIC SURGERY, \par
+GENERAL SURGERY & TRAUMA CARE\par
+\par
+In case of Emergency please contact: \lang16393 Helpline No. 0484-2905000\b0\par
+\b\fs22 Content of the discharge summary will not be changed for any reason once the patient is discharged from the hospital. The receivers (patient/relatives) are requested to go through the details and confirm the accuracy before leaving the hospital.\lang1033\b0\par
+\pard\f5\fs17\par
+\f0\fs22\par
+\cf1\highlight2\b\i\f6 Rajagiri Telemedicine Service\b0  - Video Consult with your doctor,\lang16393  \lang1033 from the comfort of your home, using laptop/Mobile and Internet. To book a tele-consult, e-mail to\lang16393  \ul telemedicine@rajagirihospital.com\cf0\highlight0\lang1033\ulnone\i0\f7\fs17\par
+},<Age:59:Age>,<Sex:2:Sex>,2019-02-19 18:26:33.433000000

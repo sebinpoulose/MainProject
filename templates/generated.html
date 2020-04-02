@@ -1,0 +1,212 @@
+{% extends 'basehome.html' %}
+{% block title %}
+    Graphical Reports home page
+{% endblock title %}
+
+{% block greporthomeblock %}
+   <li><a href="{% url 'greporthomepage' %}">Home</a></li>
+   {% endblock greporthomeblock %}
+{% block testsetblock %}
+   <li><a href="{% url 'testset' %}">Available Tests</a></li>
+   {% endblock testsetblock %}
+{% block bodypart %}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+
+<style>
+
+#app {
+  padding: 1px 0;
+}
+
+.timeline {
+  margin: 50px 0;
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+  text-align: center;
+}
+
+.timeline li {
+  transition: all 200ms ease-in;
+}
+
+.timestamp {
+  width: 200px;
+  margin-bottom: 20px;
+  padding: 0px 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 100;
+}
+
+.status {
+  padding: 0px 40px;
+  display: flex;
+  justify-content: center;
+  border-top: 4px solid #342ff6;
+  position: relative;
+  transition: all 200ms ease-in;
+}
+
+.status span {
+  font-weight: 600;
+  padding-top: 20px;
+}
+
+.status span:before {
+  content: '';
+  width: 25px;
+  height: 25px;
+  background-color: #c9aecd;
+  border-radius: 25px;
+  border: 4px solid #9140c1;
+  position: absolute;
+  top: -15px;
+  left: 42%;
+  transition: all 200ms ease-in;
+}
+
+.swiper-control {
+  text-align: right;
+}
+
+.swiper-container {
+  width: 100%;
+  height: 250px;
+  margin: 50px 0;
+  overflow: hidden;
+  padding: 0 20px 30px 20px;
+}
+
+.swiper-slide {
+  width: 200px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.swiper-slide:nth-child(2n) {
+  width: 40%;
+}
+
+.swiper-slide:nth-child(3n) {
+  width: 20%;
+}
+</style>
+
+<script>
+window.console = window.console || function(t) {};
+</script>
+
+<script>
+if (document.location.search.match(/type=embed/gi)) {
+    window.parent.postMessage("resize", "*");
+}
+</script>
+
+    Current User : {{ user.username }}
+    <h2 style="text-align: center">Graphical Report</h2>
+<h3 style="text-align: center" class="text-black" style="alignment: center">Patient ID : {{ pid }}</h3>
+
+<div id="app" class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="swiper-container swiper-container-horizontal" style="cursor: grab;">
+<p class="swiper-control">
+<button type="button" class="btn btn-default btn-sm prev-slide swiper-button-disabled">Prev</button>
+<button type="button" class="btn btn-default btn-sm next-slide">Next</button></p>
+
+<div class="swiper-wrapper timeline" style="transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+
+{% for elem in data %}
+<div class="swiper-slide" style="width: 282.5px;"><div class="timestamp">
+<span class="date">{{ elem.0 }}<span></span></span></div>
+<div class="status"><span>{{ elem.1 }}</span></div></div>
+{% endfor %}
+
+</div>
+
+</div></div></div></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+<script id="rendered-js">
+const data = [
+{ dateLabel: 'January 2017', title: 'Gathering Information' },
+];
+
+new Vue({
+  el: '#app',
+  data: {
+    steps: data },
+
+  mounted() {
+    var swiper = new Swiper('.swiper-container', {
+      //pagination: '.swiper-pagination',
+      slidesPerView: 4,
+      paginationClickable: true,
+      grabCursor: true,
+      nextButton: '.next-slide',
+      prevButton: '.prev-slide' });
+  } });
+</script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
+<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript"  src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-offset-1 col-md-10">
+
+            <span class="loader pull-right"><span class="loader-inner"></span></span>
+            <hr>
+            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                    {% for test in data %}
+                    <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="heading">
+                        <h4 class="panel-title">
+                            <a style="text-decoration: none" class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.counter }}" aria-expanded="undefined" aria-controls="collapse">
+                                <span style="font-size: medium"> {{ test.1 }}&nbsp;&nbsp;on&nbsp;&nbsp;{{ test.0 }}</span>
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapse{{ forloop.counter }}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading">
+                        <div class="panel-body">
+                            <table>
+                                {% for param in test.2 %}
+                                    <tr>
+                                    {% if param.1|default:""|slice:"-1:" == "H" %}
+                                        <td>  <span style="color: red;font-size: small" >{{ param.0 }} : High &nbsp;&nbsp;&nbsp;</span> </td>
+                                    {% elif param.1|default:""|slice:"-1:" == "L" %}
+                                        <td>  <span style="color: blue;font-size: small">{{ param.0 }} : Low &nbsp;&nbsp;&nbsp;</span> </td>
+                                    {% elif param.1|default:""|slice:"-1:" == "N" %}
+                                        <td> <span style="color: green;font-size: small">{{ param.0 }} : Normal &nbsp;&nbsp;&nbsp;</span> </td>
+                                    {% endif %}
+                                    {% if param.2 != 'nan' %}
+                                        <td> <span style="font-size: small">Result : <b>{{ param.2 }}</b>&nbsp;&nbsp;&nbsp;</span> </td>
+                                    {% if param.3 != 'nan' %}
+                                        <td> <span style="font-size: small">Reference Range : {{ param.3 }}</span> </td>
+                                    {% endif %}
+                                    {% endif %}
+                                    </tr>
+                                {% endfor %}
+                            </table>
+                        </div>
+                    </div>
+                    </div>
+                    {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+ <!--footer-->
+ <div class="footer text-center">
+
+</div>
+    <!--//footer-->
+{% endblock bodypart %}

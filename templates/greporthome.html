@@ -9,35 +9,31 @@
    <li><a href="{% url 'testset' %}">Available Tests</a></li>
    {% endblock testsetblock %}
 {% block bodypart %}
-    Current User : {{ user.first_name }} {{ user.last_name }}
-    <br>
-    {% if loaded_data %}
-    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search Tests" title="Type in a name">
-    {% endif %}
-    <br>
+    Current User : {{ user.username }}
     {{ loaded_data | safe }}
-<script>
-function myFunction() {
-  // Declare variables
-  var input, filter, table, tr, td, i, txtValue;
-  input = document.getElementById("myInput");
-  filter = input.value.toUpperCase();
-  table = document.getElementsByClassName("dataframe")[0];
-  tr = table.getElementsByTagName("tr");
 
-  // Loop through all table rows, and hide those who don't match the search query
-  for (i = 0; i < tr.length; i++) {
-    td = tr[i].getElementsByTagName("td")[0];
-    if (td) {
-      txtValue = td.textContent || td.innerText;
-      if (txtValue.toUpperCase().indexOf(filter) > -1) {
-        tr[i].style.display = "";
-      } else {
-        tr[i].style.display = "none";
-      }
-    }
-  }
-}
+
+<div class="container">
+  <h2>Graphical Report Generator</h2>
+  <p>Type or select a patient ID to generate report :</p>
+  <input class="form-control" id="myInput" type="text" placeholder="Search Patient ID..">
+  <br>
+  <ul class="list-group" id="myList">
+    {% for elem in pids %}
+        <li class="list-group-item"><a href="/greports/generate/?pid={{ elem }}">{{ elem }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<script>
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#myList li").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
 </script>
 
 {% endblock bodypart %}

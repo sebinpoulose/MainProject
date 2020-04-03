@@ -56,7 +56,7 @@ class Mapper():
         self.data = []
         self.query = 'SELECT icd,diagnosis FROM icd_synonym where diagnosis like %s'
         self.retriever_query = 'SELECT max(co),icd,diagnosis FROM icd_synonym where hp = %s'
-        # self.retriever = 'SELECT max(co),icd,diagnosis FROM icd_synonym where  hp = %s'
+        self.retriever = 'SELECT max(co),icd,diagnosis FROM icd_synonym where diagnosis like %s and hp = %s'
         self.database.connect('localhost', 'root', 'root123', 'icd')
         stopword = list(stopwords.words('english'))
         stopword.remove('other')
@@ -109,7 +109,7 @@ class Mapper():
             rdata = "Not Mapped"
             for x in self.data:
                 val = self.matcherRatio(j, x)
-                if val > 0.3:
+                if val > 0.5:
                     if val > maxi:
                         maxi = val
                         ricd = self.icd[i]
@@ -120,39 +120,53 @@ class Mapper():
                 #for x in self.data:
                     print(item," entered the model")
                     hpd = model.get_match([j], 5)
-                    j = j.split(" ")
+
                     max = 0
                     selected = ""
-                    for i in range(len(hpd[0])):
-                        t = ( hpd[0][i][0],)
-                        data = self.database.fetch_data(self.retriever_query, t)
-                        #print(data)
-                        if data[0][0] !=None:
-                            if hpd[0][i][1]*data[0][0] > max:
-                                selected = data
-                                max = hpd[0][i][1]*data[0][0]
+                    # for i in range(len(hpd[0])):
+                    #     t = ( hpd[0][i][0],)
+                    #     data = self.database.fetch_data(self.retriever_query, t)
+                    #     #print(data)
+                    #     if data[0][0] !=None:
+                    #         if hpd[0][i][1]*data[0][0] > max:
+                    #             selected = data
+                    #             max = hpd[0][i][1]*data[0][0]
 
+                    res = []
+                    j = j.split(" ")
+                    for word in j:
+                        for i in range(len(hpd[0])):
+                            t = ('%' + word + '%',hpd[0][i][0],)
+                            print(self.retriever%t)
+                            data = self.database.fetch_data(self.retriever, t)
+                            print(data)
+                            if data[0][0] != None:
+                                if hpd[0][i][1] * data[0][0] > max:
+                                    max = hpd[0][i][1] * data[0][0]
+                                    selected = data
+                                    # res.append(data[0])
+                        if selected!="":
+                            res.append(selected[0])
+                    print("r: ", res)
+                    res.sort()
+                    print(res)
+                    # selected = res[0]
 
-                    # for word in j:
-                    #     for i in range(len(hpd[0])):
-                    #         t = ('%' + word + '%',hpd[0][i][0],)
-                    #         print(self.retriever_query%t)
-                    #         data = self.database.fetch_data(self.retriever_query, t)
-                    #         print(data)
-                    #         if data[0][0] != None:
-                    #             res.append(data[0])
-                    # print("r: ", res)
-                    # res.sort()
-                    # print(res)
-
-
-
-                    if len(selected) == 0:
+                    if len(res) == 0:
                         ricd = "No match"
                         maxi = 0
                     else:
-                        ricd = selected[0][1]
-                        maxi = -1*selected[0][0]
+                        ricd = res[-1][1]
+                        maxi = -1 * res[-1][0]
+
+
+
+                    # if len(selected) == 0:
+                    #     ricd = "No match"
+                    #     maxi = 0
+                    # else:
+                    #     ricd = selected[0][1]
+                    #     maxi = -1*selected[0][0]
             return [(item, ricd), maxi]
         else:
 

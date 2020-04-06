@@ -151,7 +151,7 @@ class Mapper():
 
 if __name__ == "__main__":
     map = Mapper()
-    list = map.map(['Bilateral lower limb pain and ulcer left ankle. History of EVLT bilaterally in 2017.']) #,
+    list = map.map(['Bilateral lower limb pain and ulcer left ankle. History of evlt bilaterally in 2017.']) #,
                     # 'Ischemic heart disease post angioplasty',
                     # 'Thyroidectomy - on replacement',
                     # 'Bilateral vocal cord palsy',

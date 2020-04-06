@@ -25,6 +25,10 @@ class myThread(threading.Thread):
         self.diagnosis = diagnosis
         self.count = 0
         self.error = 0
+        self.same_category = 0
+        self.right = 0
+        self.predicted_icd =[]
+
         self.invalid_count = 0
     def run(self):
         starttime = datetime.now()
@@ -35,17 +39,45 @@ class myThread(threading.Thread):
             list.append(map.map(x))
         for i in list:
             print(i)
-        for i in range(len(list)):
-            true_icd = results[i][1]
-            predicted_icd = [x[1][:3]+'.'+x[1][3:4] for x in list[i] if len(x[1])>3 and x[1]!="Invalid"]
-            self.count+=len(true_icd)
-            self.error+= len(set(predicted_icd)-set(true_icd))
+        # for i in range(len(list)):
+        #     true_icd = results[i][1]
+        #     predicted_icd = [x[1][:3]+'.'+x[1][3:4] for x in list[i] if len(x[1])>3 and x[1]!="Invalid"]
+        #     self.count+=len(true_icd)
+        #     self.error+= len(set(predicted_icd)-set(true_icd))
 
-            print("True : ",true_icd,"\t","Predicted : ",predicted_icd,"Error:",set(predicted_icd)-set(true_icd))
-        print("Total Diagnosis: ",self.count,"\nTotal Errors: ",self.error)
-        print("Accuracy:",(self.count-self.error)/self.count)
+        self.output()
+
+
+
+        print("Total Diagnosis: ",self.count,"\nTotal Errors: ",self.count - self.right)
+        print("Same category:",self.same_category)
+        print("Accuracy:",self.right/self.count)
         print("Runtime : ", datetime.now() - starttime)
 
+
+    def output(self):
+        # same_category = []
+        for i in range(len(list)):
+            true_icd = results[i][1]
+            for diagnosis in true_icd:
+                for x in list[i]:
+                    y = x[1]
+                    if x[1] != "Invalid":
+                        if len(x[1]) > 3:
+                            y = x[1][:3] + '.' + x[1][3:4]
+                            self.predicted_icd.append(y)
+                        else:
+                            self.predicted_icd.append(y)
+                    if diagnosis == y:
+                        self.right+=1
+                    elif diagnosis[:3] == y[:3]:
+                        self.same_category += 1
+
+            print("True : ", true_icd, "\t", "Predicted : ", self.predicted_icd, "Error:",
+                  set(self.predicted_icd) - set(true_icd))
+            self.count += len(true_icd)
+
+            # self.error += len(set(predicted_icd) - set(true_icd))
 
 
 class Mapper():
@@ -109,7 +141,7 @@ class Mapper():
             rdata = "Not Mapped"
             for x in self.data:
                 val = self.matcherRatio(j, x)
-                if val > 0.5:
+                if val > 0.1:
                     if val > maxi:
                         maxi = val
                         ricd = self.icd[i]
@@ -134,7 +166,7 @@ class Mapper():
 
                     res = []
                     j = j.split(" ")
-                    for word in j:
+                    for word in wordsList:
                         for i in range(len(hpd[0])):
                             t = ('%' + word + '%',hpd[0][i][0],)
                             print(self.retriever%t)

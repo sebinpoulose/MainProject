@@ -59,21 +59,23 @@ class myThread(threading.Thread):
         # same_category = []
         for i in range(len(list)):
             true_icd = results[i][1]
-            for diagnosis in true_icd:
-                for x in list[i]:
-                    y = x[1]
-                    if x[1] != "Invalid":
-                        if len(x[1]) > 3:
-                            y = x[1][:3] + '.' + x[1][3:4]
-                            self.predicted_icd.append(y)
-                        else:
-                            self.predicted_icd.append(y)
+            self.predicted_icd.clear()
+            for x in list[i]:
+
+                y = x[1]
+                if x[1] != "Invalid":
+                    if len(x[1]) > 3:
+                        y = x[1][:3] + '.' + x[1][3:4]
+
+                    self.predicted_icd.append(y)
+                for diagnosis in true_icd:
                     if diagnosis == y:
                         self.right+=1
                     elif diagnosis[:3] == y[:3]:
                         self.same_category += 1
 
-            print("True : ", true_icd, "\t", "Predicted : ", self.predicted_icd, "Error:",
+
+            print("True : ", true_icd, "\t", "Predicted : ", set(self.predicted_icd), "Error:",
                   set(self.predicted_icd) - set(true_icd))
             self.count += len(true_icd)
 
@@ -141,7 +143,7 @@ class Mapper():
             rdata = "Not Mapped"
             for x in self.data:
                 val = self.matcherRatio(j, x)
-                if val > 0.1:
+                if val > 0.5:
                     if val > maxi:
                         maxi = val
                         ricd = self.icd[i]
@@ -150,6 +152,13 @@ class Mapper():
             print("val:",ricd,rdata)
             if ricd == "Ambiguous":
                 #for x in self.data:
+                    token = nltk.word_tokenize(j)
+                    tag = nltk.pos_tag(token)
+                    print("tag:",tag)
+                    noun = [" "]
+                    nouns = [x[0] for x in tag if x[1] not in ["CD","IN","TO",":","DT","CC"]]
+                    print("nouns:",nouns)
+                    j = " ".join(nouns)
                     print(item," entered the model")
                     hpd = model.get_match([j], 5)
 
@@ -229,21 +238,27 @@ class Mapper():
                 if len(mapp) == 1:
                     self.result.append(mapp[0][0])
                 print("mapp",mapp)
+                highest = -1
+                selected = ""
                 for m in mapp:
-                    if " and " in m[0][0]:      # Only considers the case where there is only one "and" in
-                        if m[1] < 0:            # the diagnosis. In such case there is only 3 possible
-                            checker = 0         # diagnosis. If the diagnosis containing "and" was passed to
-                                                # the model ,then the other two diagnosis are different diagnosis
-                                                # else we take the diagnosis containing "and". [185-198]
-                        else:
-                            self.result.append(m[0])
-                        break
-                if not checker:
-                    for element in mapp:
-                        if " and " in element[0][0]:
-                            pass
-                        else:
-                            self.result.append(element[0])
+                    if m[1] > highest:
+                        highest = m[1]
+                        selected = m[0]
+                if highest > 0:
+                    if "and" not in selected:
+                        for m in mapp:
+                            if "and" not in m[0]:
+                                self.result.append(m[0])
+                    else:
+                        self.result.append(selected)
+                else:
+                    if "and" in selected:
+                        for m in mapp:
+                            if "and" not in m[0]:
+                                self.result.append(m[0])
+                    else:
+                        self.result.append(selected)
+
 
             else:
                 res = self.mapd(item)
@@ -262,10 +277,10 @@ if __name__ == "__main__":
         results = []
         for x in f:
             c += 1
-            # if c == 6:
-            #     break
+            if c == 6:
+                break
             element = x.split(",")
-            results.append(["C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\MainProject\\ICD-10-Code\\Discharge2\\"+element[0]+".txt",[x.strip("\n").strip(" ").strip('"') for x in element[2:]]])
+            results.append(["C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\MainProject\\ICD-10-Code\\Discharg\\"+element[0]+".txt",[x.strip("\n").strip(" ").strip('"') for x in element[2:]]])
             print(c,":",element[0])
             print("result:",results)
     extractor = Extractor([x[0] for x in results])

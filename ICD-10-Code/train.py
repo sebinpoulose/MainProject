@@ -4,7 +4,7 @@ import numpy as np
 import os
 from onto import Ontology
 import json
-import fastText
+import fasttext
 import pickle 
 import tensorflow as tf
 import accuracy
@@ -71,6 +71,7 @@ def main():
 
   raw_data = []
   labels = []
+  negative_samples = ""
   for c in ont.concepts:
     for name in ont.names[c]:
       raw_data.append(name)
@@ -159,9 +160,9 @@ def main():
         res = model.get_match(list(samples.keys()), 5)
         missed = [x for i,x in enumerate(samples) if samples[x] not in [r[0] for r in res[i]]]
         print("R@5: "+ str((len(samples)-len(missed))/len(samples)))
-    if epoch%5==0 and epoch>0: 
-        for x in model.get_match('blood examination', 5):
-            print(x[0], (ont.names[x[0]] if x[0]!='None' else x[0]), x[1])
+    # if epoch%5==0 and epoch>0:
+    #     for x in model.get_match('blood examination', 5):
+    #         print(x[0], (ont.names[x[0]] if x[0]!='None' else x[0]), x[1])
 
   
   save_ont_and_args(ont, args, param_dir)

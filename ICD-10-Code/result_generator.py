@@ -175,7 +175,7 @@ class Mapper():
 
                     res = []
                     j = j.split(" ")
-                    for word in wordsList:
+                    for word in j:
                         for i in range(len(hpd[0])):
                             t = ('%' + word + '%',hpd[0][i][0],)
                             print(self.retriever%t)
@@ -277,10 +277,9 @@ if __name__ == "__main__":
         results = []
         for x in f:
             c += 1
-            if c == 6:
-                break
+            # if c 7
             element = x.split(",")
-            results.append(["C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\MainProject\\ICD-10-Code\\Discharg\\"+element[0]+".txt",[x.strip("\n").strip(" ").strip('"') for x in element[2:]]])
+            results.append(["C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\MainProject\\ICD-10-Code\\Discharge2\\"+element[0]+".txt",[x.strip("\n").strip(" ").strip('"') for x in element[2:]]])
             print(c,":",element[0])
             print("result:",results)
     extractor = Extractor([x[0] for x in results])

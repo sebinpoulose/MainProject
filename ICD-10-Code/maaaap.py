@@ -23,6 +23,8 @@ class Mapper():
         self.icd = []
         self.data = []
         self.query = 'SELECT icd,diagnosis FROM icd_synonym where diagnosis like %s'
+        self.retriever_query = 'SELECT max(co),icd,diagnosis FROM icd_synonym where hp = %s'
+        self.retriever = 'SELECT max(co),icd,diagnosis FROM icd_synonym where diagnosis like %s and hp = %s'
         self.database.connect('localhost', 'root', 'root123', 'icd')
         stopword = list(stopwords.words('english'))
         stopword.remove('other')
@@ -81,38 +83,68 @@ class Mapper():
                         ricd = self.icd[i]
                         rdata = x
                 i += 1
+            print("val:",ricd,rdata)
             if ricd == "Ambiguous":
                 #for x in self.data:
-                    hpd = model.get_match([j], 3)
-                    # print(hpd)
-                    # print(type(hpd[0][0][0]))
-                    # print(type(hpd[0][0][1].item()))
-                    hpx = model.get_match(self.data, 3)
-                    # print(hpx)
-                    # print(j)
-                    # print(hpd[0][0][0])
-                    fl = 1
-                    hpt = ("Ambiguous","Ambiguous")
-                    large = 0
-                    point = 0
-                    while hpd[0][point][0] == "None":
-                        point = point + 1
-                    for hi in range(len(hpx)):
-                        if hpx[hi][0][0] == hpd[0][point][0]:
-                            # print(self.data[hi], self.icd[hi], hpx[hi][0][1])
-                            if fl:
-                                large = hpx[hi][0][1]
-                                hpt = (self.data[hi], self.icd[hi])
-                                fl = 0
-                            elif large < hpx[hi][0][1]:
-                                large = hpx[hi][0][1]
-                                hpt = (self.data[hi], self.icd[hi])
+                    token = nltk.word_tokenize(j)
+                    tag = nltk.pos_tag(token)
+                    print("tag:",tag)
+                    noun = [" "]
+                    nouns = [x[0] for x in tag if x[1] not in ["CD","IN","TO",":","DT","CC"]]
+                    print("nouns:",nouns)
+                    j = " ".join(nouns)
+                    print(item," entered the model")
+                    hpd = model.get_match([j], 5)
 
-                    # print(hpt[0]+":"+hpt[1])
-                    # print(large)
-                    ricd = hpt[1]
+                    max = 0
+                    selected = ""
+                    # for i in range(len(hpd[0])):
+                    #     t = ( hpd[0][i][0],)
+                    #     data = self.database.fetch_data(self.retriever_query, t)
+                    #     #print(data)
+                    #     if data[0][0] !=None:
+                    #         if hpd[0][i][1]*data[0][0] > max:
+                    #             selected = data
+                    #             max = hpd[0][i][1]*data[0][0]
+
+                    res = []
+                    j = j.split(" ")
+                    for word in j:
+                        for i in range(len(hpd[0])):
+                            t = ('%' + word + '%',hpd[0][i][0],)
+                            print(self.retriever%t)
+                            data = self.database.fetch_data(self.retriever, t)
+                            print(data)
+                            if data[0][0] != None:
+                                if hpd[0][i][1] * data[0][0] > max:
+                                    max = hpd[0][i][1] * data[0][0]
+                                    selected = data
+                                    # res.append(data[0])
+                        if selected!="":
+                            res.append(selected[0])
+                    print("r: ", res)
+                    res.sort()
+                    print(res)
+                    # selected = res[0]
+
+                    if len(res) == 0:
+                        ricd = "No match"
+                        maxi = 0
+                    else:
+                        ricd = res[-1][1]
+                        maxi = -1 * res[-1][0]
+
+
+
+                    # if len(selected) == 0:
+                    #     ricd = "No match"
+                    #     maxi = 0
+                    # else:
+                    #     ricd = selected[0][1]
+                    #     maxi = -1*selected[0][0]
             return [(item, ricd), maxi]
         else:
+
             return [(item, "Invalid"), 0]
 
     def map(self, diagnosis):#diagnosis :- list of diagnosis
@@ -123,26 +155,49 @@ class Mapper():
                 sub = item.split(" and ")
                 l_sub = len(sub)
                 j = l_sub
-                dia = []
+                dia = sub
                 mapp = []
                 for i in range(0, l_sub):
-                    for l in range(0, i + 1):
-                        tem_d = sub[l]
-                        for k in range(l + 1, l + j):
-                            tem_d = tem_d + " and " + sub[k]
-                        dia.append(tem_d)
-                    j = j - 1
+                    for j in range(i+2,l_sub+1):
+                        dia.append(" and ".join(sub[i:j]))
+                    # for l in range(i, l_sub):
+                        # tem_d = sub[l]
+                        # for k in range(l + 1, l + j):
+                    # tem_d = tem_d + " and " + sub[k]
+                    # dia.append(tem_d)
+                    # j = j - 1
                 for d in dia:
                     mapp.append(self.mapd(d))
-                maxx = -1
+                checker = 1
+                if len(mapp) == 1:
+                    self.result.append(mapp[0][0])
+                print("mapp",mapp)
+                highest = -1
+                selected = ""
                 for m in mapp:
-                    if m[1] > maxx:
-                        maxx = m[1]
-                        tem_res = m[0]
-                self.result.append(tem_res)
+                    if m[1] > highest:
+                        highest = m[1]
+                        selected = m[0]
+                if highest > 0:
+                    if "and" not in selected:
+                        for m in mapp:
+                            if "and" not in m[0]:
+                                self.result.append(m[0])
+                    else:
+                        self.result.append(selected)
+                else:
+                    if "and" in selected:
+                        for m in mapp:
+                            if "and" not in m[0]:
+                                self.result.append(m[0])
+                    else:
+                        self.result.append(selected)
+
+
             else:
                 res = self.mapd(item)
                 self.result.append(res[0])
+        print("result:",self.result)
         return self.result
 
     def matcherRatio(self, item, x):
@@ -151,15 +206,15 @@ class Mapper():
 
 if __name__ == "__main__":
     map = Mapper()
-    list = map.map(['Bilateral lower limb pain and ulcer left ankle. History of evlt bilaterally in 2017.']) #,
-                    # 'Ischemic heart disease post angioplasty',
-                    # 'Thyroidectomy - on replacement',
-                    # 'Bilateral vocal cord palsy',
+    # list = map.map(['Bilateral lower limb pain and ulcer left ankle. History of evlt bilaterally in 2017.']) #,
+    #                 # 'Ischemic heart disease post angioplasty',
+    #                 # 'Thyroidectomy - on replacement',
+    #                 # 'Bilateral vocal cord palsy',
                     # 'Hypertension',
                     # 'Steroid induced hyperglycemia',
                     # 'Chronic obstructive pulmonary disease',
                     # 'Chronic kidney disease',
                     # 'Gastroesophageal reflux disease - large hiatus hernia',
-                    # 'Lower respiratory tract infection'])
-    for i in list:
-        print(i)
+    #                 # 'Lower respiratory tract infection'])
+    # for i in list:
+    #     print(i)

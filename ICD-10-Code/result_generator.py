@@ -9,8 +9,8 @@ from datetime import datetime
 
 
 tf.enable_eager_execution()
-param_dir = "C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\ncr_hpo_params\\model_params"
-word_model_file = "C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\ncr_hpo_params\\model_params\\pmc_model_new.bin"
+param_dir = "C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\ncr_hpo_params\\params"
+word_model_file = "C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\ncr_hpo_params\\params\\pmc_model_new.bin"
 model = ncrmodel.NCR.loadfromfile(param_dir, word_model_file)
 
 #nltk.download('stopwords')
@@ -39,11 +39,6 @@ class myThread(threading.Thread):
             list.append(map.map(x))
         for i in list:
             print(i)
-        # for i in range(len(list)):
-        #     true_icd = results[i][1]
-        #     predicted_icd = [x[1][:3]+'.'+x[1][3:4] for x in list[i] if len(x[1])>3 and x[1]!="Invalid"]
-        #     self.count+=len(true_icd)
-        #     self.error+= len(set(predicted_icd)-set(true_icd))
 
         self.output()
 
@@ -61,17 +56,11 @@ class myThread(threading.Thread):
             true_icd = results[i][1]
             self.predicted_icd.clear()
             for x in list[i]:
-
-                y = x[1]
-                if x[1] != "Invalid":
-                    if len(x[1]) > 3:
-                        y = x[1][:3] + '.' + x[1][3:4]
-
-                    self.predicted_icd.append(y)
+                self.predicted_icd.append(x[1])
                 for diagnosis in true_icd:
-                    if diagnosis == y:
-                        self.right+=1
-                    elif diagnosis[:3] == y[:3]:
+                    if diagnosis == x[1]:
+                        self.right += 1
+                    elif diagnosis[:3] == x[1][:3]:
                         self.same_category += 1
 
 
@@ -143,71 +132,27 @@ class Mapper():
             rdata = "Not Mapped"
             for x in self.data:
                 val = self.matcherRatio(j, x)
-                if val > 0.5:
+                if val > 0.1:
                     if val > maxi:
                         maxi = val
-                        ricd = self.icd[i]
+                        if len(self.icd[i]) > 3:
+                            ricd = self.icd[i][:3]+'.'+self.icd[i][3:4]
+                        else:
+                            ricd = self.icd[i]
                         rdata = x
                 i += 1
             print("val:",ricd,rdata)
             if ricd == "Ambiguous":
-                #for x in self.data:
-                    token = nltk.word_tokenize(j)
-                    tag = nltk.pos_tag(token)
-                    print("tag:",tag)
-                    noun = [" "]
-                    nouns = [x[0] for x in tag if x[1] not in ["CD","IN","TO",":","DT","CC"]]
-                    print("nouns:",nouns)
-                    j = " ".join(nouns)
-                    print(item," entered the model")
-                    hpd = model.get_match([j], 5)
-
-                    max = 0
-                    selected = ""
-                    # for i in range(len(hpd[0])):
-                    #     t = ( hpd[0][i][0],)
-                    #     data = self.database.fetch_data(self.retriever_query, t)
-                    #     #print(data)
-                    #     if data[0][0] !=None:
-                    #         if hpd[0][i][1]*data[0][0] > max:
-                    #             selected = data
-                    #             max = hpd[0][i][1]*data[0][0]
-
-                    res = []
-                    j = j.split(" ")
-                    for word in j:
-                        for i in range(len(hpd[0])):
-                            t = ('%' + word + '%',hpd[0][i][0],)
-                            print(self.retriever%t)
-                            data = self.database.fetch_data(self.retriever, t)
-                            print(data)
-                            if data[0][0] != None:
-                                if hpd[0][i][1] * data[0][0] > max:
-                                    max = hpd[0][i][1] * data[0][0]
-                                    selected = data
-                                    # res.append(data[0])
-                        if selected!="":
-                            res.append(selected[0])
-                    print("r: ", res)
-                    res.sort()
-                    print(res)
-                    # selected = res[0]
-
-                    if len(res) == 0:
-                        ricd = "No match"
-                        maxi = 0
+                hpd = model.get_match(j, 1)
+                if hpd[0][0] != None:
+                    if len(hpd[0][0]) > 3:
+                        ricd = hpd[0][0][:3] +'.'+ hpd[0][0][4:]
                     else:
-                        ricd = res[-1][1]
-                        maxi = -1 * res[-1][0]
+                        ricd = hpd[0][0]
+                    maxi = hpd[0][1]
 
 
 
-                    # if len(selected) == 0:
-                    #     ricd = "No match"
-                    #     maxi = 0
-                    # else:
-                    #     ricd = selected[0][1]
-                    #     maxi = -1*selected[0][0]
             return [(item, ricd), maxi]
         else:
 
@@ -235,8 +180,8 @@ class Mapper():
                 for d in dia:
                     mapp.append(self.mapd(d))
                 checker = 1
-                if len(mapp) == 1:
-                    self.result.append(mapp[0][0])
+                # if len(mapp) == 1:
+                #     self.result.append(mapp[0][0])
                 print("mapp",mapp)
                 highest = -1
                 selected = ""
@@ -277,7 +222,8 @@ if __name__ == "__main__":
         results = []
         for x in f:
             c += 1
-            # if c 7
+            # if c==7:
+            #     break
             element = x.split(",")
             results.append(["C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\MainProject\\ICD-10-Code\\Discharge2\\"+element[0]+".txt",[x.strip("\n").strip(" ").strip('"') for x in element[2:]]])
             print(c,":",element[0])

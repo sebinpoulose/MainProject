@@ -5,8 +5,8 @@ import ncrmodel
 import tensorflow as tf
 # print("entered maaaqaapppppp")
 tf.enable_eager_execution()
-param_dir = "C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\ncr_hpo_params\\model_params"
-word_model_file = "C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\ncr_hpo_params\\model_params\\pmc_model_new.bin"
+param_dir = "C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\ncr_hpo_params\\params"
+word_model_file = "C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\ncr_hpo_params\\params\\pmc_model_new.bin"
 model = ncrmodel.NCR.loadfromfile(param_dir, word_model_file)
 
 #nltk.download('stopwords')
@@ -49,7 +49,7 @@ class Mapper():
         tagged = nltk.pos_tag(wordsList)  # tagging for words
         c = 0
         for i in wordsList:
-            if len(i) != 1:  #and tagged[c][1] != 'JJ':#i not in self.stopwordsearch:
+            if len(i) != 1:  # and tagged[c][1] != 'JJ':#i not in self.stopwordsearch:
                 if flag:
                     flag = 0
                 else:
@@ -77,71 +77,25 @@ class Mapper():
             rdata = "Not Mapped"
             for x in self.data:
                 val = self.matcherRatio(j, x)
-                if val > 0.5:
+                if val > 0.1:
                     if val > maxi:
                         maxi = val
-                        ricd = self.icd[i]
+                        if len(self.icd[i]) > 3:
+                            ricd = self.icd[i][:3] + '.' + self.icd[i][3:4]
+                        else:
+                            ricd = self.icd[i]
                         rdata = x
                 i += 1
-            print("val:",ricd,rdata)
+            print("val:", ricd, rdata)
             if ricd == "Ambiguous":
-                #for x in self.data:
-                    token = nltk.word_tokenize(j)
-                    tag = nltk.pos_tag(token)
-                    print("tag:",tag)
-                    noun = [" "]
-                    nouns = [x[0] for x in tag if x[1] not in ["CD","IN","TO",":","DT","CC"]]
-                    print("nouns:",nouns)
-                    j = " ".join(nouns)
-                    print(item," entered the model")
-                    hpd = model.get_match([j], 5)
-
-                    max = 0
-                    selected = ""
-                    # for i in range(len(hpd[0])):
-                    #     t = ( hpd[0][i][0],)
-                    #     data = self.database.fetch_data(self.retriever_query, t)
-                    #     #print(data)
-                    #     if data[0][0] !=None:
-                    #         if hpd[0][i][1]*data[0][0] > max:
-                    #             selected = data
-                    #             max = hpd[0][i][1]*data[0][0]
-
-                    res = []
-                    j = j.split(" ")
-                    for word in j:
-                        for i in range(len(hpd[0])):
-                            t = ('%' + word + '%',hpd[0][i][0],)
-                            print(self.retriever%t)
-                            data = self.database.fetch_data(self.retriever, t)
-                            print(data)
-                            if data[0][0] != None:
-                                if hpd[0][i][1] * data[0][0] > max:
-                                    max = hpd[0][i][1] * data[0][0]
-                                    selected = data
-                                    # res.append(data[0])
-                        if selected!="":
-                            res.append(selected[0])
-                    print("r: ", res)
-                    res.sort()
-                    print(res)
-                    # selected = res[0]
-
-                    if len(res) == 0:
-                        ricd = "No match"
-                        maxi = 0
+                hpd = model.get_match(j, 1)
+                if hpd[0][0] != None:
+                    if len(hpd[0][0]) > 3:
+                        ricd = hpd[0][0][:3] + '.' + hpd[0][0][4:]
                     else:
-                        ricd = res[-1][1]
-                        maxi = -1 * res[-1][0]
+                        ricd = hpd[0][0]
+                    maxi = hpd[0][1]
 
-
-
-                    # if len(selected) == 0:
-                    #     ricd = "No match"
-                    #     maxi = 0
-                    # else:
-                    #     ricd = selected[0][1]
-                    #     maxi = -1*selected[0][0]
             return [(item, ricd), maxi]
         else:
 
@@ -169,8 +123,8 @@ class Mapper():
                 for d in dia:
                     mapp.append(self.mapd(d))
                 checker = 1
-                if len(mapp) == 1:
-                    self.result.append(mapp[0][0])
+                # if len(mapp) == 1:
+                #     self.result.append(mapp[0][0])
                 print("mapp",mapp)
                 highest = -1
                 selected = ""
@@ -197,7 +151,7 @@ class Mapper():
             else:
                 res = self.mapd(item)
                 self.result.append(res[0])
-        print("result:",self.result)
+        # print("result:",self.result)
         return self.result
 
     def matcherRatio(self, item, x):

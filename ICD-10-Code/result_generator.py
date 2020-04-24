@@ -132,7 +132,7 @@ class Mapper():
             rdata = "Not Mapped"
             for x in self.data:
                 val = self.matcherRatio(j, x)
-                if val > 0.1:
+                if val > 1:
                     if val > maxi:
                         maxi = val
                         if len(self.icd[i]) > 3:

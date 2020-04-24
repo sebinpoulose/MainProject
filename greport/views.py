@@ -4,7 +4,7 @@ from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
 import pandas as pd
 from .loader import get_data_object
-# Create your views here.
+from .graph_maker import make_graph, make_trend
 
 
 def greport_login(request):
@@ -50,3 +50,18 @@ def gen_report(request):
     data = get_data_object(int(request.GET['pid']))
     context = {'pid': request.GET['pid'], 'data': data}
     return render(request, "generated.html", context)
+
+
+@login_required(login_url='/greports/login/')
+def gen_graph(request):
+    make_graph(int(request.GET['pid']))
+    context = {}
+    return render(request, "report.html", context)
+
+
+@login_required(login_url='/greports/login/')
+def one_graph(request):
+    pid = request.GET['pid']
+    testname = request.GET['testname']
+    make_trend(pid, testname)
+    return render(request, "report.html", {})

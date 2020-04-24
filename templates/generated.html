@@ -1,6 +1,6 @@
 {% extends 'basehome.html' %}
 {% block title %}
-    Graphical Reports home page
+    Graphical Report
 {% endblock title %}
 
 {% block greporthomeblock %}
@@ -107,7 +107,7 @@ if (document.location.search.match(/type=embed/gi)) {
 </script>
 
     Current User : {{ user.username }}
-    <h2 style="text-align: center">Graphical Report</h2>
+    <h2 style="text-align: center">Patient Report</h2>
 <h3 style="text-align: center" class="text-black" style="alignment: center">Patient ID : {{ pid }}</h3>
 
 <div id="app" class="container">
@@ -125,10 +125,9 @@ if (document.location.search.match(/type=embed/gi)) {
 <span class="date">{{ elem.0 }}<span></span></span></div>
 <div class="status"><span>{{ elem.1 }}</span></div></div>
 {% endfor %}
-
 </div>
-
 </div></div></div></div>
+<a href="/greports/generate/graph/?pid={{ pid }}" style="font-size: medium;text-align: center;display: block">View Graphical Report</a>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
 <script id="rendered-js">
@@ -175,7 +174,7 @@ new Vue({
                             </a>
                         </h4>
                     </div>
-                    <div id="collapse{{ forloop.counter }}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading">
+                    <div id="collapse{{ forloop.counter }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading">
                         <div class="panel-body">
                             <table>
                                 {% for param in test.2 %}
@@ -195,6 +194,15 @@ new Vue({
                                     {% endif %}
                                     </tr>
                                 {% endfor %}
+                                    <tr>
+                                        <td>
+                                            <span style="font-size: small">
+                                                <a href="/greports/generate/onegraph/?pid={{ pid }}&testname={{ test.1 }}">View Graph/Trend</a>
+                                            </span>
+                                        </td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
                             </table>
                         </div>
                     </div>
@@ -206,7 +214,6 @@ new Vue({
 </div>
  <!--footer-->
  <div class="footer text-center">
-
 </div>
     <!--//footer-->
 {% endblock bodypart %}

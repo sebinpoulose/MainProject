@@ -1,7 +1,7 @@
 {% extends 'basehome.html' %}
 {% load widget_tweaks %}
 {% block title %}
-    ICD Mapper home page
+    ICD Mapper Storage
 {% endblock title %}
 {% block greporthomeblock %}
    <li><a href="{% url 'icdmapperhomepage' %}">Home</a></li>
@@ -14,8 +14,6 @@
 <h2>File List</h2>
 <div style="text-align: center;">
     <div style="display: inline-block; text-align: left;">
-
-
     <form method="post" action="{% url 'loadstorage' %}">
      {% csrf_token %}
 <table border="1" colspan="1" width="100%">
@@ -33,23 +31,15 @@
 
 {% if result %}
     <h4>RESULTS</h4>
-    {% for key,value in result.items %}
-        Filename : {{ key }}
-        <table>
-            <tr>
-                <th>Diagnosis</th>
-                <th>ICD-10 Code</th>
-            </tr>
-        {% for elem in value %}
-                <tr>
-                <td><b>{{ elem.0 }}</b></td>
-                <td><b>{{ elem.1 }}</b></td>
-                </tr>
+    {% for key, value in result.items %}
+            <b>File name : {{ key }}</b>
+        <br>
+            {% for elem in value %}
+                <b>{{ elem.0 }}</b> - <b>{{ elem.1 }}</b>
+                <br>
+            {% endfor %}
+        <br>
         {% endfor %}
-        </table>
-    {% endfor %}
 {% endif %}
-
-
     </center>
 {% endblock bodypart %}

@@ -7,11 +7,10 @@
    <li><a href="{% url 'icdmapperhomepage' %}">Home</a></li>
    {% endblock greporthomeblock %}
 {% block testsetblock %}
-   <li><a href="{% url 'icdset' %}">ICD-10 Codes Lookup</a></li>
+
    {% endblock testsetblock %}
 {% block bodypart %}
-    Current User : {{ user.first_name }} {{ user.last_name }}
-    <br>
+    Current User :  {{ user.username }}
     <form method="post" novalidate action="{% url 'icdmapperhomepage' %}">
   {% csrf_token %}
 
@@ -57,8 +56,9 @@
     </form>
     <center>
     {% if answer %}
-        {% for elem in answer %}
-            Diagnosis : <b>{{ elem.0 }}</b> ICD-10 Code :  <b>{{ elem.1 }}</b>
+        {% for val in answer %}
+            Diagnosis   : <b>{{ val.0 }}</b>  &nbsp;&nbsp;  ICD 10 Code : <b>{{ val.1 }}</b>
+            <br>
         {% endfor %}
     {% endif %}
     <hr>
@@ -75,21 +75,13 @@
         <p>File uploaded : {{ url }}</p>
     {% endif %}
     {% if result %}
-        <h4>RESULTS</h4>
-        <table>
-            <tr>
-                <th>Diagnosis</th>
-                <th>ICD-10 Code</th>
-            </tr>
-        {% for key,val in result.items %}
-            {% for elem in val %}
-                <tr>
-                <td><b>{{ elem.0 }}</b></td>
-                <td><b>{{ elem.1 }}</b></td>
-                </tr>
+        {% for key, value in result.items %}
+            <h4>RESULTS</h4>
+            {% for elem in value %}
+                <b>{{ elem.0 }}</b> - <b>{{ elem.1 }}</b>
+                <br>
             {% endfor %}
         {% endfor %}
-        </table>
     {% endif %}
     <hr>
     <br>

@@ -10,7 +10,7 @@ urlpatterns = [
     path("logout/", views.logout_request, name="logout"),
     path("icdupload/", views.upload_file, name="icdupload"),
     path("loadstorage/", views.loadstorage, name="loadstorage"),
-    path("icdset/", views.icdset, name="icdset"),
+    path("about/", views.about, name="about"),
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

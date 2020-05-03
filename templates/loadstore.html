@@ -1,4 +1,5 @@
 {% extends 'basehome.html' %}
+{% load static %}
 {% load widget_tweaks %}
 {% block title %}
     ICD Mapper Storage
@@ -12,17 +13,13 @@
 {% block bodypart %}
 <center>
 <h2>File List</h2>
-<div style="text-align: center;">
-    <div style="display: inline-block; text-align: left;">
-    <form method="post" action="{% url 'loadstorage' %}">
+<div style="text-align: center;width: max-content">
+    <div style="display: inline-block; text-align: left;width: max-content">
+    <form method="post" action="{% url 'loadstorage' %}" style="width: inherit">
      {% csrf_token %}
-<table border="1" colspan="1" width="100%">
  {% for file in total_files %}
-   <tr>
   <input type="checkbox" name="userselect" value="{{ file }}">{{ file }}<br>
-   </tr>
  {% endfor %}
-</table>
     </div>
 </div>
 <br>
@@ -31,15 +28,22 @@
 
 {% if result %}
     <h4>RESULTS</h4>
-    {% for key, value in result.items %}
-            <b>File name : {{ key }}</b>
-        <br>
-            {% for elem in value %}
-                <b>{{ elem.0 }}</b> - <b>{{ elem.1 }}</b>
-                <br>
-            {% endfor %}
-        <br>
+     {% for key,value in result.items %}
+         <b>Filename : {{ key }}</b>
+        <table>
+            <tr>
+                <th>Diagnosis</th>
+                <th>ICD-10 Code</th>
+            </tr>
+        {% for elem in value %}
+                <tr>
+                <td><b>{{ elem.0 }}</b></td>
+                <td><b>{{ elem.1 }}</b></td>
+                </tr>
         {% endfor %}
+        </table>
+    {% endfor %}
 {% endif %}
     </center>
+    <link rel="stylesheet" href="{% static '/css/table.css' %}">
 {% endblock bodypart %}

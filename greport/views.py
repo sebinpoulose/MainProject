@@ -3,7 +3,7 @@ from django.http import *
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
 import pandas as pd
-from .loader import get_data_object
+from .loader import get_data_object, dataloader
 from .graph_maker import make_graph, make_trend
 
 
@@ -24,10 +24,14 @@ def login_user(request):
     return render(request, 'greportlogin.html', {'valid': False})
 
 
+def about(request):
+    return render(request, "about.html")
+
+
 @login_required(login_url='/greports/login/')
 def homepage(request):
-    df = pd.read_csv("./media/Lab-Results-07112019.csv")
-    pids = set(df['PatientID'].tolist())
+    df = dataloader()
+    pids = df['PatientID'].unique()
     return render(request, "greporthome.html", {'pids': pids})
 
 

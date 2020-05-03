@@ -7,9 +7,7 @@ import greport.loader as loader
 
 def make_graph(pid):
     a = loader.get_data_object(pid)
-    df = pd.read_csv("./media/Lab-Results-07112019.csv", header=0,
-                     names=['PatientID', 'TestName', 'ParameterName', 'Result',
-                            'ResultDatetime', 'Normal', 'ReferenceRange'])
+    df = loader.dataloader()
     df = df.loc[df['PatientID'] == pid]
     df = df[df['ParameterName'] != 'Comment']
     df = df[df['Result'] != 'Subhead']
@@ -55,29 +53,28 @@ def make_graph(pid):
 def make_trend(pid, testname):
     global title
     title = ""
-    df = pd.read_csv("./media/Lab-Results-07112019.csv", header=0,
-                     names=['PatientID', 'TestName', 'ParameterName', 'Result',
-                            'ResultDatetime', 'Normal', 'ReferenceRange'])
+    df = loader.dataloader()
     df = df.loc[df['PatientID'] == int(pid)]
     df = df.loc[df['TestName'] == testname]
     df = df[df['ParameterName'] != 'Comment']
     df = df[df['ParameterName'] != 'Comment:']
     df = df[df['Result'] != 'Subhead']
     df = df[df['Result'] != 'SubHead']
-    df = df.sort_values('Normal', ascending=False)
-    color = []
-    for ele in df['Normal']:
-        if ele == "N":
-            color.append("green")
-        elif ele == "H":
-            color.append("red")
-        else:
-            color.append("blue")
+
     if len(df['ResultDatetime'].unique()) > 1:
         title += "Trend for "+testname
         data = []
         for elem in df['ResultDatetime'].unique():
             temp = df.loc[df['ResultDatetime'] == elem]
+            temp = temp.sort_values('Normal')
+            color = []
+            for ele in temp['Normal']:
+                if ele == "N":
+                    color.append("green")
+                elif ele == "H":
+                    color.append("red")
+                else:
+                    color.append("blue")
             data.append(
                     go.Bar(name=elem, x=temp['ParameterName'], y=temp['Result'],
                            text=temp['Result'], textposition='auto', width=0.3,
@@ -86,6 +83,15 @@ def make_trend(pid, testname):
         fig = go.Figure(data=data)
         fig.update_layout(barmode='group')
     else:
+        df = df.sort_values('Normal')
+        color = []
+        for ele in df['Normal']:
+            if ele == "N":
+                color.append("green")
+            elif ele == "H":
+                color.append("red")
+            else:
+                color.append("blue")
         title += "Graph for "+testname+" on "+df['ResultDatetime'].unique()[0]
         dateandhour = df['ParameterName']
         values = df['Result']

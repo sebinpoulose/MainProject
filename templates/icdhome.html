@@ -1,4 +1,5 @@
 {% extends 'basehome.html' %}
+{% load static %}
 {% load widget_tweaks %}
 {% block title %}
     ICD Mapper home page
@@ -56,10 +57,21 @@
     </form>
     <center>
     {% if answer %}
+        <br>
+        <br>
+        <b>RESULTS</b>
+        <table>
+            <tr>
+                <th>Diagnosis</th>
+                <th>Mapped ICD-10 Code</th>
+            </tr>
         {% for val in answer %}
-            Diagnosis   : <b>{{ val.0 }}</b>  &nbsp;&nbsp;  ICD 10 Code : <b>{{ val.1 }}</b>
-            <br>
+            <tr>
+                <td>{{ val.0 }}</td>
+                <td>{{ val.1 }}</td>
+            </tr>
         {% endfor %}
+        </table>
     {% endif %}
     <hr>
     <br>
@@ -67,21 +79,29 @@
     <br>
     <form method="post" enctype="multipart/form-data" action="{% url 'icdupload' %}">
     {% csrf_token %}
-    <input type="file" name="document">
+    <input type="file" name="document" required>
     <button type="submit" class="btn btn-primary" >Upload a File</button>
     </form>
     {% if url %}
         <br>
-        <p>File uploaded : {{ url }}</p>
+        <p><b>File uploaded : {{ url }}</b></p>
     {% endif %}
     {% if result %}
-        {% for key, value in result.items %}
-            <h4>RESULTS</h4>
-            {% for elem in value %}
-                <b>{{ elem.0 }}</b> - <b>{{ elem.1 }}</b>
-                <br>
+        <h4>RESULTS</h4>
+        <table>
+            <tr>
+                <th>Diagnosis</th>
+                <th>Mapped ICD-10 Code</th>
+            </tr>
+        {% for key,val in result.items %}
+            {% for elem in val %}
+                <tr>
+                <td><b>{{ elem.0 }}</b></td>
+                <td><b>{{ elem.1 }}</b></td>
+                </tr>
             {% endfor %}
         {% endfor %}
+        </table>
     {% endif %}
     <hr>
     <br>
@@ -90,6 +110,10 @@
     <br>
     <a class="btn btn-primary" href="{% url 'loadstorage' %}">Load files from Storage</a>
     </center>
+
+
+    <link rel="stylesheet" href="{% static '/css/table.css' %}">
+
 {% endblock bodypart %}
 <br>
 <br>

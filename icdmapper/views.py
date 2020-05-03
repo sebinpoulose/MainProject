@@ -8,7 +8,7 @@ from django.core.files.storage import FileSystemStorage
 import pandas as pd
 import sys
 sys.path.insert(2, 'C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\MainProject\\ICD-10-Code\\')
-from maaaap import Mapper
+from Mapper import Mapper
 from Extractor import Extractor
 
 obj = Mapper()

@@ -26,6 +26,10 @@ class myThread(threading.Thread):
         self.count = 0
         self.error = 0
         self.same_category = 0
+        self.same_division = 0
+        self.checkpoint = 100
+        self.flag = 1
+        self.tracker = 0
         self.right = 0
         self.predicted_icd =[]
 
@@ -46,6 +50,7 @@ class myThread(threading.Thread):
 
         print("Total Diagnosis: ",self.count,"\nTotal Errors: ",self.count - self.right)
         print("Same category:",self.same_category)
+        print("Same division:",self.same_division)
         print("Accuracy:",self.right/self.count)
         print("Runtime : ", datetime.now() - starttime)
 
@@ -64,8 +69,27 @@ class myThread(threading.Thread):
                         self.same_category += 1
 
 
+
+
+
             print("True : ", true_icd, "\t", "Predicted : ", set(self.predicted_icd), "Error:",
                   set(self.predicted_icd) - set(true_icd))
+            true_icd.sort()
+            self.predicted_icd.sort()
+            i=0
+            j=0
+            while(i<len(true_icd) and j<len(self.predicted_icd)):
+                if true_icd[i][0] == self.predicted_icd[j][0]:
+                    i+=1
+                    j+=1
+                    self.same_division+=1
+                elif true_icd[i][0] > self.predicted_icd[j][0]:
+                    while(j<len(self.predicted_icd) and true_icd[i][0] > self.predicted_icd[j][0]):
+                        j+=1
+                else:
+                    while (i<len(true_icd) and true_icd[i][0] < self.predicted_icd[j][0]):
+                        i += 1
+
             self.count += len(true_icd)
 
             # self.error += len(set(predicted_icd) - set(true_icd))
@@ -132,7 +156,7 @@ class Mapper():
             rdata = "Not Mapped"
             for x in self.data:
                 val = self.matcherRatio(j, x)
-                if val > 1:
+                if val > 0:
                     if val > maxi:
                         maxi = val
                         if len(self.icd[i]) > 3:

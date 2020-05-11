@@ -80,7 +80,7 @@ class Mapper():
                 if val > 0.1:
                     if val > maxi:
                         maxi = val
-                        if len(self.icd[i]) > 3:
+                        if len(self.icd[i]) > 3 and len(self.icd[i]) != 7:
                             ricd = self.icd[i][:3] + '.' + self.icd[i][3:4]
                         else:
                             ricd = self.icd[i]
@@ -90,7 +90,7 @@ class Mapper():
             if ricd == "Ambiguous":
                 hpd = model.get_match(j, 1)
                 if hpd[0][0] != None:
-                    if len(hpd[0][0]) > 3:
+                    if len(hpd[0][0]) > 3 and len(hpd[0][0]) !=7 :
                         ricd = hpd[0][0][:3] + '.' + hpd[0][0][4:]
                     else:
                         ricd = hpd[0][0]
@@ -160,7 +160,7 @@ class Mapper():
 
 if __name__ == "__main__":
     map = Mapper()
-    # list = map.map(['Bilateral lower limb pain and ulcer left ankle. History of evlt bilaterally in 2017.']) #,
+    list = map.map(['phenotypic abormality','Eye abnormality','cancer','retinal abnormality','retinal neoplasm']) #,
     #                 # 'Ischemic heart disease post angioplasty',
     #                 # 'Thyroidectomy - on replacement',
     #                 # 'Bilateral vocal cord palsy',

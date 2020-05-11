@@ -8,7 +8,7 @@ from MainProject import settings
 from .forms import CutpasteForm
 import pandas as pd
 import sys
-sys.path.insert(2, 'C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\MainProject\\ICD-10-Code\\')
+sys.path.insert(2, os.getcwd()+'\\ICD-10-Code\\')
 from Mapper import Mapper
 from Extractor import Extractor
 

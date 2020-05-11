@@ -3,10 +3,11 @@ from nltk.corpus import stopwords
 import nltk
 import ncrmodel
 import tensorflow as tf
+import sys
 # print("entered maaaqaapppppp")
 tf.enable_eager_execution()
-param_dir = "C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\ncr_hpo_params\\params"
-word_model_file = "C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\ncr_hpo_params\\params\\pmc_model_new.bin"
+param_dir = sys.argv[2]
+word_model_file = param_dir + "\\pmc_model_new.bin"
 model = ncrmodel.NCR.loadfromfile(param_dir, word_model_file)
 
 #nltk.download('stopwords')
@@ -22,10 +23,10 @@ class Mapper():
         self.result = []
         self.icd = []
         self.data = []
-        self.query = 'SELECT icd,diagnosis FROM icd_synonym where diagnosis like %s'
-        self.retriever_query = 'SELECT max(co),icd,diagnosis FROM icd_synonym where hp = %s'
-        self.retriever = 'SELECT max(co),icd,diagnosis FROM icd_synonym where diagnosis like %s and hp = %s'
-        self.database.connect('localhost', 'root', 'root123', 'icd')
+        self.query = 'SELECT icd,diagnosis FROM icd_synonym where diagnosis like ?'
+        self.retriever_query = 'SELECT max(co),icd,diagnosis FROM icd_synonym where hp = ?'
+        self.retriever = 'SELECT max(co),icd,diagnosis FROM icd_synonym where diagnosis like ? and hp = ?'
+        self.database.connect()
         stopword = list(stopwords.words('english'))
         stopword.remove('other')
         stopword.extend(['-?','-'])
@@ -160,7 +161,7 @@ class Mapper():
 
 if __name__ == "__main__":
     map = Mapper()
-    list = map.map(['phenotypic abormality','Eye abnormality','cancer','retinal abnormality','retinal neoplasm']) #,
+    list = map.map(["heart attack"])#['phenotypic abormality'],'Eye abnormality','cancer','retinal abnormality','retinal neoplasm']) #,
     #                 # 'Ischemic heart disease post angioplasty',
     #                 # 'Thyroidectomy - on replacement',
     #                 # 'Bilateral vocal cord palsy',

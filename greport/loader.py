@@ -1,5 +1,27 @@
 import pandas as pd
 from datetime import datetime as time
+import glob
+
+
+def dataloader():
+    list_of_dataframes = []
+    list_of_files = glob.glob("./media/reports/*.csv")
+    for file in list_of_files:
+        frame = pd.read_csv(file, header=0,
+                            names=['PatientID', 'TestName', 'ParameterName', 'Result',
+                                   'ResultDatetime', 'Normal', 'ReferenceRange'])
+        list_of_dataframes.append(frame)
+    list_of_files = glob.glob("./media/reports/*.xlsx")
+    for file in list_of_files:
+        frame = pd.read_excel(file, header=1, converters={'ResultDatetime': pd.to_datetime},
+                              names=['PatientID', 'TestName', 'ParameterName', 'Result',
+                                     'ResultDatetime', 'Normal', 'ReferenceRange'])
+        frame['ResultDatetime'] = frame['ResultDatetime'].dt.strftime('%m-%d-%y %H:%M')
+        #list_of_dataframes.append(frame)
+    df = pd.concat(list_of_dataframes, axis=0, ignore_index=True)
+    # todo duplicate drop
+    df.drop_duplicates(inplace=True, keep="first")
+    return df
 
 
 def mod_time_and_sort(dat):
@@ -26,14 +48,13 @@ def mod_time_and_sort(dat):
 
 
 def get_data_object(pid):
-    df = pd.read_csv("./media/Lab-Results-07112019.csv", header=0,
-                     names=['PatientID', 'TestName', 'ParameterName', 'Result',
-                            'ResultDatetime', 'Normal', 'ReferenceRange'])
+    df = dataloader()
     df = df.loc[df['PatientID'] == pid]
     df = df[df['ParameterName'] != 'Comment']
     df = df[df['Result'] != 'Subhead']
     df = df[df['Result'] != 'SubHead']
     df['Result'] = df['Result'].astype(str)
+    df['ResultDatetime'] = df['ResultDatetime'].astype(str)
     df['ReferenceRange'] = df['ReferenceRange'].astype(str)
     df['ParameterName'] = df[['ParameterName', 'Normal', 'Result',
                               'ReferenceRange']].agg('$'.join, axis=1)

@@ -1,24 +1,23 @@
 import os
-
 from django.shortcuts import render, redirect
 from django.http import *
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
 from django.core.files.storage import FileSystemStorage
+from MainProject import settings
+from .forms import CutpasteForm
 import pandas as pd
 import sys
 sys.path.insert(2, 'C:\\Users\\sadiq naizam\\Desktop\\python_workspace\\MainProject\\ICD-10-Code\\')
-from maaaap import Mapper
+from Mapper import Mapper
 from Extractor import Extractor
 
 obj = Mapper()
 
-from MainProject import settings
-from .forms import CutpasteForm
-
-
 # Create your views here.
-
+def about(request):
+    return render(request, "about.html")
+    
 
 def icdmapper_login(request):
     return render(request, "icdmapperlogin.html", {})
@@ -39,11 +38,7 @@ def login_user(request):
 
 def logout_request(request):
     logout(request)
-    # return render(request, "Home_page.html", {})
     return redirect("home")
-
-#def get_icd(request,data):
-#    return request(request,'icdhome.html',{'diagnosis':data})
 
 
 @login_required(login_url='/icdmapper/login/')
@@ -62,22 +57,21 @@ def homepage(request):
     return render(request, 'icdhome.html', {'form': form})
 
 
+@login_required(login_url='/icdmapper/login/')
 def upload_file(request):
     if request.method == 'POST':
         uploaded_file = request.FILES['document']
-        # print(uploaded_file.name)
         fs = FileSystemStorage()
         name = fs.save(uploaded_file.name, uploaded_file)
         url = '/icdmapper'
         url = "."+fs.url(name)  # url to the file
-        print(url)
         ext = Extractor([url])
         data = ext.getalldiagnosis()
         #answer = [data[x] for x in data]
         final_result = {}
         for key,value in data.items():
             final_result[key] = obj.map(value)
-        print(final_result)
+        #print(final_result)
         form = CutpasteForm()
         context = {
             'form': form,
@@ -89,27 +83,25 @@ def upload_file(request):
     return render(request, 'icdhome.html', {'form': form})
 
 
+@login_required(login_url='/icdmapper/login/')
 def loadstorage(request):
     if request.method == 'POST':
         filenames = request.POST.getlist('userselect')
         for i in range(len(filenames)):
-            filenames[i]="./media/"+filenames[i]
-        print(filenames)
+            filenames[i]="./media/icdmapper_files/"+filenames[i]
+        #print(filenames)
         ext = Extractor(filenames)
         data = ext.getalldiagnosis()
         # answer = [data[x] for x in data]
-        final_result = {}
+        result = {}
         for key, value in data.items():
-            final_result[key] = obj.map(value)
-        print(final_result)
-
-
-        result = str(filenames)
+            result[key] = obj.map(value)
+        #print(final_result)
         return render(request, 'loadstore.html',
-                      {'total_files': os.listdir(settings.MEDIA_ROOT), 'path': settings.MEDIA_ROOT,
-                       'result': final_result})
+                      {'total_files': os.listdir(settings.MEDIA_ROOT+"\\icdmapper_files\\"), 'path': settings.MEDIA_ROOT,
+                       'result': result})
     return render(request, 'loadstore.html',
-                  {'total_files': os.listdir(settings.MEDIA_ROOT), 'path': settings.MEDIA_ROOT})
+                  {'total_files': os.listdir(settings.MEDIA_ROOT+"\\icdmapper_files\\"), 'path': settings.MEDIA_ROOT})
 
 
 def icdset(request):

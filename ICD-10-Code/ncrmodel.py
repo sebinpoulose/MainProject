@@ -118,7 +118,6 @@ class NCR():
     print(word_model_file)
 
     ont = pickle.load(open(param_dir+'/ont.pickle', "rb"))
-    print("hello chidori")
 
     class Config(object):
       def __init__(self, d):

@@ -61,7 +61,7 @@ def homepage(request):
 def upload_file(request):
     if request.method == 'POST':
         uploaded_file = request.FILES['document']
-        fs = FileSystemStorage()
+        fs = FileSystemStorage(location="./media/icdmapper_files")
         name = fs.save(uploaded_file.name, uploaded_file)
         url = '/icdmapper'
         url = "."+fs.url(name)  # url to the file

@@ -98,10 +98,10 @@ def loadstorage(request):
             result[key] = obj.map(value)
         #print(final_result)
         return render(request, 'loadstore.html',
-                      {'total_files': os.listdir(settings.MEDIA_ROOT+"\\icdmapper_files\\"), 'path': settings.MEDIA_ROOT,
+                      {'total_files': os.listdir(settings.MEDIA_ROOT+"\icdmapper_files\\"), 'path': settings.MEDIA_ROOT,
                        'result': result})
     return render(request, 'loadstore.html',
-                  {'total_files': os.listdir(settings.MEDIA_ROOT+"\\icdmapper_files\\"), 'path': settings.MEDIA_ROOT})
+                  {'total_files': os.listdir(settings.MEDIA_ROOT+"\icdmapper_files\\"), 'path': settings.MEDIA_ROOT})
 
 
 def icdset(request):

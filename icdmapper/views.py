@@ -8,7 +8,7 @@ from MainProject import settings
 from .forms import CutpasteForm
 import pandas as pd
 import sys
-sys.path.insert(2, os.getcwd()+'\\ICD-10-Code\\')
+sys.path.insert(2, os.getcwd()+'/ICD-10-Code/')
 from Mapper import Mapper
 from Extractor import Extractor
 
@@ -98,10 +98,10 @@ def loadstorage(request):
             result[key] = obj.map(value)
         #print(final_result)
         return render(request, 'loadstore.html',
-                      {'total_files': os.listdir(settings.MEDIA_ROOT+"\icdmapper_files\\"), 'path': settings.MEDIA_ROOT,
+                      {'total_files': os.listdir(settings.MEDIA_ROOT+"/icdmapper_files/"), 'path': settings.MEDIA_ROOT,
                        'result': result})
     return render(request, 'loadstore.html',
-                  {'total_files': os.listdir(settings.MEDIA_ROOT+"\icdmapper_files\\"), 'path': settings.MEDIA_ROOT})
+                  {'total_files': os.listdir(settings.MEDIA_ROOT+"/icdmapper_files/"), 'path': settings.MEDIA_ROOT})
 
 
 def icdset(request):

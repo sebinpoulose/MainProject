@@ -63,7 +63,7 @@ def upload_file(request):
         uploaded_file = request.FILES['document']
         fs = FileSystemStorage(location="./media/icdmapper_files")
         name = fs.save(uploaded_file.name, uploaded_file)
-        url = './icdmapper/media/icdmapper_files/'+uploaded_file.name
+        url = './media/icdmapper_files/'+uploaded_file.name
         #url = fs.url(name)  # url to the file
         ext = Extractor([url])
         data = ext.getalldiagnosis()

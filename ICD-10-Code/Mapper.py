@@ -7,8 +7,8 @@ import os
 import sys
 # print("entered maaaqaapppppp")
 tf.enable_eager_execution()
-param_dir = os.getcwd()+"\\ICD-10-Code\\params"
-word_model_file = param_dir + "\\pmc_model_new.bin"
+param_dir = os.getcwd()+"/ICD-10-Code/params"
+word_model_file = param_dir + "/pmc_model_new.bin"
 model = ncrmodel.NCR.loadfromfile(param_dir, word_model_file)
 
 #nltk.download('stopwords')

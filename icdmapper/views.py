@@ -8,7 +8,7 @@ from MainProject import settings
 from .forms import CutpasteForm
 import pandas as pd
 import sys
-sys.path.insert(2, os.getcwd()+'\\ICD-10-Code\\')
+sys.path.insert(2, os.getcwd()+'/ICD-10-Code/')
 from Mapper import Mapper
 from Extractor import Extractor
 
@@ -61,10 +61,10 @@ def homepage(request):
 def upload_file(request):
     if request.method == 'POST':
         uploaded_file = request.FILES['document']
-        fs = FileSystemStorage()
+        fs = FileSystemStorage(location="./media/icdmapper_files")
         name = fs.save(uploaded_file.name, uploaded_file)
-        url = '/icdmapper'
-        url = "."+fs.url(name)  # url to the file
+        url = './media/icdmapper_files/'+uploaded_file.name
+        #url = fs.url(name)  # url to the file
         ext = Extractor([url])
         data = ext.getalldiagnosis()
         #answer = [data[x] for x in data]
@@ -98,10 +98,10 @@ def loadstorage(request):
             result[key] = obj.map(value)
         #print(final_result)
         return render(request, 'loadstore.html',
-                      {'total_files': os.listdir(settings.MEDIA_ROOT+"\\icdmapper_files\\"), 'path': settings.MEDIA_ROOT,
+                      {'total_files': os.listdir(settings.MEDIA_ROOT+"/icdmapper_files/"), 'path': settings.MEDIA_ROOT,
                        'result': result})
     return render(request, 'loadstore.html',
-                  {'total_files': os.listdir(settings.MEDIA_ROOT+"\\icdmapper_files\\"), 'path': settings.MEDIA_ROOT})
+                  {'total_files': os.listdir(settings.MEDIA_ROOT+"/icdmapper_files/"), 'path': settings.MEDIA_ROOT})
 
 
 def icdset(request):
